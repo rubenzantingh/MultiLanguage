@@ -1,0 +1,7 @@
+## Interface: 100200
+## Title: MultiLanguage
+## Author: Ruben Zantingh
+## Version: 1.0
+
+Database/Classic/quests.lua
+MultiLanguage.lua

@@ -1,43 +1,12 @@
-local questTranslationFrame = CreateFrame("Frame", "QuestTranslationFrame", nil, BackdropTemplateMixin and "BackdropTemplate")
-questTranslationFrame:SetWidth(QuestLogFrame:GetWidth())
-questTranslationFrame:SetBackdrop({
-	bgFile = "Interface/Tooltips/UI-Tooltip-Background",
-	edgeFile = "Interface/Tooltips/UI-Tooltip-Border",
-	edgeSize = 16,
-	insets = { left = 4, right = 4, top = 4, bottom = 4 },
-})
-questTranslationFrame:SetBackdropColor(0, 0, 0, 1)
-
-local questTranslationFramePrimaryHeader = questTranslationFrame:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
-questTranslationFramePrimaryHeader:SetTextScale(1.3)
-questTranslationFramePrimaryHeader:SetWidth(questTranslationFrame:GetWidth() - 20)
-questTranslationFramePrimaryHeader:SetWordWrap(true)
-questTranslationFramePrimaryHeader:SetJustifyH("LEFT")
-
-local questTranslationFrameSecondaryHeader = questTranslationFrame:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
-questTranslationFrameSecondaryHeader:SetTextScale(1.3)
-questTranslationFrameSecondaryHeader:SetWidth(questTranslationFrame:GetWidth() - 20)
-questTranslationFrameSecondaryHeader:SetWordWrap(true)
-questTranslationFrameSecondaryHeader:SetJustifyH("LEFT")
-
-local questTranslationFramePrimaryText = questTranslationFrame:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
-questTranslationFramePrimaryText:SetWidth(questTranslationFrame:GetWidth() - 20)
-questTranslationFramePrimaryText:SetWordWrap(true)
-questTranslationFramePrimaryText:SetJustifyH("LEFT")
-
-local questTranslationFrameSecondaryText = questTranslationFrame:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
-questTranslationFrameSecondaryText:SetWidth(questTranslationFrame:GetWidth() - 20)
-questTranslationFrameSecondaryText:SetWordWrap(true)
-questTranslationFrameSecondaryText:SetJustifyH("LEFT")
-
 local lastQuestFrameEvent = nil
-
 local addonName, addonTable = ...
+local translationFrame = CreateFrame("Frame")
 
-local function GetQuestDataByID(questId)
-    if addonTable.questData then
-        if addonTable.questData[questId] then
-            return addonTable.questData[questId]
+local function GetDataByID(dataType, dataId)
+    if addonTable[dataType] then
+        local convertedId = tonumber(dataId)
+        if addonTable[dataType][convertedId] then
+            return addonTable[dataType][convertedId]
         end
     end
 
@@ -45,14 +14,14 @@ local function GetQuestDataByID(questId)
 end
 
 local function SetQuestDetails(headerText, objectiveText, descriptionHeader, descriptionText, parentFrame, yOffset, isQuestFrame)
-    questTranslationFramePrimaryHeader:SetText(headerText)
-    questTranslationFramePrimaryText:SetText(objectiveText)
-    questTranslationFrameSecondaryHeader:SetText(descriptionHeader)
-    questTranslationFrameSecondaryText:SetText(descriptionText)
+    QuestTranslationFramePrimaryHeader:SetText(headerText:upper())
+    QuestTranslationFramePrimaryText:SetText(objectiveText)
+    QuestTranslationFrameSecondaryHeader:SetText(descriptionHeader:upper())
+    QuestTranslationFrameSecondaryText:SetText(descriptionText)
 
-    textTopMargin = -questTranslationFramePrimaryHeader:GetHeight() - 15
-    descriptionHeaderTopMargin = textTopMargin - questTranslationFramePrimaryText:GetHeight() - 10
-    descriptionTextTopMargin = descriptionHeaderTopMargin - questTranslationFrameSecondaryHeader:GetHeight() - 5
+    textTopMargin = -QuestTranslationFramePrimaryHeader:GetHeight() - 15
+    descriptionHeaderTopMargin = textTopMargin - QuestTranslationFramePrimaryText:GetHeight() - 10
+    descriptionTextTopMargin = descriptionHeaderTopMargin - QuestTranslationFrameSecondaryHeader:GetHeight() - 5
 
     local heightPadding = 10
 
@@ -67,18 +36,18 @@ local function SetQuestDetails(headerText, objectiveText, descriptionHeader, des
     addPadding(descriptionHeader, 10)
     addPadding(descriptionText, 5)
 
-    questTranslationFramePrimaryHeader:SetPoint("TOPLEFT", 10, -10)
-    questTranslationFramePrimaryText:SetPoint("TOPLEFT", 10, textTopMargin)
-    questTranslationFrameSecondaryHeader:SetPoint("TOPLEFT", 10, descriptionHeaderTopMargin)
-    questTranslationFrameSecondaryText:SetPoint("TOPLEFT", 10, descriptionTextTopMargin)
-    questTranslationFrame:SetPoint("TOPLEFT", parentFrame, "TOPRIGHT", -15, yOffset)
+    QuestTranslationFramePrimaryHeader:SetPoint("TOPLEFT", 10, -10)
+    QuestTranslationFramePrimaryText:SetPoint("TOPLEFT", 10, textTopMargin)
+    QuestTranslationFrameSecondaryHeader:SetPoint("TOPLEFT", 10, descriptionHeaderTopMargin)
+    QuestTranslationFrameSecondaryText:SetPoint("TOPLEFT", 10, descriptionTextTopMargin)
+    QuestTranslationFrame:SetPoint("TOPLEFT", parentFrame, "TOPRIGHT", -15, yOffset)
 
-    questTranslationFrame:SetParent(parentFrame)
-    questTranslationFrame:SetHeight(
-        questTranslationFramePrimaryHeader:GetHeight() +
-        questTranslationFramePrimaryText:GetHeight() +
-        questTranslationFrameSecondaryHeader:GetHeight() +
-        questTranslationFrameSecondaryText:GetHeight() +
+    QuestTranslationFrame:SetParent(parentFrame)
+    QuestTranslationFrame:SetHeight(
+        QuestTranslationFramePrimaryHeader:GetHeight() +
+        QuestTranslationFramePrimaryText:GetHeight() +
+        QuestTranslationFrameSecondaryHeader:GetHeight() +
+        QuestTranslationFrameSecondaryText:GetHeight() +
         heightPadding
     )
 end
@@ -91,7 +60,7 @@ local function UpdateQuestTranslationFrame()
 
         if selectedQuestIndex > 0 then
             questId = select(8, GetQuestLogTitle(selectedQuestIndex))
-            questData = GetQuestDataByID(questId)
+            questData = GetDataByID("questData", questId)
 
             if questData then
                 SetQuestDetails(
@@ -110,71 +79,64 @@ local function UpdateQuestTranslationFrame()
         questId = GetQuestID()
 
         if questId then
-            questData = GetQuestDataByID(questId)
-
+            questData = GetDataByID("questData", questId)
             if questData then
                 if lastQuestFrameEvent == "QUEST_PROGRESS" then
-                    questTranslationFrame:Show()
+                    QuestTranslationFrame:Show()
                     SetQuestDetails(
-                        questData.title,
-                        questData.progress,
-                        "",
-                        "",
-                        QuestFrame,
-                        -80,
-                        true
+                            questData.title,
+                            questData.progress,
+                            "",
+                            "",
+                            QuestFrame,
+                            -80,
+                            true
                     )
                 elseif lastQuestFrameEvent == "QUEST_COMPLETE" then
                     SetQuestDetails(
-                        questData.title,
-                        questData.completion,
-                        "",
-                        "",
-                        QuestFrame,
-                        -80,
-                        true
+                            questData.title,
+                            questData.completion,
+                            "",
+                            "",
+                            QuestFrame,
+                            -80,
+                            true
                     )
                 elseif lastQuestFrameEvent == "QUEST_DETAIL" then
                     SetQuestDetails(
-                        questData.title,
-                        questData.description,
-                        "Quest objectives",
-                        questData.objective,
-                        QuestFrame,
-                        -80,
-                        true
+                            questData.title,
+                            questData.description,
+                            "Quest objectives",
+                            questData.objective,
+                            QuestFrame,
+                            -80,
+                            true
                     )
                 elseif lastQuestFrameEvent == "QUEST_FINISHED" then
-                    questTranslationFrame:Hide()
+                    QuestTranslationFrame:Hide()
                 end
             end
         end
     end
 end
 
-questTranslationFrame:RegisterEvent("QUEST_PROGRESS")
-questTranslationFrame:RegisterEvent("QUEST_COMPLETE")
-questTranslationFrame:RegisterEvent("QUEST_FINISHED")
-questTranslationFrame:RegisterEvent("QUEST_DETAIL")
-
-questTranslationFrame:SetScript("OnEvent", function(self, event, ...)
-    if event == "QUEST_PROGRESS" or event == "QUEST_COMPLETE" or event == "QUEST_FINISHED" or event == "QUEST_DETAIL" then
-        lastQuestFrameEvent = event
-        UpdateQuestTranslationFrame()
-    end
-end)
-
 local function SetQuestHoverScripts(frame, children)
     local frameName = frame:GetName()
 
     if frameName ~= "QuestLogListScrollFrame" and not string.find(frameName, "QuestLogItem") and not string.find(frameName, "QuestProgressItem") then
         frame:SetScript("OnEnter", function()
-            UpdateQuestTranslationFrame()
-            questTranslationFrame:Show()
+            local questTranslationsEnabled = MultiLanguageOptions["QUEST_TRANSLATIONS"]
+
+            if questTranslationsEnabled then
+                UpdateQuestTranslationFrame()
+                QuestTranslationFrame:Show()
+            else
+                QuestTranslationFrame:Hide()
+            end
         end)
 
         frame:SetScript("OnLeave", function()
-            questTranslationFrame:Hide()
+            QuestTranslationFrame:Hide()
         end)
 
         if children then
@@ -185,6 +147,102 @@ local function SetQuestHoverScripts(frame, children)
         end
     end
 end
+
+local function elementIsBelowBottom(element)
+    local elementY = element:GetBottom()
+
+    if not elementY then
+        return true
+    end
+
+    return elementY < 0
+end
+
+local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText)
+    local gameToolTipWidth = GameTooltip:GetWidth()
+    local gameToolTipHeight = GameTooltip:GetHeight()
+
+    ItemSpellAndUnitTranslationFrame:SetWidth(gameToolTipWidth)
+    ItemSpellAndUnitTranslationFrameHeader:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 20)
+    ItemSpellAndUnitTranslationFrameText:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 20)
+    
+    local elementIsBelowBottom = elementIsBelowBottom(ItemSpellAndUnitTranslationFrame)
+
+    ItemSpellAndUnitTranslationFrame:Show()
+    ItemSpellAndUnitTranslationFrameHeader:Show()
+    ItemSpellAndUnitTranslationFrameText:Show()
+
+    ItemSpellAndUnitTranslationFrameHeader:SetText(itemHeader)
+    ItemSpellAndUnitTranslationFrameText:SetText(itemText)
+
+    ItemSpellAndUnitTranslationFrame:SetHeight(ItemSpellAndUnitTranslationFrameHeader:GetHeight() + ItemSpellAndUnitTranslationFrameText:GetHeight() + 20)
+    ItemSpellAndUnitTranslationFrameText:SetPoint("TOPLEFT", 10, - ItemSpellAndUnitTranslationFrameHeader:GetHeight() - 10)
+    ItemSpellAndUnitTranslationFrameHeader:SetPoint("TOPLEFT", 10, -10)
+    ItemSpellAndUnitTranslationFrame:SetPoint("TOPLEFT", 0, elementIsBelowBottom and gameToolTipHeight + 5 or -gameToolTipHeight - 5)
+end
+
+local function GetItemIDFromLink(itemLink)
+    local _, _, itemID = string.find(itemLink, "item:(%d+):")
+    return tonumber(itemID)
+end
+
+local function OnTooltipSetData(self)
+    self:Show()
+
+    local _, itemLink = self:GetItem()
+    local _, spellID = self:GetSpell()
+    local unitGUID = UnitGUID("mouseover")
+
+    local itemTranslationsEnabled = MultiLanguageOptions["ITEM_TRANSLATIONS"]
+    local spellTranslationsEnabled = MultiLanguageOptions["SPELL_TRANSLATIONS"]
+    local npcTranslationsEnabled = MultiLanguageOptions["NPC_TRANSLATIONS"]
+
+    if itemLink and itemTranslationsEnabled then
+        local itemID = GetItemIDFromLink(itemLink)
+
+        if itemID then
+            local item = GetDataByID("itemData", itemID)
+
+            if item then
+                UpdateItemSpellAndUnitTranslationFrame(item.name, item.additional_info)
+            end
+        end
+    elseif spellID and spellTranslationsEnabled then
+        local spell = GetDataByID("spellData", spellID)
+
+        if spell then
+            UpdateItemSpellAndUnitTranslationFrame(spell.name, spell.additional_info)
+        end
+    elseif unitGUID and npcTranslationsEnabled then
+        local unitType, _, _, _, _, npcID = strsplit("-", unitGUID)
+
+        if unitType == "Creature" then
+            if npcID then
+                local npc = GetDataByID("npcData", npcID)
+                UpdateItemSpellAndUnitTranslationFrame(npc.name, npc.subname)
+            end
+        else
+            ItemSpellAndUnitTranslationFrame:Hide()
+        end
+    else
+        ItemSpellAndUnitTranslationFrame:Hide()
+    end
+end
+
+GameTooltip:HookScript("OnUpdate", OnTooltipSetData)
+
+QuestTranslationFrame:SetScript("OnEvent", function(self, event, ...)
+    if event == "QUEST_PROGRESS" or event == "QUEST_COMPLETE" or event == "QUEST_FINISHED" or event == "QUEST_DETAIL" then
+        local questTranslationsEnabled = MultiLanguageOptions["QUEST_TRANSLATIONS"]
+
+        if questTranslationsEnabled then
+            lastQuestFrameEvent = event
+            UpdateQuestTranslationFrame()
+        else
+            QuestTranslationFrame:Hide()
+        end
+    end
+end)
 
 SetQuestHoverScripts(QuestLogFrame, true)
 SetQuestHoverScripts(QuestFrame, false)
@@ -197,3 +255,13 @@ SetQuestHoverScripts(QuestFrameCompleteButton, true)
 SetQuestHoverScripts(QuestFrameCompleteQuestButton, true)
 SetQuestHoverScripts(QuestFrameGoodbyeButton, true)
 SetQuestHoverScripts(QuestFrameCancelButton, true)
+
+local function addonLoaded(self, event, addonLoadedName)
+    if addonLoadedName == addonName then
+        local questTranslationsEnabled = MultiLanguageOptions["QUEST_TRANSLATIONS"]
+
+        if questTranslationsEnabled then
+
+        end
+    end
+end

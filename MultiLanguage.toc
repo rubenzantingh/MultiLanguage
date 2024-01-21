@@ -2,6 +2,16 @@
 ## Title: MultiLanguage
 ## Author: Ruben Zantingh
 ## Version: 1.0
+## SavedVariables: MultiLanguageOptions
 
+Database/Classic/classes.lua
+Database/Classic/items.lua
+Database/Classic/npcs.lua
 Database/Classic/quests.lua
+Database/Classic/spells.lua
+Database/Classic/zones.lua
+
+Frames/MultiLanguageOptionsFrame.lua
+Frames/ItemSpellAndUnitTranslationFrame.lua
+Frames/QuestTranslationFrame.lua
 MultiLanguage.lua

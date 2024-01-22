@@ -148,14 +148,12 @@ local function SetQuestHoverScripts(frame, children)
     end
 end
 
-local function elementIsBelowBottom(element)
-    local elementY = element:GetBottom()
+local function elementWillBeBelowBottom(element, parent)
+    local elementHeight = element:GetHeight()
+    local elementY = parent:GetBottom() - 5
+    local bottomPosition = elementY - elementHeight
 
-    if not elementY then
-        return true
-    end
-
-    return elementY < 0
+    return bottomPosition < 0
 end
 
 local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText)
@@ -165,8 +163,8 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText)
     ItemSpellAndUnitTranslationFrame:SetWidth(gameToolTipWidth)
     ItemSpellAndUnitTranslationFrameHeader:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 20)
     ItemSpellAndUnitTranslationFrameText:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 20)
-    
-    local elementIsBelowBottom = elementIsBelowBottom(ItemSpellAndUnitTranslationFrame)
+
+    local elementIsBelowBottom = elementWillBeBelowBottom(ItemSpellAndUnitTranslationFrame, GameTooltip)
 
     ItemSpellAndUnitTranslationFrame:Show()
     ItemSpellAndUnitTranslationFrameHeader:Show()
@@ -178,7 +176,7 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText)
     ItemSpellAndUnitTranslationFrame:SetHeight(ItemSpellAndUnitTranslationFrameHeader:GetHeight() + ItemSpellAndUnitTranslationFrameText:GetHeight() + 20)
     ItemSpellAndUnitTranslationFrameText:SetPoint("TOPLEFT", 10, - ItemSpellAndUnitTranslationFrameHeader:GetHeight() - 10)
     ItemSpellAndUnitTranslationFrameHeader:SetPoint("TOPLEFT", 10, -10)
-    ItemSpellAndUnitTranslationFrame:SetPoint("TOPLEFT", 0, elementIsBelowBottom and gameToolTipHeight + 5 or -gameToolTipHeight - 5)
+    ItemSpellAndUnitTranslationFrame:SetPoint("TOPLEFT", 0, elementIsBelowBottom and ItemSpellAndUnitTranslationFrame:GetHeight() + 5 or -gameToolTipHeight - 5)
 end
 
 local function GetItemIDFromLink(itemLink)

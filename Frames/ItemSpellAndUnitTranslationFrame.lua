@@ -10,9 +10,8 @@ itemSpellAndUnitTranslationFrame:SetParent(GameTooltip)
 itemSpellAndUnitTranslationFrame:SetWidth(200)
 
 local itemSpellAndUnitTranslationFrameHeader = itemSpellAndUnitTranslationFrame:CreateFontString("ItemSpellAndUnitTranslationFrameHeader", "OVERLAY", "GameFontHighlight")
-itemSpellAndUnitTranslationFrameHeader:SetTextScale(1.15)
+itemSpellAndUnitTranslationFrameHeader:SetTextScale(1.175)
 itemSpellAndUnitTranslationFrameHeader:SetJustifyH("LEFT")
 
 local itemSpellAndUnitTranslationFrameText = itemSpellAndUnitTranslationFrame:CreateFontString("ItemSpellAndUnitTranslationFrameText", "OVERLAY", "GameFontHighlight")
-itemSpellAndUnitTranslationFrameText:SetWidth(itemSpellAndUnitTranslationFrame:GetWidth() - 20)
 itemSpellAndUnitTranslationFrameText:SetJustifyH("LEFT")

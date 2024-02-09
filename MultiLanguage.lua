@@ -4,9 +4,13 @@ local translationFrame = CreateFrame("Frame")
 
 local function GetDataByID(dataType, dataId)
     if addonTable[dataType] then
-        local convertedId = tonumber(dataId)
-        if addonTable[dataType][convertedId] then
-            return addonTable[dataType][convertedId]
+        languageCode = MultiLanguageOptions["SELECTED_LANGUAGE"]
+
+        if addonTable[dataType][languageCode] then
+            local convertedId = tonumber(dataId)
+            if addonTable[dataType][languageCode][convertedId] then
+                return addonTable[dataType][languageCode][convertedId]
+            end
         end
     end
 
@@ -63,14 +67,19 @@ local function UpdateQuestTranslationFrame()
             questData = GetDataByID("questData", questId)
 
             if questData then
+                QuestTranslationFrame:Show()
+                languageCode = MultiLanguageOptions["SELECTED_LANGUAGE"]
+            
                 SetQuestDetails(
                     questData.title,
                     questData.objective,
-                    "Description",
+                    addonTable.translations[languageCode]["description"],
                     questData.description,
                     QuestLogFrame,
                     -QuestLogListScrollFrame:GetHeight() - (QuestLogFrame:GetTop() - QuestLogListScrollFrame:GetTop()) - 5, false
                 )
+            else
+                QuestTranslationFrame:Hide()
             end
         end
     end
@@ -81,6 +90,9 @@ local function UpdateQuestTranslationFrame()
         if questId then
             questData = GetDataByID("questData", questId)
             if questData then
+                QuestTranslationFrame:Show()
+                languageCode = MultiLanguageOptions["SELECTED_LANGUAGE"]
+
                 if lastQuestFrameEvent == "QUEST_PROGRESS" then
                     QuestTranslationFrame:Show()
                     SetQuestDetails(
@@ -106,7 +118,7 @@ local function UpdateQuestTranslationFrame()
                     SetQuestDetails(
                             questData.title,
                             questData.description,
-                            "Quest objectives",
+                            addonTable.translations[languageCode]["objectives"],
                             questData.objective,
                             QuestFrame,
                             -80,
@@ -115,6 +127,8 @@ local function UpdateQuestTranslationFrame()
                 elseif lastQuestFrameEvent == "QUEST_FINISHED" then
                     QuestTranslationFrame:Hide()
                 end
+            else
+                QuestTranslationFrame:Hide()
             end
         end
     end
@@ -129,7 +143,6 @@ local function SetQuestHoverScripts(frame, children)
 
             if questTranslationsEnabled then
                 UpdateQuestTranslationFrame()
-                QuestTranslationFrame:Show()
             else
                 QuestTranslationFrame:Hide()
             end
@@ -148,12 +161,13 @@ local function SetQuestHoverScripts(frame, children)
     end
 end
 
-local function elementWillBeBelowBottom(element, parent)
+local function elementWillBeAboveTop(element, parent)
     local elementHeight = element:GetHeight()
-    local elementY = parent:GetBottom() - 5
-    local bottomPosition = elementY - elementHeight
+    local elementTop = parent:GetTop()
+    local screenHeight = GetScreenHeight()
+    local topPosition = elementTop + elementHeight + 5
 
-    return bottomPosition < 0
+    return topPosition > screenHeight
 end
 
 local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText)
@@ -164,7 +178,7 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText)
     ItemSpellAndUnitTranslationFrameHeader:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 20)
     ItemSpellAndUnitTranslationFrameText:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 20)
 
-    local elementIsBelowBottom = elementWillBeBelowBottom(ItemSpellAndUnitTranslationFrame, GameTooltip)
+    local elementIsAboveTop = elementWillBeAboveTop(ItemSpellAndUnitTranslationFrame, GameTooltip)
 
     ItemSpellAndUnitTranslationFrame:Show()
     ItemSpellAndUnitTranslationFrameHeader:Show()
@@ -173,10 +187,10 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText)
     ItemSpellAndUnitTranslationFrameHeader:SetText(itemHeader)
     ItemSpellAndUnitTranslationFrameText:SetText(itemText)
 
-    ItemSpellAndUnitTranslationFrame:SetHeight(ItemSpellAndUnitTranslationFrameHeader:GetHeight() + ItemSpellAndUnitTranslationFrameText:GetHeight() + 20)
-    ItemSpellAndUnitTranslationFrameText:SetPoint("TOPLEFT", 10, - ItemSpellAndUnitTranslationFrameHeader:GetHeight() - 10)
+    ItemSpellAndUnitTranslationFrame:SetHeight(ItemSpellAndUnitTranslationFrameHeader:GetHeight() + ItemSpellAndUnitTranslationFrameText:GetHeight() + (itemText ~= "" and 22 or 20))
+    ItemSpellAndUnitTranslationFrameText:SetPoint("TOPLEFT", 10, - ItemSpellAndUnitTranslationFrameHeader:GetHeight() - (itemText ~= "" and 12 or 10))
     ItemSpellAndUnitTranslationFrameHeader:SetPoint("TOPLEFT", 10, -10)
-    ItemSpellAndUnitTranslationFrame:SetPoint("TOPLEFT", 0, elementIsBelowBottom and ItemSpellAndUnitTranslationFrame:GetHeight() + 5 or -gameToolTipHeight - 5)
+    ItemSpellAndUnitTranslationFrame:SetPoint("TOPLEFT", 0, elementIsAboveTop and -gameToolTipHeight - 5 or ItemSpellAndUnitTranslationFrame:GetHeight() + 5)
 end
 
 local function GetItemIDFromLink(itemLink)
@@ -203,6 +217,8 @@ local function OnTooltipSetData(self)
 
             if item then
                 UpdateItemSpellAndUnitTranslationFrame(item.name, item.additional_info)
+            else
+                ItemSpellAndUnitTranslationFrame:Hide()
             end
         end
     elseif spellID and spellTranslationsEnabled then
@@ -210,6 +226,8 @@ local function OnTooltipSetData(self)
 
         if spell then
             UpdateItemSpellAndUnitTranslationFrame(spell.name, spell.additional_info)
+        else
+            ItemSpellAndUnitTranslationFrame:Hide()
         end
     elseif unitGUID and npcTranslationsEnabled then
         local unitType, _, _, _, _, npcID = strsplit("-", unitGUID)
@@ -217,7 +235,12 @@ local function OnTooltipSetData(self)
         if unitType == "Creature" then
             if npcID then
                 local npc = GetDataByID("npcData", npcID)
-                UpdateItemSpellAndUnitTranslationFrame(npc.name, npc.subname)
+
+                if npc then
+                    UpdateItemSpellAndUnitTranslationFrame(npc.name, npc.subname)
+                else
+                    ItemSpellAndUnitTranslationFrame:Hide()
+                end
             end
         else
             ItemSpellAndUnitTranslationFrame:Hide()

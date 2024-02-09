@@ -9,11 +9,11 @@ local addonName = ...
 local optionsFrame = CreateFrame("Frame")
 
 local function CreateCheckBox(parent, optionsPanel, text, onClick)
-    local checkbox = CreateFrame("CheckButton", nil, optionsPanel, "InterfaceOptionsCheckButtonTemplate");
-    checkbox.Text:SetText(text);
-    checkbox:SetScript("OnClick", onClick);
+    local checkbox = CreateFrame("CheckButton", nil, optionsPanel, "InterfaceOptionsCheckButtonTemplate")
+    checkbox.Text:SetText(text)
+    checkbox:SetScript("OnClick", onClick)
 
-    return checkbox;
+    return checkbox
 end
 
 local function createOptionCheckbox(parent, optionsPanel, text, optionKey)
@@ -22,7 +22,7 @@ local function createOptionCheckbox(parent, optionsPanel, text, optionKey)
         MultiLanguageOptions[optionKey] = checked
     end)
 
-    checkbox:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -8);
+    checkbox:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -8)
     checkbox:SetChecked(MultiLanguageOptions[optionKey])
     return checkbox
 end

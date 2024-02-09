@@ -1,12 +1,12 @@
 local questTranslationFrame = CreateFrame("Frame", "QuestTranslationFrame", nil, BackdropTemplateMixin and "BackdropTemplate")
 questTranslationFrame:SetWidth(QuestLogFrame:GetWidth())
 questTranslationFrame:SetBackdrop({
-    bgFile = "Interface/Tooltips/UI-Tooltip-Background",
+    bgFile = "Interface/Buttons/WHITE8X8",
     edgeFile = "Interface/Tooltips/UI-Tooltip-Border",
-    edgeSize = 16,
+    tile = true, tileSize = 16, edgeSize = 16,
     insets = { left = 4, right = 4, top = 4, bottom = 4 },
 })
-questTranslationFrame:SetBackdropColor(0, 0, 0, 1)
+questTranslationFrame:SetBackdropColor(0, 0, 0, 0.9)
 
 local questTranslationFramePrimaryHeader = questTranslationFrame:CreateFontString("QuestTranslationFramePrimaryHeader", "OVERLAY", "GameFontHighlight")
 questTranslationFramePrimaryHeader:SetTextScale(1.3)

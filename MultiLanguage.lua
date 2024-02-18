@@ -209,7 +209,7 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
     ItemSpellAndUnitTranslationFrame:SetWidth(gameToolTipWidth)
     ItemSpellAndUnitTranslationFrame:Show()
 
-    ItemSpellAndUnitTranslationFrameHeader:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 20)
+    ItemSpellAndUnitTranslationFrameHeader:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
     ItemSpellAndUnitTranslationFrameHeader:Show()
     ItemSpellAndUnitTranslationFrameHeader:SetText(SetColorForLine(itemHeader))
     ItemSpellAndUnitTranslationFrameHeader:SetPoint("TOPLEFT", 10, -10)
@@ -234,7 +234,7 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
 
                 lineFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -2.5)
                 lineFontString:SetText(SetColorForLine(line, spellColorLinePassed))
-                lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 20)
+                lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
                 lineFontString:SetJustifyH("LEFT")
 
                 parent = lineFontString
@@ -265,6 +265,27 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
         ItemSpellAndUnitTranslationFrame:SetHeight(totalFrameHeight + 20)
         ItemSpellAndUnitTranslationFrame:SetPoint("TOPLEFT", 0, elementWillBeAboveTop(ItemSpellAndUnitTranslationFrame, GameTooltip) and -gameToolTipHeight - 5 or ItemSpellAndUnitTranslationFrame:GetHeight() + 5)
         activeItemSpellOrUnitId = id
+    else
+        local totalFrameHeight = ItemSpellAndUnitTranslationFrameHeader:GetHeight()
+        local existingLines = #activeItemSpellOrUnitLines
+        local newLines = 0
+
+        if itemText then
+            for line in itemText:gmatch("[^\r\n]+") do
+                local lineFontString
+
+                if newLines < existingLines then
+                    lineFontString = activeItemSpellOrUnitLines[newLines + 1]
+                    lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
+                    totalFrameHeight = totalFrameHeight + lineFontString:GetHeight() + 2.5
+                end
+
+                newLines = newLines + 1
+            end
+
+            ItemSpellAndUnitTranslationFrame:SetHeight(totalFrameHeight + 20)
+            ItemSpellAndUnitTranslationFrame:SetPoint("TOPLEFT", 0, elementWillBeAboveTop(ItemSpellAndUnitTranslationFrame, GameTooltip) and -gameToolTipHeight - 5 or ItemSpellAndUnitTranslationFrame:GetHeight() + 5)
+        end
     end
 end
 

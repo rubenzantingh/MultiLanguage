@@ -1,6 +1,16 @@
 local lastQuestFrameEvent = nil
 local addonName, addonTable = ...
 local translationFrame = CreateFrame("Frame")
+local activeItemSpellOrUnitLines = {}
+local activeItemSpellOrUnitId = nil
+local textColorCodes = {
+    ["[q]"] = "|cFFFFD100",
+    ["[q0]"] = "|cFF9D9D9D",
+    ["[q2]"] = "|cFF00FF00",
+    ["[q3]"] = "|cFF0070DD",
+    ["[q4]"] = "|cFFA335EE",
+    ["[q5]"] = "|cFFFF8000"
+}
 
 local function GetDataByID(dataType, dataId)
     if addonTable[dataType] then
@@ -170,27 +180,92 @@ local function elementWillBeAboveTop(element, parent)
     return topPosition > screenHeight
 end
 
-local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText)
+local function escapeMagic(s)
+    return s:gsub("[%(%)%.%%%+%-%*%?%[%]%^%$]", "%%%1")
+end
+
+local function SetColorForLine(line, spellColorLinePassed)
+    if spellColorLinePassed then
+        return "|cFFFFD100" .. line .. "|r"
+    end
+
+    for pattern, colorCode in pairs(textColorCodes) do
+        local escapedPattern = escapeMagic(pattern)
+        local _, count = string.gsub(line, escapedPattern, "")
+
+        if count > 0 then
+            line = line:gsub(escapedPattern, "")
+            return colorCode .. line .. "|r"
+        end
+    end
+
+    return "|cFFFFFFFF" .. line .. "|r"
+end
+
+local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, type)
     local gameToolTipWidth = GameTooltip:GetWidth()
     local gameToolTipHeight = GameTooltip:GetHeight()
 
     ItemSpellAndUnitTranslationFrame:SetWidth(gameToolTipWidth)
-    ItemSpellAndUnitTranslationFrameHeader:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 20)
-    ItemSpellAndUnitTranslationFrameText:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 20)
-
-    local elementIsAboveTop = elementWillBeAboveTop(ItemSpellAndUnitTranslationFrame, GameTooltip)
-
     ItemSpellAndUnitTranslationFrame:Show()
+
+    ItemSpellAndUnitTranslationFrameHeader:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 20)
     ItemSpellAndUnitTranslationFrameHeader:Show()
-    ItemSpellAndUnitTranslationFrameText:Show()
-
-    ItemSpellAndUnitTranslationFrameHeader:SetText(itemHeader)
-    ItemSpellAndUnitTranslationFrameText:SetText(itemText)
-
-    ItemSpellAndUnitTranslationFrame:SetHeight(ItemSpellAndUnitTranslationFrameHeader:GetHeight() + ItemSpellAndUnitTranslationFrameText:GetHeight() + (itemText ~= "" and 22 or 20))
-    ItemSpellAndUnitTranslationFrameText:SetPoint("TOPLEFT", 10, - ItemSpellAndUnitTranslationFrameHeader:GetHeight() - (itemText ~= "" and 12 or 10))
+    ItemSpellAndUnitTranslationFrameHeader:SetText(SetColorForLine(itemHeader))
     ItemSpellAndUnitTranslationFrameHeader:SetPoint("TOPLEFT", 10, -10)
-    ItemSpellAndUnitTranslationFrame:SetPoint("TOPLEFT", 0, elementIsAboveTop and -gameToolTipHeight - 5 or ItemSpellAndUnitTranslationFrame:GetHeight() + 5)
+
+    if id ~= activeItemSpellOrUnitId then
+        local parent = ItemSpellAndUnitTranslationFrameHeader
+        local existingLines = #activeItemSpellOrUnitLines
+        local newLines = 0
+        local spellColorLinePassed = false
+        local totalFrameHeight = ItemSpellAndUnitTranslationFrameHeader:GetHeight()
+
+        if itemText then
+            for line in itemText:gmatch("[^\r\n]+") do
+                local lineFontString
+
+                if newLines < existingLines then
+                    lineFontString = activeItemSpellOrUnitLines[newLines + 1]
+                else
+                    lineFontString = ItemSpellAndUnitTranslationFrame:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
+                    table.insert(activeItemSpellOrUnitLines, lineFontString)
+                end
+
+                lineFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -2.5)
+                lineFontString:SetText(SetColorForLine(line, spellColorLinePassed))
+                lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 20)
+                lineFontString:SetJustifyH("LEFT")
+
+                parent = lineFontString
+
+                if type == "spell" then
+                    if string.find(line, "%[q%]") then
+                        spellColorLinePassed = true
+                    end
+                end
+
+                lineFontString:Show()
+                totalFrameHeight = totalFrameHeight + lineFontString:GetHeight() + 2.5
+                newLines = newLines + 1
+            end
+
+            for i = newLines + 1, #activeItemSpellOrUnitLines do
+                activeItemSpellOrUnitLines[i]:Hide()
+            end
+        else
+            if existingLines > 0 then
+                for _, frame in ipairs(activeItemSpellOrUnitLines) do
+                    frame:Hide()
+                end
+                activeItemSpellOrUnitLines = {}
+            end
+        end
+
+        ItemSpellAndUnitTranslationFrame:SetHeight(totalFrameHeight + 20)
+        ItemSpellAndUnitTranslationFrame:SetPoint("TOPLEFT", 0, elementWillBeAboveTop(ItemSpellAndUnitTranslationFrame, GameTooltip) and -gameToolTipHeight - 5 or ItemSpellAndUnitTranslationFrame:GetHeight() + 5)
+        activeItemSpellOrUnitId = id
+    end
 end
 
 local function GetItemIDFromLink(itemLink)
@@ -216,7 +291,7 @@ local function OnTooltipSetData(self)
             local item = GetDataByID("itemData", itemID)
 
             if item then
-                UpdateItemSpellAndUnitTranslationFrame(item.name, item.additional_info)
+                UpdateItemSpellAndUnitTranslationFrame(item.name, item.additional_info, itemID, "item")
             else
                 ItemSpellAndUnitTranslationFrame:Hide()
             end
@@ -225,7 +300,7 @@ local function OnTooltipSetData(self)
         local spell = GetDataByID("spellData", spellID)
 
         if spell then
-            UpdateItemSpellAndUnitTranslationFrame(spell.name, spell.additional_info)
+            UpdateItemSpellAndUnitTranslationFrame(spell.name, spell.additional_info, spellID, "spell")
         else
             ItemSpellAndUnitTranslationFrame:Hide()
         end
@@ -237,7 +312,7 @@ local function OnTooltipSetData(self)
                 local npc = GetDataByID("npcData", npcID)
 
                 if npc then
-                    UpdateItemSpellAndUnitTranslationFrame(npc.name, npc.subname)
+                    UpdateItemSpellAndUnitTranslationFrame(npc.name, npc.subname, npcID, "npc")
                 else
                     ItemSpellAndUnitTranslationFrame:Hide()
                 end
@@ -276,13 +351,3 @@ SetQuestHoverScripts(QuestFrameCompleteButton, true)
 SetQuestHoverScripts(QuestFrameCompleteQuestButton, true)
 SetQuestHoverScripts(QuestFrameGoodbyeButton, true)
 SetQuestHoverScripts(QuestFrameCancelButton, true)
-
-local function addonLoaded(self, event, addonLoadedName)
-    if addonLoadedName == addonName then
-        local questTranslationsEnabled = MultiLanguageOptions["QUEST_TRANSLATIONS"]
-
-        if questTranslationsEnabled then
-
-        end
-    end
-end

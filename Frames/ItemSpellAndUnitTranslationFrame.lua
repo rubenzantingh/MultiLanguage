@@ -9,6 +9,5 @@ itemSpellAndUnitTranslationFrame:SetBackdropColor(0, 0, 0, 0.9);
 itemSpellAndUnitTranslationFrame:SetParent(GameTooltip)
 itemSpellAndUnitTranslationFrame:SetWidth(200)
 
-local itemSpellAndUnitTranslationFrameHeader = itemSpellAndUnitTranslationFrame:CreateFontString("ItemSpellAndUnitTranslationFrameHeader", "OVERLAY", "GameFontHighlight")
-itemSpellAndUnitTranslationFrameHeader:SetTextScale(1.175)
+local itemSpellAndUnitTranslationFrameHeader = itemSpellAndUnitTranslationFrame:CreateFontString("ItemSpellAndUnitTranslationFrameHeader", "OVERLAY", "GameTooltipHeaderText")
 itemSpellAndUnitTranslationFrameHeader:SetJustifyH("LEFT")

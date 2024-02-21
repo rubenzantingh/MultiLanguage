@@ -228,7 +228,7 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
                 if newLines < existingLines then
                     lineFontString = activeItemSpellOrUnitLines[newLines + 1]
                 else
-                    lineFontString = ItemSpellAndUnitTranslationFrame:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
+                    lineFontString = ItemSpellAndUnitTranslationFrame:CreateFontString(nil, "OVERLAY", "GameTooltipText")
                     table.insert(activeItemSpellOrUnitLines, lineFontString)
                 end
 

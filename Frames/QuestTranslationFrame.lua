@@ -8,23 +8,25 @@ questTranslationFrame:SetBackdrop({
 })
 questTranslationFrame:SetBackdropColor(0, 0, 0, 0.9)
 
-local questTranslationFramePrimaryHeader = questTranslationFrame:CreateFontString("QuestTranslationFramePrimaryHeader", "OVERLAY", "GameFontHighlight")
-questTranslationFramePrimaryHeader:SetTextScale(1.3)
+local questTranslationFramePrimaryHeader = questTranslationFrame:CreateFontString("QuestTranslationFramePrimaryHeader", "OVERLAY", "QuestTitleFont")
 questTranslationFramePrimaryHeader:SetWidth(questTranslationFrame:GetWidth() - 20)
 questTranslationFramePrimaryHeader:SetJustifyH("LEFT")
+questTranslationFramePrimaryHeader:SetTextColor(1, 1, 1, 1)
 
-local questTranslationFrameSecondaryHeader = questTranslationFrame:CreateFontString("QuestTranslationFrameSecondaryHeader", "OVERLAY", "GameFontHighlight")
-questTranslationFrameSecondaryHeader:SetTextScale(1.3)
+local questTranslationFrameSecondaryHeader = questTranslationFrame:CreateFontString("QuestTranslationFrameSecondaryHeader", "OVERLAY", "QuestTitleFont")
 questTranslationFrameSecondaryHeader:SetWidth(questTranslationFrame:GetWidth() - 20)
 questTranslationFrameSecondaryHeader:SetJustifyH("LEFT")
+questTranslationFrameSecondaryHeader:SetTextColor(1, 1, 1, 1)
 
-local questTranslationFramePrimaryText = questTranslationFrame:CreateFontString("QuestTranslationFramePrimaryText", "OVERLAY", "GameFontHighlight")
+local questTranslationFramePrimaryText = questTranslationFrame:CreateFontString("QuestTranslationFramePrimaryText", "OVERLAY", "QuestFont")
 questTranslationFramePrimaryText:SetWidth(questTranslationFrame:GetWidth() - 20)
 questTranslationFramePrimaryText:SetJustifyH("LEFT")
+questTranslationFramePrimaryText:SetTextColor(1, 1, 1, 1)
 
-local questTranslationFrameSecondaryText = questTranslationFrame:CreateFontString("QuestTranslationFrameSecondaryText", "OVERLAY", "GameFontHighlight")
+local questTranslationFrameSecondaryText = questTranslationFrame:CreateFontString("QuestTranslationFrameSecondaryText", "OVERLAY", "QuestFont")
 questTranslationFrameSecondaryText:SetWidth(questTranslationFrame:GetWidth() - 20)
 questTranslationFrameSecondaryText:SetJustifyH("LEFT")
+questTranslationFrameSecondaryText:SetTextColor(1, 1, 1, 1)
 
 QuestTranslationFrame:RegisterEvent("QUEST_PROGRESS")
 QuestTranslationFrame:RegisterEvent("QUEST_COMPLETE")

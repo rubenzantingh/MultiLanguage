@@ -3,7 +3,9 @@ local defaultOptions = {
     ITEM_TRANSLATIONS = true,
     SPELL_TRANSLATIONS = true,
     NPC_TRANSLATIONS = true,
-    SELECTED_LANGUAGE = 'en'
+    SELECTED_LANGUAGE = 'en',
+    SELECTED_INTERACTION = 'hover',
+    SELECTED_HOTKEY = nil
 }
 
 local addonName = ...
@@ -41,7 +43,7 @@ local function InitializeOptions()
     languageDropdownDescription:SetText("Select language:")
 
     local languageDropdown = CreateFrame("Frame", "MultiLanguageLanguageDropdown", optionsPanel, "UIDropDownMenuTemplate")
-    languageDropdown:SetPoint("TOPLEFT", title, "BOTTOMLEFT", -16, -26)
+    languageDropdown:SetPoint("TOPLEFT", languageDropdownDescription, "BOTTOMLEFT", -16, -4)
 
     local function OnLanguageDropdownValueChanged(self, arg1, arg2, checked)
         MultiLanguageOptions.SELECTED_LANGUAGE = arg1
@@ -91,6 +93,99 @@ local function InitializeOptions()
 
     UIDropDownMenu_SetWidth(languageDropdown, 150)
     UIDropDownMenu_Initialize(languageDropdown, InitializeLanguageDropdown)
+
+    local interactionDropdownDescription = optionsPanel:CreateFontString(nil, "ARTWORK", "GameFontnormalSmall")
+    interactionDropdownDescription:SetPoint("TOPLEFT", enableNpcTranslationCheckbox, "BOTTOMLEFT", 0, -8)
+    interactionDropdownDescription:SetText("Select interaction:")
+
+    local interactionDropdown = CreateFrame("Frame", "MultiLanguageInteractionDropdown", optionsPanel, "UIDropDownMenuTemplate")
+    interactionDropdown:SetPoint("TOPLEFT", interactionDropdownDescription, "BOTTOMLEFT", -16, -4)
+
+    local function SetSelectedInteractionText(interactionText, selectedInteractionText, checked)
+        if checked then
+            return selectedInteractionText
+        end
+
+        return interactionText
+    end
+
+    local function OnInteractionDropdownValueChanged(self, arg1, arg2, checked)
+        MultiLanguageOptions.SELECTED_INTERACTION = arg1
+        UIDropDownMenu_SetText(interactionDropdown, arg2)
+    end
+
+    local function InitializeInteractionDropdown()
+        local info = UIDropDownMenu_CreateInfo()
+        local interactionText = "Hover"
+
+        info.text = "Hover"
+        info.value = "hover"
+        info.arg1 = info.value
+        info.arg2 = info.text
+        info.checked = MultiLanguageOptions.SELECTED_INTERACTION == "hover"
+        info.func = OnInteractionDropdownValueChanged
+        info.minWidth = 145
+        interactionText = SetSelectedInteractionText(interactionText, info.text, info.checked)
+        UIDropDownMenu_AddButton(info)
+
+        info.text = "Hover + hotkey"
+        info.value = "hover-hotkey"
+        info.arg1 = info.value
+        info.arg2 = info.text
+        info.checked = MultiLanguageOptions.SELECTED_INTERACTION == "hover-hotkey"
+        info.func = OnInteractionDropdownValueChanged
+        info.minWidth = 145
+        interactionText = SetSelectedInteractionText(interactionText, info.text, info.checked)
+        UIDropDownMenu_AddButton(info)
+
+        UIDropDownMenu_SetText(interactionDropdown, interactionText)
+        UIDropDownMenu_SetAnchor(interactionDropdown, 16, 4, "TOPLEFT", interactionDropdown, "BOTTOMLEFT")
+    end
+
+    UIDropDownMenu_SetWidth(interactionDropdown, 150)
+    UIDropDownMenu_Initialize(interactionDropdown, InitializeInteractionDropdown)
+
+    local hotkeyDescription = optionsPanel:CreateFontString(nil, "ARTWORK", "GameFontnormalSmall")
+    hotkeyDescription:SetPoint("TOPLEFT", interactionDropdown, "BOTTOMLEFT", 16, -8)
+    hotkeyDescription:SetText("Register Hotkey (right-click to unbind):")
+
+    local registerHotkeyButton = CreateFrame("Button", "MultiLanguageRegisterHotkeyButton", optionsPanel, "UIPanelButtonTemplate")
+    registerHotkeyButton:SetWidth(120)
+    registerHotkeyButton:SetHeight(25)
+    registerHotkeyButton:SetPoint("TOPLEFT", hotkeyDescription, "TOPLEFT", 0, -12)
+
+    if MultiLanguageOptions.SELECTED_HOTKEY then
+        registerHotkeyButton:SetText(MultiLanguageOptions.SELECTED_HOTKEY)
+    else
+        registerHotkeyButton:SetText("Not Bound")
+    end
+
+    local waitingForKey = false
+
+    registerHotkeyButton:SetScript("OnMouseDown", function(self, button)
+        if button == "LeftButton" then
+            if not waitingForKey then
+                waitingForKey = true
+                registerHotkeyButton:SetText("Press button..")
+            end
+        elseif button == "RightButton" then
+            waitingForKey = false
+            registerHotkeyButton:SetText("Not Bound")
+            MultiLanguageOptions.SELECTED_HOTKEY = nil
+        end
+    end)
+
+    local function SetHotkeyButton(self, key)
+        if waitingForKey then
+            MultiLanguageOptions.SELECTED_HOTKEY = key
+            registerHotkeyButton:SetText(MultiLanguageOptions.SELECTED_HOTKEY)
+            waitingForKey = false
+        end
+    end
+
+    registerHotkeyButton:SetScript("OnKeyDown", SetHotkeyButton)
+    registerHotkeyButton:SetPropagateKeyboardInput(true)
+
     InterfaceOptions_AddCategory(optionsPanel)
 end
 

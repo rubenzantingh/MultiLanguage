@@ -3,6 +3,8 @@ local addonName, addonTable = ...
 local translationFrame = CreateFrame("Frame")
 local activeItemSpellOrUnitLines = {}
 local activeItemSpellOrUnitId = nil
+local hotkeyButtonPressed = false
+local questFrameBeingHovered = false
 local textColorCodes = {
     ["[q]"] = "|cFFFFD100",
     ["[q0]"] = "|cFF9D9D9D",
@@ -11,6 +13,29 @@ local textColorCodes = {
     ["[q4]"] = "|cFFA335EE",
     ["[q5]"] = "|cFFFF8000"
 }
+
+local function SetHotkeyButtonPressed(self, key, eventType)
+    if MultiLanguageOptions.SELECTED_INTERACTION == "hover-hotkey" and MultiLanguageOptions.SELECTED_HOTKEY then
+        if eventType == "OnKeyDown" and key == MultiLanguageOptions.SELECTED_HOTKEY then
+            if hotkeyButtonPressed then
+                hotkeyButtonPressed = false
+
+                if questFrameBeingHovered then
+                    QuestTranslationFrame:Hide()
+                end
+            else
+                hotkeyButtonPressed = true
+
+                if questFrameBeingHovered then
+                    QuestTranslationFrame:Show()
+                end
+            end
+        end
+    end
+end
+
+translationFrame:SetScript("OnKeyDown", function(self, key) SetHotkeyButtonPressed(self, key, "OnKeyDown") end)
+translationFrame:SetPropagateKeyboardInput(true)
 
 local function GetDataByID(dataType, dataId)
     if addonTable[dataType] then
@@ -77,9 +102,16 @@ local function UpdateQuestTranslationFrame()
             questData = GetDataByID("questData", questId)
 
             if questData then
-                QuestTranslationFrame:Show()
+                if MultiLanguageOptions.SELECTED_INTERACTION == "hover-hotkey" then
+                    if hotkeyButtonPressed then
+                        QuestTranslationFrame:Show()
+                    end
+                else
+                    QuestTranslationFrame:Show()
+                end
+
                 languageCode = MultiLanguageOptions["SELECTED_LANGUAGE"]
-            
+
                 SetQuestDetails(
                     questData.title,
                     questData.objective,
@@ -100,7 +132,14 @@ local function UpdateQuestTranslationFrame()
         if questId then
             questData = GetDataByID("questData", questId)
             if questData then
-                QuestTranslationFrame:Show()
+                if MultiLanguageOptions.SELECTED_INTERACTION == "hover-hotkey" then
+                    if hotkeyButtonPressed then
+                        QuestTranslationFrame:Show()
+                    end
+                else
+                    QuestTranslationFrame:Show()
+                end
+
                 languageCode = MultiLanguageOptions["SELECTED_LANGUAGE"]
 
                 if lastQuestFrameEvent == "QUEST_PROGRESS" then
@@ -153,13 +192,16 @@ local function SetQuestHoverScripts(frame, children)
 
             if questTranslationsEnabled then
                 UpdateQuestTranslationFrame()
+                questFrameBeingHovered = true
             else
                 QuestTranslationFrame:Hide()
+                questFrameBeingHovered = false
             end
         end)
 
         frame:SetScript("OnLeave", function()
             QuestTranslationFrame:Hide()
+            questFrameBeingHovered = false
         end)
 
         if children then
@@ -207,12 +249,21 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
     local gameToolTipHeight = GameTooltip:GetHeight()
 
     ItemSpellAndUnitTranslationFrame:SetWidth(gameToolTipWidth)
-    ItemSpellAndUnitTranslationFrame:Show()
 
     ItemSpellAndUnitTranslationFrameHeader:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
     ItemSpellAndUnitTranslationFrameHeader:Show()
     ItemSpellAndUnitTranslationFrameHeader:SetText(SetColorForLine(itemHeader))
     ItemSpellAndUnitTranslationFrameHeader:SetPoint("TOPLEFT", 10, -10)
+
+    if MultiLanguageOptions.SELECTED_INTERACTION == "hover-hotkey" then
+        if hotkeyButtonPressed then
+            ItemSpellAndUnitTranslationFrame:Show()
+        else
+            ItemSpellAndUnitTranslationFrame:Hide()
+        end
+    else
+        ItemSpellAndUnitTranslationFrame:Show()
+    end
 
     if id ~= activeItemSpellOrUnitId then
         local parent = ItemSpellAndUnitTranslationFrameHeader

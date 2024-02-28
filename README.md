@@ -16,6 +16,7 @@ Feedback is always welcome, regardless of the addon's current state. You can sen
 ### Supported locales
 - English
 - Spanish (Note that there are currently two Spanish locales for the World of Warcraft client. The European version is closest to the texts provided by this addon but there might still be differences)
+- German
 
 ### Quest translation
 On hover, display translations for quests in the player's quest log, as well as on the quest progress and completion frames.

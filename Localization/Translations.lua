@@ -14,6 +14,11 @@ local function addonLoaded(self, event, addonLoadedName)
             description = "Descripción",
             objectives = "Objetivos de la misión"
         }
+
+        addonTable.translations["de"] = {
+            description = "Beschreibung",
+            objectives = "Questziele"
+        }
     end
 end
 

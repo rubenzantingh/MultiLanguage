@@ -7,6 +7,7 @@ questTranslationFrame:SetBackdrop({
     insets = { left = 4, right = 4, top = 4, bottom = 4 },
 })
 questTranslationFrame:SetBackdropColor(0, 0, 0, 0.9)
+questTranslationFrame:Hide()
 
 local questTranslationFramePrimaryHeader = questTranslationFrame:CreateFontString("QuestTranslationFramePrimaryHeader", "OVERLAY", "QuestTitleFont")
 questTranslationFramePrimaryHeader:SetWidth(questTranslationFrame:GetWidth() - 20)

@@ -143,7 +143,6 @@ local function UpdateQuestTranslationFrame()
                 languageCode = MultiLanguageOptions["SELECTED_LANGUAGE"]
 
                 if lastQuestFrameEvent == "QUEST_PROGRESS" then
-                    QuestTranslationFrame:Show()
                     SetQuestDetails(
                             questData.title,
                             questData.progress,

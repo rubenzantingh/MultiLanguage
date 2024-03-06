@@ -108,6 +108,15 @@ local function InitializeOptions()
         languageText = SetSelectedLanguageText(languageText, info.text, info.checked)
         UIDropDownMenu_AddButton(info)
 
+        info.text = "Russian"
+        info.value = "ru"
+        info.arg1 = info.value
+        info.arg2 = info.text
+        info.checked = MultiLanguageOptions.SELECTED_LANGUAGE == "ru"
+        info.func = OnLanguageDropdownValueChanged
+        languageText = SetSelectedLanguageText(languageText, info.text, info.checked)
+        UIDropDownMenu_AddButton(info)
+
         UIDropDownMenu_SetText(languageDropdown, languageText)
         UIDropDownMenu_SetAnchor(languageDropdown, 16, 4, "TOPLEFT", languageDropdown, "BOTTOMLEFT")
     end

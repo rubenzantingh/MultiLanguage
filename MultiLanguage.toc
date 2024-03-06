@@ -14,24 +14,28 @@ Database/Classic/items/esES.lua
 Database/Classic/items/deDE.lua
 Database/Classic/items/frFR.lua
 Database/Classic/items/ptBR.lua
+Database/Classic/items/ruRU.lua
 
 Database/Classic/npcs/enUS.lua
 Database/Classic/npcs/esES.lua
 Database/Classic/npcs/deDE.lua
 Database/Classic/npcs/frFR.lua
 Database/Classic/npcs/ptBR.lua
+Database/Classic/npcs/ruRU.lua
 
 Database/Classic/quests/enUS.lua
 Database/Classic/quests/esES.lua
 Database/Classic/quests/deDE.lua
 Database/Classic/quests/frFR.lua
 Database/Classic/quests/ptBR.lua
+Database/Classic/quests/ruRU.lua
 
 Database/Classic/spells/enUS.lua
 Database/Classic/spells/esES.lua
 Database/Classic/spells/deDE.lua
 Database/Classic/spells/frFR.lua
 Database/Classic/spells/ptBR.lua
+Database/Classic/spells/ruRU.lua
 
 Frames/MultiLanguageOptionsFrame.lua
 Frames/ItemSpellAndUnitTranslationFrame.lua

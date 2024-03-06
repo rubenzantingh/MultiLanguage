@@ -19,6 +19,7 @@ Feedback is always welcome, regardless of the addon's current state. You can sen
 - German
 - French
 - Portuguese
+- Russian
 
 ### Quest translation
 On hover, display translations for quests in the player's quest log, as well as on the quest progress and completion frames.

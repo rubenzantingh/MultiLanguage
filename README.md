@@ -21,14 +21,17 @@ Feedback is always welcome, regardless of the addon's current state. You can sen
 - Portuguese
 - Russian
 
+### Entity interaction
+The tooltip for the entities mentioned below are displayed on hover. A hotkey may also be selected in the settings to toggle the hover functionality.
+
 ### Quest translation
-On hover, display translations for quests in the player's quest log, as well as on the quest progress and completion frames.
+Display translations for quests in the player's quest log, as well as on the quest progress and completion frames.
 
 ### Npc translation tooltip
-When hovering over an NPC, display a tooltip that shows the NPC's name and role (if applicable).
+Display a tooltip that shows the NPC's name and role (if applicable).
 
 ### Item translation tooltip
-When hovering over an item, display a tooltip that provides details about the item.
+Display a tooltip that provides details about the item.
 
 ### Spell translation tooltip
-When hovering over a spell, display a tooltip that presents information about the spell.
+Display a tooltip that presents information about the spell.

@@ -20,6 +20,7 @@ Feedback is always welcome, regardless of the addon's current state. You can sen
 - French
 - Portuguese
 - Russian
+- Chinese
 
 ### Entity interaction
 The tooltip for the entities mentioned below are displayed on hover. A hotkey may also be selected in the settings to toggle the hover functionality.

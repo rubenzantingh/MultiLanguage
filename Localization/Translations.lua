@@ -39,6 +39,11 @@ local function addonLoaded(self, event, addonLoadedName)
             description = "描述",
             objectives = "目标"
         }
+
+        addonTable.translations["ko"] = {
+            description = "서술",
+            objectives = "목표"
+        }
     end
 end
 

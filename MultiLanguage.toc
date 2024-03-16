@@ -1,5 +1,6 @@
 ## Interface: 100200
 ## Title: MultiLanguage
+## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh
 ## Version: 1.0
 ## SavedVariables: MultiLanguageOptions

@@ -1,5 +1,5 @@
 local questTranslationFrame = CreateFrame("Frame", "QuestTranslationFrame", nil, BackdropTemplateMixin and "BackdropTemplate")
-questTranslationFrame:SetWidth(QuestLogFrame:GetWidth())
+questTranslationFrame:SetWidth(QuestDetailScrollFrame:GetWidth())
 questTranslationFrame:SetBackdrop({
     bgFile = "Interface/Buttons/WHITE8X8",
     edgeFile = "Interface/Tooltips/UI-Tooltip-Border",

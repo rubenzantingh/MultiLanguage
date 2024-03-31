@@ -79,7 +79,7 @@ local function SetQuestDetails(headerText, objectiveText, descriptionHeader, des
     QuestTranslationFramePrimaryText:SetPoint("TOPLEFT", 10, textTopMargin)
     QuestTranslationFrameSecondaryHeader:SetPoint("TOPLEFT", 10, descriptionHeaderTopMargin)
     QuestTranslationFrameSecondaryText:SetPoint("TOPLEFT", 10, descriptionTextTopMargin)
-    QuestTranslationFrame:SetPoint("TOPLEFT", parentFrame, "TOPRIGHT", -15, yOffset)
+    QuestTranslationFrame:SetPoint("TOPLEFT", parentFrame, "TOPRIGHT", 5, yOffset)
 
     QuestTranslationFrame:SetParent(parentFrame)
     QuestTranslationFrame:SetHeight(
@@ -118,7 +118,7 @@ local function UpdateQuestTranslationFrame()
                     addonTable.translations[languageCode]["description"],
                     questData.description,
                     QuestLogFrame,
-                    -QuestLogListScrollFrame:GetHeight() - (QuestLogFrame:GetTop() - QuestLogListScrollFrame:GetTop()) - 5, false
+                    - (QuestLogFrame:GetTop() - QuestLogListScrollFrame:GetTop()) + 2.5, false
                 )
             else
                 QuestTranslationFrame:Hide()

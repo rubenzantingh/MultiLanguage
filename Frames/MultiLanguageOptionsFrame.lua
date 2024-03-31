@@ -72,69 +72,6 @@ local function InitializeOptions()
         languageText = SetSelectedLanguageText(languageText, info.text, info.checked)
         UIDropDownMenu_AddButton(info)
 
-        info.text = "Spanish"
-        info.value = "es"
-        info.arg1 = info.value
-        info.arg2 = info.text
-        info.checked = MultiLanguageOptions.SELECTED_LANGUAGE == "es"
-        info.func = OnLanguageDropdownValueChanged
-        languageText = SetSelectedLanguageText(languageText, info.text, info.checked)
-        UIDropDownMenu_AddButton(info)
-
-        info.text = "German"
-        info.value = "de"
-        info.arg1 = info.value
-        info.arg2 = info.text
-        info.checked = MultiLanguageOptions.SELECTED_LANGUAGE == "de"
-        info.func = OnLanguageDropdownValueChanged
-        languageText = SetSelectedLanguageText(languageText, info.text, info.checked)
-        UIDropDownMenu_AddButton(info)
-
-        info.text = "French"
-        info.value = "fr"
-        info.arg1 = info.value
-        info.arg2 = info.text
-        info.checked = MultiLanguageOptions.SELECTED_LANGUAGE == "fr"
-        info.func = OnLanguageDropdownValueChanged
-        languageText = SetSelectedLanguageText(languageText, info.text, info.checked)
-        UIDropDownMenu_AddButton(info)
-
-        info.text = "Portuguese"
-        info.value = "pt"
-        info.arg1 = info.value
-        info.arg2 = info.text
-        info.checked = MultiLanguageOptions.SELECTED_LANGUAGE == "pt"
-        info.func = OnLanguageDropdownValueChanged
-        languageText = SetSelectedLanguageText(languageText, info.text, info.checked)
-        UIDropDownMenu_AddButton(info)
-
-        info.text = "Russian"
-        info.value = "ru"
-        info.arg1 = info.value
-        info.arg2 = info.text
-        info.checked = MultiLanguageOptions.SELECTED_LANGUAGE == "ru"
-        info.func = OnLanguageDropdownValueChanged
-        languageText = SetSelectedLanguageText(languageText, info.text, info.checked)
-        UIDropDownMenu_AddButton(info)
-
-        info.text = "Chinese"
-        info.value = "cn"
-        info.arg1 = info.value
-        info.arg2 = info.text
-        info.checked = MultiLanguageOptions.SELECTED_LANGUAGE == "cn"
-        info.func = OnLanguageDropdownValueChanged
-        languageText = SetSelectedLanguageText(languageText, info.text, info.checked)
-        UIDropDownMenu_AddButton(info)
-
-        info.text = "Korean"
-        info.value = "ko"
-        info.arg1 = info.value
-        info.arg2 = info.text
-        info.checked = MultiLanguageOptions.SELECTED_LANGUAGE == "ko"
-        info.func = OnLanguageDropdownValueChanged
-        languageText = SetSelectedLanguageText(languageText, info.text, info.checked)
-        UIDropDownMenu_AddButton(info)
-
         UIDropDownMenu_SetText(languageDropdown, languageText)
         UIDropDownMenu_SetAnchor(languageDropdown, 16, 4, "TOPLEFT", languageDropdown, "BOTTOMLEFT")
     end

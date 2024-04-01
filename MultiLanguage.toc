@@ -5,46 +5,46 @@
 ## Version: 0.5.4
 ## SavedVariables: MultiLanguageOptions
 
-Database/Classic/items.lua
-Database/Classic/npcs.lua
-Database/Classic/quests.lua
-Database/Classic/spells.lua
+Database/items.lua
+Database/npcs.lua
+Database/quests.lua
+Database/spells.lua
 
-Database/Classic/items/enUS.lua
-Database/Classic/items/esES.lua
-Database/Classic/items/deDE.lua
-Database/Classic/items/frFR.lua
-Database/Classic/items/ptBR.lua
-Database/Classic/items/ruRU.lua
-Database/Classic/items/zhCN.lua
-Database/Classic/items/koKR.lua
+Database/items/enUS.lua
+Database/items/esES.lua
+Database/items/deDE.lua
+Database/items/frFR.lua
+Database/items/ptBR.lua
+Database/items/ruRU.lua
+Database/items/zhCN.lua
+Database/items/koKR.lua
 
-Database/Classic/npcs/enUS.lua
-Database/Classic/npcs/esES.lua
-Database/Classic/npcs/deDE.lua
-Database/Classic/npcs/frFR.lua
-Database/Classic/npcs/ptBR.lua
-Database/Classic/npcs/ruRU.lua
-Database/Classic/npcs/zhCN.lua
-Database/Classic/npcs/koKR.lua
+Database/npcs/enUS.lua
+Database/npcs/esES.lua
+Database/npcs/deDE.lua
+Database/npcs/frFR.lua
+Database/npcs/ptBR.lua
+Database/npcs/ruRU.lua
+Database/npcs/zhCN.lua
+Database/npcs/koKR.lua
 
-Database/Classic/quests/enUS.lua
-Database/Classic/quests/esES.lua
-Database/Classic/quests/deDE.lua
-Database/Classic/quests/frFR.lua
-Database/Classic/quests/ptBR.lua
-Database/Classic/quests/ruRU.lua
-Database/Classic/quests/zhCN.lua
-Database/Classic/quests/koKR.lua
+Database/quests/enUS.lua
+Database/quests/esES.lua
+Database/quests/deDE.lua
+Database/quests/frFR.lua
+Database/quests/ptBR.lua
+Database/quests/ruRU.lua
+Database/quests/zhCN.lua
+Database/quests/koKR.lua
 
-Database/Classic/spells/enUS.lua
-Database/Classic/spells/esES.lua
-Database/Classic/spells/deDE.lua
-Database/Classic/spells/frFR.lua
-Database/Classic/spells/ptBR.lua
-Database/Classic/spells/ruRU.lua
-Database/Classic/spells/zhCN.lua
-Database/Classic/spells/koKR.lua
+Database/spells/enUS.lua
+Database/spells/esES.lua
+Database/spells/deDE.lua
+Database/spells/frFR.lua
+Database/spells/ptBR.lua
+Database/spells/ruRU.lua
+Database/spells/zhCN.lua
+Database/spells/koKR.lua
 
 Frames/MultiLanguageOptionsFrame.lua
 Frames/ItemSpellAndUnitTranslationFrame.lua

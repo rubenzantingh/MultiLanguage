@@ -11,6 +11,11 @@ If you prefer to download the addon manually, you can do so by visiting the rele
 ## Contribution
 Feedback is always welcome, regardless of the addon's current state. You can send your suggestions to me on GitHub or by leaving a comment on CurseForge. For technical suggestions, you can also submit a Pull Request on GitHub.
 
+## Donation
+If you'd like to support the development of the MultiLanguage addon by donating, you can do so via PayPal:
+
+<a href='https://www.paypal.com/donate/?hosted_button_id=7DQWLKGFDJNBQ'><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"/></a>
+
 ## Features
 
 ### Supported locales

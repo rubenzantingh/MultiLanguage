@@ -1,4 +1,4 @@
-## Interface: 100200
+## Interface: 11502
 ## Title: MultiLanguage
 ## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh

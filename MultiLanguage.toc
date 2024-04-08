@@ -10,11 +10,6 @@ Database/npcs.lua
 Database/quests.lua
 Database/spells.lua
 
-Database/items/enUS.lua
-Database/npcs/enUS.lua
-Database/quests/enUS.lua
-Database/spells/enUS.lua
-
 Frames/MultiLanguageOptionsFrame.lua
 Frames/ItemSpellAndUnitTranslationFrame.lua
 Frames/QuestTranslationFrame.lua

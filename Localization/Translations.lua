@@ -1,11 +1,11 @@
-local addonName, addonTable = ...
+local addonName = ...
 local translationsFrame = CreateFrame("Frame")
 
 local function addonLoaded(self, event, addonLoadedName)
     if addonLoadedName == addonName then
-        addonTable.translations = {}
+        MultiLanguageTranslations = {}
 
-        addonTable.translations["en"] = {
+        MultiLanguageTranslations["en"] = {
             description = "Description",
             objectives = "Quest objectives"
         }

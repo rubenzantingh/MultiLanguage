@@ -1,5 +1,4 @@
 local lastQuestFrameEvent = nil
-local addonName, addonTable = ...
 local translationFrame = CreateFrame("Frame")
 local activeItemSpellOrUnitLines = {}
 local activeItemSpellOrUnitId = nil
@@ -37,14 +36,14 @@ end
 translationFrame:SetScript("OnKeyDown", function(self, key) SetHotkeyButtonPressed(self, key, "OnKeyDown") end)
 translationFrame:SetPropagateKeyboardInput(true)
 
-local function GetDataByID(dataType, dataId)
-    if addonTable[dataType] then
+local function GetDataByID(dataVariable, dataId)
+    if dataVariable then
         languageCode = MultiLanguageOptions["SELECTED_LANGUAGE"]
 
-        if addonTable[dataType][languageCode] then
+        if dataVariable[languageCode] then
             local convertedId = tonumber(dataId)
-            if addonTable[dataType][languageCode][convertedId] then
-                return addonTable[dataType][languageCode][convertedId]
+            if dataVariable[languageCode][convertedId] then
+                return dataVariable[languageCode][convertedId]
             end
         end
     end
@@ -99,7 +98,7 @@ local function UpdateQuestTranslationFrame()
 
         if selectedQuestIndex > 0 then
             questId = select(8, GetQuestLogTitle(selectedQuestIndex))
-            questData = GetDataByID("questData", questId)
+            questData = GetDataByID(MultiLanguageQuestData, questId)
 
             if questData then
                 if MultiLanguageOptions.SELECTED_INTERACTION == "hover-hotkey" then
@@ -115,7 +114,7 @@ local function UpdateQuestTranslationFrame()
                 SetQuestDetails(
                     questData.title,
                     questData.objective,
-                    addonTable.translations[languageCode]["description"],
+                    MultiLanguageTranslations[languageCode]["description"],
                     questData.description,
                     QuestLogFrame,
                     - (QuestLogFrame:GetTop() - QuestLogListScrollFrame:GetTop()) + 2.5, false
@@ -130,7 +129,7 @@ local function UpdateQuestTranslationFrame()
         questId = GetQuestID()
 
         if questId then
-            questData = GetDataByID("questData", questId)
+            questData = GetDataByID(MultiLanguageQuestData, questId)
             if questData then
                 if MultiLanguageOptions.SELECTED_INTERACTION == "hover-hotkey" then
                     if hotkeyButtonPressed then
@@ -166,7 +165,7 @@ local function UpdateQuestTranslationFrame()
                     SetQuestDetails(
                             questData.title,
                             questData.description,
-                            addonTable.translations[languageCode]["objectives"],
+                            MultiLanguageTranslations[languageCode]["objectives"],
                             questData.objective,
                             QuestFrame,
                             -80,
@@ -359,7 +358,7 @@ local function OnTooltipSetData(self)
         local itemID = GetItemIDFromLink(itemLink)
 
         if itemID then
-            local item = GetDataByID("itemData", itemID)
+            local item = GetDataByID(MultiLanguageItemData, itemID)
 
             if item then
                 UpdateItemSpellAndUnitTranslationFrame(item.name, item.additional_info, itemID, "item")
@@ -368,7 +367,7 @@ local function OnTooltipSetData(self)
             end
         end
     elseif spellID and spellTranslationsEnabled then
-        local spell = GetDataByID("spellData", spellID)
+        local spell = GetDataByID(MultiLanguageSpellData, spellID)
 
         if spell then
             UpdateItemSpellAndUnitTranslationFrame(spell.name, spell.additional_info, spellID, "spell")
@@ -380,7 +379,7 @@ local function OnTooltipSetData(self)
 
         if unitType == "Creature" then
             if npcID then
-                local npc = GetDataByID("npcData", npcID)
+                local npc = GetDataByID(MultiLanguageNpcData, npcID)
 
                 if npc then
                     UpdateItemSpellAndUnitTranslationFrame(npc.name, npc.subname, npcID, "npc")

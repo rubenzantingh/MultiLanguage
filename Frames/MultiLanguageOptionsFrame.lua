@@ -5,7 +5,10 @@ local defaultOptions = {
     NPC_TRANSLATIONS = true,
     SELECTED_LANGUAGE = 'en',
     SELECTED_INTERACTION = 'hover',
-    SELECTED_HOTKEY = nil
+    SELECTED_HOTKEY = nil,
+    AVAILABLE_LANGUAGES = {
+        {value = 'en', text = 'English'}
+    }
 }
 
 local addonName = ...
@@ -62,18 +65,24 @@ local function InitializeOptions()
         local info = UIDropDownMenu_CreateInfo()
         local languageText = "English"
 
-        info.text = "English"
-        info.value = "en"
-        info.arg1 = info.value
-        info.arg2 = info.text
-        info.checked = MultiLanguageOptions.SELECTED_LANGUAGE == "en"
-        info.func = OnLanguageDropdownValueChanged
-        info.minWidth = 145
-        languageText = SetSelectedLanguageText(languageText, info.text, info.checked)
-        UIDropDownMenu_AddButton(info)
+        for index, language in ipairs(MultiLanguageOptions.AVAILABLE_LANGUAGES) do
+            info.text = language.text
+            info.value = language.value
+            info.arg1 = info.value
+            info.arg2 = info.text
+            info.checked = MultiLanguageOptions.SELECTED_LANGUAGE == language.value
+            info.func = OnLanguageDropdownValueChanged
+            info.minWidth = 145
+            languageText = SetSelectedLanguageText(languageText, info.text, info.checked)
+            UIDropDownMenu_AddButton(info)
+        end
 
         UIDropDownMenu_SetText(languageDropdown, languageText)
         UIDropDownMenu_SetAnchor(languageDropdown, 16, 4, "TOPLEFT", languageDropdown, "BOTTOMLEFT")
+    end
+
+    function AddLanguageDropdownOption()
+        InitializeLanguageDropdown()
     end
 
     local enableQuestTranslationCheckbox = createOptionCheckbox(languageDropdown, optionsPanel,"Enable quest translations", "QUEST_TRANSLATIONS")

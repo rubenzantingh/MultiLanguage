@@ -2,7 +2,7 @@
 ## Title: MultiLanguage
 ## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh
-## Version: 0.1.0
+## Version: 0.2.0
 ## SavedVariables: MultiLanguageOptions
 
 Database/items.lua

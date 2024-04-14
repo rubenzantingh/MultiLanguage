@@ -14,13 +14,15 @@ Feedback is always welcome, regardless of the addon's current state. You can sen
 ## Donation
 If you'd like to support the development of the MultiLanguage addon by donating, you can do so via PayPal:
 
-<a href='https://www.paypal.com/donate/?hosted_button_id=7DQWLKGFDJNBQ'><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"/></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=7DQWLKGFDJNBQ" rel="nofollow"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"/></a>
 
 ## Features
 
 ### Supported locales
 - Classic: English, Spanish, German, French, Portuguese, Russian, Chinese, Korean
-- Wotlk: English
+- Wotlk: English, [German](https://www.curseforge.com/wow/addons/multilanguage-german-language-pack), [French](https://www.curseforge.com/wow/addons/multilanguage-french-language-pack)
+
+The Wotlk languages (except for English) have seperate addons, please visit the corresponding page or download it with the Curseforge client.
 
 ### Entity interaction
 The tooltip for the entities mentioned below are displayed on hover. A hotkey may also be selected in the settings to toggle the hover functionality.

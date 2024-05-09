@@ -20,9 +20,9 @@ If you'd like to support the development of the MultiLanguage addon by donating,
 
 ### Supported locales
 - Classic: English, Spanish, German, French, Portuguese, Russian, Chinese, Korean
-- Wotlk: English, [Spanish](https://www.curseforge.com/wow/addons/multilanguage-spanish-language-pack), [German](https://www.curseforge.com/wow/addons/multilanguage-german-language-pack), [French](https://www.curseforge.com/wow/addons/multilanguage-french-language-pack), [Portuguese](https://www.curseforge.com/wow/addons/multilanguage-portuguese-language-pack), [Russian](https://www.curseforge.com/wow/addons/multilanguage-russian-language-pack), [Chinese](https://www.curseforge.com/wow/addons/multilanguage-chinese-language-pack), [Korean](https://www.curseforge.com/wow/addons/multilanguage-korean-language-pack)
+- Wotlk/Cata: English, [Spanish](https://www.curseforge.com/wow/addons/multilanguage-spanish-language-pack), [German](https://www.curseforge.com/wow/addons/multilanguage-german-language-pack), [French](https://www.curseforge.com/wow/addons/multilanguage-french-language-pack), [Portuguese](https://www.curseforge.com/wow/addons/multilanguage-portuguese-language-pack), [Russian](https://www.curseforge.com/wow/addons/multilanguage-russian-language-pack), [Chinese](https://www.curseforge.com/wow/addons/multilanguage-chinese-language-pack), [Korean](https://www.curseforge.com/wow/addons/multilanguage-korean-language-pack)
 
-The Wotlk languages (except for English) have seperate addons, please visit the corresponding page or download it with the Curseforge client.
+The Wotlk/Cata languages (except for English) have seperate addons, please visit the corresponding page or download it with the Curseforge client.
 
 ### Entity interaction
 The tooltip for the entities mentioned below are displayed on hover. A hotkey may also be selected in the settings to toggle the hover functionality.

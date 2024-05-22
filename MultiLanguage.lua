@@ -281,10 +281,40 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
                     table.insert(activeItemSpellOrUnitLines, lineFontString)
                 end
 
-                lineFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -2.5)
-                lineFontString:SetText(SetColorForLine(line, spellColorLinePassed))
-                lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
-                lineFontString:SetJustifyH("LEFT")
+                local firstWord, secondWord = line:match("{(.-)} {(.-)}")
+
+                if firstWord and secondWord then
+                    local secondFontString
+
+                    if newLines + 1 < existingLines then
+                        secondFontString = activeItemSpellOrUnitLines[newLines + 2]
+                    else
+                        secondFontString = ItemSpellAndUnitTranslationFrame:CreateFontString(nil, "OVERLAY", "GameTooltipText")
+                        table.insert(activeItemSpellOrUnitLines, secondFontString)
+                    end
+
+                    lineFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -2.5)
+                    lineFontString:SetText(SetColorForLine(firstWord, spellColorLinePassed))
+                    lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
+                    lineFontString:SetJustifyH("LEFT")
+                    lineFontString:Show()
+
+                    secondFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", -2.5, -2.5)
+                    secondFontString:SetText(SetColorForLine(secondWord, spellColorLinePassed))
+                    secondFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
+                    secondFontString:SetJustifyH("RIGHT")
+                    secondFontString:Show()
+
+                    newLines = newLines + 2
+                else
+                    lineFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -2.5)
+                    lineFontString:SetText(SetColorForLine(line, spellColorLinePassed))
+                    lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
+                    lineFontString:SetJustifyH("LEFT")
+                    lineFontString:Show()
+
+                    newLines = newLines + 1
+                end
 
                 parent = lineFontString
 
@@ -294,9 +324,7 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
                     end
                 end
 
-                lineFontString:Show()
                 totalFrameHeight = totalFrameHeight + lineFontString:GetHeight() + 2.5
-                newLines = newLines + 1
             end
 
             for i = newLines + 1, #activeItemSpellOrUnitLines do
@@ -323,13 +351,20 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
             for line in itemText:gmatch("[^\r\n]+") do
                 local lineFontString
 
+                local firstWord, secondWord = line:match("{(.-)} {(.-)}")
+
                 if newLines < existingLines then
                     lineFontString = activeItemSpellOrUnitLines[newLines + 1]
                     lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
                     totalFrameHeight = totalFrameHeight + lineFontString:GetHeight() + 2.5
-                end
+                    newLines = newLines + 1
 
-                newLines = newLines + 1
+                    if firstWord and secondWord then
+                        local lineFontString2 = activeItemSpellOrUnitLines[newLines + 2]
+                        lineFontString2:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
+                        newLines = newLines + 1
+                    end
+                end
             end
 
             ItemSpellAndUnitTranslationFrame:SetHeight(totalFrameHeight + 20)

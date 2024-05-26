@@ -282,7 +282,7 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
                     table.insert(activeItemSpellOrUnitLines, lineFontString)
                 end
 
-                local firstWord, secondWord = line:match("{(.-)} {(.-)}")
+                local firstWord, secondWord = line:match("{(.-)}%s-{(.-)}")
 
                 if firstWord and secondWord then
                     local secondFontString

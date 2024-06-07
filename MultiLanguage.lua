@@ -270,10 +270,12 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
         local newLines = 0
         local spellColorLinePassed = false
         local totalFrameHeight = ItemSpellAndUnitTranslationFrameHeader:GetHeight()
+        local frameAdditionalHeight = 0
 
         if itemText then
             for line in itemText:gmatch("[^\r\n]+") do
                 local lineFontString
+                local lineFontStringHeight
 
                 if newLines < existingLines then
                     lineFontString = activeItemSpellOrUnitLines[newLines + 1]
@@ -294,30 +296,52 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
                         table.insert(activeItemSpellOrUnitLines, secondFontString)
                     end
 
-                    lineFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -2.5)
+                    lineFontString:SetPoint(
+                        "TOPLEFT",
+                        parent,
+                        "BOTTOMLEFT",
+                        0,
+                        -2.5 - frameAdditionalHeight
+                    )
                     lineFontString:SetText(SetColorForLine(firstWord, spellColorLinePassed))
-                    lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
+                    lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() / 2 - 10)
                     lineFontString:SetJustifyH("LEFT")
                     lineFontString:Show()
 
-                    secondFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", -2.5, -2.5)
+                    secondFontString:SetPoint(
+                        "TOPLEFT",
+                        parent,
+                        "BOTTOMLEFT",
+                        ItemSpellAndUnitTranslationFrame:GetWidth() / 2 - 7.5,
+                        -2.5 - frameAdditionalHeight
+                    )
                     secondFontString:SetText(SetColorForLine(secondWord, spellColorLinePassed))
-                    secondFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
+                    secondFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() / 2 - 10)
                     secondFontString:SetJustifyH("RIGHT")
                     secondFontString:Show()
 
+                    local heightOne = lineFontString:GetHeight()
+                    local heightTwo = secondFontString:GetHeight()
+
+                    lineFontStringHeight = math.max(heightOne, heightTwo)
                     newLines = newLines + 2
+
+                    if heightTwo > heightOne then
+                        frameAdditionalHeight = heightTwo - heightOne
+                    else
+                        frameAdditionalHeight = 0
+                    end
                 else
-                    lineFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -2.5)
+                    lineFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -2.5 - frameAdditionalHeight)
                     lineFontString:SetText(SetColorForLine(line, spellColorLinePassed))
                     lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
                     lineFontString:SetJustifyH("LEFT")
                     lineFontString:Show()
 
+                    lineFontStringHeight = lineFontString:GetHeight()
+                    frameAdditionalHeight = 0
                     newLines = newLines + 1
                 end
-
-                parent = lineFontString
 
                 if type == "spell" then
                     if string.find(line, "%[q%]") then
@@ -325,7 +349,8 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
                     end
                 end
 
-                totalFrameHeight = totalFrameHeight + lineFontString:GetHeight() + 2.5
+                parent = lineFontString
+                totalFrameHeight = totalFrameHeight + lineFontStringHeight + 2.5
             end
 
             for i = newLines + 1, #activeItemSpellOrUnitLines do
@@ -347,24 +372,34 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
         local totalFrameHeight = ItemSpellAndUnitTranslationFrameHeader:GetHeight()
         local existingLines = #activeItemSpellOrUnitLines
         local newLines = 0
+        local frameAdditionalHeight = 0
 
         if itemText then
             for line in itemText:gmatch("[^\r\n]+") do
                 local lineFontString
-
                 local firstWord, secondWord = line:match("{(.-)} {(.-)}")
+                local lineFontStringHeight
 
                 if newLines < existingLines then
                     lineFontString = activeItemSpellOrUnitLines[newLines + 1]
-                    lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
-                    totalFrameHeight = totalFrameHeight + lineFontString:GetHeight() + 2.5
                     newLines = newLines + 1
 
                     if firstWord and secondWord then
-                        local lineFontString2 = activeItemSpellOrUnitLines[newLines + 2]
-                        lineFontString2:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
+                        local secondFontString = activeItemSpellOrUnitLines[newLines + 1]
+                        local heightOne = lineFontString:GetHeight()
+                        local heightTwo = secondFontString:GetHeight()
+
+                        lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() / 2 - 10)
+                        secondFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() / 2 -10)
+
                         newLines = newLines + 1
+                        lineFontStringHeight = math.max(heightOne, heightTwo)
+                    else
+                        lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
+                        lineFontStringHeight = lineFontString:GetHeight()
                     end
+
+                    totalFrameHeight = totalFrameHeight + lineFontStringHeight + 2.5
                 end
             end
 

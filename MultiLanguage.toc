@@ -29,7 +29,7 @@ Database/Npcs/npcsThree.lua
 Database/Npcs/npcsFour.lua
 
 Frames/MultiLanguageOptionsFrame.lua
-Frames/ItemSpellAndUnitTranslationFrame.lua
+Frames/TranslationTooltipFrame.lua
 Frames/QuestTranslationFrame.lua
 
 Localization/Translations.lua

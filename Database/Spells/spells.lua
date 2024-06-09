@@ -1,0 +1,2 @@
+MultiLanguageSpellData = {}
+MultiLanguageSpellData['en'] = {}

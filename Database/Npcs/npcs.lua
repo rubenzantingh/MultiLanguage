@@ -1,0 +1,2 @@
+MultiLanguageNpcData = {}
+MultiLanguageNpcData['en'] = {}

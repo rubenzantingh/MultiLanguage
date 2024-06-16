@@ -1,7 +1,7 @@
 # MultiLanguage
 
 ## Description
-This addon aims to offer players the possibility to play the game in their preferred locale while also having access to the texts in another locale. It can offer players who don't have a certain locale as their primary language some help communicating with other players while discussing items, quests, or NPCs. On the other hand, it might also be used to passively learn a new language when playing.
+This addon aims to offer players the possibility to play the game in their preferred language while also having access to the texts in another language. It can offer players who don't have a certain language as their primary language some help communicating with other players while discussing items, quests, or NPCs. On the other hand, it might also be used to passively learn a new language when playing.
 
 ## Download
 The [Curseforge Client](https://curseforge.overwolf.com/) can be used to find and download this addon once it has been listed. It can also be found on its [Curseforge page](https://www.curseforge.com/wow/addons/multilanguage).
@@ -18,7 +18,7 @@ If you'd like to support the development of the MultiLanguage addon by donating,
 
 ## Features
 
-### Supported locales
+### Supported languages
 - Classic: English, Spanish, German, French, Portuguese, Russian, Chinese, Korean
 - Wotlk/Cata: English, [Spanish](https://www.curseforge.com/wow/addons/multilanguage-spanish-language-pack), [German](https://www.curseforge.com/wow/addons/multilanguage-german-language-pack), [French](https://www.curseforge.com/wow/addons/multilanguage-french-language-pack), [Portuguese](https://www.curseforge.com/wow/addons/multilanguage-portuguese-language-pack), [Russian](https://www.curseforge.com/wow/addons/multilanguage-russian-language-pack), [Chinese](https://www.curseforge.com/wow/addons/multilanguage-chinese-language-pack), [Korean](https://www.curseforge.com/wow/addons/multilanguage-korean-language-pack)
 - Retail: English, [German](https://www.curseforge.com/wow/addons/multilanguage-german-language-pack), [Russian](https://www.curseforge.com/wow/addons/multilanguage-russian-language-pack), [Chinese](https://www.curseforge.com/wow/addons/multilanguage-chinese-language-pack)

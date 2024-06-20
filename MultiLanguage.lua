@@ -79,8 +79,8 @@ local function SetQuestDetails(headerText, objectiveText, descriptionHeader, des
     QuestTranslationFrameSecondaryHeader:SetPoint("TOPLEFT", 10, descriptionHeaderTopMargin)
     QuestTranslationFrameSecondaryText:SetPoint("TOPLEFT", 10, descriptionTextTopMargin)
     QuestTranslationFrame:SetPoint("TOPLEFT", parentFrame, "TOPRIGHT", 5, yOffset)
-
     QuestTranslationFrame:SetParent(parentFrame)
+    QuestTranslationFrame:SetFrameStrata("HIGH")
     QuestTranslationFrame:SetHeight(
         QuestTranslationFramePrimaryHeader:GetHeight() +
         QuestTranslationFramePrimaryText:GetHeight() +

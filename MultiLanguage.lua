@@ -245,8 +245,15 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
 
     TranslationTooltipFrameHeader:SetWidth(TranslationTooltipFrame:GetWidth() - 17.5)
     TranslationTooltipFrameHeader:Show()
-    TranslationTooltipFrameHeader:SetText(SetColorForLine(itemHeader))
     TranslationTooltipFrameHeader:SetPoint("TOPLEFT", 10, -10)
+
+    if type == "npc" then
+        local r, g, b = GameTooltipTextLeft1:GetTextColor()
+        TranslationTooltipFrameHeader:SetText(itemHeader)
+        TranslationTooltipFrameHeader:SetTextColor(r,g,b)
+    else
+        TranslationTooltipFrameHeader:SetText(SetColorForLine(itemHeader))
+    end
 
     if MultiLanguageOptions.SELECTED_INTERACTION == "hover-hotkey" then
         if hotkeyButtonPressed then

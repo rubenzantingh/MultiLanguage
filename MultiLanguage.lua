@@ -271,10 +271,12 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
         local newLines = 0
         local spellColorLinePassed = false
         local totalFrameHeight = TranslationTooltipFrameHeader:GetHeight()
+        local frameAdditionalHeight = 0
 
         if itemText then
             for line in itemText:gmatch("[^\r\n]+") do
                 local lineFontString
+                local lineFontStringHeight
 
                 if newLines < existingLines then
                     lineFontString = activeItemSpellOrUnitLines[newLines + 1]
@@ -283,12 +285,64 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
                     table.insert(activeItemSpellOrUnitLines, lineFontString)
                 end
 
-                lineFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -2.5)
-                lineFontString:SetText(SetColorForLine(line, spellColorLinePassed))
-                lineFontString:SetWidth(TranslationTooltipFrame:GetWidth() - 17.5)
-                lineFontString:SetJustifyH("LEFT")
+                local firstWord, secondWord = line:match("{(.-)}%s-{(.-)}")
 
-                parent = lineFontString
+                if firstWord and secondWord then
+                    local secondFontString
+
+                    if newLines + 1 < existingLines then
+                        secondFontString = activeItemSpellOrUnitLines[newLines + 2]
+                    else
+                        secondFontString = TranslationTooltipFrame:CreateFontString(nil, "OVERLAY", "GameTooltipText")
+                        table.insert(activeItemSpellOrUnitLines, secondFontString)
+                    end
+
+                    lineFontString:SetPoint(
+                            "TOPLEFT",
+                            parent,
+                            "BOTTOMLEFT",
+                            0,
+                            -2.5 - frameAdditionalHeight
+                    )
+                    lineFontString:SetText(SetColorForLine(firstWord, spellColorLinePassed))
+                    lineFontString:SetWidth(TranslationTooltipFrame:GetWidth() / 2 - 10)
+                    lineFontString:SetJustifyH("LEFT")
+                    lineFontString:Show()
+
+                    secondFontString:SetPoint(
+                            "TOPLEFT",
+                            parent,
+                            "BOTTOMLEFT",
+                            TranslationTooltipFrame:GetWidth() / 2 - 7.5,
+                            -2.5 - frameAdditionalHeight
+                    )
+                    secondFontString:SetText(SetColorForLine(secondWord, spellColorLinePassed))
+                    secondFontString:SetWidth(TranslationTooltipFrame:GetWidth() / 2 - 10)
+                    secondFontString:SetJustifyH("RIGHT")
+                    secondFontString:Show()
+
+                    local heightOne = lineFontString:GetHeight()
+                    local heightTwo = secondFontString:GetHeight()
+
+                    lineFontStringHeight = math.max(heightOne, heightTwo)
+                    newLines = newLines + 2
+
+                    if heightTwo > heightOne then
+                        frameAdditionalHeight = heightTwo - heightOne
+                    else
+                        frameAdditionalHeight = 0
+                    end
+                else
+                    lineFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -2.5 - frameAdditionalHeight)
+                    lineFontString:SetText(SetColorForLine(line, spellColorLinePassed))
+                    lineFontString:SetWidth(TranslationTooltipFrame:GetWidth() - 17.5)
+                    lineFontString:SetJustifyH("LEFT")
+                    lineFontString:Show()
+
+                    lineFontStringHeight = lineFontString:GetHeight()
+                    frameAdditionalHeight = 0
+                    newLines = newLines + 1
+                end
 
                 if type == "spell" then
                     if string.find(line, "%[q%]") then
@@ -296,9 +350,8 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
                     end
                 end
 
-                lineFontString:Show()
-                totalFrameHeight = totalFrameHeight + lineFontString:GetHeight() + 2.5
-                newLines = newLines + 1
+                parent = lineFontString
+                totalFrameHeight = totalFrameHeight + lineFontStringHeight + 2.5
             end
 
             for i = newLines + 1, #activeItemSpellOrUnitLines do
@@ -320,18 +373,35 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
         local totalFrameHeight = TranslationTooltipFrameHeader:GetHeight()
         local existingLines = #activeItemSpellOrUnitLines
         local newLines = 0
+        local frameAdditionalHeight = 0
 
         if itemText then
             for line in itemText:gmatch("[^\r\n]+") do
                 local lineFontString
+                local firstWord, secondWord = line:match("{(.-)} {(.-)}")
+                local lineFontStringHeight
 
                 if newLines < existingLines then
                     lineFontString = activeItemSpellOrUnitLines[newLines + 1]
-                    lineFontString:SetWidth(TranslationTooltipFrame:GetWidth() - 17.5)
-                    totalFrameHeight = totalFrameHeight + lineFontString:GetHeight() + 2.5
-                end
+                    newLines = newLines + 1
 
-                newLines = newLines + 1
+                    if firstWord and secondWord then
+                        local secondFontString = activeItemSpellOrUnitLines[newLines + 1]
+                        local heightOne = lineFontString:GetHeight()
+                        local heightTwo = secondFontString:GetHeight()
+
+                        lineFontString:SetWidth(TranslationTooltipFrame:GetWidth() / 2 - 10)
+                        secondFontString:SetWidth(TranslationTooltipFrame:GetWidth() / 2 -10)
+
+                        newLines = newLines + 1
+                        lineFontStringHeight = math.max(heightOne, heightTwo)
+                    else
+                        lineFontString:SetWidth(TranslationTooltipFrame:GetWidth() - 17.5)
+                        lineFontStringHeight = lineFontString:GetHeight()
+                    end
+
+                    totalFrameHeight = totalFrameHeight + lineFontStringHeight + 2.5
+                end
             end
 
             TranslationTooltipFrame:SetHeight(totalFrameHeight + 20)

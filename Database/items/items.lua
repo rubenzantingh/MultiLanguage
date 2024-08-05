@@ -1,0 +1,2 @@
+MultiLanguageItemData = {}
+MultiLanguageItemData['en'] = {}

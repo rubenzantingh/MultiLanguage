@@ -5,10 +5,16 @@
 ## Version: 1.0.7
 ## SavedVariables: MultiLanguageOptions
 
-Database/items.lua
-Database/npcs.lua
-Database/quests.lua
-Database/spells.lua
+Database/npcs/npcs.lua
+Database/quests/quests.lua
+
+Database/items/items.lua
+Database/items/itemsOne.lua
+Database/items/itemsTwo.lua
+
+Database/spells/spells.lua
+Database/spells/spellsOne.lua
+Database/spells/spellsTwo.lua
 
 Frames/MultiLanguageOptionsFrame.lua
 Frames/ItemSpellAndUnitTranslationFrame.lua

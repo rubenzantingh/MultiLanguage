@@ -10,7 +10,10 @@ local textColorCodes = {
     ["[q2]"] = "|cFF00FF00",
     ["[q3]"] = "|cFF0070DD",
     ["[q4]"] = "|cFFA335EE",
-    ["[q5]"] = "|cFFFF8000"
+    ["[q5]"] = "|cFFFF8000",
+    ["[q6]"] = "|cFFE5CC80",
+    ["[q7]"] = "|cFF00CCFF",
+    ["[q8]"] = "|cFF00CCFF"
 }
 
 local function SetHotkeyButtonPressed(self, key, eventType)

@@ -254,6 +254,18 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
         local r, g, b = GameTooltipTextLeft1:GetTextColor()
         TranslationTooltipFrameHeader:SetText(itemHeader)
         TranslationTooltipFrameHeader:SetTextColor(r,g,b)
+
+        local npcTitleTranslationWidth = TranslationTooltipFrameHeader:GetStringWidth()
+        local gameTooltipWidth = GameTooltip:GetWidth()
+
+        if npcTitleTranslationWidth + 20 > gameTooltipWidth then
+            TranslationTooltipFrame:SetWidth(npcTitleTranslationWidth + 20)
+            TranslationTooltipFrameHeader:SetWidth(TranslationTooltipFrame:GetWidth())
+
+            if TranslationTooltipFrameHeader:IsVisible() then
+                GameTooltip:SetWidth(TranslationTooltipFrame:GetWidth())
+            end
+        end
     else
         TranslationTooltipFrameHeader:SetText(SetColorForLine(itemHeader))
     end
@@ -339,6 +351,7 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
                     lineFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -2.5 - frameAdditionalHeight)
                     lineFontString:SetText(SetColorForLine(line, spellColorLinePassed))
                     lineFontString:SetWidth(TranslationTooltipFrame:GetWidth() - 17.5)
+                    lineFontString:SetNonSpaceWrap(true)
                     lineFontString:SetJustifyH("LEFT")
                     lineFontString:Show()
 

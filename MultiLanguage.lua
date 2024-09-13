@@ -256,6 +256,18 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
         local r, g, b = GameTooltipTextLeft1:GetTextColor()
         ItemSpellAndUnitTranslationFrameHeader:SetText(itemHeader)
         ItemSpellAndUnitTranslationFrameHeader:SetTextColor(r,g,b)
+        
+        local npcTitleTranslationWidth = ItemSpellAndUnitTranslationFrameHeader:GetStringWidth()
+        local gameTooltipWidth = GameTooltip:GetWidth()
+
+        if npcTitleTranslationWidth + 20 > gameTooltipWidth then
+            ItemSpellAndUnitTranslationFrame:SetWidth(npcTitleTranslationWidth + 20)
+            ItemSpellAndUnitTranslationFrameHeader:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth())
+
+            if ItemSpellAndUnitTranslationFrameHeader:IsVisible() then
+                GameTooltip:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth())
+            end
+        end
     else
         ItemSpellAndUnitTranslationFrameHeader:SetText(SetColorForLine(itemHeader))
     end
@@ -341,6 +353,7 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
                     lineFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -2.5 - frameAdditionalHeight)
                     lineFontString:SetText(SetColorForLine(line, spellColorLinePassed))
                     lineFontString:SetWidth(ItemSpellAndUnitTranslationFrame:GetWidth() - 17.5)
+                    lineFontString:SetNonSpaceWrap(true)
                     lineFontString:SetJustifyH("LEFT")
                     lineFontString:Show()
 

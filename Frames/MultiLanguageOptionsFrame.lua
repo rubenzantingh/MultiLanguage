@@ -240,7 +240,12 @@ local function InitializeOptions()
     registerHotkeyButton:SetScript("OnKeyDown", SetHotkeyButton)
     registerHotkeyButton:SetPropagateKeyboardInput(true)
 
-    InterfaceOptions_AddCategory(optionsPanel)
+    if InterfaceOptions_AddCategory then
+        InterfaceOptions_AddCategory(optionsPanel)
+    else
+        local category = Settings.RegisterCanvasLayoutCategory(optionsPanel, optionsPanel.name);
+        Settings.RegisterAddOnCategory(category);
+    end
 end
 
 local function addonLoaded(self, event, addonLoadedName)

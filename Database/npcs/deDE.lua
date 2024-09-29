@@ -9384,7 +9384,6 @@ addonTable.npcData['de'] = {
 [15739] = {name = "Belobigungsoffizier von Thunder Bluff", subname = nil},
 [15740] = {name = "Koloss des Zoraschwarms", subname = nil},
 [15741] = {name = "Koloss des Regalschwarms", subname = nil},
-[15742] = {name = "Koloss des Ashischwarms", subname = nil},
 [15743] = {name = "Kolossaler Kriegshetzer des Anubisath", subname = nil},
 [15744] = {name = "Imperialer Qirajizerstörer", subname = nil},
 [15745] = {name = "Altvater Winters Helfer", subname = nil},

@@ -1,4 +1,4 @@
-MultiLanguageNpcData['en'][1] = {name = "Waypoint (Only GM can see it)", subname = nil}
+MultiLanguageNpcData['en'][1] = {name = "Waypoint (Only GM can see it)", subname = "Visual"}
 MultiLanguageNpcData['en'][2] = {name = "Imp Minion", subname = nil}
 MultiLanguageNpcData['en'][3] = {name = "Flesh Eater", subname = nil}
 MultiLanguageNpcData['en'][4] = {name = "Tournament Supervisor", subname = nil}
@@ -22196,7 +22196,6 @@ MultiLanguageNpcData['en'][30572] = {name = "Nofal", subname = nil}
 MultiLanguageNpcData['en'][30573] = {name = "Duke", subname = nil}
 MultiLanguageNpcData['en'][30574] = {name = "Arion", subname = nil}
 MultiLanguageNpcData['en'][30575] = {name = "Frostbrood Destroyer", subname = nil}
-MultiLanguageNpcData['en'][30576] = {name = "Vile Like Fire! Kill Credit Bunny", subname = nil}
 MultiLanguageNpcData['en'][30577] = {name = "Vanguard Tower Dummy", subname = nil}
 MultiLanguageNpcData['en'][30578] = {name = "Bethany Aldire", subname = "Strand of the Ancients Battlemaster"}
 MultiLanguageNpcData['en'][30579] = {name = "Marga Bearbrawn", subname = "Strand of the Ancients Battlemaster"}
@@ -28112,7 +28111,7 @@ MultiLanguageNpcData['en'][39097] = {name = "High Priest Benedictus Voss", subna
 MultiLanguageNpcData['en'][39098] = {name = "Benedictus Voss Event KC", subname = nil}
 MultiLanguageNpcData['en'][39099] = {name = "General Hawthorne", subname = nil}
 MultiLanguageNpcData['en'][39100] = {name = "Dedlow Wormwood", subname = "Hunter Trainer"}
-MultiLanguageNpcData['en'][39101] = {name = "Courier Tormun", subname = "Explorer's League"}
+MultiLanguageNpcData['en'][39101] = {name = "Courier Tormun", subname = "Explorers' League"}
 MultiLanguageNpcData['en'][39102] = {name = "Lilian's Stranglehold", subname = nil}
 MultiLanguageNpcData['en'][39103] = {name = "Twilight Seeker", subname = "Twilight's Hammer"}
 MultiLanguageNpcData['en'][39116] = {name = "Apolos", subname = "Hunter Trainer"}
@@ -29003,7 +29002,7 @@ MultiLanguageNpcData['en'][40352] = {name = "Witch Doctor Hez'tok", subname = ni
 MultiLanguageNpcData['en'][40353] = {name = "Meatstick 01", subname = nil}
 MultiLanguageNpcData['en'][40355] = {name = "Invocation of Flame Stalker", subname = nil}
 MultiLanguageNpcData['en'][40356] = {name = "Ritual Dancer", subname = nil}
-MultiLanguageNpcData['en'][40357] = {name = "Invoked Flaming Spirit", subname = nil}
+MultiLanguageNpcData['en'][40357] = {name = "Invoked Shadowflame Spirit", subname = nil}
 MultiLanguageNpcData['en'][40358] = {name = "Dyslix Silvergrub", subname = "Flight Master"}
 MultiLanguageNpcData['en'][40359] = {name = "Turtle Meat", subname = nil}
 MultiLanguageNpcData['en'][40360] = {name = "Feathermoon Archer", subname = nil}
@@ -38503,7 +38502,7 @@ MultiLanguageNpcData['en'][51541] = {name = "Sunveil Scout", subname = "The Rel
 MultiLanguageNpcData['en'][51542] = {name = "Surwich Warden", subname = nil}
 MultiLanguageNpcData['en'][51543] = {name = "Farstrider Scout", subname = nil}
 MultiLanguageNpcData['en'][51544] = {name = "Aeris Landing Nexus-Guard", subname = nil}
-MultiLanguageNpcData['en'][51545] = {name = "Explorer's League Scout", subname = nil}
+MultiLanguageNpcData['en'][51545] = {name = "Explorers' League Scout", subname = nil}
 MultiLanguageNpcData['en'][51546] = {name = "Nozzlerust Bruiser", subname = nil}
 MultiLanguageNpcData['en'][51547] = {name = "Dubra'Jin Watcher", subname = nil}
 MultiLanguageNpcData['en'][51548] = {name = "Emerald Guardian", subname = nil}

@@ -41584,3 +41584,4 @@ MultiLanguageNpcData['en'][228666] = {name = "Honor Vendor", subname = nil}
 MultiLanguageNpcData['en'][228667] = {name = "Conquest Vendor", subname = nil}
 MultiLanguageNpcData['en'][228668] = {name = "Glorious Conquest Vendor", subname = nil}
 MultiLanguageNpcData['en'][228792] = {name = "Magmaw Spike Stalker", subname = nil}
+MultiLanguageNpcData['en'][232984] = {name = "Molten Frontaur", subname = "Molten Front Supplies"}

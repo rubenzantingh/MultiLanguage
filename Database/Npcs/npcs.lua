@@ -17485,7 +17485,6 @@ MultiLanguageNpcData['en'][25142] = {name = "Shattered Sun Marksman", subname = 
 MultiLanguageNpcData['en'][25143] = {name = "Shattered Sun Veteran", subname = nil}
 MultiLanguageNpcData['en'][25144] = {name = "Shattered Sun Bombardier", subname = nil}
 MultiLanguageNpcData['en'][25145] = {name = "Budd's Bodyguard", subname = nil}
-MultiLanguageNpcData['en'][25146] = {name = "Golden Pig", subname = nil}
 MultiLanguageNpcData['en'][25147] = {name = "Silver Pig", subname = nil}
 MultiLanguageNpcData['en'][25148] = {name = "Bergrisst", subname = "The Tauren Chieftains"}
 MultiLanguageNpcData['en'][25149] = {name = "Chief Thunder-Skins", subname = "The Tauren Chieftains"}

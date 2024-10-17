@@ -3893,7 +3893,7 @@ addonTable.npcData['en'] = {
 [4661] = {name = "Gelkis Rumbler", subname = nil},
 [4662] = {name = "Magram Bonepaw", subname = nil},
 [4663] = {name = "Burning Blade Augur", subname = nil},
-[4664] = {name = "Burning Blade Enforcer", subname = nil},
+[4664] = {name = "Burning Blade Reaver", subname = nil},
 [4665] = {name = "Burning Blade Adept", subname = nil},
 [4666] = {name = "Burning Blade Felsworn", subname = nil},
 [4667] = {name = "Burning Blade Shadowmage", subname = nil},
@@ -11250,4 +11250,5 @@ addonTable.npcData['en'] = {
 [233575] = {name = "Aeonas", subname = "Former Paladin of the Silver Hand"},
 [233776] = {name = "Gregory", subname = "Truthbearer"},
 [233988] = {name = "Moonkin", subname = nil},
+[234072] = {name = "Rabbit", subname = nil},
 }

@@ -26850,7 +26850,6 @@ MultiLanguageNpcData['en'][151313] = {name = "Well-Fed Slime", subname = nil}
 MultiLanguageNpcData['en'][151314] = {name = "Islands", subname = nil}
 MultiLanguageNpcData['en'][151315] = {name = "Twilight Earthwarper", subname = nil}
 MultiLanguageNpcData['en'][151316] = {name = "King Mechagon", subname = nil}
-MultiLanguageNpcData['en'][151317] = {name = "Ravnyr", subname = nil}
 MultiLanguageNpcData['en'][151318] = {name = "Hastily-repaired Bike", subname = nil}
 MultiLanguageNpcData['en'][151319] = {name = "Li'zal", subname = "Priestess of Torcali"}
 MultiLanguageNpcData['en'][151320] = {name = "Luminescent Grouper", subname = nil}

@@ -41798,5 +41798,8 @@ MultiLanguageNpcData['en'][233409] = {name = "Chitin Knight", subname = nil}
 MultiLanguageNpcData['en'][233410] = {name = "Sureki Silkbow", subname = nil}
 MultiLanguageNpcData['en'][233413] = {name = "Sureki Darkblade", subname = nil}
 MultiLanguageNpcData['en'][233422] = {name = "Nerub-ar Palace", subname = nil}
+MultiLanguageNpcData['en'][233446] = {name = "Generic Bunny", subname = nil}
 MultiLanguageNpcData['en'][233487] = {name = "Snorzidormu", subname = nil}
 MultiLanguageNpcData['en'][233492] = {name = "Temporal Guardian", subname = nil}
+MultiLanguageNpcData['en'][233886] = {name = "Area Trigger Stalker [DNT]", subname = nil}
+MultiLanguageNpcData['en'][234024] = {name = "Egg Cocoon", subname = nil}

@@ -10582,6 +10582,7 @@ MultiLanguageNpcData['en'][77880] = {name = "Soulbinder Aedraa", subname = nil}
 MultiLanguageNpcData['en'][77881] = {name = "Bloodbristle", subname = "Rak'nar's Pet"}
 MultiLanguageNpcData['en'][77882] = {name = "Cliff Bloodwing", subname = nil}
 MultiLanguageNpcData['en'][77883] = {name = "Iron Punisher", subname = nil}
+MultiLanguageNpcData['en'][77884] = {name = "Iron Punisher", subname = nil}
 MultiLanguageNpcData['en'][77885] = {name = "Iron Marauder", subname = nil}
 MultiLanguageNpcData['en'][77886] = {name = "Frost Wolf", subname = nil}
 MultiLanguageNpcData['en'][77887] = {name = "Iron Marauder", subname = nil}

@@ -4080,7 +4080,7 @@ MultiLanguageNpcData['en'][4972] = {name = "Kagoro", subname = nil}
 MultiLanguageNpcData['en'][4973] = {name = "Guard Lasiter", subname = nil}
 MultiLanguageNpcData['en'][4974] = {name = "Aldwin Laughlin", subname = "Guild Master"}
 MultiLanguageNpcData['en'][4975] = {name = "Theramore Archery Target 2", subname = nil}
-MultiLanguageNpcData['en'][4976] = {name = "Elise Laughlin", subname = "Guild Tabard Designer"}
+MultiLanguageNpcData['en'][4976] = {name = "Elise Laughlin", subname = "Tabard Designer"}
 MultiLanguageNpcData['en'][4977] = {name = "Murkshallow Softshell", subname = nil}
 MultiLanguageNpcData['en'][4978] = {name = "Aku'mai Servant", subname = nil}
 MultiLanguageNpcData['en'][4979] = {name = "Theramore Guard", subname = nil}
@@ -16669,7 +16669,6 @@ MultiLanguageNpcData['en'][24362] = {name = "Longrunner Pembe", subname = nil}
 MultiLanguageNpcData['en'][24363] = {name = "Hex Lord Malacrass", subname = nil}
 MultiLanguageNpcData['en'][24364] = {name = "Flynn Firebrew", subname = nil}
 MultiLanguageNpcData['en'][24365] = {name = "Harrison's Corpse", subname = nil}
-MultiLanguageNpcData['en'][24366] = {name = "Nizzle", subname = "Gryphon Master"}
 MultiLanguageNpcData['en'][24367] = {name = "Amani'shi Gate Guard", subname = nil}
 MultiLanguageNpcData['en'][24368] = {name = "Swift Brewfest Ram", subname = nil}
 MultiLanguageNpcData['en'][24369] = {name = "Wind Trader Zhareem", subname = nil}
@@ -17283,7 +17282,7 @@ MultiLanguageNpcData['en'][25021] = {name = "Mariner Moonblade", subname = "Feat
 MultiLanguageNpcData['en'][25022] = {name = "Mariner Stillwake", subname = "Feathermoon Ferry"}
 MultiLanguageNpcData['en'][25023] = {name = "Mariner Everwatch", subname = "Feathermoon Ferry"}
 MultiLanguageNpcData['en'][25024] = {name = "Mariner Softsong", subname = "Feathermoon Ferry"}
-MultiLanguageNpcData['en'][25025] = {name = "Captain Idrilae", subname = "Feathermoon Ferry"}
+MultiLanguageNpcData['en'][25025] = {name = "Captain Idrilae", subname = "Retired Captain"}
 MultiLanguageNpcData['en'][25026] = {name = "Mutinous Sea Dog", subname = nil}
 MultiLanguageNpcData['en'][25027] = {name = "Frenzied Ghoul", subname = nil}
 MultiLanguageNpcData['en'][25028] = {name = "Skeletal Ravager", subname = nil}
@@ -22196,6 +22195,7 @@ MultiLanguageNpcData['en'][30572] = {name = "Nofal", subname = nil}
 MultiLanguageNpcData['en'][30573] = {name = "Duke", subname = nil}
 MultiLanguageNpcData['en'][30574] = {name = "Arion", subname = nil}
 MultiLanguageNpcData['en'][30575] = {name = "Frostbrood Destroyer", subname = nil}
+MultiLanguageNpcData['en'][30576] = {name = "Vile Like Fire! Kill Credit Bunny", subname = nil}
 MultiLanguageNpcData['en'][30577] = {name = "Vanguard Tower Dummy", subname = nil}
 MultiLanguageNpcData['en'][30578] = {name = "Bethany Aldire", subname = "Strand of the Ancients Battlemaster"}
 MultiLanguageNpcData['en'][30579] = {name = "Marga Bearbrawn", subname = "Strand of the Ancients Battlemaster"}

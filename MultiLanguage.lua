@@ -77,6 +77,10 @@ local function SetQuestDetails(headerText, objectiveText, descriptionHeader, des
     addPadding(descriptionHeader, 10)
     addPadding(descriptionText, 5)
 
+    if QuestModelScene:IsShown() then
+        xOffset = xOffset + QuestModelScene:GetWidth()
+    end
+
     QuestTranslationFramePrimaryHeader:SetPoint("TOPLEFT", 10, -10)
     QuestTranslationFramePrimaryText:SetPoint("TOPLEFT", 10, textTopMargin)
     QuestTranslationFrameSecondaryHeader:SetPoint("TOPLEFT", 10, descriptionHeaderTopMargin)

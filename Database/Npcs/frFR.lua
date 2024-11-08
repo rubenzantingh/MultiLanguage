@@ -7616,7 +7616,6 @@ addonTable.npcData['fr'] = {
 [11827] = {name = "Kimberly Grant", subname = nil},
 [11828] = {name = "Kelly Grant", subname = nil},
 [11829] = {name = "Fahrak", subname = nil},
-[11830] = {name = "Prêtre Hakkari", subname = nil},
 [11831] = {name = "Sorcier-docteur Hakkari", subname = nil},
 [11832] = {name = "Gardien Remulos", subname = nil},
 [11833] = {name = "Rahauro", subname = "Serviteur de Magatha"},

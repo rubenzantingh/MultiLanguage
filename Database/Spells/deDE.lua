@@ -8477,6 +8477,7 @@ addonTable.spellData['de'] = {
 [12538] = {name = "Gefräßige Klaue", additional_info = "Nahkampfreichweite\nNächster Nahkampf\n[q]Entzieht einem Feind 93 to 107 Punkt(e) Gesundheit und überträgt sie auf den Zaubernden."},
 [12539] = {name = "Ghulfäulnis", additional_info = "(Procchance: 5%)"},
 [12540] = {name = "Solarplexus", additional_info = "Nahkampfreichweite\nSofort\nBenötigt Nahkampfwaffe\n[q]Fügt einem Feind 20 Punkt(e) Schaden zu und betäubt ihn bis zu 4 sec lang. Ihr stoppt alle Angriffe automatisch. Das Ziel muss Euch zugewandt sein. Jeder Schaden, der dem betäubten Ziel zugefügt wird, lässt es wieder aufwachen."},
+[12541] = {name = "Ghulfäulnis", additional_info = nil},
 [12542] = {name = "Furcht", additional_info = "20 Meter Reichweite\nWirken in 1.5 sek.\n[q]Erfüllt einen Feind mit Furcht, woraufhin er 4 sec lang voller Schrecken flüchtet. Es kann immer nur jeweils ein einzelnes Ziel mit Furcht erfüllt werden."},
 [12543] = {name = "Hochexplosive Bombe", additional_info = "15 Meter Reichweite\nWirken in 1 sek.\n[q]Fügt 255 to 345 Feuerschaden zu und betäubt Ziele 3 sec lang in einem Umkreis von 3 Metern. Jeglicher Schaden wird den Effekt abbrechen."},
 [12544] = {name = "Frostrüstung", additional_info = "10 Mana\n{Sofort} {10 sek. Abklingzeit}\n[q]Umgibt den Zaubernden mit einer Frostschicht, die 30 min lang bestehen bleibt. Das dicke Eis erhöht die Rüstung um 12, verlangsamt das Bewegungstempo von Nahkampfangreifern um 25% und erhöht die Zeit zwischen ihren Angriffen um 30%."},

@@ -1,0 +1,36 @@
+name: Create Release on commit with tag
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the code
+      uses: actions/checkout@v4
+
+    - name: Get the latest tag
+      id: get_tag
+      run: echo "TAG_NAME=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
+
+    - name: Get commit message
+      id: get_commit_message
+      run: |
+        COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+        echo "COMMIT_MESSAGE=$COMMIT_MESSAGE" >> $GITHUB_ENV
+
+    - name: Create a new release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: '${{ env.TAG_NAME }}'
+        release_name: '${{ env.TAG_NAME }}'
+        draft: false
+        prerelease: false
+        body: "${{ env.COMMIT_MESSAGE }}"

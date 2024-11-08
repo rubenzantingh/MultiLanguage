@@ -17485,6 +17485,7 @@ MultiLanguageNpcData['en'][25142] = {name = "Shattered Sun Marksman", subname = 
 MultiLanguageNpcData['en'][25143] = {name = "Shattered Sun Veteran", subname = nil}
 MultiLanguageNpcData['en'][25144] = {name = "Shattered Sun Bombardier", subname = nil}
 MultiLanguageNpcData['en'][25145] = {name = "Budd's Bodyguard", subname = nil}
+MultiLanguageNpcData['en'][25146] = {name = "Golden Pig", subname = nil}
 MultiLanguageNpcData['en'][25147] = {name = "Silver Pig", subname = nil}
 MultiLanguageNpcData['en'][25148] = {name = "Bergrisst", subname = "The Tauren Chieftains"}
 MultiLanguageNpcData['en'][25149] = {name = "Chief Thunder-Skins", subname = "The Tauren Chieftains"}
@@ -41571,6 +41572,7 @@ MultiLanguageNpcData['en'][222858] = {name = "Pinchy the Plunderer", subname = n
 MultiLanguageNpcData['en'][224065] = {name = "Swoopy", subname = nil}
 MultiLanguageNpcData['en'][225965] = {name = "Frix Xizzix", subname = "Bloodthirsty PvP Gear Vendor"}
 MultiLanguageNpcData['en'][226201] = {name = "Peletort", subname = "Dungeon Friend"}
+MultiLanguageNpcData['en'][226260] = {name = "Fopreshin", subname = "Profession Friend"}
 MultiLanguageNpcData['en'][226581] = {name = "Wind Rider", subname = nil}
 MultiLanguageNpcData['en'][227495] = {name = "(DNT) Invisible Stalker", subname = nil}
 MultiLanguageNpcData['en'][228374] = {name = "Accessories Vendor", subname = nil}
@@ -41583,4 +41585,11 @@ MultiLanguageNpcData['en'][228666] = {name = "Honor Vendor", subname = nil}
 MultiLanguageNpcData['en'][228667] = {name = "Conquest Vendor", subname = nil}
 MultiLanguageNpcData['en'][228668] = {name = "Glorious Conquest Vendor", subname = nil}
 MultiLanguageNpcData['en'][228792] = {name = "Magmaw Spike Stalker", subname = nil}
-MultiLanguageNpcData['en'][232984] = {name = "Molten Frontaur", subname = "Molten Front Supplies"}
+MultiLanguageNpcData['en'][229834] = {name = "Lava Drake", subname = nil}
+MultiLanguageNpcData['en'][232025] = {name = "Chaos-Born Dreadwing", subname = nil}
+MultiLanguageNpcData['en'][232050] = {name = "Chaos-Born Wind Rider", subname = nil}
+MultiLanguageNpcData['en'][232051] = {name = "Chaos-Born Hippogryph", subname = nil}
+MultiLanguageNpcData['en'][232053] = {name = "Chaos-Born Gryphon", subname = nil}
+MultiLanguageNpcData['en'][232527] = {name = "Reven", subname = nil}
+MultiLanguageNpcData['en'][232984] = {name = "Molten Frontaur", subname = "Molten Front and Fireland Supplies"}
+MultiLanguageNpcData['en'][234135] = {name = "Kyanite Stonetender", subname = "Fissure Stone Fragment Exchange"}

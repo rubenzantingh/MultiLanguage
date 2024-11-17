@@ -1,8 +1,8 @@
-## Interface: 110002
+## Interface: 110005
 ## Title: MultiLanguage
 ## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh
-## Version: 1.0.1
+## Version: 1.0.2
 ## SavedVariables: MultiLanguageOptions
 
 Database/Quests/quests.lua
@@ -21,6 +21,7 @@ Database/Spells/spellsFour.lua
 Database/Spells/spellsFive.lua
 Database/Spells/spellsSix.lua
 Database/Spells/spellsSeven.lua
+Database/Spells/spellsEight.lua
 
 Database/Npcs/npcs.lua
 Database/Npcs/npcsOne.lua

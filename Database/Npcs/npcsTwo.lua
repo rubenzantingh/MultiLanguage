@@ -3449,7 +3449,7 @@ MultiLanguageNpcData['en'][68972] = {name = "Lady Jaina Proudmoore", subname = "
 MultiLanguageNpcData['en'][68973] = {name = "Fennie Hornswaggle", subname = "Explorers' League"}
 MultiLanguageNpcData['en'][68974] = {name = "Fennie's Kite", subname = nil}
 MultiLanguageNpcData['en'][68975] = {name = "Garrosh Hellscream", subname = "Warchief"}
-MultiLanguageNpcData['en'][68976] = {name = "Ishi", subname = "TEMP DRESSING"}
+MultiLanguageNpcData['en'][68976] = {name = "Ishi", subname = nil}
 MultiLanguageNpcData['en'][68977] = {name = "Kor'kron Bodyguard", subname = nil}
 MultiLanguageNpcData['en'][68978] = {name = "Sunreaver Refugee", subname = nil}
 MultiLanguageNpcData['en'][68979] = {name = "Voidbinder Zorlan", subname = nil}
@@ -6901,7 +6901,7 @@ MultiLanguageNpcData['en'][73470] = {name = "Bladespire Mauler", subname = nil}
 MultiLanguageNpcData['en'][73471] = {name = "Ogre Shaman", subname = nil}
 MultiLanguageNpcData['en'][73472] = {name = "Bladespire Stonecaster", subname = nil}
 MultiLanguageNpcData['en'][73473] = {name = "Kill Credit: Tribal Stone 01", subname = nil}
-MultiLanguageNpcData['en'][73474] = {name = "Hilda Hornswaggle", subname = "Explorer's League"}
+MultiLanguageNpcData['en'][73474] = {name = "Hilda Hornswaggle", subname = "Explorers' League"}
 MultiLanguageNpcData['en'][73475] = {name = "Image of Cho'gall", subname = "Shadow Council"}
 MultiLanguageNpcData['en'][73476] = {name = "Saltbite Crocolisk", subname = nil}
 MultiLanguageNpcData['en'][73477] = {name = "Searing Totem", subname = nil}
@@ -11691,7 +11691,7 @@ MultiLanguageNpcData['en'][79154] = {name = "Holy Priest", subname = "Holy"}
 MultiLanguageNpcData['en'][79155] = {name = "Earthbind Totem", subname = nil}
 MultiLanguageNpcData['en'][79156] = {name = "Holy Paladin", subname = "Holy"}
 MultiLanguageNpcData['en'][79157] = {name = "Mistweaver Monk", subname = "Mistweaver"}
-MultiLanguageNpcData['en'][79158] = {name = "Void Touched Pumpkin", subname = nil}
+MultiLanguageNpcData['en'][79158] = {name = "Void-Touched Pumpkin", subname = nil}
 MultiLanguageNpcData['en'][79159] = {name = "Apprentice Miall", subname = nil}
 MultiLanguageNpcData['en'][79160] = {name = "Master Smith Ared", subname = nil}
 MultiLanguageNpcData['en'][79161] = {name = "Shog", subname = nil}
@@ -29812,7 +29812,7 @@ MultiLanguageNpcData['en'][99836] = {name = "Restless Earth", subname = nil}
 MultiLanguageNpcData['en'][99837] = {name = "Qiraji Mindslayer", subname = nil}
 MultiLanguageNpcData['en'][99838] = {name = "Mathel Rustwrench", subname = "Flying Machine Engineer"}
 MultiLanguageNpcData['en'][99839] = {name = "Miner Grothor", subname = nil}
-MultiLanguageNpcData['en'][99840] = {name = "Prospector Drugan", subname = "Explorer's League"}
+MultiLanguageNpcData['en'][99840] = {name = "Prospector Drugan", subname = "Explorers' League"}
 MultiLanguageNpcData['en'][99841] = {name = "Starlight Focus", subname = nil}
 MultiLanguageNpcData['en'][99842] = {name = "Stormwind Priest", subname = nil}
 MultiLanguageNpcData['en'][99843] = {name = "Cook Ghilm", subname = "Cooking Trainer"}
@@ -47220,7 +47220,7 @@ MultiLanguageNpcData['en'][119404] = {name = "Kill Credit: Speak with Anduin", s
 MultiLanguageNpcData['en'][119405] = {name = "Kill Credit: Walk the Streets", subname = nil}
 MultiLanguageNpcData['en'][119406] = {name = "Kill Credit: Advisors Heard", subname = nil}
 MultiLanguageNpcData['en'][119410] = {name = "Grelin Whitebeard", subname = nil}
-MultiLanguageNpcData['en'][119411] = {name = "Sir Finley Mrrgglton", subname = "Explorer's League"}
+MultiLanguageNpcData['en'][119411] = {name = "Sir Finley Mrrgglton", subname = "Explorers' League"}
 MultiLanguageNpcData['en'][119412] = {name = "Dreadborne Overfiend", subname = nil}
 MultiLanguageNpcData['en'][119414] = {name = "Kill Credit: Letter Gathered", subname = nil}
 MultiLanguageNpcData['en'][119418] = {name = "Kill Credit: Stormwind Keep", subname = nil}
@@ -47232,7 +47232,7 @@ MultiLanguageNpcData['en'][119425] = {name = "Wrathguard Soulbreaker", subname =
 MultiLanguageNpcData['en'][119426] = {name = "Kill Credit: Meet Anduin", subname = nil}
 MultiLanguageNpcData['en'][119427] = {name = "Kill Credit: Anduin Meditation", subname = nil}
 MultiLanguageNpcData['en'][119428] = {name = "Mo'arg", subname = nil}
-MultiLanguageNpcData['en'][119430] = {name = "Reno Jackson", subname = "Explorer's League"}
+MultiLanguageNpcData['en'][119430] = {name = "Reno Jackson", subname = "Explorers' League"}
 MultiLanguageNpcData['en'][119431] = {name = "Sen'jin Shieldmasta", subname = nil}
 MultiLanguageNpcData['en'][119432] = {name = "Chillwind Yeti", subname = nil}
 MultiLanguageNpcData['en'][119433] = {name = "Kobold Geomancer", subname = nil}

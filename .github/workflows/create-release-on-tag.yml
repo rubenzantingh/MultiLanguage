@@ -9,28 +9,56 @@ jobs:
   release:
     runs-on: ubuntu-latest
 
+    env:
+      CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+
     steps:
-    - name: Checkout the code
-      uses: actions/checkout@v4
+      - name: Checkout the code
+        uses: actions/checkout@v4
 
-    - name: Get the latest tag
-      id: get_tag
-      run: echo "TAG_NAME=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
+      - name: Get the latest tag
+        id: get_tag
+        run: echo "TAG_NAME=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
 
-    - name: Get commit message
-      id: get_commit_message
-      run: |
-        COMMIT_MESSAGE=$(git log -1 --pretty=%B)
-        echo "COMMIT_MESSAGE=$COMMIT_MESSAGE" >> $GITHUB_ENV
+      - name: Get commit message
+        id: get_commit_message
+        run: |
+          COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+          echo "COMMIT_MESSAGE=$COMMIT_MESSAGE" >> $GITHUB_ENV
 
-    - name: Create a new release
-      id: create_release
-      uses: actions/create-release@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag_name: '${{ env.TAG_NAME }}'
-        release_name: '${{ env.TAG_NAME }}'
-        draft: false
-        prerelease: false
-        body: "${{ env.COMMIT_MESSAGE }}"
+      - name: Create additional ZIP file with new name
+        run: |
+          mkdir -p release/MultiLanguage
+          find . -maxdepth 1 -mindepth 1 ! -name 'release' ! -name '.git' ! -name '.github' -exec cp -r {} release/MultiLanguage \;
+          cd release
+          zip -r ../MultiLanguage.zip MultiLanguage \
+              -x "**/.git/**" \
+              -x "**/.github/**" \
+              -x "**/.gitattributes" \
+              -x "**/.gitignore" \
+              -x "**/cf-upload.sh"
+
+      - name: Create a new release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: '${{ env.TAG_NAME }}'
+          release_name: '${{ env.TAG_NAME }}'
+          draft: false
+          prerelease: false
+          body: "${{ env.COMMIT_MESSAGE }}"
+
+      - name: Upload additional file to the release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: MultiLanguage.zip
+          asset_name: MultiLanguage.zip
+          asset_content_type: application/zip
+
+      - name: Upload Curseforge file
+        run: sh cf-upload.sh "${{ env.TAG_NAME }}" "${{ env.COMMIT_MESSAGE }}"

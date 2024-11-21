@@ -15585,7 +15585,7 @@ MultiLanguageSpellData['en'][99200] = {name = "Burning Hunger", additional_info 
 MultiLanguageSpellData['en'][99201] = {name = "Summon Enabler", additional_info = nil}
 MultiLanguageSpellData['en'][99202] = {name = "Taming the Flames", additional_info = "Instant\n[q]Resets the cooldown on your Fire Elemental Totem."}
 MultiLanguageSpellData['en'][99203] = {name = "100% Threat Reduction", additional_info = nil}
-MultiLanguageSpellData['en'][99204] = {name = "Item - Shaman T12 Elemental 2P Bonus", additional_info = "[q]Your Lightning Bolt has a 30% chance to reduce the remaining cooldown on your Fire Elemental Totem by 4 sec.\n(Proc chance: 30%)"}
+MultiLanguageSpellData['en'][99204] = {name = "Item - Shaman T12 Elemental 2P Bonus", additional_info = "[q]Your damaging spells have a chance to reset the remaining cooldown on your Fire Elemental Totem.\n(Proc chance: 8%, 1.75m cooldown)"}
 MultiLanguageSpellData['en'][99206] = {name = "Item - Shaman T12 Elemental 4P Bonus", additional_info = "[q]Your Lava Surge talent also makes Lava Burst instant when it triggers."}
 MultiLanguageSpellData['en'][99207] = {name = "Volcano", additional_info = "Instant\n[q]Your next Lava Burst will be instant.\n[q]Modifies Cast Time -100%:\nLava Burst"}
 MultiLanguageSpellData['en'][99208] = {name = "Ritual of the Flame", additional_info = "20 yd range\nInstant\n[q]The Ritual of the Flame deals 50000 Fire damage to nearby enemies."}
@@ -20311,3 +20311,9 @@ MultiLanguageSpellData['en'][473053] = {name = "Gushing Wound", additional_info 
 MultiLanguageSpellData['en'][473583] = {name = "Open Fire Portal", additional_info = "20 yd range\nInstant\n[q]Combine four charged foci to force open the portal at the Circle of Thorns."}
 MultiLanguageSpellData['en'][473683] = {name = "Combat Pulse", additional_info = nil}
 MultiLanguageSpellData['en'][1214176] = {name = "Award Justice 250", additional_info = "Instant\n[q]Awards yourself 250 Justice points"}
+MultiLanguageSpellData['en'][1214948] = {name = "Explosive Shot", additional_info = nil}
+MultiLanguageSpellData['en'][1215229] = {name = "Item - Shaman T12 Elemental 2P Bonus", additional_info = "[q]Your Lightning Bolt has a 30% chance to reduce the remaining cooldown on your Fire Elemental Totem by 4 sec.\n(Proc chance: 30%)"}
+MultiLanguageSpellData['en'][1215484] = {name = "Explosive Shot", additional_info = "100 yd range\nInstant\nRequires Ranged Weapon\n[q]You fire an explosive charge into the enemy target, dealing (Ranged attack power * 0.273 + 449 ) Fire damage. The charge will blast the target every second for an additional 2 sec."}
+MultiLanguageSpellData['en'][1215485] = {name = "Explosive Shot", additional_info = "100 yd range\nInstant\nRequires Ranged Weapon\n[q]You fire an explosive charge into the enemy target, dealing (Ranged attack power * 0.273 + 449 ) Fire damage. The charge will blast the target every second for an additional 2 sec."}
+MultiLanguageSpellData['en'][1215486] = {name = "Explosive Shot", additional_info = "100 yd range\nInstant\nRequires Ranged Weapon\n[q]You fire an explosive charge into the enemy target, dealing (Ranged attack power * 0.273 + 449 ) Fire damage. The charge will blast the target every second for an additional 2 sec."}
+MultiLanguageSpellData['en'][1215492] = {name = "Superheated", additional_info = nil}

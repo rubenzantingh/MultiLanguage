@@ -344,7 +344,6 @@ MultiLanguageNpcData['en'][121366] = {name = "Kirin Tor Guardians", subname = ni
 MultiLanguageNpcData['en'][121367] = {name = "Kirin Tor Guardians", subname = nil}
 MultiLanguageNpcData['en'][121368] = {name = "Kirin Tor Guardians", subname = nil}
 MultiLanguageNpcData['en'][121369] = {name = "Masters of Serenity", subname = nil}
-MultiLanguageNpcData['en'][121370] = {name = "Masters of Serenity", subname = nil}
 MultiLanguageNpcData['en'][121371] = {name = "Masters of Serenity", subname = nil}
 MultiLanguageNpcData['en'][121372] = {name = "Silver Hand Crusaders", subname = nil}
 MultiLanguageNpcData['en'][121373] = {name = "Silver Hand Crusaders", subname = nil}

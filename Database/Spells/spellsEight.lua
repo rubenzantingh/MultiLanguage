@@ -1,3 +1,8 @@
+MultiLanguageSpellData['en'][465783] = {name = "Teleport Demon", additional_info = nil}
+MultiLanguageSpellData['en'][465805] = {name = "Destroy Magic", additional_info = "10 yd range\n{2 sec cast} {12 sec cooldown}\n[q]Strike an enemy and destroy their magical connections, inflicting 15 Spellstrike damage and removing 1 beneficial Magic effect."}
+MultiLanguageSpellData['en'][465815] = {name = "Scything Cleave", additional_info = "Melee Range\n0.75 sec cast\n[q]Inflicts 110% of normal melee damage to an enemy and its nearest allies, affecting up to 3 targets."}
+MultiLanguageSpellData['en'][465828] = {name = "Ground Shatter", additional_info = "Melee Range\n{3.5 sec cast} {13 sec cooldown}\n[q]Knocks all enemies within 9 yards of the caster back.\n Inflicts 48 Physical damage to enemies within 9 yards."}
+MultiLanguageSpellData['en'][465843] = {name = "Whirling Water", additional_info = "Instant\n[q]Your next Healing Wave or Healing Surge also heals an ally inside of your Healing Rain at 0% effectiveness."}
 MultiLanguageSpellData['en'][465853] = {name = "Idol Face Target", additional_info = nil}
 MultiLanguageSpellData['en'][465854] = {name = "\"Dogg-Saron\" Costume", additional_info = "20 yd range\nInstant\n[q]Dress up your Perky Pug."}
 MultiLanguageSpellData['en'][465855] = {name = "Knocked Back", additional_info = nil}
@@ -402,7 +407,7 @@ MultiLanguageSpellData['en'][468695] = {name = "Snakeskin Quiver", additional_in
 MultiLanguageSpellData['en'][468701] = {name = "Serpentine Rhythm", additional_info = "[q]Casting Cobra Shot increases its damage by 25%. Stacks up to 4 times.\n\n Upon reaching 4 stacks, the bonus is removed and you gain 8% increased pet damage for 8 sec."}
 MultiLanguageSpellData['en'][468703] = {name = "Serpentine Ryhthm", additional_info = "Instant\n[q]Kill Shot will strike 1 additional target and deal 10% increased damage for each of your active pets. Stacks up to 5 times."}
 MultiLanguageSpellData['en'][468704] = {name = "Serpentine Blessing", additional_info = "Instant\n[q]Casting Cobra Shot increases its damage by 25%. Stacks up to 4 times.\n\n Upon reaching 4 stacks, the bonus is removed and you gain 8% increased pet damage for 8 sec."}
-MultiLanguageSpellData['en'][468732] = {name = "Unpacking Lost & Found Chest", additional_info = "3 sec cast\nReagents:\nItem #231773\n[q]Unpack the chest to get all five of the items out of it."}
+MultiLanguageSpellData['en'][468732] = {name = "Unpacking Lost & Found Chest", additional_info = "3 sec cast\nReagents:\nLost & Found Chest\n[q]Unpack the chest to get all five of the items out of it."}
 MultiLanguageSpellData['en'][468743] = {name = "Whirling Stars", additional_info = "[q][ Incarnation: Chosen of Elune / Celestial Alignment]'s cooldown is reduced to 100 seconds and it has two charges, but its duration is reduced by 20%."}
 MultiLanguageSpellData['en'][468757] = {name = "Cat Form", additional_info = "Instant\n[q]Shapeshift into Cat Form, increasing auto-attack damage by 40%, movement speed by 30%, granting protection from Polymorph effects, and reducing falling damage.\n\n The act of shapeshifting frees you from movement impairing effects."}
 MultiLanguageSpellData['en'][468795] = {name = "Dark Iron Dynamite", additional_info = "100 yd range\n2 sec cast\n[q]Throws a bomb at the target location, inflicting 1523612 Fire damage to nearby enemies and knocking them back."}

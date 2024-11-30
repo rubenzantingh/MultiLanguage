@@ -313,7 +313,6 @@ MultiLanguageNpcData['en'][65080] = {name = "Chi Master Lim", subname = nil}
 MultiLanguageNpcData['en'][65081] = {name = "Master Cranewing", subname = nil}
 MultiLanguageNpcData['en'][65082] = {name = "Mandori Disciple", subname = nil}
 MultiLanguageNpcData['en'][65083] = {name = "Foolish Chao", subname = nil}
-MultiLanguageNpcData['en'][65084] = {name = "Crimson Butterfly", subname = nil}
 MultiLanguageNpcData['en'][65085] = {name = "Jin", subname = nil}
 MultiLanguageNpcData['en'][65086] = {name = "Da Na", subname = nil}
 MultiLanguageNpcData['en'][65087] = {name = "Trader Feng", subname = "General Goods"}

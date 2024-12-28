@@ -57,7 +57,6 @@ MultiLanguageNpcData['en'][64819] = {name = "Horde Banner", subname = nil}
 MultiLanguageNpcData['en'][64820] = {name = "Rock FX Bunny [DND]", subname = nil}
 MultiLanguageNpcData['en'][64821] = {name = "Tong the Fixer", subname = "Innkeeper"}
 MultiLanguageNpcData['en'][64822] = {name = "Wrathion", subname = "The Black Prince"}
-MultiLanguageNpcData['en'][64822] = {name = "Wrathion", subname = "The Black Prince"}
 MultiLanguageNpcData['en'][64823] = {name = "Main Spell FX Bunny [DND]", subname = nil}
 MultiLanguageNpcData['en'][64824] = {name = "Smaller Spell FX Bunny [DND]", subname = nil}
 MultiLanguageNpcData['en'][64825] = {name = "Leng Windstaff", subname = "The Lorewalkers"}

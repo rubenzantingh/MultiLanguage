@@ -24351,7 +24351,7 @@ MultiLanguageNpcData['en'][33695] = {name = "Cultist Bombardier", subname = nil}
 MultiLanguageNpcData['en'][33696] = {name = "Archmage Rhydian", subname = nil}
 MultiLanguageNpcData['en'][33697] = {name = "Raging Ancient Target", subname = nil}
 MultiLanguageNpcData['en'][33698] = {name = "Argent Peacekeeper", subname = nil}
-MultiLanguageNpcData['en'][33699] = {name = "Storm Tempered Keeper", subname = nil}
+MultiLanguageNpcData['en'][33699] = {name = "Storm-Tempered Keeper", subname = nil}
 MultiLanguageNpcData['en'][33701] = {name = "High Explorer Dellorah", subname = "Explorers' League"}
 MultiLanguageNpcData['en'][33704] = {name = "Frigid Abomination", subname = nil}
 MultiLanguageNpcData['en'][33705] = {name = "Rune of Power", subname = nil}
@@ -24370,7 +24370,7 @@ MultiLanguageNpcData['en'][33718] = {name = "Bronze Consort", subname = nil}
 MultiLanguageNpcData['en'][33719] = {name = "Emerald Consort", subname = nil}
 MultiLanguageNpcData['en'][33720] = {name = "Obsidian Consort", subname = nil}
 MultiLanguageNpcData['en'][33721] = {name = "Lore Keeper Projection Unit", subname = nil}
-MultiLanguageNpcData['en'][33722] = {name = "Storm Tempered Keeper", subname = nil}
+MultiLanguageNpcData['en'][33722] = {name = "Storm-Tempered Keeper", subname = nil}
 MultiLanguageNpcData['en'][33725] = {name = "Thorim Trap Bunny", subname = nil}
 MultiLanguageNpcData['en'][33726] = {name = "Splintertree Demolisher", subname = nil}
 MultiLanguageNpcData['en'][33727] = {name = "Anchorite Buurq", subname = nil}

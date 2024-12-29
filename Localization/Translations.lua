@@ -7,7 +7,7 @@ local function addonLoaded(self, event, addonLoadedName)
 
         addonTable.translations["en"] = {
             description = "Description",
-            objectives = "Quest objectives"
+            objectives = "Quest Objectives"
         }
 
         addonTable.translations["es"] = {

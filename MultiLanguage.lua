@@ -14,20 +14,106 @@ local textColorCodes = {
     ["[q5]"] = "|cFFFF8000"
 }
 
+local gameLocale = GetLocale()
+local gameLanguage = string.sub(gameLocale, 1, 2)
+
+-- Set the native quest frame details
+local function SetQuestTranslationDetails(headerText, objectiveText, descriptionHeader, descriptionText, isQuestFrame)
+    if MultiLanguageOptions["SELECTED_QUEST_DISPLAY_MODE"] == 'replace' then
+        if isQuestFrame then
+            QuestProgressTitleText:SetText(headerText)
+            QuestProgressText:SetText(objectiveText)
+
+            QuestInfoTitleHeader:SetText(headerText)
+            QuestInfoRewardText:SetText(objectiveText)
+
+            QuestInfoObjectivesHeader:SetText(descriptionHeader)
+            QuestInfoObjectivesText:SetText(descriptionText)
+            QuestInfoDescriptionText:SetText(objectiveText)
+        else
+            QuestLogQuestTitle:SetText(headerText);
+            QuestLogObjectivesText:SetText(objectiveText);
+            QuestLogDescriptionTitle:SetText(descriptionHeader)
+            QuestLogQuestDescription:SetText(descriptionText)
+        end
+    end
+end
+
+local function DisplayQuestTranslationFrame()
+   if MultiLanguageOptions["SELECTED_QUEST_DISPLAY_MODE"] == 'tooltip' then
+       QuestTranslationFrame:Show()
+   end
+end
+
+local function SetQuestFrameDetails(isQuestFrame)
+    SetQuestTranslationDetails(
+        QuestTranslationFramePrimaryHeader:GetText(),
+        QuestTranslationFramePrimaryText:GetText(),
+        QuestTranslationFrameSecondaryHeader:GetText(),
+        QuestTranslationFrameSecondaryText:GetText(),
+        isQuestFrame
+    )
+end
+
+local function ResetQuestFrameDetails(questFrame)
+    if questFrame then
+        local headerText = GetTitleText()
+        local objectiveText = ''
+        local descriptionHeader = ''
+        local descriptionText = ''
+
+        if lastQuestFrameEvent == "QUEST_PROGRESS" then
+            objectiveText = GetProgressText()
+        elseif lastQuestFrameEvent == "QUEST_COMPLETE" then
+            objectiveText = GetRewardText()
+        elseif lastQuestFrameEvent == "QUEST_DETAIL" then
+            objectiveText = GetQuestText()
+            descriptionText = GetObjectiveText()
+            descriptionHeader = addonTable.translations[gameLanguage]["objectives"]
+        end
+
+        SetQuestTranslationDetails(
+            headerText,
+            objectiveText,
+            descriptionHeader,
+            descriptionText,
+            true
+        )
+    else
+        local selectedQuestIndex = GetQuestLogSelection()
+        local description, objectives = GetQuestLogQuestText()
+        local title = GetQuestLogTitle(selectedQuestIndex)
+
+        SetQuestTranslationDetails(
+            title,
+            objectives,
+            addonTable.translations[gameLanguage]["description"],
+            description,
+            false
+        )
+    end
+end
+
 local function SetHotkeyButtonPressed(self, key, eventType)
-    if MultiLanguageOptions.SELECTED_INTERACTION == "hover-hotkey" and MultiLanguageOptions.SELECTED_HOTKEY then
-        if eventType == "OnKeyDown" and key == MultiLanguageOptions.SELECTED_HOTKEY then
+    if MultiLanguageOptions["QUEST_TRANSLATIONS"] and MultiLanguageOptions["SELECTED_INTERACTION"] == "hover-hotkey" and MultiLanguageOptions["SELECTED_HOTKEY"] then
+        if eventType == "OnKeyDown" and key == MultiLanguageOptions["SELECTED_HOTKEY"] then
             if hotkeyButtonPressed then
                 hotkeyButtonPressed = false
 
                 if questFrameBeingHovered then
+                    ResetQuestFrameDetails(true)
+                    ResetQuestFrameDetails(false)
+
                     QuestTranslationFrame:Hide()
                 end
             else
                 hotkeyButtonPressed = true
 
                 if questFrameBeingHovered then
-                    QuestTranslationFrame:Show()
+                    SetQuestFrameDetails(true)
+                    SetQuestFrameDetails(false)
+
+                    DisplayQuestTranslationFrame()
                 end
             end
         end
@@ -52,10 +138,10 @@ local function GetDataByID(dataType, dataId)
     return nil
 end
 
-local function SetQuestDetails(headerText, objectiveText, descriptionHeader, descriptionText, parentFrame, yOffset, isQuestFrame)
-    QuestTranslationFramePrimaryHeader:SetText(headerText:upper())
+local function SetTranslationFrameQuestDetails(headerText, objectiveText, descriptionHeader, descriptionText, parentFrame, yOffset, isQuestFrame)
+    QuestTranslationFramePrimaryHeader:SetText(headerText)
     QuestTranslationFramePrimaryText:SetText(objectiveText)
-    QuestTranslationFrameSecondaryHeader:SetText(descriptionHeader:upper())
+    QuestTranslationFrameSecondaryHeader:SetText(descriptionHeader)
     QuestTranslationFrameSecondaryText:SetText(descriptionText)
 
     textTopMargin = -QuestTranslationFramePrimaryHeader:GetHeight() - 15
@@ -102,17 +188,19 @@ local function UpdateQuestTranslationFrame()
             questData = GetDataByID("questData", questId)
 
             if questData then
-                if MultiLanguageOptions.SELECTED_INTERACTION == "hover-hotkey" then
+                if MultiLanguageOptions["SELECTED_INTERACTION"] == "hover-hotkey" then
                     if hotkeyButtonPressed then
-                        QuestTranslationFrame:Show()
+                        SetQuestFrameDetails(false)
+                        DisplayQuestTranslationFrame()
                     end
                 else
-                    QuestTranslationFrame:Show()
+                    SetQuestFrameDetails(false)
+                    DisplayQuestTranslationFrame()
                 end
 
-                languageCode = MultiLanguageOptions["SELECTED_LANGUAGE"]
+                local languageCode = MultiLanguageOptions["SELECTED_LANGUAGE"]
 
-                SetQuestDetails(
+                SetTranslationFrameQuestDetails(
                     questData.title,
                     questData.objective,
                     addonTable.translations[languageCode]["description"],
@@ -132,45 +220,47 @@ local function UpdateQuestTranslationFrame()
         if questId then
             questData = GetDataByID("questData", questId)
             if questData then
-                if MultiLanguageOptions.SELECTED_INTERACTION == "hover-hotkey" then
+                if MultiLanguageOptions["SELECTED_INTERACTION"] == "hover-hotkey" then
                     if hotkeyButtonPressed then
-                        QuestTranslationFrame:Show()
+                        SetQuestFrameDetails(true)
+                        DisplayQuestTranslationFrame()
                     end
                 else
-                    QuestTranslationFrame:Show()
+                    SetQuestFrameDetails(true)
+                    DisplayQuestTranslationFrame()
                 end
 
                 languageCode = MultiLanguageOptions["SELECTED_LANGUAGE"]
 
                 if lastQuestFrameEvent == "QUEST_PROGRESS" then
-                    SetQuestDetails(
-                            questData.title,
-                            questData.progress,
-                            "",
-                            "",
-                            QuestFrame,
-                            -80,
-                            true
+                    SetTranslationFrameQuestDetails(
+                        questData.title,
+                        questData.progress,
+                        "",
+                        "",
+                        QuestFrame,
+                        -80,
+                        true
                     )
                 elseif lastQuestFrameEvent == "QUEST_COMPLETE" then
-                    SetQuestDetails(
-                            questData.title,
-                            questData.completion,
-                            "",
-                            "",
-                            QuestFrame,
-                            -80,
-                            true
+                    SetTranslationFrameQuestDetails(
+                        questData.title,
+                        questData.completion,
+                        "",
+                        "",
+                        QuestFrame,
+                        -80,
+                        true
                     )
                 elseif lastQuestFrameEvent == "QUEST_DETAIL" then
-                    SetQuestDetails(
-                            questData.title,
-                            questData.description,
-                            addonTable.translations[languageCode]["objectives"],
-                            questData.objective,
-                            QuestFrame,
-                            -80,
-                            true
+                    SetTranslationFrameQuestDetails(
+                        questData.title,
+                        questData.description,
+                        addonTable.translations[languageCode]["objectives"],
+                        questData.objective,
+                        QuestFrame,
+                        -80,
+                        true
                     )
                 elseif lastQuestFrameEvent == "QUEST_FINISHED" then
                     QuestTranslationFrame:Hide()
@@ -201,6 +291,11 @@ local function SetQuestHoverScripts(frame, children)
         frame:SetScript("OnLeave", function()
             QuestTranslationFrame:Hide()
             questFrameBeingHovered = false
+
+            if MultiLanguageOptions["SELECTED_INTERACTION"] == "hover" then
+                ResetQuestFrameDetails(true)
+                ResetQuestFrameDetails(false)
+            end
         end)
 
         if children then
@@ -273,7 +368,7 @@ local function UpdateItemSpellAndUnitTranslationFrame(itemHeader, itemText, id, 
         ItemSpellAndUnitTranslationFrameHeader:SetText(SetColorForLine(itemHeader))
     end
 
-    if MultiLanguageOptions.SELECTED_INTERACTION == "hover-hotkey" then
+    if MultiLanguageOptions["SELECTED_INTERACTION"] == "hover-hotkey" then
         if hotkeyButtonPressed then
             ItemSpellAndUnitTranslationFrame:Show()
         else
@@ -498,6 +593,45 @@ QuestTranslationFrame:SetScript("OnEvent", function(self, event, ...)
         end
     end
 end)
+
+QuestFrame:HookScript("OnShow", function()
+    UpdateQuestTranslationFrame()
+
+    if MultiLanguageOptions["SELECTED_INTERACTION"] == "hover-hotkey" then
+        if hotkeyButtonPressed then
+            SetQuestFrameDetails(true)
+        end
+    end
+end)
+
+QuestLogFrame:HookScript("OnShow", function()
+    UpdateQuestTranslationFrame()
+
+    if MultiLanguageOptions["SELECTED_INTERACTION"] == "hover-hotkey" then
+        if hotkeyButtonPressed then
+            SetQuestFrameDetails(false)
+        end
+    end
+end)
+
+local function HookQuestLogTitleButtons()
+    for i = 1, QUESTS_DISPLAYED do
+        local questLogTitle = _G["QuestLogTitle"..i]
+        if questLogTitle and not questLogTitle.isHooked then
+            questLogTitle:HookScript("OnClick", function(self, button)
+                if button == "LeftButton" then
+                    if MultiLanguageOptions["QUEST_TRANSLATIONS"] and MultiLanguageOptions["SELECTED_INTERACTION"] == "hover-hotkey" and hotkeyButtonPressed then
+                        UpdateQuestTranslationFrame()
+                        SetQuestFrameDetails(false)
+                    end
+                end
+            end)
+            questLogTitle.isHooked = true
+        end
+    end
+end
+
+hooksecurefunc("QuestLog_Update", HookQuestLogTitleButtons)
 
 SetQuestHoverScripts(QuestLogFrame, true)
 SetQuestHoverScripts(QuestFrame, false)

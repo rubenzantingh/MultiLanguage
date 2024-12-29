@@ -29,7 +29,7 @@ The Wotlk/Cata languages (except for English) have seperate addons, please visit
 The tooltip for the entities mentioned below are displayed on hover. A hotkey may also be selected in the settings to toggle the hover functionality.
 
 ### Quest translation
-Display translations for quests in the player's quest log, as well as on the quest progress and completion frames.
+Display translations for quests in the player's quest log, as well as on the quest progress and completion frames. Also supports an in-frame translation rather than an tooltip.
 
 ### Npc translation tooltip
 Display a tooltip that shows the NPC's name and role (if applicable).

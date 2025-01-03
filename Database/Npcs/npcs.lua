@@ -4091,6 +4091,7 @@ MultiLanguageNpcData['en'][4976] = {name = "Elise Laughlin", subname = "Guild Ta
 MultiLanguageNpcData['en'][4977] = {name = "Murkshallow Softshell", subname = nil}
 MultiLanguageNpcData['en'][4978] = {name = "Aku'mai Servant", subname = nil}
 MultiLanguageNpcData['en'][4979] = {name = "Theramore Guard", subname = nil}
+MultiLanguageNpcData['en'][4980] = {name = "Paval Reethe", subname = nil}
 MultiLanguageNpcData['en'][4981] = {name = "Ben Trias", subname = "Apprentice of Cheese"}
 MultiLanguageNpcData['en'][4982] = {name = "Thomas", subname = "Altar Boy"}
 MultiLanguageNpcData['en'][4983] = {name = "Ogron", subname = nil}

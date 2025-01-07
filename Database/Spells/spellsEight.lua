@@ -2228,3 +2228,4 @@ MultiLanguageSpellData['en'][1218374] = {name = "Monitor", additional_info = nil
 MultiLanguageSpellData['en'][1218980] = {name = "Eject Passenger 1", additional_info = nil}
 MultiLanguageSpellData['en'][1218981] = {name = "Shield Charge", additional_info = "10 - 40 yd range\n{Instant} {5 sec cooldown}\n[q]Reduce damage taken by 240%.\n\n Increases the movement speed by 240% for until canceled and knockback nearby enemies you run over."}
 MultiLanguageSpellData['en'][1220498] = {name = "Teleport With Error", additional_info = "5 sec cast\n[q]Teleports you exactly where you want to go... if you aren't too picky."}
+MultiLanguageSpellData['en'][1221338] = {name = "Kick Foot Ball", additional_info = "40 yd range\n{Instant} {5 sec cooldown}\n[q]Kick the ball to a friendly player. If possible, they will automatically return it."}

@@ -17529,7 +17529,7 @@ MultiLanguageNpcData['en'][196219] = {name = "Masud the Wise", subname = nil}
 MultiLanguageNpcData['en'][196220] = {name = "Pakina", subname = nil}
 MultiLanguageNpcData['en'][196221] = {name = "Hemet Nesingwary Jr.", subname = nil}
 MultiLanguageNpcData['en'][196222] = {name = "Invisible Bunny - Goblin Engineer 01 Hit", subname = nil}
-MultiLanguageNpcData['en'][196223] = {name = "Crystaline Engery Conduit", subname = nil}
+MultiLanguageNpcData['en'][196223] = {name = "Crystalline Energy Conduit", subname = nil}
 MultiLanguageNpcData['en'][196224] = {name = "Cobalt Guardian", subname = nil}
 MultiLanguageNpcData['en'][196228] = {name = "Displaced Dragonkin", subname = nil}
 MultiLanguageNpcData['en'][196229] = {name = "Ohn'ir Villager", subname = nil}

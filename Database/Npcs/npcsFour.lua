@@ -6235,7 +6235,7 @@ MultiLanguageNpcData['en'][182779] = {name = "Cobra", subname = "(T1) FIGHTER:NA
 MultiLanguageNpcData['en'][182780] = {name = "Cobra", subname = "(T0) CASTER:NATURE"}
 MultiLanguageNpcData['en'][182781] = {name = "Eel", subname = "(T2) TRAPPER:LIGHTNING"}
 MultiLanguageNpcData['en'][182782] = {name = "Eel", subname = "(T2) FIGHTER"}
-MultiLanguageNpcData['en'][182783] = {name = "Reanimated Farmer", subname = "The Scourge"}
+MultiLanguageNpcData['en'][182783] = {name = "Disfigured Ghoul", subname = "The Scourge"}
 MultiLanguageNpcData['en'][182784] = {name = "Prairie Dog", subname = nil}
 MultiLanguageNpcData['en'][182785] = {name = "Phoenix Baby", subname = nil}
 MultiLanguageNpcData['en'][182786] = {name = "Shaggy Rabbit", subname = nil}

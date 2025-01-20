@@ -1,3 +1,4 @@
+MultiLanguageSpellData['en'][464582] = {name = "Unreliable Goblin Waveshredder", additional_info = "5 yd range\nInstant\n[q]Summons and dismisses a temporary rideable Goblin Waveshredder."}
 MultiLanguageSpellData['en'][464587] = {name = "Reload", additional_info = "100 yd range\n1 sec cast\n[q]Reloads a ranged weapon."}
 MultiLanguageSpellData['en'][464590] = {name = "Darkmoon Duffle", additional_info = "0.1 sec cast\n[q]Transcribing a Khaz Algar Darkmoon Card has a 0% chance to create another.\n\n [ Equip effect requires Khaz Algar Inscription 1 ][ Equip effect requires Khaz Algar Inscription 1 ]"}
 MultiLanguageSpellData['en'][464593] = {name = "Grasping Silk", additional_info = nil}
@@ -890,8 +891,10 @@ MultiLanguageSpellData['en'][468159] = {name = "Dark Water", additional_info = "
 MultiLanguageSpellData['en'][468162] = {name = "Leviathan Axe", additional_info = "Melee Range\n2 sec cast\n[q]The caster empowers their weapon to inflict Dark Water on melee hits for 6 sec."}
 MultiLanguageSpellData['en'][468179] = {name = "Rushing Wind Kick", additional_info = "Instant\n[q]Kick up a powerful gust of wind, dealing (359.5% of Attack power) Nature damage in a 25 yd cone to enemies in front of you, split evenly among them. Damage is increased by 6% for each target hit, up to 30%.\n\n Grants Rushing Winds for 4 sec, increasing Renewing Mist's healing by 100%."}
 MultiLanguageSpellData['en'][468186] = {name = "Reven", additional_info = "Instant\n[q]Right click to summon and dismiss Reven."}
+MultiLanguageSpellData['en'][468205] = {name = "Timbered Sky Snake", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"A living, breathing, flying work of art.\"\nIn-Game Shop"}
 MultiLanguageSpellData['en'][468219] = {name = "Hunter's Prey", additional_info = "Instant\n[q]Kill Shot will strike 1 additional target and deal 10% increased damage for each of your active pets. Stacks up to 5 times."}
 MultiLanguageSpellData['en'][468226] = {name = "Lightning Conduit", additional_info = "Instant\n[q]You have a chance to get struck by lightning, increasing your movement speed by 50% for 5 sec. The effectiveness is increased to 100% in outdoor areas.\n\n You call down a Thunderstorm when you Reincarnate."}
+MultiLanguageSpellData['en'][468228] = {name = "Timbered Sky Snakelet", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][468231] = {name = "Sunken Surge", additional_info = "100 yd range\nInstant\n[q]A vortex orbits the caster's position inflicting Dark Water on enemies it contacts."}
 MultiLanguageSpellData['en'][468232] = {name = "Sunken Surge", additional_info = "2 sec cast\n[q]A vortex orbits the caster's position inflicting Dark Water on enemies it contacts."}
 MultiLanguageSpellData['en'][468246] = {name = "Overclock", additional_info = "200 yd range\nInstant\n[q]When a golem is destroyed, the remaining golems inflict 25% additional damage until the end of the encounter. This effect stacks."}
@@ -2200,6 +2203,7 @@ MultiLanguageSpellData['en'][1216089] = {name = "Reeling", additional_info = nil
 MultiLanguageSpellData['en'][1216189] = {name = "Opening", additional_info = nil}
 MultiLanguageSpellData['en'][1216229] = {name = "Tol Dagor Departure", additional_info = nil}
 MultiLanguageSpellData['en'][1216418] = {name = "Experimental Go-Pack", additional_info = "100 yd range\nInstant\n[q]Dive to the target location."}
+MultiLanguageSpellData['en'][1216542] = {name = "Blazing Royal Fire Hawk", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable Blazing Royal Fire Hawk. This is a flying mount.\n[q]\"Only the most passionate of souls and fiercest of hearts can claim the Blazing Royal Fire Hawk as a mount.\"\nPromotion"}
 MultiLanguageSpellData['en'][1216696] = {name = "Portal: Gala of Gifts...?", additional_info = "Instant\n[q]Teleports the caster to Stormwind."}
 MultiLanguageSpellData['en'][1216697] = {name = "Portal: Gala of Gifts...?", additional_info = "Instant\n[q]Teleports the caster to the Gala of Gifts."}
 MultiLanguageSpellData['en'][1216746] = {name = "Landro's Loot Box Surprise", additional_info = nil}
@@ -2229,3 +2233,4 @@ MultiLanguageSpellData['en'][1218980] = {name = "Eject Passenger 1", additional_
 MultiLanguageSpellData['en'][1218981] = {name = "Shield Charge", additional_info = "10 - 40 yd range\n{Instant} {5 sec cooldown}\n[q]Reduce damage taken by 240%.\n\n Increases the movement speed by 240% for until canceled and knockback nearby enemies you run over."}
 MultiLanguageSpellData['en'][1220498] = {name = "Teleport With Error", additional_info = "5 sec cast\n[q]Teleports you exactly where you want to go... if you aren't too picky."}
 MultiLanguageSpellData['en'][1221338] = {name = "Kick Foot Ball", additional_info = "40 yd range\n{Instant} {5 sec cooldown}\n[q]Kick the ball to a friendly player. If possible, they will automatically return it."}
+MultiLanguageSpellData['en'][1221476] = {name = "Tracking Quest", additional_info = nil}

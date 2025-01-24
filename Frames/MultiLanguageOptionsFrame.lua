@@ -29,6 +29,7 @@ local defaultOptions = {
 
 local addonName = ...
 local optionsFrame = CreateFrame("Frame")
+local LibDD = LibStub:GetLibrary("LibUIDropDownMenu-4.0")
 
 -- General functions
 local function CreateOptionDropdown(parent, relativeFrame, offsetX, offsetY, label, defaultValueLabel, optionKey, selectedKey)
@@ -36,13 +37,13 @@ local function CreateOptionDropdown(parent, relativeFrame, offsetX, offsetY, lab
     dropdownLabel:SetText(label)
     dropdownLabel:SetPoint("TOPLEFT", relativeFrame, "TOPLEFT", offsetX, offsetY - 10)
 
-    local dropdown = CreateFrame("Frame", nil, parent, "UIDropDownMenuTemplate")
+    local dropdown = LibDD:Create_UIDropDownMenu(nil, parent)
     dropdown:SetPoint("TOPLEFT", dropdownLabel, "BOTTOMLEFT", -20, -4)
 
     local selectedOptionLabel = defaultValueLabel
 
-    local function InitializeDropdownOptions()
-        local info = UIDropDownMenu_CreateInfo()
+    LibDD:UIDropDownMenu_Initialize(dropdown, function(self, level, menuList)
+        local info = LibDD:UIDropDownMenu_CreateInfo()
 
         local function OnDropdownValueChanged(self, arg1, arg2, checked)
             MultiLanguageOptions[selectedKey] = arg1
@@ -62,12 +63,11 @@ local function CreateOptionDropdown(parent, relativeFrame, offsetX, offsetY, lab
                 selectedOptionLabel = value.text
             end
 
-            UIDropDownMenu_AddButton(info)
+            LibDD:UIDropDownMenu_AddButton(info)
         end
-    end
+    end)
 
-    UIDropDownMenu_Initialize(dropdown, InitializeDropdownOptions)
-    UIDropDownMenu_SetWidth(dropdown, 150)
+    LibDD:UIDropDownMenu_SetWidth(dropdown, 150)
     UIDropDownMenu_SetText(dropdown, selectedOptionLabel)
     UIDropDownMenu_SetAnchor(dropdown, 0, 0, "TOPLEFT", dropdown)
     return dropdown

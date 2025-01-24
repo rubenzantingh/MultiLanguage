@@ -4,6 +4,11 @@
 ## Author: Ruben Zantingh
 ## Version: 1.1.2
 ## SavedVariables: MultiLanguageOptions
+## OptionalDeps: LibStub, LibUIDropDownMenu
+
+embeds.xml
+
+Libs/!LibUIDropDownMenu/LibUIDropDownMenu/LibUIDropDownMenu.xml
 
 Database/items.lua
 Database/npcs.lua

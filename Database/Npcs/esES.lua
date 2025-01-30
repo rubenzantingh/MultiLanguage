@@ -10295,6 +10295,7 @@ addonTable.npcData['es'] = {
 [217945] = {name = "Pollo de combate domesticado", subname = nil},
 [217956] = {name = "Mastic", subname = nil},
 [217969] = {name = "Maestra Destructora Emi Plomocorto", subname = nil},
+[217980] = {name = "Julien Faranister", subname = "Guardián de la bóveda"},
 [218029] = {name = "Campeón Secacorteza", subname = nil},
 [218032] = {name = "Goliat Secacorteza", subname = nil},
 [218057] = {name = "Crowd Pummeler Bleacher Stalker", subname = nil},

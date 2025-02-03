@@ -19649,6 +19649,20 @@ MultiLanguageSpellData['en'][113836] = {name = "Watery Entrenchment", additional
 MultiLanguageSpellData['en'][114406] = {name = "Deterrence", additional_info = nil}
 MultiLanguageSpellData['en'][121805] = {name = "RAF Mount III", additional_info = "1.5 sec cast\n[q]Summons and dismisses a RAF Mount III. This mount changes depending on your Riding skill and location."}
 MultiLanguageSpellData['en'][121820] = {name = "Obsidian Nightwing", additional_info = "1.5 sec cast\n[q]Transforms you into an Obsidian Nightwing, allowing you to fly very fast and carry an ally on your back. This is a flying mount."}
+MultiLanguageSpellData['en'][126236] = {name = "Slippery", additional_info = "Instant\n[q]Dodge increased by 963 for 15 sec."}
+MultiLanguageSpellData['en'][126237] = {name = "Item - Proc Dodge", additional_info = "[q]Your attacks have a chance to grant you 963 dodge for 15 sec. (15% chance, 55 sec cooldown)\n(Proc chance: 15%, 55s cooldown)"}
+MultiLanguageSpellData['en'][126266] = {name = "Enlightenment", additional_info = "Instant\n[q]Intellect increased by 1926 for 10 sec."}
+MultiLanguageSpellData['en'][126268] = {name = "Item - Proc Intellect", additional_info = "[q]Your healing spells have a chance to grant 1926 Intellect for 10 sec.\n(Proc chance: 10%, 30s cooldown)"}
+MultiLanguageSpellData['en'][126467] = {name = "Energize Mana", additional_info = "100 yd range\nInstant\n[q]Grants 5700 mana."}
+MultiLanguageSpellData['en'][126468] = {name = "Price of Progress - Item - Proc Mana Energize", additional_info = "[q]Your healing spells have a chance to grant 5700 mana. (10% chance, 55 sec cooldown)\n(Proc chance: 10%, 55s cooldown)"}
+MultiLanguageSpellData['en'][126552] = {name = "Item - Proc Agility", additional_info = "[q]Your attacks have a chance to grant you 963 Agility for 20 sec. (15% chance, 55 sec cooldown)\n(Proc chance: 15%, 55s cooldown)"}
+MultiLanguageSpellData['en'][126554] = {name = "Agile", additional_info = "Instant\n[q]Agility increased by 963 for 20 sec."}
+MultiLanguageSpellData['en'][126582] = {name = "Unwavering Might", additional_info = "Instant\n[q]Strength increased by 963 for 20 sec."}
+MultiLanguageSpellData['en'][126583] = {name = "Item - Proc Strength", additional_info = "[q]Your attacks have a chance to grant you 963 Strength for 20 sec. (15% chance, 55 sec cooldown)\n(Proc chance: 15%, 55s cooldown)"}
+MultiLanguageSpellData['en'][126659] = {name = "Quickened Tongues", additional_info = "Instant\n[q]Haste increased by 963 for 20 sec."}
+MultiLanguageSpellData['en'][126660] = {name = "Item - Spell Hits Proc Haste", additional_info = "[q]Each time your harmful spells hit, you have a chance to gain 963 haste for 20 sec. (15% chance, 115 sec cooldown)\n(Proc chance: 15%, 1.917m cooldown)"}
+MultiLanguageSpellData['en'][133630] = {name = "Exquisite Proficiency", additional_info = "40 yd range\nInstant\n[q]Increases Mastery rating by 2573 for 20 sec."}
+MultiLanguageSpellData['en'][133631] = {name = "Item - Attacks Proc Mastery", additional_info = "[q]When your attacks hit you have a chance to gain 0 Mastery for until cancelled.\n(Proc chance: 15%, 1.083m cooldown)"}
 MultiLanguageSpellData['en'][158263] = {name = "Craven", additional_info = nil}
 MultiLanguageSpellData['en'][160597] = {name = "Create Heirloom", additional_info = nil}
 MultiLanguageSpellData['en'][171555] = {name = "Raid Marker 6", additional_info = "Instant"}
@@ -19693,6 +19707,7 @@ MultiLanguageSpellData['en'][346285] = {name = "Just Pretend", additional_info =
 MultiLanguageSpellData['en'][347065] = {name = "Reset Sapphiron Event", additional_info = nil}
 MultiLanguageSpellData['en'][347551] = {name = "Reset Faerlina Adds", additional_info = nil}
 MultiLanguageSpellData['en'][347564] = {name = "Reset Razuvious Adds", additional_info = nil}
+MultiLanguageSpellData['en'][347869] = {name = "Fly", additional_info = "Instant\n[q]Take flight!"}
 MultiLanguageSpellData['en'][348005] = {name = "Poison", additional_info = "50 yd range\nInstant\n[q]Inflicts Nature damage to an enemy every 3 sec. for 30 sec."}
 MultiLanguageSpellData['en'][348021] = {name = "Call for Help", additional_info = nil}
 MultiLanguageSpellData['en'][348023] = {name = "Grobbulus Killed - Cleanup", additional_info = nil}
@@ -20294,6 +20309,7 @@ MultiLanguageSpellData['en'][466980] = {name = "Chaos-Born Hippogryph", addition
 MultiLanguageSpellData['en'][466983] = {name = "Chaos-Born Gryphon", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable Chaos-Born Gryphon. This is a flying mount."}
 MultiLanguageSpellData['en'][468201] = {name = "Reven", additional_info = "Instant\n[q]Right Click to summon and dismiss Reven."}
 MultiLanguageSpellData['en'][468215] = {name = "Learn Argent Pets", additional_info = nil}
+MultiLanguageSpellData['en'][468247] = {name = "Timbered Air Snakelet", additional_info = "Instant\n[q]Right Click to summon and dismiss the Timbered Sky Snakelet."}
 MultiLanguageSpellData['en'][469265] = {name = "Award Mark of the World Tree 10", additional_info = "Instant\n[q]Grants you 10 Marks of the World Tree."}
 MultiLanguageSpellData['en'][469349] = {name = "Reflection of Torment", additional_info = "Instant\n[q]Increases attack power by 3576 for 10 sec."}
 MultiLanguageSpellData['en'][469350] = {name = "Reflection of Torment", additional_info = "[q]Chance on melee and ranged critical strike to increase your attack power by 3576 for 10 secs.\n(Proc chance: 10%, 50s cooldown)"}
@@ -20329,3 +20345,173 @@ MultiLanguageSpellData['en'][1216331] = {name = "[q3]Bloodthirsty Ruby Choker", 
 MultiLanguageSpellData['en'][1216335] = {name = "[q3]Bloodthirsty Fur Cloak", additional_info = "2 sec cast 3\nReagents:\nPristine Hide , Volatile Earth (4)\n[q3]Bloodthirsty Fur Cloak\nBinds when equipped\nBack\n622 Armor\n+188 Agility\n+282 Stamina\n85\n[q2]Equip: Improves critical strike rating by 126.\n[q2]Equip: Improves your resilience rating by 126."}
 MultiLanguageSpellData['en'][1216336] = {name = "[q3]Bloodthirsty Hide Cloak", additional_info = "2 sec cast 3\nReagents:\nPristine Hide , Volatile Fire (4)\n[q3]Bloodthirsty Hide Cloak\nBinds when equipped\nBack\n622 Armor\n+188 Strength\n+282 Stamina\n[q2]+ 126 Mastery\n85\n[q2]Equip: Improves your resilience rating by 126."}
 MultiLanguageSpellData['en'][1216338] = {name = "[q3]Bloodthirsty Embersilk Cape", additional_info = "2 sec cast 2\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (6), Volatile Fire (6)\n[q3]Bloodthirsty Embersilk Cape\nBinds when equipped\nBack\n622 Armor\n+282 Stamina\n+188 Intellect\n[q2]+ 126 Mastery\n85\n[q2]Equip: Improves your resilience rating by 126.\n\n[q]Bloodthirsty Embersilk (0/9)\n[q0]Bloodthirsty Embersilk Belt\nBloodthirsty Embersilk Boots\nBloodthirsty Embersilk Bracers\nBloodthirsty Embersilk Cape\nBloodthirsty Embersilk Cowl\nBloodthirsty Embersilk Gloves\nBloodthirsty Embersilk Pants\nBloodthirsty Embersilk Robe\nBloodthirsty Embersilk Shoulders"}
+MultiLanguageSpellData['en'][1223558] = {name = "Dragon Soul Resonance", additional_info = "Instant\n[q]The Dragon Soul fills you with strength, increasing total health, healing done, damage absorption, and damage dealt by 5%."}
+MultiLanguageSpellData['en'][1223561] = {name = "Dragon Soul Resonance", additional_info = "Instant\n[q]The Dragon Soul fills you with strength, increasing total health, healing done, damage absorption, and damage dealt by 10%."}
+MultiLanguageSpellData['en'][1223564] = {name = "Dragon Soul Resonance", additional_info = "Instant\n[q]The Dragon Soul fills you with strength, increasing total health, healing done, damage absorption, and damage dealt by 15%."}
+MultiLanguageSpellData['en'][1223565] = {name = "Dragon Soul Resonance", additional_info = "Instant\n[q]The Dragon Soul fills you with strength, increasing total health, healing done, damage absorption, and damage dealt by 20%."}
+MultiLanguageSpellData['en'][1223566] = {name = "Dragon Soul Resonance", additional_info = "Instant\n[q]The Dragon Soul fills you with strength, increasing total health, healing done, damage absorption, and damage dealt by 25%."}
+MultiLanguageSpellData['en'][1223567] = {name = "Dragon Soul Resonance", additional_info = "Instant\n[q]The Dragon Soul fills you with strength, increasing total health, healing done, damage absorption, and damage dealt by 30%."}
+MultiLanguageSpellData['en'][1223568] = {name = "Dragon Soul Resonance", additional_info = nil}
+MultiLanguageSpellData['en'][1223669] = {name = "Opening", additional_info = "2 sec cast\n[q]Open the bag!"}
+MultiLanguageSpellData['en'][1224138] = {name = "[q3]Vicious Charscale Belt", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224139] = {name = "[q3]Vicious Charscale Boots", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224140] = {name = "[q3]Vicious Charscale Bracers", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224141] = {name = "[q3]Vicious Charscale Chest", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224142] = {name = "[q3]Vicious Charscale Gloves", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224143] = {name = "[q3]Vicious Charscale Helm", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224144] = {name = "[q3]Vicious Charscale Legs", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224145] = {name = "[q3]Vicious Charscale Shoulders", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224146] = {name = "[q3]Vicious Dragonscale Belt", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224147] = {name = "[q3]Vicious Dragonscale Boots", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224148] = {name = "[q3]Vicious Dragonscale Bracers", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224149] = {name = "[q3]Vicious Dragonscale Chest", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224150] = {name = "[q3]Vicious Dragonscale Gloves", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224151] = {name = "[q3]Vicious Dragonscale Helm", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224152] = {name = "[q3]Vicious Dragonscale Legs", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224153] = {name = "[q3]Vicious Dragonscale Shoulders", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224154] = {name = "[q3]Vicious Embersilk Belt", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (4), Volatile Fire (4)"}
+MultiLanguageSpellData['en'][1224155] = {name = "[q3]Vicious Embersilk Boots", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (4), Volatile Fire (4)"}
+MultiLanguageSpellData['en'][1224156] = {name = "[q3]Vicious Embersilk Bracers", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (6), Volatile Fire (4), Volatile Water (4)"}
+MultiLanguageSpellData['en'][1224157] = {name = "[q3]Vicious Embersilk Cowl", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (4), Volatile Fire (4)"}
+MultiLanguageSpellData['en'][1224158] = {name = "[q3]Vicious Embersilk Gloves", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (4), Volatile Fire (4)"}
+MultiLanguageSpellData['en'][1224159] = {name = "[q3]Vicious Embersilk Pants", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (4), Volatile Fire (4)"}
+MultiLanguageSpellData['en'][1224160] = {name = "[q3]Vicious Embersilk Robe", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (4), Volatile Fire (4)"}
+MultiLanguageSpellData['en'][1224161] = {name = "[q3]Vicious Embersilk Shoulders", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (6), Volatile Water (3), Volatile Fire (3)"}
+MultiLanguageSpellData['en'][1224162] = {name = "[q3]Vicious Fireweave Belt", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (6), Volatile Fire (3), Volatile Air (3)"}
+MultiLanguageSpellData['en'][1224163] = {name = "[q3]Vicious Fireweave Boots", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Fire (4), Volatile Water (4)"}
+MultiLanguageSpellData['en'][1224164] = {name = "[q3]Vicious Fireweave Bracers", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (6), Volatile Fire (3), Volatile Air (3)"}
+MultiLanguageSpellData['en'][1224165] = {name = "[q3]Vicious Fireweave Cowl", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Fire (4), Volatile Air (4)"}
+MultiLanguageSpellData['en'][1224166] = {name = "[q3]Vicious Fireweave Gloves", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Fire (4), Volatile Air (4)"}
+MultiLanguageSpellData['en'][1224167] = {name = "[q3]Vicious Fireweave Pants", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Fire (4), Volatile Air (4)"}
+MultiLanguageSpellData['en'][1224168] = {name = "[q3]Vicious Fireweave Robe", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (8), Volatile Fire (4), Volatile Air (4)"}
+MultiLanguageSpellData['en'][1224169] = {name = "[q3]Vicious Fireweave Shoulders", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Fire (4), Volatile Air (4)"}
+MultiLanguageSpellData['en'][1224170] = {name = "[q3]Vicious Leather Belt", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224171] = {name = "[q3]Vicious Leather Boots", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224172] = {name = "[q3]Vicious Leather Bracers", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224173] = {name = "[q3]Vicious Leather Chest", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224174] = {name = "[q3]Vicious Leather Gloves", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224175] = {name = "[q3]Vicious Leather Helm", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224176] = {name = "[q3]Vicious Leather Legs", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224177] = {name = "[q3]Vicious Leather Shoulders", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224178] = {name = "[q3]Vicious Ornate Pyrium Belt", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224179] = {name = "[q3]Vicious Ornate Pyrium Boots", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (12), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224180] = {name = "[q3]Vicious Ornate Pyrium Bracers", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (8), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224181] = {name = "[q3]Vicious Ornate Pyrium Breastplate", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (15), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224182] = {name = "[q3]Vicious Ornate Pyrium Gauntlets", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224183] = {name = "[q3]Vicious Ornate Pyrium Helm", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (15), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224184] = {name = "[q3]Vicious Ornate Pyrium Legguards", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (15), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224185] = {name = "[q3]Vicious Ornate Pyrium Shoulders", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (12), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224186] = {name = "[q3]Vicious Pyrium Belt", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224187] = {name = "[q3]Vicious Pyrium Boots", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (12), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224188] = {name = "[q3]Vicious Pyrium Bracers", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (8), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224189] = {name = "[q3]Vicious Pyrium Breastplate", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (15), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224190] = {name = "[q3]Vicious Pyrium Gauntlets", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224191] = {name = "[q3]Vicious Pyrium Helm", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (15), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224192] = {name = "[q3]Vicious Pyrium Legguards", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (15), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224193] = {name = "[q3]Vicious Pyrium Shoulders", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (12), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224194] = {name = "[q3]Vicious Wyrmhide Belt", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224195] = {name = "[q3]Vicious Wyrmhide Boots", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224196] = {name = "[q3]Vicious Wyrmhide Bracers", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224197] = {name = "[q3]Vicious Wyrmhide Chest", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224198] = {name = "[q3]Vicious Wyrmhide Gloves", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224199] = {name = "[q3]Vicious Wyrmhide Helm", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224200] = {name = "[q3]Vicious Wyrmhide Legs", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224201] = {name = "[q3]Vicious Wyrmhide Shoulders", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224208] = {name = "[q3]Fireweave Belt", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (6), Volatile Fire (3), Volatile Air (3)"}
+MultiLanguageSpellData['en'][1224209] = {name = "[q3]Emberfire Bracers", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (6), Volatile Fire (4), Volatile Water (4)"}
+MultiLanguageSpellData['en'][1224210] = {name = "[q3]Fireweave Bracers", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (6), Volatile Fire (3), Volatile Air (3)"}
+MultiLanguageSpellData['en'][1224211] = {name = "[q3]Emberfire Shoulders", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (6), Volatile Water (3), Volatile Fire (3)"}
+MultiLanguageSpellData['en'][1224212] = {name = "[q3]Fireweave Shoulders", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Fire (4), Volatile Air (4)"}
+MultiLanguageSpellData['en'][1224213] = {name = "[q3]Emberfire Belt", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (4), Volatile Fire (4)"}
+MultiLanguageSpellData['en'][1224214] = {name = "[q3]Fireweave Boots", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Fire (4), Volatile Water (4)"}
+MultiLanguageSpellData['en'][1224215] = {name = "[q3]Emberfire Gloves", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (4), Volatile Fire (4)"}
+MultiLanguageSpellData['en'][1224216] = {name = "[q3]Fireweave Gloves", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Fire (4), Volatile Air (4)"}
+MultiLanguageSpellData['en'][1224217] = {name = "[q3]Emberfire Boots", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (4), Volatile Fire (4)"}
+MultiLanguageSpellData['en'][1224218] = {name = "[q3]Fireweave Pants", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Fire (4), Volatile Air (4)"}
+MultiLanguageSpellData['en'][1224219] = {name = "[q3]Fireweave Robe", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (8), Volatile Fire (4), Volatile Air (4)"}
+MultiLanguageSpellData['en'][1224220] = {name = "[q3]Fireweave Cowl", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Fire (4), Volatile Air (4)"}
+MultiLanguageSpellData['en'][1224221] = {name = "[q3]Emberfire Robe", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (4), Volatile Fire (4)"}
+MultiLanguageSpellData['en'][1224222] = {name = "[q3]Emberfire Cowl", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (4), Volatile Fire (4)"}
+MultiLanguageSpellData['en'][1224223] = {name = "[q3]Emberfire Pants", additional_info = "2 sec cast\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (4), Volatile Fire (4)"}
+MultiLanguageSpellData['en'][1224224] = {name = "[q3]Bloodied Pyrium Bracers", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (8), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224225] = {name = "[q3]Bloodied Pyrium Gauntlets", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224226] = {name = "[q3]Bloodied Pyrium Belt", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224227] = {name = "[q3]Bloodied Pyrium Boots", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (12), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224228] = {name = "[q3]Bloodied Pyrium Shoulders", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (12), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224229] = {name = "[q3]Bloodied Pyrium Legguards", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (15), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224230] = {name = "[q3]Bloodied Pyrium Helm", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (15), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224231] = {name = "[q3]Bloodied Pyrium Breastplate", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (15), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224232] = {name = "[q3]Ornate Pyrium Bracers", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (8), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224233] = {name = "[q3]Ornate Pyrium Gauntlets", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224234] = {name = "[q3]Ornate Pyrium Belt", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224235] = {name = "[q3]Ornate Pyrium Boots", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (12), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224236] = {name = "[q3]Ornate Pyrium Shoulders", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (12), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224237] = {name = "[q3]Ornate Pyrium Legguards", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (15), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224238] = {name = "[q3]Ornate Pyrium Helm", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (15), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224239] = {name = "[q3]Ornate Pyrium Breastplate", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nElementium Bar (15), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224240] = {name = "[q3]Bloodied Wyrmhide Bracers", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224241] = {name = "[q3]Bloodied Wyrmhide Belt", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224242] = {name = "[q3]Bloodied Leather Bracers", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224243] = {name = "[q3]Bloodied Leather Gloves", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224244] = {name = "[q3]Bloodied Scale Bracers", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224245] = {name = "[q3]Bloodied Scale Gloves", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224246] = {name = "[q3]Bloodied Dragonscale Bracers", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224247] = {name = "[q3]Bloodied Dragonscale Shoulders", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224248] = {name = "[q3]Bloodied Wyrmhide Gloves", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224249] = {name = "[q3]Bloodied Wyrmhide Boots", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224250] = {name = "[q3]Bloodied Leather Boots", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224251] = {name = "[q3]Bloodied Leather Shoulders", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224252] = {name = "[q3]Bloodied Scale Boots", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224253] = {name = "[q3]Bloodied Scale Belt", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224254] = {name = "[q3]Bloodied Dragonscale Boots", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224255] = {name = "[q3]Bloodied Dragonscale Gloves", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Fire (10)"}
+MultiLanguageSpellData['en'][1224256] = {name = "[q3]Bloodied Wyrmhide Shoulders", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224257] = {name = "[q3]Bloodied Wyrmhide Chest", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224258] = {name = "[q3]Bloodied Leather Belt", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224259] = {name = "[q3]Bloodied Leather Helm", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224260] = {name = "[q3]Bloodied Scale Shoulders", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224261] = {name = "[q3]Bloodied Scale Legs", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224262] = {name = "[q3]Bloodied Dragonscale Belt", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224263] = {name = "[q3]Bloodied Dragonscale Helm", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Water (10)"}
+MultiLanguageSpellData['en'][1224264] = {name = "[q3]Bloodied Wyrmhide Legs", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224265] = {name = "[q3]Bloodied Wyrmhide Helm", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224266] = {name = "[q3]Bloodied Leather Chest", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224267] = {name = "[q3]Bloodied Leather Legs", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224268] = {name = "[q3]Bloodied Scale Chest", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224269] = {name = "[q3]Bloodied Scale Helm", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224270] = {name = "[q3]Bloodied Dragonscale Legs", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224271] = {name = "[q3]Bloodied Dragonscale Chest", additional_info = "3 sec cast\nReagents:\nHeavy Savage Leather (8), Blackened Dragonscale (10), Volatile Life (10)"}
+MultiLanguageSpellData['en'][1224545] = {name = "Disabled Dragon Soul Teleport", additional_info = "Instant\n[q]Dragon Soul is disabled on the PTR at this time."}
+MultiLanguageSpellData['en'][1224920] = {name = "Protocol Twilight", additional_info = "Unlimited range\n{Instant} {1 min cooldown}"}
+MultiLanguageSpellData['en'][1224921] = {name = "Protocol Twilight", additional_info = nil}
+MultiLanguageSpellData['en'][1224922] = {name = "Protocol Twilight", additional_info = nil}
+MultiLanguageSpellData['en'][1224923] = {name = "Twilight's Madness", additional_info = "Instant\n(Proc chance: 35%, 30s cooldown)"}
+MultiLanguageSpellData['en'][1224924] = {name = "Summon Defender", additional_info = "Instant\n[q]Summon a Wyrmrest Defender."}
+MultiLanguageSpellData['en'][1224925] = {name = "Gift of the Red Dragonflight", additional_info = nil}
+MultiLanguageSpellData['en'][1224926] = {name = "Gift of the Red Dragonflight", additional_info = "Unlimited range\nInstant\n(1s cooldown)"}
+MultiLanguageSpellData['en'][1224927] = {name = "Gift of the Bronze Dragonflight", additional_info = nil}
+MultiLanguageSpellData['en'][1224928] = {name = "Gift of the Bronze Dragonflight", additional_info = "Unlimited range\nInstant\n(1s cooldown)"}
+MultiLanguageSpellData['en'][1224929] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
+MultiLanguageSpellData['en'][1224930] = {name = "Gift of the Blue Dragonflight", additional_info = "Unlimited range\nInstant\n(1s cooldown)"}
+MultiLanguageSpellData['en'][1224931] = {name = "Verdant Surge", additional_info = nil}
+MultiLanguageSpellData['en'][1224932] = {name = "Gift of the Green Dragonflight", additional_info = "Unlimited range\nInstant\n(1s cooldown)"}
+MultiLanguageSpellData['en'][1224933] = {name = "Verdant Restoration", additional_info = nil}
+MultiLanguageSpellData['en'][1224934] = {name = "Glowing Blood of Shu'ma", additional_info = "Instant\n[q]Infused with the Glowing Blood of the Old Gods.\n Attack speed increased 50%."}
+MultiLanguageSpellData['en'][1224935] = {name = "Mana Void", additional_info = "30 yd range\nInstant\n[q]Inflicts 0 Shadow damage to nearby enemies."}
+MultiLanguageSpellData['en'][1224936] = {name = "Searing Blood", additional_info = "30 yd range\n{Instant} {3 sec cooldown}\n[q]Sears the blood of random distant enemies, dealing more damage based on distance away from the caster."}
+MultiLanguageSpellData['en'][1224937] = {name = "Corrupted Minions", additional_info = nil}
+MultiLanguageSpellData['en'][1224938] = {name = "Corrupted Minions", additional_info = "200 yd range\nInstant\n[q]Hurls a burst of boiling magma at an enemy, blasting them for 29250 to 30750 damage and sundering the ground."}
+MultiLanguageSpellData['en'][1224939] = {name = "Digestive Acid", additional_info = "Unlimited range\nInstant\n[q]Inflicts 30625 to 39375 Nature damage to the enemy target."}
+MultiLanguageSpellData['en'][1224940] = {name = "Digestive Acid", additional_info = "Unlimited range\nInstant\n[q]Inflicts 67275 to 70725 Nature damage to the enemy target."}
+MultiLanguageSpellData['en'][1224941] = {name = "Digestive Acid", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1224942] = {name = "Digestive Acid", additional_info = nil}
+MultiLanguageSpellData['en'][1224943] = {name = "Digestive Acid", additional_info = "200 yd range\nInstant\n[q]Inflicts 0 Nature damage every 5 seconds."}
+MultiLanguageSpellData['en'][1224944] = {name = "Deep Corruption", additional_info = "150 yd range\nInstant\n[q]Deals 46250 to 53750 damage to all nearby allies."}
+MultiLanguageSpellData['en'][1224945] = {name = "Deep Corruption", additional_info = "100 yd range\nInstant\n[q]Receiving healing or absorption effects will trigger a detonation at 5 stacks."}
+MultiLanguageSpellData['en'][1224946] = {name = "Deep Corruption", additional_info = "100 yd range\nInstant\n[q]Receiving healing or absorption effects will trigger a detonation at 5 stacks."}
+MultiLanguageSpellData['en'][1224947] = {name = "Deep Corruption", additional_info = nil}
+MultiLanguageSpellData['en'][1224948] = {name = "Deep Corruption", additional_info = nil}
+MultiLanguageSpellData['en'][1224949] = {name = "Deep Corruption", additional_info = nil}
+MultiLanguageSpellData['en'][1224950] = {name = "Deep Corruption", additional_info = "150 yd range\nInstant\n[q]Deals 89725 to 104275 damage to all nearby allies."}
+MultiLanguageSpellData['en'][1224951] = {name = "Deep Corruption", additional_info = "100 yd range\nInstant\n[q]Receiving healing or absorption effects will trigger a detonation at 5 stacks."}
+MultiLanguageSpellData['en'][1224952] = {name = "Deep Corruption", additional_info = "100 yd range\nInstant\n[q]Receiving healing or absorption effects will trigger a detonation at 5 stacks."}

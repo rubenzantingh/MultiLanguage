@@ -41587,5 +41587,18 @@ MultiLanguageNpcData['en'][232050] = {name = "Chaos-Born Wind Rider", subname = 
 MultiLanguageNpcData['en'][232051] = {name = "Chaos-Born Hippogryph", subname = nil}
 MultiLanguageNpcData['en'][232053] = {name = "Chaos-Born Gryphon", subname = nil}
 MultiLanguageNpcData['en'][232527] = {name = "Reven", subname = nil}
+MultiLanguageNpcData['en'][232536] = {name = "Timbered Air Snakelet", subname = nil}
 MultiLanguageNpcData['en'][232984] = {name = "Molten Frontaur", subname = "Molten Front and Fireland Supplies"}
 MultiLanguageNpcData['en'][234135] = {name = "Kyanite Stonetender", subname = "Fissure Stone Fragment Exchange"}
+MultiLanguageNpcData['en'][239945] = {name = "Alania Hollowbark", subname = nil}
+MultiLanguageNpcData['en'][239974] = {name = "Denaa Hollowbark", subname = nil}
+MultiLanguageNpcData['en'][240012] = {name = "Dragon Soultaur", subname = "Dragon Soul Supplies"}
+MultiLanguageNpcData['en'][240090] = {name = "Trop the Heroic", subname = nil}
+MultiLanguageNpcData['en'][240308] = {name = "Wyrmrest Defender", subname = nil}
+MultiLanguageNpcData['en'][240309] = {name = "Wyrmrest Defender", subname = nil}
+MultiLanguageNpcData['en'][240320] = {name = "Acidic Globule", subname = "Blood of Shu'ma"}
+MultiLanguageNpcData['en'][240321] = {name = "Dark Globule", subname = "Blood of Shu'ma"}
+MultiLanguageNpcData['en'][240322] = {name = "Cobalt Globule", subname = "Blood of Shu'ma"}
+MultiLanguageNpcData['en'][240323] = {name = "Crimson Globule", subname = "Blood of Shu'ma"}
+MultiLanguageNpcData['en'][240324] = {name = "Glowing Globule", subname = "Blood of Shu'ma"}
+MultiLanguageNpcData['en'][240325] = {name = "Shadowed Globule", subname = "Blood of Shu'ma"}

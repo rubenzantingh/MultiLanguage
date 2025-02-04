@@ -1697,7 +1697,7 @@ MultiLanguageSpellData['en'][471683] = {name = "Celestial Barrage", additional_i
 MultiLanguageSpellData['en'][471696] = {name = "Hooktalon", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n\n This mount can use Ride Along.\n[q]\"Hooktalon once sailed with the Bloodsail Buccaneers, and later with the Blackwater Raiders, but he left to see what plunder he could find beyond the high seas.\"\nSpecial Event:\nPlunderstorm"}
 MultiLanguageSpellData['en'][471697] = {name = "Learn Spell: Hooktalon", additional_info = nil}
 MultiLanguageSpellData['en'][471706] = {name = "Stormcall", additional_info = "30 yd range\n5 sec cast\n[q]The caster calls down a powerful lightning blast which inflicts 100 Nature damage to enemies within 30 yards."}
-MultiLanguageSpellData['en'][471717] = {name = "Celestial Barrage", additional_info = "{Channeled (2 sec cast)} {18 sec cooldown}\n[q]- Line Attack\n- Hold to charge\n- Extreme range\n\n18 sec cooldown\n Call down a barrage of moonbeams, damaging enemies.\n\n Hold to increase range."}
+MultiLanguageSpellData['en'][471717] = {name = "Celestial Barrage", additional_info = "Channeled (2 sec cast)\n[q]- Line Attack\n- Hold to charge\n- Extreme range\n\n18 sec cooldown\n Call down a barrage of moonbeams, damaging enemies.\n\n Hold to increase range."}
 MultiLanguageSpellData['en'][471722] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][471726] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][471727] = {name = "Teleport", additional_info = nil}
@@ -1787,7 +1787,7 @@ MultiLanguageSpellData['en'][472337] = {name = "Darktide Wavebender's Orb", addi
 MultiLanguageSpellData['en'][472353] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472360] = {name = "Wayward Vrykul's Lantern", additional_info = "Instant\n[q]Casting a major class cooldown imbues you with the ferocity of vrykul spirits, granting 171 Critical Strike for 8 sec.\n\n This effect's duration is increased by up to 40 sec based on when you were last imbued."}
 MultiLanguageSpellData['en'][472370] = {name = "Boulder Explosion", additional_info = nil}
-MultiLanguageSpellData['en'][472390] = {name = "Celestial Barrage", additional_info = "{Channeled (2 sec cast)} {16 sec cooldown}\n[q]- Line Attack\n- Hold to charge\n- Extreme range\n\n16 sec cooldown\n Call down a barrage of moonbeams, damaging enemies.\n\n Hold to increase range."}
+MultiLanguageSpellData['en'][472390] = {name = "Celestial Barrage", additional_info = "Channeled (2 sec cast)\n[q]- Line Attack\n- Hold to charge\n- Extreme range\n\n16 sec cooldown\n Call down a barrage of moonbeams, damaging enemies.\n\n Hold to increase range."}
 MultiLanguageSpellData['en'][472391] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472392] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472393] = {name = "Celestial Barrage", additional_info = nil}
@@ -1800,8 +1800,8 @@ MultiLanguageSpellData['en'][472399] = {name = "Celestial Barrage", additional_i
 MultiLanguageSpellData['en'][472400] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472401] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472402] = {name = "Celestial Barrage", additional_info = nil}
-MultiLanguageSpellData['en'][472403] = {name = "Celestial Barrage", additional_info = "{Channeled (2 sec cast)} {14 sec cooldown}\n[q]- Line Attack\n- Hold to charge\n- Extreme range\n\n14 sec cooldown\n Call down a barrage of moonbeams, damaging enemies.\n\n Hold to increase range."}
-MultiLanguageSpellData['en'][472406] = {name = "Celestial Barrage", additional_info = "{Channeled (2 sec cast)} {12 sec cooldown}\n[q]- Line Attack\n- Hold to charge\n- Extreme range\n\n12 sec cooldown\n Call down a barrage of moonbeams, damaging enemies.\n\n Hold to increase range."}
+MultiLanguageSpellData['en'][472403] = {name = "Celestial Barrage", additional_info = "Channeled (2 sec cast)\n[q]- Line Attack\n- Hold to charge\n- Extreme range\n\n14 sec cooldown\n Call down a barrage of moonbeams, damaging enemies.\n\n Hold to increase range."}
+MultiLanguageSpellData['en'][472406] = {name = "Celestial Barrage", additional_info = "Channeled (2 sec cast)\n[q]- Line Attack\n- Hold to charge\n- Extreme range\n\n12 sec cooldown\n Call down a barrage of moonbeams, damaging enemies.\n\n Hold to increase range."}
 MultiLanguageSpellData['en'][472407] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472408] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472409] = {name = "Celestial Barrage", additional_info = nil}
@@ -2234,3 +2234,7 @@ MultiLanguageSpellData['en'][1218981] = {name = "Shield Charge", additional_info
 MultiLanguageSpellData['en'][1220498] = {name = "Teleport With Error", additional_info = "5 sec cast\n[q]Teleports you exactly where you want to go... if you aren't too picky."}
 MultiLanguageSpellData['en'][1221338] = {name = "Kick Foot Ball", additional_info = "40 yd range\n{Instant} {5 sec cooldown}\n[q]Kick the ball to a friendly player. If possible, they will automatically return it."}
 MultiLanguageSpellData['en'][1221476] = {name = "Tracking Quest", additional_info = nil}
+MultiLanguageSpellData['en'][1223890] = {name = "Aura of Zealotry", additional_info = nil}
+MultiLanguageSpellData['en'][1223891] = {name = "Aura of Zealotry", additional_info = nil}
+MultiLanguageSpellData['en'][1223893] = {name = "Aura of Zealotry", additional_info = nil}
+MultiLanguageSpellData['en'][1223894] = {name = "Aura of Zealotry", additional_info = nil}

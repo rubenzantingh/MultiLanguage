@@ -2712,8 +2712,8 @@ MultiLanguageNpcData['en'][3320] = {name = "Soran", subname = nil}
 MultiLanguageNpcData['en'][3321] = {name = "Morgum", subname = "Leather Armor Merchant"}
 MultiLanguageNpcData['en'][3322] = {name = "Kaja", subname = "Bow & Rifle Vendor"}
 MultiLanguageNpcData['en'][3323] = {name = "Horthus", subname = "Reagents"}
-MultiLanguageNpcData['en'][3324] = {name = "Grol'dar", subname = "Warlock Trainer"}
-MultiLanguageNpcData['en'][3325] = {name = "Mirkat", subname = "Warlock Trainer"}
+MultiLanguageNpcData['en'][3324] = {name = "Grol'dar", subname = nil}
+MultiLanguageNpcData['en'][3325] = {name = "Mirkat", subname = nil}
 MultiLanguageNpcData['en'][3326] = {name = "Zevrist", subname = nil}
 MultiLanguageNpcData['en'][3327] = {name = "Gest", subname = nil}
 MultiLanguageNpcData['en'][3328] = {name = "Ormok", subname = nil}

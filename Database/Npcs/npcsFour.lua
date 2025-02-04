@@ -17443,7 +17443,7 @@ MultiLanguageNpcData['en'][196120] = {name = "Initiate Zorig", subname = nil}
 MultiLanguageNpcData['en'][196121] = {name = "Sundered Sentinel", subname = "The Sundered Flame"}
 MultiLanguageNpcData['en'][196122] = {name = "Nokhud Spear", subname = nil}
 MultiLanguageNpcData['en'][196123] = {name = "Tarasek Warrior", subname = "The Sundered Flame"}
-MultiLanguageNpcData['en'][196124] = {name = "Crystaline Silica", subname = nil}
+MultiLanguageNpcData['en'][196124] = {name = "Crystalline Silica", subname = nil}
 MultiLanguageNpcData['en'][196125] = {name = "Infused Glacier Sample", subname = nil}
 MultiLanguageNpcData['en'][196126] = {name = "Dragonwing Mushroom", subname = nil}
 MultiLanguageNpcData['en'][196127] = {name = "Draconic Artifact", subname = nil}

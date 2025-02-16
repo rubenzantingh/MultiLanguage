@@ -43,7 +43,7 @@ local function InitializeOptions()
 
     local languageDropdownDescription = optionsPanel:CreateFontString(nil, "ARTWORK", "GameFontnormalSmall")
     languageDropdownDescription:SetPoint("TOPLEFT", title, "BOTTOMLEFT", 0, -16)
-    languageDropdownDescription:SetText("Select language:")
+    languageDropdownDescription:SetText("Select language (Check CurseForge for more languages):")
 
     local languageDropdown = CreateFrame("Frame", "MultiLanguageLanguageDropdown", optionsPanel, "UIDropDownMenuTemplate")
     languageDropdown:SetPoint("TOPLEFT", languageDropdownDescription, "BOTTOMLEFT", -16, -4)

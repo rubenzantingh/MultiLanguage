@@ -291,6 +291,7 @@ MultiLanguageSpellData['en'][465448] = {name = "Summon Earthen", additional_info
 MultiLanguageSpellData['en'][465449] = {name = "Summon Earthen", additional_info = nil}
 MultiLanguageSpellData['en'][465464] = {name = "Arcing Smash", additional_info = "Melee Range\n{2 sec cast} {5 sec cooldown}\n[q]Inflicts 200% of normal melee damage to enemies in a cone in front of the caster."}
 MultiLanguageSpellData['en'][465469] = {name = "Dig", additional_info = nil}
+MultiLanguageSpellData['en'][465518] = {name = "Arsenal: Golden Crests of the Kingdom", additional_info = "Instant\n[q]Collect the appearances of the Golden Crests of the Kingdom."}
 MultiLanguageSpellData['en'][465521] = {name = "Shadow Crash", additional_info = "100 yd range\nInstant\n[q]Aim a bolt of slow-moving Shadow energy at the destination, dealing (68.7926% of Spell power) Shadow damage to all enemies within 8 yds.\n\nGenerates 6 Insanity.\n\n This spell is cast at a selected location."}
 MultiLanguageSpellData['en'][465522] = {name = "Shadow Crash", additional_info = "100 yd range\nInstant\n[q]Aim a bolt of slow-moving Shadow energy at the destination, dealing (68.7926% of Spell power) Shadow damage to all enemies within 8 yds.\n\nGenerates 6 Insanity.\n\n This spell is cast at a selected location."}
 MultiLanguageSpellData['en'][465529] = {name = "Wilting Rain", additional_info = "40 yd range\n{2 sec cast} {12 sec cooldown}\n[q]Splash a volley of toxic water, inflicting 48 Nature damage in the area."}
@@ -2238,3 +2239,5 @@ MultiLanguageSpellData['en'][1223890] = {name = "Aura of Zealotry", additional_i
 MultiLanguageSpellData['en'][1223891] = {name = "Aura of Zealotry", additional_info = nil}
 MultiLanguageSpellData['en'][1223893] = {name = "Aura of Zealotry", additional_info = nil}
 MultiLanguageSpellData['en'][1223894] = {name = "Aura of Zealotry", additional_info = nil}
+MultiLanguageSpellData['en'][1227060] = {name = "Refreshment", additional_info = "40 yd range\nInstant\n[q]Restores ( 630000 / 5 * 15) health over 15 sec. If you spend at least 15 seconds eating you will feel the love and gain a boost in morale for 2 hrs."}
+MultiLanguageSpellData['en'][1227061] = {name = "Crunching", additional_info = "Instant\n[q]Restores ( 630000 / 5 * 15) health over 15 sec."}

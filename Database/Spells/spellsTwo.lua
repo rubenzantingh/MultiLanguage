@@ -758,7 +758,7 @@ MultiLanguageSpellData['en'][78269] = {name = "Quest Credit: That's Why They Cal
 MultiLanguageSpellData['en'][78270] = {name = "Summon Kvaldir Reckoner", additional_info = nil}
 MultiLanguageSpellData['en'][78271] = {name = "Phase Shift 1 Kelp Forest and Holding Pens", additional_info = nil}
 MultiLanguageSpellData['en'][78272] = {name = "Roaring Flame", additional_info = nil}
-MultiLanguageSpellData['en'][78273] = {name = "Flametongue Weapon", additional_info = "6% of base mana\nInstant\nRequires Melee Weapon\n[q]Imbue the Shaman's weapon with fire, increasing total spell damage by 7. Each hit causes $/78275m1 to 1 additional Fire damage. Lasts 30 minutes."}
+MultiLanguageSpellData['en'][78273] = {name = "Flametongue Weapon", additional_info = "6% of base mana\nInstant\nRequires Melee Weapon\n[q]Imbue the Shaman's weapon with fire, increasing total spell damage by 7. Each hit causes /78275m1 to 1 additional Fire damage. Lasts 30 minutes."}
 MultiLanguageSpellData['en'][78274] = {name = "Cyclone Visual", additional_info = nil}
 MultiLanguageSpellData['en'][78275] = {name = "Creature - Flametongue Weapon Proc", additional_info = nil}
 MultiLanguageSpellData['en'][78276] = {name = "Doggie Diving Helm", additional_info = nil}
@@ -19662,7 +19662,7 @@ MultiLanguageSpellData['en'][126583] = {name = "Item - Proc Strength", additiona
 MultiLanguageSpellData['en'][126659] = {name = "Quickened Tongues", additional_info = "Instant\n[q]Haste increased by 963 for 20 sec."}
 MultiLanguageSpellData['en'][126660] = {name = "Item - Spell Hits Proc Haste", additional_info = "[q]Each time your harmful spells hit, you have a chance to gain 963 haste for 20 sec. (15% chance, 115 sec cooldown)\n(Proc chance: 15%, 1.917m cooldown)"}
 MultiLanguageSpellData['en'][133630] = {name = "Exquisite Proficiency", additional_info = "40 yd range\nInstant\n[q]Increases Mastery rating by 2573 for 20 sec."}
-MultiLanguageSpellData['en'][133631] = {name = "Item - Attacks Proc Mastery", additional_info = "[q]When your attacks hit you have a chance to gain 0 Mastery for until cancelled.\n(Proc chance: 15%, 1.083m cooldown)"}
+MultiLanguageSpellData['en'][133631] = {name = "Item - Attacks Proc Mastery", additional_info = "[q]When your attacks hit you have a chance to gain 2573 Mastery for 20 sec.\n(Proc chance: 15%, 1.083m cooldown)"}
 MultiLanguageSpellData['en'][158263] = {name = "Craven", additional_info = nil}
 MultiLanguageSpellData['en'][160597] = {name = "Create Heirloom", additional_info = nil}
 MultiLanguageSpellData['en'][171555] = {name = "Raid Marker 6", additional_info = "Instant"}
@@ -20485,23 +20485,23 @@ MultiLanguageSpellData['en'][1224545] = {name = "Disabled Dragon Soul Teleport",
 MultiLanguageSpellData['en'][1224920] = {name = "Protocol Twilight", additional_info = "Unlimited range\n{Instant} {1 min cooldown}"}
 MultiLanguageSpellData['en'][1224921] = {name = "Protocol Twilight", additional_info = nil}
 MultiLanguageSpellData['en'][1224922] = {name = "Protocol Twilight", additional_info = nil}
-MultiLanguageSpellData['en'][1224923] = {name = "Twilight's Madness", additional_info = "Instant\n(Proc chance: 35%, 30s cooldown)"}
+MultiLanguageSpellData['en'][1224923] = {name = "Twilight's Madness", additional_info = "Instant\n(Proc chance: 35%, 1.083m cooldown)"}
 MultiLanguageSpellData['en'][1224924] = {name = "Summon Defender", additional_info = "Instant\n[q]Summon a Wyrmrest Defender."}
 MultiLanguageSpellData['en'][1224925] = {name = "Gift of the Red Dragonflight", additional_info = nil}
 MultiLanguageSpellData['en'][1224926] = {name = "Gift of the Red Dragonflight", additional_info = "Unlimited range\nInstant\n(1s cooldown)"}
 MultiLanguageSpellData['en'][1224927] = {name = "Gift of the Bronze Dragonflight", additional_info = nil}
 MultiLanguageSpellData['en'][1224928] = {name = "Gift of the Bronze Dragonflight", additional_info = "Unlimited range\nInstant\n(1s cooldown)"}
 MultiLanguageSpellData['en'][1224929] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
-MultiLanguageSpellData['en'][1224930] = {name = "Gift of the Blue Dragonflight", additional_info = "Unlimited range\nInstant\n(1s cooldown)"}
+MultiLanguageSpellData['en'][1224930] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
 MultiLanguageSpellData['en'][1224931] = {name = "Verdant Surge", additional_info = nil}
 MultiLanguageSpellData['en'][1224932] = {name = "Gift of the Green Dragonflight", additional_info = "Unlimited range\nInstant\n(1s cooldown)"}
 MultiLanguageSpellData['en'][1224933] = {name = "Verdant Restoration", additional_info = nil}
-MultiLanguageSpellData['en'][1224934] = {name = "Glowing Blood of Shu'ma", additional_info = "Instant\n[q]Infused with the Glowing Blood of the Old Gods.\n Attack speed increased 50%."}
+MultiLanguageSpellData['en'][1224934] = {name = "Glowing Blood of Shu'ma", additional_info = "Instant\n[q]Infused with the Glowing Blood of the Old Gods.\n Attack speed increased 25%."}
 MultiLanguageSpellData['en'][1224935] = {name = "Mana Void", additional_info = "30 yd range\nInstant\n[q]Inflicts 0 Shadow damage to nearby enemies."}
 MultiLanguageSpellData['en'][1224936] = {name = "Searing Blood", additional_info = "30 yd range\n{Instant} {3 sec cooldown}\n[q]Sears the blood of random distant enemies, dealing more damage based on distance away from the caster."}
 MultiLanguageSpellData['en'][1224937] = {name = "Corrupted Minions", additional_info = nil}
 MultiLanguageSpellData['en'][1224938] = {name = "Corrupted Minions", additional_info = "200 yd range\nInstant\n[q]Hurls a burst of boiling magma at an enemy, blasting them for 29250 to 30750 damage and sundering the ground."}
-MultiLanguageSpellData['en'][1224939] = {name = "Digestive Acid", additional_info = "Unlimited range\nInstant\n[q]Inflicts 30625 to 39375 Nature damage to the enemy target."}
+MultiLanguageSpellData['en'][1224939] = {name = "Digestive Acid", additional_info = "Unlimited range\nInstant\n[q]Inflicts 15312 to 19688 Nature damage to the enemy target."}
 MultiLanguageSpellData['en'][1224940] = {name = "Digestive Acid", additional_info = "Unlimited range\nInstant\n[q]Inflicts 67275 to 70725 Nature damage to the enemy target."}
 MultiLanguageSpellData['en'][1224941] = {name = "Digestive Acid", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1224942] = {name = "Digestive Acid", additional_info = nil}
@@ -20512,6 +20512,36 @@ MultiLanguageSpellData['en'][1224946] = {name = "Deep Corruption", additional_in
 MultiLanguageSpellData['en'][1224947] = {name = "Deep Corruption", additional_info = nil}
 MultiLanguageSpellData['en'][1224948] = {name = "Deep Corruption", additional_info = nil}
 MultiLanguageSpellData['en'][1224949] = {name = "Deep Corruption", additional_info = nil}
-MultiLanguageSpellData['en'][1224950] = {name = "Deep Corruption", additional_info = "150 yd range\nInstant\n[q]Deals 89725 to 104275 damage to all nearby allies."}
+MultiLanguageSpellData['en'][1224950] = {name = "Deep Corruption", additional_info = "150 yd range\nInstant\n[q]Deals 23125 to 26875 damage to all nearby allies."}
 MultiLanguageSpellData['en'][1224951] = {name = "Deep Corruption", additional_info = "100 yd range\nInstant\n[q]Receiving healing or absorption effects will trigger a detonation at 5 stacks."}
 MultiLanguageSpellData['en'][1224952] = {name = "Deep Corruption", additional_info = "100 yd range\nInstant\n[q]Receiving healing or absorption effects will trigger a detonation at 5 stacks."}
+MultiLanguageSpellData['en'][1225871] = {name = "Gift of the Bronze Dragonflight", additional_info = nil}
+MultiLanguageSpellData['en'][1225923] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
+MultiLanguageSpellData['en'][1226145] = {name = "Summon Shadowed Globule", additional_info = nil}
+MultiLanguageSpellData['en'][1226146] = {name = "Bestow Blood", additional_info = "100 yd range\nInstant\n[q]Bestows the power of the Old Gods stored in the blood globules."}
+MultiLanguageSpellData['en'][1226147] = {name = "Summon Crimson Globule", additional_info = nil}
+MultiLanguageSpellData['en'][1226148] = {name = "Summon Dark Globule", additional_info = nil}
+MultiLanguageSpellData['en'][1226149] = {name = "Summon Acidic Globule", additional_info = nil}
+MultiLanguageSpellData['en'][1226150] = {name = "Summon Cobalt Globule", additional_info = nil}
+MultiLanguageSpellData['en'][1226151] = {name = "Summon Glowing Globule", additional_info = nil}
+MultiLanguageSpellData['en'][1226265] = {name = "Summon Globules", additional_info = nil}
+MultiLanguageSpellData['en'][1226387] = {name = "Crimson Blood of Shu'ma", additional_info = "Instant\n[q]Grants the ability: Searing Blood."}
+MultiLanguageSpellData['en'][1226408] = {name = "Shadowed Blood of Shu'ma", additional_info = "Instant\n[q]Grants the ability: Deep Corruption."}
+MultiLanguageSpellData['en'][1226416] = {name = "Cobalt Blood of Shu'ma", additional_info = "Instant\n[q]Grants the ability: Mana Void."}
+MultiLanguageSpellData['en'][1226422] = {name = "Acidic Blood of Shu'ma", additional_info = "Instant\n[q]Grants the ability: Digestive Acid."}
+MultiLanguageSpellData['en'][1226453] = {name = "Black Blood of Shu'ma", additional_info = "Instant\n[q]Grants the ability: Corrupted Minions."}
+MultiLanguageSpellData['en'][1226484] = {name = "Summon Alliance Wyrmrest Defender", additional_info = nil}
+MultiLanguageSpellData['en'][1226485] = {name = "Summone Horde Wyrmrest Defender", additional_info = nil}
+MultiLanguageSpellData['en'][1226486] = {name = "Psychic Slice", additional_info = "20 yd range\n{0.6 sec cast} {5 sec cooldown}\n[q]Channels a wave of psychic to an enemy, dealing 55770 to 58630 Shadow damage."}
+MultiLanguageSpellData['en'][1227043] = {name = "Power of Stormrage", additional_info = "Instant\n[q]Reduces damage dealt.\n Reduces max health."}
+MultiLanguageSpellData['en'][1227044] = {name = "Power of Stormrage", additional_info = nil}
+MultiLanguageSpellData['en'][1227317] = {name = "Signet of the Wyrmrest Accord - Remove Item", additional_info = nil}
+MultiLanguageSpellData['en'][1227448] = {name = "Award Justice 250", additional_info = "Instant\n[q]Awards yourself 250 Justice points"}
+MultiLanguageSpellData['en'][1227450] = {name = "Shadowed Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['en'][1227589] = {name = "Cobalt Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['en'][1227594] = {name = "Glowing Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['en'][1227595] = {name = "Crimson Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['en'][1227598] = {name = "Dark Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['en'][1227599] = {name = "Acidic Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['en'][1227666] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
+MultiLanguageSpellData['en'][1227909] = {name = "Protocol Twilight", additional_info = nil}

@@ -40959,7 +40959,7 @@ MultiLanguageNpcData['en'][55468] = {name = "Twilight Blast", subname = nil}
 MultiLanguageNpcData['en'][55469] = {name = "Wave of Twilight", subname = nil}
 MultiLanguageNpcData['en'][55474] = {name = "Rising Fire Totem", subname = nil}
 MultiLanguageNpcData['en'][55475] = {name = "Darkmoon Tide Crawler", subname = nil}
-MultiLanguageNpcData['en'][55476] = {name = "Lord Afrasastrasz", subname = "Commander of Wyrmrest Temple Defenses"}
+MultiLanguageNpcData['en'][55476] = {name = "Lord Devrestrasz", subname = "Commander of Wyrmrest Temple Defenses"}
 MultiLanguageNpcData['en'][55487] = {name = "Moonweb Spider", subname = nil}
 MultiLanguageNpcData['en'][55488] = {name = "Corastrasza", subname = nil}
 MultiLanguageNpcData['en'][55491] = {name = "Lion", subname = nil}

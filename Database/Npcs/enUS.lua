@@ -10498,7 +10498,7 @@ addonTable.npcData['en'] = {
 [218873] = {name = "Death's Head Warrior", subname = nil},
 [218891] = {name = "Skeletal Servant", subname = nil},
 [218908] = {name = "Scarlet Crusade Assassin", subname = nil},
-[218920] = {name = "Dalaran Agent", subname = "Violet Eye"},
+[218920] = {name = "Agent Keanna", subname = "Violet Eye"},
 [218922] = {name = "Hukku", subname = nil},
 [218930] = {name = "Deadwind Steed", subname = nil},
 [218931] = {name = "Dark Rider", subname = nil},
@@ -11583,4 +11583,6 @@ addonTable.npcData['en'] = {
 [240122] = {name = "S03 - Karazhan Crypts - Creeping Malison - Spider Nest (Glow)", subname = nil},
 [240310] = {name = "Dark Rider", subname = nil},
 [240352] = {name = "Mana Elemental", subname = nil},
+[240568] = {name = "Haunted Anvil", subname = nil},
+[241136] = {name = "Invisible Stalker", subname = nil},
 }

@@ -20324,6 +20324,8 @@ MultiLanguageSpellData['en'][470575] = {name = "Protocol Inferno", additional_in
 MultiLanguageSpellData['en'][470595] = {name = "Fury of the Firelord", additional_info = nil}
 MultiLanguageSpellData['en'][470597] = {name = "Protocol Inferno", additional_info = "Unlimited range\n{Instant} {1 min cooldown}"}
 MultiLanguageSpellData['en'][473053] = {name = "Gushing Wound", additional_info = "Melee Range\nInstant\n[q]Causes the target to bleed for 6000 Physical damage every 0.2 sec. for 1 min. This effect is removed if the target falls below 50% health."}
+MultiLanguageSpellData['en'][473478] = {name = "Sha-Touched Riding Tiger", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable Sha-Touched Riding Tiger."}
+MultiLanguageSpellData['en'][473487] = {name = "Sha-Touched Cloud Serpent", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable Sha-Touched Cloud Serpent.\n This is a flying mount."}
 MultiLanguageSpellData['en'][473583] = {name = "Open Fire Portal", additional_info = "20 yd range\nInstant\n[q]Combine four charged foci to force open the portal at the Circle of Thorns."}
 MultiLanguageSpellData['en'][473683] = {name = "Combat Pulse", additional_info = nil}
 MultiLanguageSpellData['en'][1214176] = {name = "Award Justice 250", additional_info = "Instant\n[q]Awards yourself 250 Justice points"}
@@ -20345,6 +20347,9 @@ MultiLanguageSpellData['en'][1216331] = {name = "[q3]Bloodthirsty Ruby Choker", 
 MultiLanguageSpellData['en'][1216335] = {name = "[q3]Bloodthirsty Fur Cloak", additional_info = "2 sec cast 3\nReagents:\nPristine Hide , Volatile Earth (4)\n[q3]Bloodthirsty Fur Cloak\nBinds when equipped\nBack\n622 Armor\n+188 Agility\n+282 Stamina\n85\n[q2]Equip: Improves critical strike rating by 126.\n[q2]Equip: Improves your resilience rating by 126."}
 MultiLanguageSpellData['en'][1216336] = {name = "[q3]Bloodthirsty Hide Cloak", additional_info = "2 sec cast 3\nReagents:\nPristine Hide , Volatile Fire (4)\n[q3]Bloodthirsty Hide Cloak\nBinds when equipped\nBack\n622 Armor\n+188 Strength\n+282 Stamina\n[q2]+ 126 Mastery\n85\n[q2]Equip: Improves your resilience rating by 126."}
 MultiLanguageSpellData['en'][1216338] = {name = "[q3]Bloodthirsty Embersilk Cape", additional_info = "2 sec cast 2\nReagents:\nBolt of Embersilk Cloth (10), Volatile Water (6), Volatile Fire (6)\n[q3]Bloodthirsty Embersilk Cape\nBinds when equipped\nBack\n622 Armor\n+282 Stamina\n+188 Intellect\n[q2]+ 126 Mastery\n85\n[q2]Equip: Improves your resilience rating by 126.\n\n[q]Bloodthirsty Embersilk (0/9)\n[q0]Bloodthirsty Embersilk Belt\nBloodthirsty Embersilk Boots\nBloodthirsty Embersilk Bracers\nBloodthirsty Embersilk Cape\nBloodthirsty Embersilk Cowl\nBloodthirsty Embersilk Gloves\nBloodthirsty Embersilk Pants\nBloodthirsty Embersilk Robe\nBloodthirsty Embersilk Shoulders"}
+MultiLanguageSpellData['en'][1216885] = {name = "Sha-Touched Tea Set", additional_info = "Melee Range\nInstant 1 hour cooldown\n[q]Serve a unique tea blend with your Sha-Touched Tea Set."}
+MultiLanguageSpellData['en'][1216892] = {name = "Drink", additional_info = "Instant\n[q]Enjoy a hot drink."}
+MultiLanguageSpellData['en'][1217380] = {name = "Joyous", additional_info = "Instant\n[q]Right Click to summon and dismiss Joyous."}
 MultiLanguageSpellData['en'][1223558] = {name = "Dragon Soul Resonance", additional_info = "Instant\n[q]The Dragon Soul fills you with strength, increasing total health, healing done, damage absorption, and damage dealt by 5%."}
 MultiLanguageSpellData['en'][1223561] = {name = "Dragon Soul Resonance", additional_info = "Instant\n[q]The Dragon Soul fills you with strength, increasing total health, healing done, damage absorption, and damage dealt by 10%."}
 MultiLanguageSpellData['en'][1223564] = {name = "Dragon Soul Resonance", additional_info = "Instant\n[q]The Dragon Soul fills you with strength, increasing total health, healing done, damage absorption, and damage dealt by 15%."}
@@ -20488,8 +20493,8 @@ MultiLanguageSpellData['en'][1224922] = {name = "Protocol Twilight", additional_
 MultiLanguageSpellData['en'][1224923] = {name = "Twilight's Madness", additional_info = "Instant\n(Proc chance: 35%, 1.083m cooldown)"}
 MultiLanguageSpellData['en'][1224924] = {name = "Summon Defender", additional_info = "Instant\n[q]Summon a Wyrmrest Defender."}
 MultiLanguageSpellData['en'][1224925] = {name = "Gift of the Red Dragonflight", additional_info = nil}
-MultiLanguageSpellData['en'][1224926] = {name = "Gift of the Red Dragonflight", additional_info = "Unlimited range\nInstant\n(1s cooldown)"}
-MultiLanguageSpellData['en'][1224927] = {name = "Gift of the Bronze Dragonflight", additional_info = nil}
+MultiLanguageSpellData['en'][1224926] = {name = "Gift of the Red Dragonflight", additional_info = "Unlimited range\nInstant\n(5s cooldown)"}
+MultiLanguageSpellData['en'][1224927] = {name = "Gift of the Bronze Dragonflight", additional_info = "Instant\n(1s cooldown)"}
 MultiLanguageSpellData['en'][1224928] = {name = "Gift of the Bronze Dragonflight", additional_info = "Unlimited range\nInstant\n(1s cooldown)"}
 MultiLanguageSpellData['en'][1224929] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
 MultiLanguageSpellData['en'][1224930] = {name = "Gift of the Blue Dragonflight", additional_info = nil}

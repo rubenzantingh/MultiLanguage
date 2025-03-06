@@ -13929,7 +13929,6 @@ MultiLanguageNpcData['en'][20946] = {name = "TestOgreBlack06", subname = nil}
 MultiLanguageNpcData['en'][20947] = {name = "TestOgreBlue01", subname = nil}
 MultiLanguageNpcData['en'][20948] = {name = "TestOgreBlue02", subname = nil}
 MultiLanguageNpcData['en'][20949] = {name = "TestOgreBlue03", subname = nil}
-MultiLanguageNpcData['en'][20950] = {name = "TestOgreBlue04", subname = nil}
 MultiLanguageNpcData['en'][20951] = {name = "TestOgreBlue05", subname = nil}
 MultiLanguageNpcData['en'][20952] = {name = "TestOgreBlue06", subname = nil}
 MultiLanguageNpcData['en'][20953] = {name = "TestOgreGray01", subname = nil}

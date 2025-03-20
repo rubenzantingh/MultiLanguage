@@ -2,7 +2,7 @@
 ## Title: MultiLanguage
 ## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh
-## Version: 1.0.14
+## Version: 1.0.15
 ## SavedVariables: MultiLanguageOptions
 
 Database/Quests/quests.lua

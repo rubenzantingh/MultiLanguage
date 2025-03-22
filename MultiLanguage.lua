@@ -461,6 +461,11 @@ local function OnTooltipSetData(self)
     local _, itemLink = self:GetItem()
     local _, spellID = self:GetSpell()
     local owner = self:GetOwner()
+
+    if owner == nil then
+        return
+    end
+
     local questID = owner.questID
     local unitGUID = UnitGUID("mouseover")
 

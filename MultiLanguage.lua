@@ -128,7 +128,7 @@ local function ResetQuestFrameDetails(questFrame)
         elseif lastQuestFrameEvent == "QUEST_DETAIL" then
             objectiveText = GetQuestText()
             descriptionText = GetObjectiveText()
-            descriptionHeader = addonTable.translations[gameLanguage]["objectives"]
+            descriptionHeader = _G["MultiLanguageTranslations"][gameLanguage]["objectives"]
         end
 
         SetQuestTranslationDetails(
@@ -146,7 +146,7 @@ local function ResetQuestFrameDetails(questFrame)
         SetQuestTranslationDetails(
             title,
             objectives,
-            addonTable.translations[gameLanguage]["description"],
+            _G["MultiLanguageTranslations"][gameLanguage]["description"],
             description,
             false
         )
@@ -226,7 +226,7 @@ local function UpdateQuestTranslationFrame()
         SetTranslationFrameQuestDetails(
             questData.title,
             questData.objective,
-            addonTable.translations[languageCode]["description"],
+            _G["MultiLanguageTranslations"][languageCode]["description"],
             questData.description,
             QuestLogFrame,
             -QuestLogListScrollFrame:GetHeight() - (QuestLogFrame:GetTop() - QuestLogListScrollFrame:GetTop()) - 5, false
@@ -284,7 +284,7 @@ local function UpdateQuestTranslationFrame()
             SetTranslationFrameQuestDetails(
                 questData.title,
                 questData.description,
-                addonTable.translations[languageCode]["objectives"],
+                _G["MultiLanguageTranslations"][languageCode]["objectives"],
                 questData.objective,
                 QuestFrame,
                 -80,

@@ -2,7 +2,7 @@
 ## Title: MultiLanguage
 ## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh
-## Version: 1.1.8
+## Version: 1.2.0
 ## SavedVariables: MultiLanguageOptions
 ## OptionalDeps: LibStub, LibUIDropDownMenu
 
@@ -51,10 +51,11 @@ Database/Spells/ruRU.lua
 Database/Spells/zhCN.lua
 Database/Spells/koKR.lua
 
+Localization/Translations.lua
+
 Frames/MultiLanguageOptionsFrame.lua
 Frames/ItemSpellAndUnitTranslationFrame.lua
 Frames/QuestTranslationFrame.lua
 
-Localization/Translations.lua
 MultiLanguage.lua
 

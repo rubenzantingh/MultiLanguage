@@ -13929,6 +13929,7 @@ MultiLanguageNpcData['en'][20946] = {name = "TestOgreBlack06", subname = nil}
 MultiLanguageNpcData['en'][20947] = {name = "TestOgreBlue01", subname = nil}
 MultiLanguageNpcData['en'][20948] = {name = "TestOgreBlue02", subname = nil}
 MultiLanguageNpcData['en'][20949] = {name = "TestOgreBlue03", subname = nil}
+MultiLanguageNpcData['en'][20950] = {name = "TestOgreBlue04", subname = nil}
 MultiLanguageNpcData['en'][20951] = {name = "TestOgreBlue05", subname = nil}
 MultiLanguageNpcData['en'][20952] = {name = "TestOgreBlue06", subname = nil}
 MultiLanguageNpcData['en'][20953] = {name = "TestOgreGray01", subname = nil}
@@ -35527,7 +35528,7 @@ MultiLanguageNpcData['en'][47708] = {name = "Aspiring Starlet", subname = nil}
 MultiLanguageNpcData['en'][47709] = {name = "Sun Acolyte", subname = nil}
 MultiLanguageNpcData['en'][47711] = {name = "Vermillion Skyscreamer", subname = nil}
 MultiLanguageNpcData['en'][47712] = {name = "Harland Waldek", subname = "Weaponsmith"}
-MultiLanguageNpcData['en'][47713] = {name = "Villainous Evil Squirrel", subname = "Moustache Twirler Extraordinare"}
+MultiLanguageNpcData['en'][47713] = {name = "Villainous Evil Squirrel", subname = "Moustache Twirler Extraordinaire"}
 MultiLanguageNpcData['en'][47714] = {name = "Vapor", subname = nil}
 MultiLanguageNpcData['en'][47715] = {name = "Sun Priest Asaris", subname = nil}
 MultiLanguageNpcData['en'][47716] = {name = "Sun Priest Iset", subname = nil}

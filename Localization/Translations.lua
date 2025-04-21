@@ -29,7 +29,9 @@ local function addonLoaded(self, event, addonLoadedName)
                     pt = "Portuguese",
                     ru = "Russian",
                     ko = "Korean",
-                    cn = "Chinese"
+                    cn = "Chinese (simplified)",
+                    mx = "Spanish (Mexico)",
+                    tw = 'Chinese (traditional)'
                 },
                 questDisplayModes = {
                     tooltip = "Tooltip",
@@ -66,7 +68,10 @@ local function addonLoaded(self, event, addonLoadedName)
                     pt = "Portugués",
                     ru = "Ruso",
                     ko = "Coreano",
-                    cn = "Chino"
+                    cn = "Chino (simplificado)",
+                    mx = "Español (México)",
+                    tw = "Chino (tradicional)"
+
                 },
                 questDisplayModes = {
                     tooltip = "Información sobre herramientas",
@@ -103,7 +108,9 @@ local function addonLoaded(self, event, addonLoadedName)
                     pt = "Portugiesisch",
                     ru = "Russisch",
                     ko = "Koreanisch",
-                    cn = "Chinesisch"
+                    cn = "Chinesisch (vereinfacht)",
+                    mx = "Spanisch (Mexiko)",
+                    tw = "Chinesisch (traditionell)"
                 },
                 questDisplayModes = {
                     tooltip = "Tooltip",
@@ -140,7 +147,9 @@ local function addonLoaded(self, event, addonLoadedName)
                     pt = "Portugais",
                     ru = "Russe",
                     ko = "Coréen",
-                    cn = "Chinois"
+                    cn = "Chinois (simplifié)",
+                    mx = "Espagnol (Mexique)",
+                    tw = "Chinois (traditionnel)"
                 },
                 questDisplayModes = {
                     tooltip = "Info-bulle",
@@ -177,7 +186,9 @@ local function addonLoaded(self, event, addonLoadedName)
                     pt = "Português",
                     ru = "Russo",
                     ko = "Coreano",
-                    cn = "Chinês"
+                    cn = "Chinês (simplificado)",
+                    mx = "Espanhol (México)",
+                    tw = "Chinês (tradicional)"
                 },
                 questDisplayModes = {
                     tooltip = "Dica de ferramenta",
@@ -214,7 +225,9 @@ local function addonLoaded(self, event, addonLoadedName)
                     pt = "Португальский",
                     ru = "Русский",
                     ko = "Корейский",
-                    cn = "Китайский"
+                    cn = "Китайский (упрощённый)",
+                    mx = "Испанский (Мексика)",
+                    tw = "Китайский (традиционный)"
                 },
                 questDisplayModes = {
                     tooltip = "Подсказка",
@@ -251,7 +264,9 @@ local function addonLoaded(self, event, addonLoadedName)
                     pt = "葡萄牙语",
                     ru = "俄语",
                     ko = "韩语",
-                    cn = "中文"
+                    cn = "中文（简体）",
+                    mx = "西班牙语（墨西哥）",
+                    tw = "中文（繁體）"
                 },
                 questDisplayModes = {
                     tooltip = "工具提示",
@@ -288,7 +303,9 @@ local function addonLoaded(self, event, addonLoadedName)
                     pt = "포르투갈어",
                     ru = "러시아어",
                     ko = "한국어",
-                    cn = "중국어"
+                    cn = "중국어(간체)",
+                    mx = "스페인어(멕시코)",
+                    tw = "중국어(번체)"
                 },
                 questDisplayModes = {
                     tooltip = "툴팁",
@@ -297,6 +314,84 @@ local function addonLoaded(self, event, addonLoadedName)
                 interactionModes = {
                     hover = "마우스 오버",
                     ["hover-hotkey"] = "마우스 오버 + 단축키"
+                }
+            }
+        }
+
+        _G["MultiLanguageTranslations"]["mx"] = {
+            description = "Descripción",
+            objectives = "Objetivos de la misión",
+            options = {
+                generalOptionsTitle = "Opciones generales",
+                languageDropdownLabel = "Seleccionar idioma:",
+                interactionDropdownLabel = "Seleccionar interacción:",
+                registerHotkeyDescriptionText = "Registrar tecla de acceso rápido (clic derecho para desvincular):",
+                registerHotkeyNotBoundText = "No vinculada",
+                registerHotkeyPressButtonText = "Presiona el botón..",
+                questOptionsTitle = "Opciones de misión",
+                questDisplayModeText = "Seleccionar modo de visualización de misión:",
+                itemOptionsTitle = "Opciones de objeto",
+                spellOptionsTitle = "Opciones de hechizo",
+                npcOptionsTitle = "Opciones de NPC",
+                enableText = "Habilitar",
+                languages = {
+                    en = "Inglés",
+                    es = "Español",
+                    fr = "Francés",
+                    de = "Alemán",
+                    pt = "Portugués",
+                    ru = "Ruso",
+                    ko = "Coreano",
+                    cn = "Chino (simplificado)",
+                    mx = "Español (México)",
+                    tw = "Chino (tradicional)"
+                },
+                questDisplayModes = {
+                    tooltip = "Sugerencia",
+                    replace = "Sustituir texto"
+                },
+                interactionModes = {
+                    hover = "Sostener",
+                    ["hover-hotkey"] = "Sostener + tecla de acceso rápido"
+                }
+            }
+        }
+
+        _G["MultiLanguageTranslations"]["tw"] = {
+            description = "描述",
+            objectives = "任務目標",
+            options = {
+                generalOptionsTitle = "一般選項",
+                languageDropdownLabel = "選擇語言：",
+                interactionDropdownLabel = "選擇互動方式：",
+                registerHotkeyDescriptionText = "註冊快捷鍵（右鍵取消綁定）：",
+                registerHotkeyNotBoundText = "未綁定",
+                registerHotkeyPressButtonText = "按下按鈕..",
+                questOptionsTitle = "任務選項",
+                questDisplayModeText = "選擇任務顯示模式：",
+                itemOptionsTitle = "物品選項",
+                spellOptionsTitle = "法術選項",
+                npcOptionsTitle = "NPC選項",
+                enableText = "啟用",
+                languages = {
+                    en = "英文",
+                    es = "西班牙文",
+                    fr = "法文",
+                    de = "德文",
+                    pt = "葡萄牙文",
+                    ru = "俄文",
+                    ko = "韓文",
+                    cn = "中文（簡體）",
+                    mx = "西班牙文（墨西哥）",
+                    tw = "中文（繁體）"
+                },
+                questDisplayModes = {
+                    tooltip = "工具提示",
+                    replace = "取代文字"
+                },
+                interactionModes = {
+                    hover = "懸停",
+                    ["hover-hotkey"] = "懸停 + 快捷鍵"
                 }
             }
         }

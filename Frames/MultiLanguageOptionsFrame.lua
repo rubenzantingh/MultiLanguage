@@ -141,7 +141,9 @@ local function getDefaultOptions(optionsTranslations)
             {value = 'de', text = optionsTranslations["languages"]["de"]},
             {value = 'pt', text = optionsTranslations["languages"]["pt"]},
             {value = 'ko', text = optionsTranslations["languages"]["ko"]},
-            {value = 'cn', text = optionsTranslations["languages"]["cn"]}
+            {value = 'cn', text = optionsTranslations["languages"]["cn"]},
+            {value = 'mx', text = optionsTranslations["languages"]["mx"]},
+            {value = 'tw', text = optionsTranslations["languages"]["tw"]}
         },
         SELECTED_INTERACTION = 'hover',
         AVAILABLE_INTERACTIONS = {
@@ -343,6 +345,8 @@ local function addonLoaded(self, event, addonLoadedName)
         
         for key, value in pairs(defaultOptions) do
             if MultiLanguageOptions[key] == nil then
+                MultiLanguageOptions[key] = value
+            elseif type(value) == "table" and key == "AVAILABLE_LANGUAGES" then
                 MultiLanguageOptions[key] = value
             end
         end

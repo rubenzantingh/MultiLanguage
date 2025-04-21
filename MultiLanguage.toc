@@ -2,7 +2,7 @@
 ## Title: MultiLanguage
 ## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh
-## Version: 1.2.2
+## Version: 1.3.0
 ## SavedVariables: MultiLanguageOptions
 ## OptionalDeps: LibStub, LibUIDropDownMenu
 
@@ -23,6 +23,8 @@ Database/Items/ptBR.lua
 Database/Items/ruRU.lua
 Database/Items/zhCN.lua
 Database/Items/koKR.lua
+Database/Items/esMX.lua
+Database/Items/zhTW.lua
 
 Database/Npcs/enUS.lua
 Database/Npcs/esES.lua
@@ -32,6 +34,8 @@ Database/Npcs/ptBR.lua
 Database/Npcs/ruRU.lua
 Database/Npcs/zhCN.lua
 Database/Npcs/koKR.lua
+Database/Npcs/esMX.lua
+Database/Npcs/zhTW.lua
 
 Database/Quests/enUS.lua
 Database/Quests/esES.lua
@@ -41,6 +45,8 @@ Database/Quests/ptBR.lua
 Database/Quests/ruRU.lua
 Database/Quests/zhCN.lua
 Database/Quests/koKR.lua
+Database/Quests/esMX.lua
+Database/Quests/zhTW.lua
 
 Database/Spells/enUS.lua
 Database/Spells/esES.lua
@@ -50,6 +56,8 @@ Database/Spells/ptBR.lua
 Database/Spells/ruRU.lua
 Database/Spells/zhCN.lua
 Database/Spells/koKR.lua
+Database/Spells/esMX.lua
+Database/Spells/zhTW.lua
 
 Localization/Translations.lua
 

@@ -1,65 +1,3 @@
-MultiLanguageSpellData['en'][463634] = {name = "Blood Parasites Birth", additional_info = nil}
-MultiLanguageSpellData['en'][463637] = {name = "Steam Immunity", additional_info = "100 yd range\n1.5 sec cast\n[q]Grants immunity to Steam damage."}
-MultiLanguageSpellData['en'][463638] = {name = "Elemental Blast", additional_info = "[q]Harnesses the raw power of the elements, dealing 1 Elemental damage and increasing your Critical Strike or Haste by 3% or Mastery by (3 * 1.875 )% for 10 sec.[ Enhancement : If Lava Burst is known, Elemental Blast replaces Lava Burst and gains 1 additional charge ]"}
-MultiLanguageSpellData['en'][463642] = {name = "Elemental Revival", additional_info = "40 yd range\nInstant\n[q]Elemental energies unleashed to live for a short time."}
-MultiLanguageSpellData['en'][463644] = {name = "Scorching Wind", additional_info = "100 yd range\nInstant\n[q]Lord Incendius creates a powerful scorching wind, inflicting 174249 Fire damage every 1 sec and pushing all players towards the edge of the bridge for 20 sec."}
-MultiLanguageSpellData['en'][463646] = {name = "Tear Down This Garish Statue", additional_info = "40 yd range\n1.5 sec cast\n[q][DNT]Your spell description goes here!"}
-MultiLanguageSpellData['en'][463658] = {name = "Observed", additional_info = "Instant\n[q]Your presence has not gone unnoticed."}
-MultiLanguageSpellData['en'][463659] = {name = "The General's Trove", additional_info = "Instant\n[q]Contains a variety of rewards for those who have proven themselves true allies of the General."}
-MultiLanguageSpellData['en'][463664] = {name = "<DNT> Arrow to Destination", additional_info = nil}
-MultiLanguageSpellData['en'][463665] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
-MultiLanguageSpellData['en'][463667] = {name = "Abyssal Conduit", additional_info = nil}
-MultiLanguageSpellData['en'][463668] = {name = "The Vizier's Trove", additional_info = "Instant\n[q]Contains a variety of rewards for those who have proven themselves true allies of the Vizier."}
-MultiLanguageSpellData['en'][463669] = {name = "<DNT> Area Trigger", additional_info = nil}
-MultiLanguageSpellData['en'][463672] = {name = "Input Sequence", additional_info = "Instant\n[q]Input a sequence of numbers."}
-MultiLanguageSpellData['en'][463674] = {name = "Crystallize", additional_info = "0.75 sec cast\n[q]Lord Roccor transforms a pool of roiling magma into a Son of Roccor."}
-MultiLanguageSpellData['en'][463675] = {name = "Pull It Down!", additional_info = nil}
-MultiLanguageSpellData['en'][463677] = {name = "Illusory Adornment: Runes", additional_info = "Instant\n[q]Temporarily imbues shoulders with a runic illusion for $ecd."}
-MultiLanguageSpellData['en'][463678] = {name = "Illusory Adornment: Shadow", additional_info = "Instant\n[q]Temporarily imbues shoulders with a shadowed illusion for $ecd."}
-MultiLanguageSpellData['en'][463679] = {name = "Illusory Adornment: Crystal", additional_info = "Instant\n[q]Temporarily imbues shoulders with a crystalline illusion for $ecd."}
-MultiLanguageSpellData['en'][463680] = {name = "Illusory Adornment: Radiance", additional_info = "Instant\n[q]Temporarily imbues shoulders with a radiant illusion for $ecd."}
-MultiLanguageSpellData['en'][463681] = {name = "Ride Taxi", additional_info = "Instant"}
-MultiLanguageSpellData['en'][463693] = {name = "Crystal of Oblivion", additional_info = nil}
-MultiLanguageSpellData['en'][463694] = {name = "Bot AI Follow Advert", additional_info = nil}
-MultiLanguageSpellData['en'][463695] = {name = "Trigger Conversation", additional_info = nil}
-MultiLanguageSpellData['en'][463696] = {name = "Mine Detection - Emerge", additional_info = "Instant\n[q]Crawls toward a player and detonates when nearby, knocking back players within 7 yards and inflicting 75 Fire damage on impact and 4 Fire damage every 2 sec for 6 sec."}
-MultiLanguageSpellData['en'][463697] = {name = "Ride Taxi", additional_info = "Instant"}
-MultiLanguageSpellData['en'][463699] = {name = "Stealth", additional_info = "Instant\n[q]Sneaking around."}
-MultiLanguageSpellData['en'][463703] = {name = "Crystal of Oblivion", additional_info = nil}
-MultiLanguageSpellData['en'][463704] = {name = "Crystal Of Oblivion", additional_info = nil}
-MultiLanguageSpellData['en'][463705] = {name = "Crystal Of Oblivion", additional_info = nil}
-MultiLanguageSpellData['en'][463707] = {name = "2", additional_info = "Instant\n[q]Input a number."}
-MultiLanguageSpellData['en'][463708] = {name = "3", additional_info = "Instant\n[q]Input a number."}
-MultiLanguageSpellData['en'][463709] = {name = "4", additional_info = "Instant\n[q]Input a number."}
-MultiLanguageSpellData['en'][463710] = {name = "5", additional_info = "Instant\n[q]Input a number."}
-MultiLanguageSpellData['en'][463711] = {name = "6", additional_info = "Instant\n[q]Input a number."}
-MultiLanguageSpellData['en'][463712] = {name = "7", additional_info = "Instant\n[q]Input a number."}
-MultiLanguageSpellData['en'][463713] = {name = "8", additional_info = "Instant\n[q]Input a number."}
-MultiLanguageSpellData['en'][463714] = {name = "9", additional_info = "Instant\n[q]Input a number."}
-MultiLanguageSpellData['en'][463715] = {name = "0", additional_info = "Instant\n[q]Input a number."}
-MultiLanguageSpellData['en'][463716] = {name = "2", additional_info = nil}
-MultiLanguageSpellData['en'][463717] = {name = "3", additional_info = nil}
-MultiLanguageSpellData['en'][463718] = {name = "4", additional_info = nil}
-MultiLanguageSpellData['en'][463719] = {name = "5", additional_info = nil}
-MultiLanguageSpellData['en'][463720] = {name = "6", additional_info = nil}
-MultiLanguageSpellData['en'][463721] = {name = "7", additional_info = nil}
-MultiLanguageSpellData['en'][463722] = {name = "8", additional_info = nil}
-MultiLanguageSpellData['en'][463723] = {name = "9", additional_info = nil}
-MultiLanguageSpellData['en'][463724] = {name = "0", additional_info = nil}
-MultiLanguageSpellData['en'][463730] = {name = "Coagulating Blood", additional_info = "Instant\n[q]0 damage taken in the last 5 sec, [floor(0 / Total health * 100)]% of your maximum health, will empower your next Death Strike."}
-MultiLanguageSpellData['en'][463733] = {name = "Seek and Destroy", additional_info = "Instant\n[q]Crawls toward a player and detonates when nearby, knocking back players within 7 yards and inflicting 75 Fire damage on impact and 4 Fire damage every 2 sec for 6 sec."}
-MultiLanguageSpellData['en'][463734] = {name = "Seek and Destroy", additional_info = "100 yd range\n2 sec cast\n[q]Crawls toward a player and detonates when nearby, knocking back players within 7 yards and inflicting 75 Fire damage on impact and 4 Fire damage every 2 sec for 6 sec."}
-MultiLanguageSpellData['en'][463738] = {name = "Seek and Destroy", additional_info = "4 yd range\nInstant\n[q]Crawls toward a player and detonates when nearby, knocking back players within 7 yards and inflicting 75 Fire damage on impact and 4 Fire damage every 2 sec for 6 sec."}
-MultiLanguageSpellData['en'][463740] = {name = "Mine Blast", additional_info = "1 sec cast\n[q]Crawls toward a player and detonates when nearby, knocking back players within 7 yards and inflicting 75 Fire damage on impact and 4 Fire damage every 2 sec for 6 sec."}
-MultiLanguageSpellData['en'][463742] = {name = "Provoked!", additional_info = "Instant\n[q]Become furious."}
-MultiLanguageSpellData['en'][463743] = {name = "Fishing", additional_info = "10 yd range\nChanneled (22 sec cast)\n[q]Go fish."}
-MultiLanguageSpellData['en'][463746] = {name = "Honey Marinade", additional_info = "100 yd range\nInstant\n[q]Benk Buzzbee coats his current target in flammable honey. After 5 sec the player ignites, inflicting 2652815 Fire damage to players within 6 yards of their location.\n\n Flaming honey remains on the ground, inflicting 884272 Fire damage every 0.5 sec to players standing within the effect."}
-MultiLanguageSpellData['en'][463749] = {name = "Starry-Eyed Goggles", additional_info = "Instant\n[q]See what you want to see."}
-MultiLanguageSpellData['en'][463753] = {name = "Blowout", additional_info = "{Instant} {4.5 sec cooldown}\n[q]Big M.O.M.M.A. spews excess oil in a frontal cone, inflicting 30 Nature damage and reducing the movement speed of all players within the blast by 80% for 8 sec. The potency of the snare decreases over the duration."}
-MultiLanguageSpellData['en'][463754] = {name = "Blowout", additional_info = "100 yd range\n2.5 sec cast\n[q]Big M.O.M.M.A. spews excess oil in a frontal cone, inflicting 30 Nature damage and reducing the movement speed of all players within the blast by 80% for 8 sec. The potency of the snare decreases over the duration."}
-MultiLanguageSpellData['en'][463758] = {name = "Opening", additional_info = nil}
-MultiLanguageSpellData['en'][463760] = {name = "Jetpack-Out-of-a-Box", additional_info = "40 yd range\nInstant\n[q]Equip a jetpack, allowing temporary flight within Undermine for 30 sec. Explodes upon expiration or landing."}
-MultiLanguageSpellData['en'][463765] = {name = "Warblade's Hunger", additional_info = "Instant\n[q]Vengeance\n Consuming a Soul Fragment causes your next to deal (40% of Attack power) additional damage.\n\nHavoc\n Consuming a Soul Fragment causes your next Chaos Strike to deal (40% of Attack power) additional damage.\n\n Felblade consumes up to 0 nearby Soul Fragments."}
 MultiLanguageSpellData['en'][463767] = {name = "Void Essence", additional_info = "[q0]Mythic+ Affixes\nUnlimited range\nInstant\n[q]Absorb the essence from the dissolved void crystal, increasing the player's Mastery by 2% and Leech by 1% for 30 sec. This effect stacks."}
 MultiLanguageSpellData['en'][463769] = {name = "Executive Package", additional_info = "Instant\n[q]Nikki's Executive Package technology keeps her safe and aloft."}
 MultiLanguageSpellData['en'][463770] = {name = "Crystal of Oblivion", additional_info = nil}
@@ -70,32 +8,32 @@ MultiLanguageSpellData['en'][463780] = {name = "Grease Gun", additional_info = "
 MultiLanguageSpellData['en'][463781] = {name = "Killing Spree", additional_info = "100 yd range\nInstant\nRequires Melee Weapon\n[q]Finishing move that teleports to an enemy within 10 yds, striking with both weapons for Physical damage. Number of strikes increased per combo point.\n\n 100% of damage taken during effect is delayed, instead taken over 8 sec.\n\n 1 point : [((125.453% of Attack power) + (125.453% of Attack power)) * 2] over 0.40 sec\n 2 points: [((125.453% of Attack power) + (125.453% of Attack power)) * 3] over 0.80 sec\n 3 points: [((125.453% of Attack power) + (125.453% of Attack power)) * 4] over 1.20 sec\n 4 points: [((125.453% of Attack power) + (125.453% of Attack power)) * 5] over 1.60 sec\n 5 points: [((125.453% of Attack power) + (125.453% of Attack power)) * 6] over 2.00 sec\n [  6 points: [((125.453% of Attack power) + (125.453% of Attack power)) * 7] over 2.40 sec] [  7 points: [((125.453% of Attack power) + (125.453% of Attack power)) * 8] over 2.80 sec]"}
 MultiLanguageSpellData['en'][463785] = {name = "Concussion Charge", additional_info = "Instant\n[q]Throws a grenade at a random player, inflicting 35 Fire damage and knocking back players within 4 yards."}
 MultiLanguageSpellData['en'][463786] = {name = "Concussion Charge", additional_info = "50 yd range\n2 sec cast\n[q]Throws a grenade at a random player, inflicting 35 Fire damage and knocking back players within 4 yards."}
-MultiLanguageSpellData['en'][463790] = {name = "Concussion Charge", additional_info = "50 yd range\n2 sec cast\n[q]Throws a grenade at a random player, inflicting 35 Fire damage and knocking back players within 4 yards."}
-MultiLanguageSpellData['en'][463796] = {name = "Concussion Charge", additional_info = "50 yd range\nInstant\n[q]Throws a grenade at a random player, inflicting 35 Fire damage and knocking back players within 4 yards."}
+MultiLanguageSpellData['en'][463790] = {name = "Concussion Charge", additional_info = "50 yd range\n2 sec cast\n[q]Throws a grenade at a random player, inflicting 2934781 Fire damage and knocking back players within 4 yards."}
+MultiLanguageSpellData['en'][463796] = {name = "Concussion Charge", additional_info = "50 yd range\nInstant\n[q]Throws a grenade at a random player, inflicting 2934781 Fire damage and knocking back players within 4 yards."}
 MultiLanguageSpellData['en'][463798] = {name = "Lightning Bash", additional_info = "Unlimited range\nInstant\n[q]Torq smashes his current target, inflicting 25993769 Physical damage. Additionally, 100% of unmitigated damage is inflicted as Nature damage."}
 MultiLanguageSpellData['en'][463800] = {name = "Zapbolt", additional_info = "100 yd range\nInstant\n[q]Torq calls down lightning strikes that inflict 3354035 Nature damage to players within 5 yards of the impact locations."}
 MultiLanguageSpellData['en'][463803] = {name = "Zapbolt", additional_info = "100 yd range\nInstant\n[q]Torq calls down lightning strikes that inflict 3354035 Nature damage to players within 5 yards of the impact locations."}
 MultiLanguageSpellData['en'][463807] = {name = "Summon Restless Stones", additional_info = nil}
-MultiLanguageSpellData['en'][463811] = {name = "Molten Slug", additional_info = "45 yd range\n1.5 sec cast\n[q]Shoots at a random enemy, inflicting 10 Fire damage."}
-MultiLanguageSpellData['en'][463819] = {name = "Trample", additional_info = "Channeled (4 sec cast)\n[q]Charges towards a random player, inflicting 20 Physical damage and knocking back players in its path.\n\n Upon hitting a wall, stuns himself for 0 sec."}
+MultiLanguageSpellData['en'][463811] = {name = "Molten Slug", additional_info = "45 yd range\n1.5 sec cast\n[q]Shoots at a random enemy, inflicting 838509 Fire damage."}
+MultiLanguageSpellData['en'][463819] = {name = "Trample", additional_info = "Channeled (4 sec cast)\n[q]Charges towards a random player, inflicting 1677017 Physical damage and knocking back players in its path.\n\n Upon hitting a wall, stuns himself for 0 sec."}
 MultiLanguageSpellData['en'][463820] = {name = "Chain Lightning", additional_info = "200 yd range\n3 sec cast\n[q]Strikes an enemy with a lightning bolt that arcs to up to 15 nearby players inflicting 527 Nature damage."}
 MultiLanguageSpellData['en'][463821] = {name = "Chain Lightning", additional_info = "200 yd range\n3 sec cast\n[q]Strikes an enemy with a lightning bolt that arcs to up to 15 nearby players inflicting 527 Nature damage."}
 MultiLanguageSpellData['en'][463822] = {name = "Flamethrower", additional_info = "Instant\n[q]Inflicts 219 Fire damage and applies Melt Armor to players in a 20 yard cone every 0.5 sec for 10 sec.\n\n Burns away Poison-Soaked and explodes Chemical Pools."}
 MultiLanguageSpellData['en'][463823] = {name = "Incineration", additional_info = "100 Energy\n5 sec cast\n[q]Inflicts 2194 Fire damage to all players and combusts all Chemical Pools."}
-MultiLanguageSpellData['en'][463828] = {name = "Trample", additional_info = "300 yd range\n4 sec cast\n[q]Charges towards a random player, inflicting 20 Physical damage and knocking back players in its path.\n\n Upon hitting a wall, stuns himself for 0 sec."}
+MultiLanguageSpellData['en'][463828] = {name = "Trample", additional_info = "300 yd range\n4 sec cast\n[q]Charges towards a random player, inflicting 1677017 Physical damage and knocking back players in its path.\n\n Upon hitting a wall, stuns himself for 0 sec."}
 MultiLanguageSpellData['en'][463829] = {name = "Chemical Bomb", additional_info = "{5 sec cast} {2 sec cooldown}\n[q]Fires Chemical Bombs, inflicting 1463 Nature damage on impact and creating a pool of flammable poison."}
 MultiLanguageSpellData['en'][463830] = {name = "Chemical Bomb", additional_info = "200 yd range\nInstant\n[q]Fires Chemical Bombs, inflicting 1463 Nature damage on impact and creating a pool of flammable poison."}
 MultiLanguageSpellData['en'][463831] = {name = "Chemical Pool", additional_info = "200 yd range\nInstant\n[q]Fires Chemical Bombs, inflicting 1463 Nature damage on impact and creating a pool of flammable poison."}
 MultiLanguageSpellData['en'][463833] = {name = "Poison Mist", additional_info = "200 yd range\nInstant\n[q]Toxitron fills the room with poison inflicting 263 Nature damage to all players every 1 sec for 10 sec and inflicting Poison-Soaked."}
 MultiLanguageSpellData['en'][463837] = {name = "Poison Mist", additional_info = "100 Energy\n3 sec cast\n[q]Toxitron fills the room with poison inflicting 263 Nature damage to all players every 1 sec for 10 sec and inflicting Poison-Soaked."}
 MultiLanguageSpellData['en'][463840] = {name = "Thunderdrum Salvo", additional_info = "Unlimited range\n1 sec cast\n[q]Torq rapidly drums his 'launch' button, firing missiles at all players within 60 yards for 6 sec. Each missiles inflicts 4192543 Nature damage within 4.5 yards on impact."}
-MultiLanguageSpellData['en'][463842] = {name = "Trample", additional_info = "300 yd range\nInstant\n[q]Charges towards a random player, inflicting 20 Physical damage and knocking back players in its path.\n\n Upon hitting a wall, stuns himself for 0 sec."}
+MultiLanguageSpellData['en'][463842] = {name = "Trample", additional_info = "300 yd range\nInstant\n[q]Charges towards a random player, inflicting 1677017 Physical damage and knocking back players in its path.\n\n Upon hitting a wall, stuns himself for 0 sec."}
 MultiLanguageSpellData['en'][463847] = {name = "Lethal Attraction", additional_info = "100 Energy\n{Instant} {12 sec cooldown}\n[q]Links pairs of players together. If linked players are farther than 5 yards apart after 6 sec, they suffer 3511 Nature damage."}
 MultiLanguageSpellData['en'][463848] = {name = "Lethal Attraction", additional_info = "Instant\n[q]Links pairs of players together. If linked players are farther than 5 yards apart after 6 sec, they suffer 3511 Nature damage."}
 MultiLanguageSpellData['en'][463849] = {name = "Lethal Attraction", additional_info = "200 yd range\nInstant\n[q]Links pairs of players together. If linked players are farther than 5 yards apart after 6 sec , they suffer 3511 Nature damage."}
 MultiLanguageSpellData['en'][463852] = {name = "Golem Overdrive", additional_info = "Instant\n[q]Golems within 10 yards have their damage increased by 100% and attack speed increased by 50%. This effect stacks."}
 MultiLanguageSpellData['en'][463853] = {name = "Golem Overdrive", additional_info = "100 yd range\nInstant\n[q]Golems within 10 yards have their damage increased by 100% and attack speed increased by 50%. This effect stacks."}
-MultiLanguageSpellData['en'][463855] = {name = "Stunned", additional_info = "Instant\n[q]Charges towards a random player, inflicting 20 Physical damage and knocking back players in its path.\n\n Upon hitting a wall, stuns himself for 0 sec."}
+MultiLanguageSpellData['en'][463855] = {name = "Stunned", additional_info = "Instant\n[q]Charges towards a random player, inflicting 1677017 Physical damage and knocking back players in its path.\n\n Upon hitting a wall, stuns himself for 0 sec."}
 MultiLanguageSpellData['en'][463860] = {name = "Launched!", additional_info = nil}
 MultiLanguageSpellData['en'][463865] = {name = "Undulation", additional_info = "Instant\n[q]Every third Healing Wave or Healing Surge heals for an additional 50%."}
 MultiLanguageSpellData['en'][463880] = {name = "Carrying Kaja'mite", additional_info = nil}
@@ -154,6 +92,7 @@ MultiLanguageSpellData['en'][463977] = {name = "Scorching Wind", additional_info
 MultiLanguageSpellData['en'][463978] = {name = "Boo", additional_info = "{Instant} {10 sec cooldown}\n[q]Boo the story, not the storyteller."}
 MultiLanguageSpellData['en'][463979] = {name = "Boo", additional_info = nil}
 MultiLanguageSpellData['en'][463981] = {name = "Sated", additional_info = "100 yd range\nInstant\n[q]Cannot benefit from Bloodlust or other similar effects."}
+MultiLanguageSpellData['en'][463984] = {name = "Answering the Call", additional_info = nil}
 MultiLanguageSpellData['en'][463987] = {name = "Cry", additional_info = "{Instant} {10 sec cooldown}\n[q]It's a terrible day for rain."}
 MultiLanguageSpellData['en'][463988] = {name = "Jailbreak", additional_info = "15 ALTERNATE 50 yd range\n{Instant} {10 sec cooldown}\n[q]Increases flight speed by 500% for 8 sec.\n\n Drains 15 system integrity."}
 MultiLanguageSpellData['en'][463989] = {name = "Cry", additional_info = nil}
@@ -733,7 +672,7 @@ MultiLanguageSpellData['en'][465067] = {name = "Magma Clap", additional_info = "
 MultiLanguageSpellData['en'][465068] = {name = "Magma Clap", additional_info = "200 yd range\nInstant\n[q]Slams the ground inflicting 527 Fire damage to players within 10 yards and causing violent explosions beneath distant players inflicting 1755 Fire damage."}
 MultiLanguageSpellData['en'][465069] = {name = "Avatar of Flame", additional_info = "300 yd range\nInstant\n[q]When Moira is defeated or Dagran falls below 70% health, Dagran transforms into a powerful Avatar of Flame, empowering his abilities."}
 MultiLanguageSpellData['en'][465070] = {name = "Iron Brand", additional_info = "100 yd range\nInstant\n[q]Ironfoe leaves behind Iron Brand inflicting 205 Fire damage every 3 sec for 30 sec."}
-MultiLanguageSpellData['en'][465071] = {name = "Sundering Bash", additional_info = "60 yd range\n3 sec cast\n[q]The hobgoblin smashes his current target, inflicting 90 Physical damage to players in a frontal cone. Additionally, players suffer 18 Physical damage every 1 sec for 10 sec. This effect stacks."}
+MultiLanguageSpellData['en'][465071] = {name = "Sundering Bash", additional_info = "60 yd range\n3 sec cast\n[q]The hobgoblin smashes his current target, inflicting 7546578 Physical damage to players in a frontal cone. Additionally, players suffer 1509316 Physical damage every 1 sec for 10 sec. This effect stacks."}
 MultiLanguageSpellData['en'][465072] = {name = "Magma Shower", additional_info = "200 yd range\nInstant\n[q]Magma Clap's explosions erupt in a shower of lava, inflicting 1463 Fire damage to players in the area."}
 MultiLanguageSpellData['en'][465073] = {name = "Magma Shower", additional_info = "200 yd range\nInstant\n[q]Magma Clap's explosions erupt in a shower of lava, inflicting 1463 Fire damage to players in the area."}
 MultiLanguageSpellData['en'][465074] = {name = "Magma Shower", additional_info = "200 yd range\nInstant\n[q]Magma Clap's explosions erupt in a shower of lava, inflicting 1463 Fire damage to players in the area."}
@@ -753,7 +692,7 @@ MultiLanguageSpellData['en'][465097] = {name = "Volcanic Blast", additional_info
 MultiLanguageSpellData['en'][465099] = {name = "Summon Fireguard Destroyer", additional_info = "{Instant} {45 sec cooldown}\n[q]Ragnaros summons a Fireguard Destroyer. The summoning inflicts 2048 Fire damage to all enemies. Damage is reduced farther from the impact point."}
 MultiLanguageSpellData['en'][465100] = {name = "Summon Fireguard Destroyer", additional_info = "100 yd range\n5 sec cast\n[q]Ragnaros summons a Fireguard Destroyer. The summoning inflicts 2710541 Fire damage to all enemies. Damage is reduced farther from the impact point."}
 MultiLanguageSpellData['en'][465101] = {name = "Goldmine's Totem", additional_info = nil}
-MultiLanguageSpellData['en'][465102] = {name = "Sundering Bash", additional_info = "Unlimited range\nInstant\n[q]The hobgoblin smashes his current target, inflicting 90 Physical damage to players in a frontal cone. Additionally, players suffer 18 Physical damage every 1 sec for 10 sec. This effect stacks."}
+MultiLanguageSpellData['en'][465102] = {name = "Sundering Bash", additional_info = "Unlimited range\nInstant\n[q]The hobgoblin smashes his current target, inflicting 7546578 Physical damage to players in a frontal cone. Additionally, players suffer 1509316 Physical damage every 1 sec for 10 sec. This effect stacks."}
 MultiLanguageSpellData['en'][465111] = {name = "Gloom Touch", additional_info = nil}
 MultiLanguageSpellData['en'][465112] = {name = "Gloom Touch", additional_info = "Unlimited range\nInstant\n[q]The Shadowgate afflicts transported players with dark energy, inflicting 575632 Shadow damage every 1.5 sec to players within 0 yards of the victims for 12 sec.\n\n Upon removal, a Gloom Blast occurs and Gloom forms."}
 MultiLanguageSpellData['en'][465114] = {name = "Jawsplosion", additional_info = "20 yd range\nInstant\n[q]Flarendo bites their current target so hard the nearby air explodes, inflicting 100 Fire damage and knocking them back."}
@@ -780,7 +719,7 @@ MultiLanguageSpellData['en'][465158] = {name = "Coin and Bomb", additional_info 
 MultiLanguageSpellData['en'][465159] = {name = "Flame and Bomb", additional_info = nil}
 MultiLanguageSpellData['en'][465160] = {name = "Flame and Bomb", additional_info = nil}
 MultiLanguageSpellData['en'][465163] = {name = "One-Armed Bandit", additional_info = nil}
-MultiLanguageSpellData['en'][465165] = {name = "Big Finish", additional_info = "300 yd range\n3 sec cast\n[q]The caster gets ready for their big finish, launching fireworks that inflict 12 Fire damage every 3 sec for 15 sec."}
+MultiLanguageSpellData['en'][465165] = {name = "Big Finish", additional_info = "300 yd range\n3 sec cast\n[q]The caster gets ready for their big finish, launching fireworks that inflict 1006211 Fire damage every 3 sec for 15 sec."}
 MultiLanguageSpellData['en'][465166] = {name = "Grievous Thrashing", additional_info = "Instant\n[q]The caster lunges at a nearby player, pinning them to the ground and inflicting 6 Physical damage every 0.8 sec for until canceled. This effect ends if the player is healed past 90% of their maximum health."}
 MultiLanguageSpellData['en'][465167] = {name = "Big Finish", additional_info = nil}
 MultiLanguageSpellData['en'][465168] = {name = "Grievous Thrashing", additional_info = "100 yd range\n2.5 sec cast\n[q]The caster lunges at a nearby player, pinning them to the ground and inflicting 6 Physical damage every 0.8 sec for until canceled. This effect ends if the player is healed past 90% of their maximum health."}
@@ -825,7 +764,7 @@ MultiLanguageSpellData['en'][465225] = {name = "Volcanic Blast", additional_info
 MultiLanguageSpellData['en'][465226] = {name = "Warband Bank Distance Inhibitor", additional_info = "2.3 sec cast 4 hrs cooldown\n[q]Summons a personal portal directly to your Warband Bank, allowing withdrawals and deposits for 10 min."}
 MultiLanguageSpellData['en'][465228] = {name = "Vascular Rupture", additional_info = "30 yd range\n4 sec cast\n[q]Projects a gush of vile blood that inflicts 34 Physical damage to an enemy."}
 MultiLanguageSpellData['en'][465229] = {name = "Volcanic Blast", additional_info = "200 yd range\nInstant\n[q]Ragnaros hurls a massive boulder of magma inflicting 20479 Fire damage split between players in the area and shattering the ground into Volcanic Stone . This damage pierces immunities."}
-MultiLanguageSpellData['en'][465232] = {name = "Sonic Ba-Boom", additional_info = "300 yd range\n2 sec cast\n[q]Lockenstock fires an enormous blast of gravitational energy, inflicting 2263973 Sonic damage to all players and an additional 452795 Sonic damage every 0.5 sec for 10 sec."}
+MultiLanguageSpellData['en'][465232] = {name = "Sonic Ba-Boom", additional_info = "300 yd range\n2 sec cast\n[q]Lockenstock fires an enormous blast of gravitational energy, inflicting 1760868 Sonic damage to all players and an additional 452795 Sonic damage every 0.5 sec for 10 sec."}
 MultiLanguageSpellData['en'][465234] = {name = "Volcanic Blast", additional_info = "200 yd range\nInstant\n[q]Ragnaros hurls a massive boulder of magma inflicting 20479 Fire damage split between players in the area and shattering the ground into Volcanic Stone . This damage pierces immunities."}
 MultiLanguageSpellData['en'][465235] = {name = "Trader's Gilded Brutosaur", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Trader's Gilded Brutosaur.\n[q]\"Morten and Killia never realized how much their new trading partnership across faction lines would pay off. That is until the day they were able to purchase this fine creature to aid them in their travels. And of course do it in gilded style.\"\nIn-Game Shop"}
 MultiLanguageSpellData['en'][465237] = {name = "Blood Rush", additional_info = "30 yd range\n2 sec cast\n[q]Charges recklessly to an enemy, inflicting Physical damage and causing them to bleed for 1 Physical damage every 1 sec. for 12 sec."}
@@ -863,7 +802,7 @@ MultiLanguageSpellData['en'][465320] = {name = "Opening", additional_info = "3 s
 MultiLanguageSpellData['en'][465321] = {name = "Magma Clap", additional_info = "Instant\n[q]Slams the ground inflicting 527 Fire damage to players within 10 yards and causing violent explosions beneath distant players inflicting 1755 Fire damage."}
 MultiLanguageSpellData['en'][465322] = {name = "Hot Hot Heat", additional_info = "3 sec cast\n[q]Three Flame symbols causes blazing flames to erupt from the One-Armed Bandit, marking random players for 5 sec. Upon expiration or removal, a line of flames blasts out towards them from the One-Armed Bandit, inflicting 5031052 Fire damage to all players struck."}
 MultiLanguageSpellData['en'][465325] = {name = "Hot Hot Heat", additional_info = "Instant\n[q]Three Flame symbols causes blazing flames to erupt from the One-Armed Bandit, marking random players for 5 sec. Upon expiration or removal, a line of flames blasts out towards them from the One-Armed Bandit, inflicting 5031052 Fire damage to all players struck."}
-MultiLanguageSpellData['en'][465326] = {name = "Rend Flesh", additional_info = "Melee Range\n0.5 sec cast\n[q]The bite inflicts 17 Physical damage and an additional 7 Physical damage every 1 sec for 6 sec."}
+MultiLanguageSpellData['en'][465326] = {name = "Rend Flesh", additional_info = "Melee Range\n0.5 sec cast\n[q]The bite inflicts 1402758 Physical damage and an additional 586956 Physical damage every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][465328] = {name = "Rabid Charge", additional_info = "45 yd range\n3 sec cast\n[q]Jumps towards a random player's location, inflicting 17 Physical damage on impact to players within 7 yards and an additional 3 Physical damage every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][465329] = {name = "Magma Shower", additional_info = "Instant\n[q]Magma Clap's explosions erupt in a shower of lava, inflicting 1463 Fire damage to players in the area."}
 MultiLanguageSpellData['en'][465330] = {name = "Summon Treasure", additional_info = nil}
@@ -1000,7 +939,7 @@ MultiLanguageSpellData['en'][465625] = {name = "Rolling Rubbish", additional_inf
 MultiLanguageSpellData['en'][465627] = {name = "Recently Revived", additional_info = "Instant\n[q]Recently revived, reducing all damage taken by 0%."}
 MultiLanguageSpellData['en'][465629] = {name = "Bronze Celebration Title: Grizzly Hills Hiker", additional_info = "1.5 sec cast\n[q]Grants the title: Grizzly Hills Hiker."}
 MultiLanguageSpellData['en'][465630] = {name = "Bronze Celebration Title: Plaguelands Survivor", additional_info = "1.5 sec cast\n[q]Grants the title: Plaguelands Survivor."}
-MultiLanguageSpellData['en'][465631] = {name = "Blessings of the Bronze Dragonflight", additional_info = "Instant\n[q]Increases all Experience and Reputation gains by 10% for 12 hrs"}
+MultiLanguageSpellData['en'][465631] = {name = "Blessings of the Bronze Dragonflight", additional_info = "Instant\n[q]Increases all Experience and Reputation gains by 10% for 12 hrs."}
 MultiLanguageSpellData['en'][465633] = {name = "<DNT> Daily Credit", additional_info = nil}
 MultiLanguageSpellData['en'][465634] = {name = "<DNT> Daily Credit", additional_info = nil}
 MultiLanguageSpellData['en'][465635] = {name = "<DNT> Daily Credit", additional_info = "Instant"}
@@ -1042,8 +981,8 @@ MultiLanguageSpellData['en'][465710] = {name = "Heat", additional_info = nil}
 MultiLanguageSpellData['en'][465711] = {name = "Summon Wretched Hyena", additional_info = "20 yd range\nInstant\n[q]Summons a hyena pet to assist the caster."}
 MultiLanguageSpellData['en'][465712] = {name = "Summon Corpse Bird", additional_info = "20 yd range\nInstant\n[q]Summons a vulture pet to assist the caster."}
 MultiLanguageSpellData['en'][465713] = {name = "Wattage", additional_info = nil}
-MultiLanguageSpellData['en'][465715] = {name = "Stunning Burst", additional_info = "5 sec cast\n[q]Lightning erupts from the caster, inflicting 75 Nature damage to enemies within 7 yards and stunning them for 5 sec."}
-MultiLanguageSpellData['en'][465717] = {name = "Elemental Blast", additional_info = "100 yd range\nInstant\n[q]Harnesses the raw power of the elements, dealing (260.489% of Spell power) Elemental damage and increasing your Critical Strike or Haste by 3% or Mastery by (3 * 1.875 )% for 10 sec."}
+MultiLanguageSpellData['en'][465715] = {name = "Stunning Burst", additional_info = "5 sec cast\n[q]Lightning erupts from the caster, inflicting 6288815 Nature damage to enemies within 7 yards and stunning them for 5 sec."}
+MultiLanguageSpellData['en'][465717] = {name = "Elemental Blast", additional_info = "100 yd range\nInstant\n[q]Harnesses the raw power of the elements, dealing (299.562% of Spell power) Elemental damage and increasing your Critical Strike or Haste by 3% or Mastery by (3 * 1.875 )% for 10 sec."}
 MultiLanguageSpellData['en'][465718] = {name = "Dreadful Shriek", additional_info = "{1 sec cast} {5 sec cooldown}\n[q]Silences nearby enemies, preventing them from casting spells for 4 sec."}
 MultiLanguageSpellData['en'][465720] = {name = "Weaver Friend", additional_info = nil}
 MultiLanguageSpellData['en'][465721] = {name = "Weaver Friend", additional_info = nil}
@@ -1094,22 +1033,22 @@ MultiLanguageSpellData['en'][465792] = {name = "Slot Machine", additional_info =
 MultiLanguageSpellData['en'][465794] = {name = "Blocker", additional_info = nil}
 MultiLanguageSpellData['en'][465795] = {name = "Noise Pollution", additional_info = "Unlimited range\nInstant\n[q]Rik's reverberating Amplifiers produce a low hum that inflicts 477950 Sonic damage to all players every 2 sec.\n\n Each active Amplifier increases the damage of Noise Pollution by 25%."}
 MultiLanguageSpellData['en'][465796] = {name = "Chomping Jaws", additional_info = "Melee Range\n0.5 sec cast\n[q]A powerful bite chomps down on the enemy, inflicting Physical damage and reducing their movement speed by 50% for 4 sec."}
-MultiLanguageSpellData['en'][465801] = {name = "Shoot", additional_info = "45 yd range\n{1 sec cast} {1.5 sec cooldown}\n[q]Inflicts 7 Physical damage to an enemy."}
+MultiLanguageSpellData['en'][465801] = {name = "Shoot", additional_info = "45 yd range\n{1 sec cast} {1.5 sec cooldown}\n[q]Inflicts 586956 Physical damage to an enemy."}
 MultiLanguageSpellData['en'][465804] = {name = "Cliffreach Poison", additional_info = "Melee Range\n1 sec cast\n[q]Potent wyvern poison inflicts 1 Nature damage to an enemy every 1 sec and reduces attacking and casting speed by 20% for 12 sec."}
 MultiLanguageSpellData['en'][465805] = {name = "Destroy Magic", additional_info = "10 yd range\n{2 sec cast} {12 sec cooldown}\n[q]Strike an enemy and destroy their magical connections, inflicting 15 Spellstrike damage and removing 1 beneficial Magic effect."}
 MultiLanguageSpellData['en'][465806] = {name = "Climb", additional_info = nil}
 MultiLanguageSpellData['en'][465811] = {name = "Maternal Rage", additional_info = "0.5 sec cast\n[q]Overwhelmed by rage the caster lashes out with 50% increased attack speed for 6 sec."}
-MultiLanguageSpellData['en'][465813] = {name = "Lethargic Venom", additional_info = "20 yd range\n2 sec cast\n[q]The caster spits a glob of venom at a player, inflicting 10 Nature damage and reducing their movement speed by 40%."}
+MultiLanguageSpellData['en'][465813] = {name = "Lethargic Venom", additional_info = "20 yd range\n2 sec cast\n[q]The caster spits a glob of venom at a player, inflicting 1473786 Nature damage and reducing their movement speed by 40%."}
 MultiLanguageSpellData['en'][465814] = {name = "Climb", additional_info = nil}
 MultiLanguageSpellData['en'][465815] = {name = "Scything Cleave", additional_info = "Melee Range\n0.75 sec cast\n[q]Inflicts 110% of normal melee damage to an enemy and its nearest allies, affecting up to 3 targets."}
 MultiLanguageSpellData['en'][465817] = {name = "Dauntless Departure", additional_info = nil}
 MultiLanguageSpellData['en'][465819] = {name = "Spinning Reels", additional_info = nil}
 MultiLanguageSpellData['en'][465820] = {name = "Vicious Chomp", additional_info = "20 yd range\n1.5 sec cast\n[q]The caster bites their target, inflicting 25 Physical damage and reducing their healing received by 5% for 12 sec. This effect stacks."}
-MultiLanguageSpellData['en'][465822] = {name = "Crossfire", additional_info = "45 yd range\n2 sec cast\n[q]The drone unleashes a hail of bullets at random targets in front of it, inflicting 2 Physical damage every 0.3 sec for 5 sec."}
+MultiLanguageSpellData['en'][465822] = {name = "Crossfire", additional_info = "45 yd range\n2 sec cast\n[q]The drone unleashes a hail of bullets at random targets in front of it, inflicting 167702 Physical damage every 0.3 sec for 5 sec."}
 MultiLanguageSpellData['en'][465823] = {name = "The Reel Deal", additional_info = nil}
 MultiLanguageSpellData['en'][465824] = {name = "Crossfire", additional_info = "Instant"}
 MultiLanguageSpellData['en'][465825] = {name = "The Reel Deal", additional_info = nil}
-MultiLanguageSpellData['en'][465826] = {name = "Crossfire", additional_info = "45 yd range\n{Instant} {1.5 sec cooldown}\n[q]The drone unleashes a hail of bullets at random targets in front of it, inflicting 2 Physical damage every 0.3 sec for 5 sec."}
+MultiLanguageSpellData['en'][465826] = {name = "Crossfire", additional_info = "45 yd range\n{Instant} {1.5 sec cooldown}\n[q]The drone unleashes a hail of bullets at random targets in front of it, inflicting 167702 Physical damage every 0.3 sec for 5 sec."}
 MultiLanguageSpellData['en'][465827] = {name = "Warp Blood", additional_info = "2.5 sec cast\n[q]The caster warps the blood of all players within 60 yards, inflicting 442136 Shadow damage and absorbing 442136 healing received every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][465828] = {name = "Ground Shatter", additional_info = "Melee Range\n{3.5 sec cast} {13 sec cooldown}\n[q]Knocks all enemies within 9 yards of the caster back.\n Inflicts 48 Physical damage to enemies within 9 yards."}
 MultiLanguageSpellData['en'][465829] = {name = "Slashing Talons", additional_info = "Melee Range\n1 sec cast\n[q]Avian talons slash at the target inflicting Physical damage and causing the enemy to bleed for1 Physical damage every 1 sec for 8 sec."}
@@ -1147,9 +1086,11 @@ MultiLanguageSpellData['en'][465879] = {name = "Flamethrower", additional_info =
 MultiLanguageSpellData['en'][465881] = {name = "Destructive Roar", additional_info = "15 yd range\n{2 sec cast} {12 sec cooldown}\n[q]Inflicts 20 Physical damage to enemies within 15 yards."}
 MultiLanguageSpellData['en'][465882] = {name = "Poison Claws", additional_info = nil}
 MultiLanguageSpellData['en'][465886] = {name = "Captain Lancekat", additional_info = nil}
+MultiLanguageSpellData['en'][465887] = {name = "Arathi Entertainer's Flame", additional_info = "{Instant} {15 sec cooldown}\n[q]Stay in rhythm to keep the flame in the air."}
+MultiLanguageSpellData['en'][465888] = {name = "Arathi Entertainer's Flame", additional_info = "Instant"}
 MultiLanguageSpellData['en'][465893] = {name = "Collecting", additional_info = nil}
 MultiLanguageSpellData['en'][465894] = {name = "Captain Lancekat", additional_info = "Instant"}
-MultiLanguageSpellData['en'][465905] = {name = "Heavy Smash", additional_info = "12 yd range\n1.2 sec cast\n[q]The shredder smashes its current target, inflicting 65 Physical damage."}
+MultiLanguageSpellData['en'][465905] = {name = "Heavy Smash", additional_info = "12 yd range\n1.2 sec cast\n[q]The shredder smashes its current target, inflicting 5450306 Physical damage."}
 MultiLanguageSpellData['en'][465907] = {name = "Event Tracker", additional_info = nil}
 MultiLanguageSpellData['en'][465911] = {name = "Event Tracker", additional_info = nil}
 MultiLanguageSpellData['en'][465912] = {name = "Event Tracker", additional_info = nil}
@@ -1179,7 +1120,7 @@ MultiLanguageSpellData['en'][465935] = {name = "Event Tracker", additional_info 
 MultiLanguageSpellData['en'][465936] = {name = "Event Tracker", additional_info = nil}
 MultiLanguageSpellData['en'][465937] = {name = "Event Tracker", additional_info = nil}
 MultiLanguageSpellData['en'][465938] = {name = "Big Bad Buncha Bombs", additional_info = "Unlimited range\nInstant\n[q]Gallywix calls in explosives which (mostly) detonate moments later inflicting 12600019 Fire damage and applies Blast Burns .\n\n However, some of the fuze within the bunch scatters about the arena."}
-MultiLanguageSpellData['en'][465939] = {name = "Buster Shot", additional_info = "40 yd range\n2.25 sec cast\n[q]Fires a missile at the current threat target, inflicting 18 Fire damage."}
+MultiLanguageSpellData['en'][465939] = {name = "Buster Shot", additional_info = "40 yd range\n2.25 sec cast\n[q]Fires a missile at the current threat target, inflicting 1467390 Fire damage."}
 MultiLanguageSpellData['en'][465940] = {name = "Putrid Breath", additional_info = "3 sec cast\n[q]A horrible blast of putrid breath inflicts 3 Nature damage to all enemies in front of the caster every 0.5 sec for 1.5 sec."}
 MultiLanguageSpellData['en'][465941] = {name = "Volatile Eruption", additional_info = nil}
 MultiLanguageSpellData['en'][465942] = {name = "Gravi-Grip", additional_info = "100 yd range\n3 sec cast\n[q]Sly grabs any Gravi-Gunk gunkified players and hurls them into his current target, inflicting 20 Sonic damage to each of them on impact.\n\n While in Gravi-Grip gravi-flight, applications of Gravi-Gunk are dislodged from targets.\n\n Unmitigated damage from the impact causes a Gravitational Shift ."}
@@ -1198,11 +1139,11 @@ MultiLanguageSpellData['en'][465962] = {name = "Fathomdweller's Runed Citrine", 
 MultiLanguageSpellData['en'][465963] = {name = "Windsinger's Runed Citrine", additional_info = "Instant\n[q]Grants [( 100 / 100) * ( 5663 / 3)] of your highest secondary stat."}
 MultiLanguageSpellData['en'][465966] = {name = "Charge Batteries", additional_info = nil}
 MultiLanguageSpellData['en'][465967] = {name = "Fixate", additional_info = nil}
-MultiLanguageSpellData['en'][465971] = {name = "Scatter Shot", additional_info = "50 yd range\n3 sec cast\n[q]The caster launches rockets in the direction of a player, inflicting 75 Fire damage to the first player it impacts."}
+MultiLanguageSpellData['en'][465971] = {name = "Scatter Shot", additional_info = "50 yd range\n3 sec cast\n[q]The caster launches rockets in the direction of a player, inflicting 6288815 Fire damage to the first player it impacts."}
 MultiLanguageSpellData['en'][465976] = {name = "Scatter Shot", additional_info = "50 yd range\nInstant\n[q]Igira expels swirling blades in the direction of a player, inflicting 435142 Shadowflame damage to players hit."}
-MultiLanguageSpellData['en'][465977] = {name = "Scatter Shot", additional_info = "Unlimited range\nInstant\n[q]The caster launches rockets in the direction of a player, inflicting 75 Fire damage to the first player it impacts."}
+MultiLanguageSpellData['en'][465977] = {name = "Scatter Shot", additional_info = "Unlimited range\nInstant\n[q]The caster launches rockets in the direction of a player, inflicting 6288815 Fire damage to the first player it impacts."}
 MultiLanguageSpellData['en'][465978] = {name = "Turbo Bolt", additional_info = "Unlimited range\nInstant\n[q]Beams of ultra death lightning emit from Geezle, inflicting 5158251 Nature damage and stunning any players hit for 1 sec."}
-MultiLanguageSpellData['en'][465979] = {name = "Scatter Shot", additional_info = "Unlimited range\nInstant\n[q]The caster launches rockets in the direction of a player, inflicting 75 Fire damage to the first player it impacts."}
+MultiLanguageSpellData['en'][465979] = {name = "Scatter Shot", additional_info = "Unlimited range\nInstant\n[q]The caster launches rockets in the direction of a player, inflicting 6288815 Fire damage to the first player it impacts."}
 MultiLanguageSpellData['en'][465980] = {name = "Turbo Bolt", additional_info = "Unlimited range\nInstant\n[q]Beams of ultra death lightning emit from Geezle, inflicting 5158251 Nature damage and stunning any players hit for 1 sec."}
 MultiLanguageSpellData['en'][465982] = {name = "Turbo Bolt", additional_info = "Unlimited range\nInstant\n[q]Beams of ultra death lightning emit from Geezle, inflicting 5158251 Nature damage and stunning any players hit for 1 sec."}
 MultiLanguageSpellData['en'][465983] = {name = "Lucky 7 Reels", additional_info = nil}
@@ -1217,7 +1158,7 @@ MultiLanguageSpellData['en'][466006] = {name = "Large Garbage Pile", additional_
 MultiLanguageSpellData['en'][466007] = {name = "Bombshell", additional_info = "Instant\n[q]Crawler Bombs wear a sturdy bomb casing for protection, reducing all damage they take by 99%.\n\n They explode only upon contact with their target, inflicting 300 Fire damage to players within 5 yards."}
 MultiLanguageSpellData['en'][466011] = {name = "Flarendo the Furious", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Being the VIP of VIPs at the Gallagio has its perks, including the keys to this former King of Carnage. Cutting-edge goblin technology allows him to achieve over 100 yards per gallon!\""}
 MultiLanguageSpellData['en'][466012] = {name = "Thunderdrum Misfire", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Recovered from the Cauldron's bleachers during a particularly gruesome clash. When asked if it was a dud, Torq's operator simply replied: 'Probably?'\"\nVendor:\nAndo the Gat\nZone:\nLiberation of Undermine\nCost:\n500"}
-MultiLanguageSpellData['en'][466013] = {name = "Ocher Delivery Rocket", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Get packages and passengers from point A to B in style!\"\nVendor:\nShredz the Scrapper\nZone:\nUndermine\nCost:\n11375"}
+MultiLanguageSpellData['en'][466013] = {name = "Ochre Delivery Rocket", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Get packages and passengers from point A to B in style!\"\nVendor:\nShredz the Scrapper\nZone:\nUndermine\nCost:\n11375"}
 MultiLanguageSpellData['en'][466014] = {name = "Steamwheedle Supplier", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Supplies you with a quick trip, or your enemies with a large explosion!\"\nDrop:\nSteamwheedle Trove\nZone:\nUndermine"}
 MultiLanguageSpellData['en'][466016] = {name = "The Topskimmer Special", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Smaks is sure this rocket won't explode mid-flight. Absolutely. Positively. 100%. Sure.\"\nVendor:\nSmaks Topskimmer\nZone:\nUndermine\nCost:\n11375"}
 MultiLanguageSpellData['en'][466017] = {name = "Innovation Investigator", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"When the best path to a good idea is going really fast.\"\nVendor:\nSkedgit Cinderbangs\nZone:\nUndermine\nCost:\n25"}
@@ -1352,7 +1293,7 @@ MultiLanguageSpellData['en'][466244] = {name = "Trash Collection", additional_in
 MultiLanguageSpellData['en'][466245] = {name = "Change Name", additional_info = nil}
 MultiLanguageSpellData['en'][466246] = {name = "Focused Detonation", additional_info = "Unlimited range\nInstant\n[q]The ordnance's blast sears inflicting 1677017 Fire damage every 1 sec for 10 sec. This effect stacks.\n\n Focused Detonation triggers a Time-Release Crackle upon removal."}
 MultiLanguageSpellData['en'][466247] = {name = "Change Name", additional_info = nil}
-MultiLanguageSpellData['en'][466248] = {name = "1500-Pound \"Dud\"", additional_info = "Unlimited range\nInstant\n[q]DUD-1500 munitions embed into the arena exploding after 15 sec inflicting 6708070 Fire damage to all players plus an additional 2515526 Fire damage every 3 sec for 9 sec. This effect stacks.\n\n Interacting with the ordnance instead focuses the blast inflicting 13416139 Physical damage and applying Focused Detonation , additionally knocking back."}
+MultiLanguageSpellData['en'][466248] = {name = "1500-Pound \"Dud\"", additional_info = "Unlimited range\nInstant\n[q]DUD-1500 munitions embed into the arena exploding after 15 sec inflicting 80 Fire damage to all players plus an additional 30 Fire damage every 3 sec for 9 sec. This effect stacks.\n\n Interacting with the ordnance instead focuses the blast inflicting 160 Physical damage and applying Focused Detonation , additionally knocking back."}
 MultiLanguageSpellData['en'][466249] = {name = "Change Name", additional_info = nil}
 MultiLanguageSpellData['en'][466251] = {name = "1500-Pound \"Dud\"", additional_info = "6 yd range\n{Instant} {0.5 sec cooldown}\n[q]DUD-1500 munitions embed into the arena exploding after 15 sec inflicting 6708070 Fire damage to all players plus an additional 2515526 Fire damage every 3 sec for 9 sec. This effect stacks.\n\n Interacting with the ordnance instead focuses the blast inflicting 13416139 Physical damage and applying Focused Detonation , additionally knocking back."}
 MultiLanguageSpellData['en'][466254] = {name = "Shadowstep", additional_info = "30 yd range\n{Instant} {10 sec cooldown}\n[q]The caster steps through the shadows, appearing behind their target."}
@@ -1374,8 +1315,8 @@ MultiLanguageSpellData['en'][466288] = {name = "Blue Chip Defense", additional_i
 MultiLanguageSpellData['en'][466290] = {name = "Explosive Drive", additional_info = "50 - 100 yd range\nInstant\n[q]Explosively Drive a Boomball up to 50 to 100 yds with minimal accuracy."}
 MultiLanguageSpellData['en'][466292] = {name = "Red Chip Defense", additional_info = "500 yd range\nInstant\n[q]Red Chip Defense periodically fires out Shockwave missiles that erupt in rings of flame, inflicting 60 Fire damage to players struck."}
 MultiLanguageSpellData['en'][466294] = {name = "Self Explosion", additional_info = nil}
-MultiLanguageSpellData['en'][466296] = {name = "Charged Claw", additional_info = "{2 sec cast} {2 sec cooldown}\n[q]Strikes a player with a lightning bolt that inflicts 12 Nature damage. The lightning chains to up to 3 targets."}
-MultiLanguageSpellData['en'][466298] = {name = "Charged Claw", additional_info = "30 yd range\nInstant\n[q]Strikes a player with a lightning bolt that inflicts 12 Nature damage. The lightning chains to up to 3 targets."}
+MultiLanguageSpellData['en'][466296] = {name = "Charged Claw", additional_info = "{2 sec cast} {2 sec cooldown}\n[q]Strikes a player with a lightning bolt that inflicts 1028414 Nature damage. The lightning chains to up to 3 targets."}
+MultiLanguageSpellData['en'][466298] = {name = "Charged Claw", additional_info = "30 yd range\nInstant\n[q]Strikes a player with a lightning bolt that inflicts 1028414 Nature damage. The lightning chains to up to 3 targets."}
 MultiLanguageSpellData['en'][466299] = {name = "Energy Shield", additional_info = "1.5 sec cast\n[q]Lifts a riot shield, blocking incoming damage from players in front of the unit."}
 MultiLanguageSpellData['en'][466303] = {name = "Wild Charge", additional_info = "100 yd range\n3 sec cast\n[q]The caster dashes forward, inflicting Physical damage to all players in its path and knocking them back."}
 MultiLanguageSpellData['en'][466308] = {name = "Nibble", additional_info = "10 yd range\n2 sec cast\n[q]Bites the player, inflicting Physical damage."}
@@ -1409,6 +1350,7 @@ MultiLanguageSpellData['en'][466377] = {name = "Moxie", additional_info = "Insta
 MultiLanguageSpellData['en'][466378] = {name = "Taking Charge", additional_info = "Instant\n[q]Mug or Zee take charge when ALL players are on their side of room, causing Mug or Zee to become the Head Honcho . Each following up with their own command.\n\n Removes 10 applications of Moxie ."}
 MultiLanguageSpellData['en'][466382] = {name = "Volcanic Stone", additional_info = "200 yd range\nInstant\n[q]Inflicts 439 Fire damage every 1 sec to players in the area."}
 MultiLanguageSpellData['en'][466385] = {name = "Moxie", additional_info = "Instant\n[q]Mug'Zee grows resolute over time, increasing their damage done by 1% every 5 sec. This effect stacks."}
+MultiLanguageSpellData['en'][466386] = {name = "Arathi Entertainer's Flame", additional_info = nil}
 MultiLanguageSpellData['en'][466391] = {name = "Kaja'Cola Carrier Unit", additional_info = "3 yd range\n{1.5 sec cast} {1.5 min cooldown}\n[q]Summons a Kaja'Cola Carrier Unit to disperse energizing drinks for thirsty players."}
 MultiLanguageSpellData['en'][466393] = {name = "Kaja'Cola", additional_info = "100 yd range\nInstant\n[q]Restores ( 1391250 / 5 * 20) health and mana over 20 sec. Must remain seated while drinking."}
 MultiLanguageSpellData['en'][466394] = {name = "Kaja'Cola", additional_info = "100 yd range\nInstant\n[q]Restores ( 1391250 / 5 * 20) health and mana over 20 sec. Must remain seated while drinking."}
@@ -1418,7 +1360,7 @@ MultiLanguageSpellData['en'][466397] = {name = "Fire Laser", additional_info = "
 MultiLanguageSpellData['en'][466399] = {name = "Red Chip Defense", additional_info = nil}
 MultiLanguageSpellData['en'][466400] = {name = "Well Fed & Inspired", additional_info = "Instant\n[q]Inspired by the Kaja'Cola, increasing movement speed by 15% and haste by 5%."}
 MultiLanguageSpellData['en'][466411] = {name = "Racing", additional_info = nil}
-MultiLanguageSpellData['en'][466419] = {name = "Scatterblast Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix cannons his current target inflicting 20950056 Physical damage. This attack cannot be dodged or parried.\n\n This additionally blasts players in a frontal cone inflicting 46083683 Fire damage and increases Scatterblast Canisters damage taken by 100% for until canceled . This damage splits evenly among effected players.\n\n All targets become afflicted with Mechengineer's Canisters .\n\n If this fails to hit at least 3 targets all players suffer the full effect."}
+MultiLanguageSpellData['en'][466419] = {name = "Scatterblast Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix cannons his current target inflicting 20950056 Physical damage. This attack cannot be dodged or parried.\n\n This additionally blasts players in a frontal cone inflicting 46083683 Fire damage and increases Scatterblast Canisters damage taken by 100% for . This damage splits evenly among effected players.\n\n All targets become afflicted with Mechengineer's Canisters .\n\n If this fails to hit at least 3 targets all players suffer the full effect."}
 MultiLanguageSpellData['en'][466421] = {name = "Rocket Barrage", additional_info = "20 yd range\n2 sec cast\n[q]The Rocket Cannon fires a barrage of burning bombs, inflicting 30 Fire damage to targets on impact."}
 MultiLanguageSpellData['en'][466422] = {name = "Reading Pamphlet", additional_info = "Instant\n[q]Being radicalized."}
 MultiLanguageSpellData['en'][466423] = {name = "Unstable Rocket", additional_info = "Instant\n[q]Summons a rideable but slightly unstable rocket.\n[q]\"What it lacks in safety features it more than makes up for in speed and style. Not for the faint of heart.\""}
@@ -1463,6 +1405,10 @@ MultiLanguageSpellData['en'][466492] = {name = "Molten Hand", additional_info = 
 MultiLanguageSpellData['en'][466493] = {name = "Molten Hand", additional_info = "200 yd range\nInstant\n[q]Hands of Thaurissan emit spheres of magma along their path, inflicting 878 Fire damage."}
 MultiLanguageSpellData['en'][466495] = {name = "Hydra Chill", additional_info = "12 yd range\n2 sec cast\n[q]Slams the ground with icy claws, inflicting initial Frost damage to all enemies within 12 yards of the caster and applying Hydra Chill, inflicting 1 Frost damage every 1 sec for 12 sec."}
 MultiLanguageSpellData['en'][466496] = {name = "Holding Bomb", additional_info = nil}
+MultiLanguageSpellData['en'][466498] = {name = "Rallying Cry", additional_info = "Instant\n[q]Inspire yourself and allies as you get ready for the final battle!"}
+MultiLanguageSpellData['en'][466499] = {name = "Cheer", additional_info = "Instant\n[q]Let out an inspiring cheer!"}
+MultiLanguageSpellData['en'][466500] = {name = "Roar", additional_info = "Instant\n[q]Let loose an inspiring roar!"}
+MultiLanguageSpellData['en'][466501] = {name = "Salute", additional_info = "Instant\n[q]Salute those about to charge!"}
 MultiLanguageSpellData['en'][466502] = {name = "Shadow Word: Nemesis", additional_info = "200 yd range\nInstant\n[q]Inflicts 116166 Shadow damage every 1 sec until Moira is defeated. Every 10 sec, Shadow Word: Nemesis gains a stack. Dispelling Shadow Word: Nemesis causes it to jump to 2 other players."}
 MultiLanguageSpellData['en'][466504] = {name = "Shadow Word: Nemesis", additional_info = "1 sec cast\n[q]Inflicts 88 Shadow damage every 1 sec until Moira is defeated. Every 10 sec, Shadow Word: Nemesis gains a stack. Dispelling Shadow Word: Nemesis causes it to jump to 2 other players."}
 MultiLanguageSpellData['en'][466505] = {name = "Resonant Echo", additional_info = nil}
@@ -1476,8 +1422,11 @@ MultiLanguageSpellData['en'][466517] = {name = "Stormfury Cloud", additional_inf
 MultiLanguageSpellData['en'][466518] = {name = "Molten Gold Knuckles", additional_info = "300 yd range\n2.5 sec cast\n[q]Mug unleashes a blow of molten gold and lava in a frontal cone, inflicting 37732891 Physical damage and 2683228 Fire damage, knocking them back.\n\n Players hit are covered in Golden Drip ."}
 MultiLanguageSpellData['en'][466519] = {name = "Molten Gold Knuckles", additional_info = "300 yd range\nInstant\n[q]Mug unleashes a blow of molten gold and lava in a frontal cone, inflicting 37732891 Physical damage and 2683228 Fire damage, knocking them back.\n\n Players hit are covered in Golden Drip ."}
 MultiLanguageSpellData['en'][466520] = {name = "Dead Man's Switch", additional_info = "100 yd range\nInstant\n[q]Upon going unconscious, the dead man's switch activates firing missiles to nearby enemies."}
+MultiLanguageSpellData['en'][466521] = {name = "Yell", additional_info = "Instant\n[q]Yell at the enemy to show them you have no fear!"}
 MultiLanguageSpellData['en'][466524] = {name = "Metal Sheet", additional_info = "{Instant} {3 min cooldown}\n[q]Go into a defensive crouch, reducing all damage taken by 100% but preventing other actions for 10 sec."}
+MultiLanguageSpellData['en'][466525] = {name = "Flex", additional_info = "Instant\n[q]Show the enemy your strength!"}
 MultiLanguageSpellData['en'][466527] = {name = "Hype the Band", additional_info = nil}
+MultiLanguageSpellData['en'][466529] = {name = "Inspired Champion", additional_info = "Instant\n[q]Ready to charge into battle! Increases the caster's attacking and casting speed by 10% for 5 min."}
 MultiLanguageSpellData['en'][466532] = {name = "Goblin-guided Rocket", additional_info = nil}
 MultiLanguageSpellData['en'][466534] = {name = "Hype the Band", additional_info = "6 yd range\n{Instant} {3 sec cooldown}\n[q]Get those Marina Visitors off their lawn chairs, and over to the real party!"}
 MultiLanguageSpellData['en'][466536] = {name = "Unstable Crawler Mines", additional_info = nil}
@@ -1553,7 +1502,7 @@ MultiLanguageSpellData['en'][466661] = {name = "Void Rocket Barrage", additional
 MultiLanguageSpellData['en'][466663] = {name = "Firing Line", additional_info = "300 yd range\nInstant\n[q]Anvilrage Dragoons fire in coordinated volleys. Each shot inflicts 585 Physical damage and knocks players back."}
 MultiLanguageSpellData['en'][466665] = {name = "Punt", additional_info = "Melee Range\n1 sec cast\n[q]The caster's giant foot kicks the enemy with tremendous force, inflicting Physical damage and knocking them back."}
 MultiLanguageSpellData['en'][466671] = {name = "Scrapfield 9001", additional_info = "[q]Falling below 60 % health surrounds you with a protective vortex of junk, reducing damage taken by 50% for 15 sec or until 3251 damage is prevented. This effect may only occur every 30 sec.\n\n After 20 sec without activating while in combat, the Scrapfield overloads to energize you with 113 Haste for 12 sec.\nValid only for tank specializations."}
-MultiLanguageSpellData['en'][466673] = {name = "Scrapfield Vortex", additional_info = "{Instant} {30 sec cooldown}\n[q]Falling below 75 % health activates the defense matrix for up to 15 sec, absorbing 50% of damage taken up to a maximum of 8676 . While the matrix holds, the resonator pulses every 1 sec to deal 96 Fire damage to all nearby enemies. Damage is reduced beyond 8 enemies.\n\n This may only occur once every 1.5 min."}
+MultiLanguageSpellData['en'][466673] = {name = "Scrapfield Vortex", additional_info = "{Instant} {30 sec cooldown}\n[q]Falling below 60 % health surrounds you with a protective vortex of junk, reducing damage taken by 50% for 15 sec or until 3251 damage is prevented. This effect may only occur every 30 sec.\n\n After 20 sec without activating while in combat, the Scrapfield overloads to energize you with 113 Haste for 12 sec.\nValid only for tank specializations."}
 MultiLanguageSpellData['en'][466676] = {name = "Burning", additional_info = "10 yd range\nInstant\n[q]Ignite Shredder fuel releasing a stream of fire at nearby enemies for 5 sec, inflicting 25 Fire damage every 1 sec and slowing movement speed by 70% for 5 sec."}
 MultiLanguageSpellData['en'][466679] = {name = "Head Honcho", additional_info = nil}
 MultiLanguageSpellData['en'][466680] = {name = "House of Cards", additional_info = nil}
@@ -1586,8 +1535,8 @@ MultiLanguageSpellData['en'][466742] = {name = "Dumpster Dive", additional_info 
 MultiLanguageSpellData['en'][466743] = {name = "Dumpster Dive", additional_info = "300 yd range\nInstant\n[q]The Scrapmaster jetpack jumps toward a player and slams into the landfill at their location, causing an explosion of garbage that inflicts 10062104 Nature damage and knocks back players within 8 yards."}
 MultiLanguageSpellData['en'][466748] = {name = "Infected Bite", additional_info = "20 yd range\n0.6 sec cast\n[q]The Junkyard Hyena sinks its filthy teeth into its current target, inflicting 1677017 Physical damageuntil canceled ."}
 MultiLanguageSpellData['en'][466750] = {name = "Junkyard Smash", additional_info = "2.5 sec cast\n[q]Smashes the ground in front of the caster, inflicting 30 Physical damage and knocking back players struck."}
-MultiLanguageSpellData['en'][466751] = {name = "Venting Heat", additional_info = "Unlimited range\n1 sec cast\n[q]Gallywix's machines dump excessive heat over 4 sec inflicting 1844719 Fire damage to all players plus an additional 276708 Fire damage every 1 sec."}
-MultiLanguageSpellData['en'][466752] = {name = "Venting Heat", additional_info = "Unlimited range\nInstant\n[q]Gallywix's machines dump excessive heat over 4 sec inflicting 1844719 Fire damage to all players plus an additional 276708 Fire damage every 1 sec."}
+MultiLanguageSpellData['en'][466751] = {name = "Venting Heat", additional_info = "Unlimited range\n1 sec cast\n[q]Gallywix's machines dump excessive heat over 4 sec inflicting 1660247 Fire damage to all players plus an additional 249037 Fire damage every 1 sec."}
+MultiLanguageSpellData['en'][466752] = {name = "Venting Heat", additional_info = "Unlimited range\nInstant\n[q]Gallywix's machines dump excessive heat over 4 sec inflicting 1660247 Fire damage to all players plus an additional 249037 Fire damage every 1 sec."}
 MultiLanguageSpellData['en'][466753] = {name = "Overheating", additional_info = "Unlimited range\nInstant\n[q]Gallywix's contraption dissipates inefficiently increasing the duration of Venting Heat by 1 sec. This effect stacks."}
 MultiLanguageSpellData['en'][466755] = {name = "Shatter Cave Entrance", additional_info = "Instant\n[q]Use the charged Chronoforged Hammer to shatter the time lock on the forge."}
 MultiLanguageSpellData['en'][466756] = {name = "Override Aura DNT", additional_info = nil}
@@ -1630,7 +1579,7 @@ MultiLanguageSpellData['en'][466804] = {name = "Picking Up...", additional_info 
 MultiLanguageSpellData['en'][466805] = {name = "Gold Casino Chip", additional_info = nil}
 MultiLanguageSpellData['en'][466806] = {name = "Revival", additional_info = "100 yd range\nInstant\n[q]Heals all party and raid members within 40 yds for 0 and clears them of 100 harmful Magic, all Poison, and all Disease effects.\n\n Healing reduced beyond 5 targets."}
 MultiLanguageSpellData['en'][466807] = {name = "Shadow", additional_info = "Unlimited range\nInstant\n[q]Shadowcrown unleashes a massive explosion of shadow magic in an attempt to destroy any players aboard the Dawnbreaker. While casting Shadowcrown is immune to damage."}
-MultiLanguageSpellData['en'][466808] = {name = "Toxic Bile", additional_info = "2.5 sec cast\n[q]Inflicts 30 Nature damage to all players in front of the caster.\n Players hit are inflicted by 10 Nature damage every 1 sec and slowed by 40% for 6 sec."}
+MultiLanguageSpellData['en'][466808] = {name = "Toxic Bile", additional_info = "2.5 sec cast\n[q]Inflicts 2515526 Nature damage to all players in front of the caster.\n Players hit are inflicted by 838509 Nature damage every 1 sec and slowed by 40% for 6 sec."}
 MultiLanguageSpellData['en'][466810] = {name = "Chromebustible Bomb Suit", additional_info = "{Instant} {1.5 min cooldown}\n[q]Rapidly deploy the bomb suit to reduce damage taken by 75% for 20 sec or until 33954 damage has been prevented.\n\n Upon depletion, the bomb suit detonates to deal 1727 Fire damage split between nearby enemies."}
 MultiLanguageSpellData['en'][466811] = {name = "Chaos-Forged Gryphon", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Born and raised during a time of great chaos, this mount has survived hardships known by few.\"\nIn-Game Shop"}
 MultiLanguageSpellData['en'][466812] = {name = "Chaos-Forged Hippogryph", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Born and raised during a time of great chaos, this mount has survived hardships known by few.\"\nIn-Game Shop"}
@@ -1776,7 +1725,7 @@ MultiLanguageSpellData['en'][467080] = {name = "Goblin Airship: Top 01 - Balloon
 MultiLanguageSpellData['en'][467081] = {name = "Goblin Airship: Front 01 - Harpoon", additional_info = nil}
 MultiLanguageSpellData['en'][467082] = {name = "Goblin Airship: Back 01 - Pipes", additional_info = nil}
 MultiLanguageSpellData['en'][467083] = {name = "Goblin Airship: Wings 01 - Flamethrower", additional_info = nil}
-MultiLanguageSpellData['en'][467086] = {name = "Toxic Volley", additional_info = "100 yd range\n6.5 sec cast\n[q]Toxic chemicals fire out, inflicting 7 Nature damage, then 4 Nature damage every 3 sec for 9 sec."}
+MultiLanguageSpellData['en'][467086] = {name = "Toxic Volley", additional_info = "100 yd range\n6.5 sec cast\n[q]Toxic chemicals fire out, inflicting 598456 Nature damage, then 299228 Nature damage every 3 sec for 9 sec."}
 MultiLanguageSpellData['en'][467087] = {name = "Discounted Restored Coffer Key", additional_info = nil}
 MultiLanguageSpellData['en'][467089] = {name = "Veteran's Warbound Battlegear Drop", additional_info = nil}
 MultiLanguageSpellData['en'][467091] = {name = "The Swaying Span", additional_info = "Instant\n(1s cooldown)"}
@@ -1789,23 +1738,23 @@ MultiLanguageSpellData['en'][467105] = {name = "Ravenous Charge", additional_inf
 MultiLanguageSpellData['en'][467106] = {name = "Ravenous Charge", additional_info = "30 yd range\n4 sec cast\n[q]Charges to an enemy and bites them with powerful jaws, inflicting Physical damage and causing them to suffer Physical damage from bleeding for 20 sec."}
 MultiLanguageSpellData['en'][467107] = {name = "Override Aura DNT", additional_info = nil}
 MultiLanguageSpellData['en'][467108] = {name = "Faulty Zap", additional_info = nil}
-MultiLanguageSpellData['en'][467109] = {name = "Trash Compactor", additional_info = nil}
+MultiLanguageSpellData['en'][467109] = {name = "Trash Compactor", additional_info = "300 yd range\n3.75 sec cast\n[q]Stix completes the Overdrive process with an explosive landing, releasing an immense wave of electrical energy that inflicts 25155261 Nature damage to players within 22 yards.\n\n The blast radiates outward inflicting an additional 6708070 Nature damage to all players and knocking them back."}
 MultiLanguageSpellData['en'][467111] = {name = "Socket Ring", additional_info = "Instant\n[q]Socket the Signing Citrine into the Ring."}
 MultiLanguageSpellData['en'][467112] = {name = "Kill Credit: Socket Ring", additional_info = nil}
 MultiLanguageSpellData['en'][467113] = {name = "Faulty Zap", additional_info = nil}
 MultiLanguageSpellData['en'][467115] = {name = "Unsocket Ring", additional_info = "Instant\n[q]Unsocket the Signing Citrine into the Ring."}
 MultiLanguageSpellData['en'][467116] = {name = "Override Aura DNT", additional_info = nil}
 MultiLanguageSpellData['en'][467117] = {name = "Overdrive", additional_info = "1 sec cast\n[q]Stix eventually becomes impatient and forces his mech into Overdrive, temporarily reducing all damage taken by 99% as he soars sky-high and rains down countless Overcharged Bolt s.\n\n He then plunges back down with Trash Compactor and operates at Maximum Output until defeated."}
-MultiLanguageSpellData['en'][467121] = {name = "Forever Chemicals", additional_info = "Instant\n[q]Drips forever chemicals on its location every 3 sec lasting 1 min inflicting 5 Nature damage to all players within."}
+MultiLanguageSpellData['en'][467121] = {name = "Forever Chemicals", additional_info = "Instant\n[q]Drips forever chemicals on its location every 3 sec lasting 1 min inflicting 419254 Nature damage to all players within."}
 MultiLanguageSpellData['en'][467123] = {name = "Faulty Zap", additional_info = nil}
-MultiLanguageSpellData['en'][467124] = {name = "Forever Chemicals", additional_info = "Unlimited range\nInstant\n[q]Drips forever chemicals on its location every 3 sec lasting 1 min inflicting 5 Nature damage to all players within."}
+MultiLanguageSpellData['en'][467124] = {name = "Forever Chemicals", additional_info = "Unlimited range\nInstant\n[q]Drips forever chemicals on its location every 3 sec lasting 1 min inflicting 419254 Nature damage to all players within."}
 MultiLanguageSpellData['en'][467128] = {name = "Lingering Voltage", additional_info = "Instant"}
 MultiLanguageSpellData['en'][467131] = {name = "Faulty Zap", additional_info = "Instant"}
 MultiLanguageSpellData['en'][467132] = {name = "Trash Compactor", additional_info = nil}
 MultiLanguageSpellData['en'][467133] = {name = "Faulty Zap", additional_info = "Instant"}
 MultiLanguageSpellData['en'][467135] = {name = "Trash Compactor", additional_info = "300 yd range\nInstant\n[q]Stix completes the Overdrive process with an explosive landing, releasing an immense wave of electrical energy that inflicts 25155261 Nature damage to players within 22 yards.\n\n The blast radiates outward inflicting an additional 6708070 Nature damage to all players and knocking them back."}
 MultiLanguageSpellData['en'][467137] = {name = "Feeding Frenzy", additional_info = "Melee Range\n1 sec cast\n[q]Powerful jaws bite a bleeding enemy, inflicting Physical damage."}
-MultiLanguageSpellData['en'][467138] = {name = "Forever Chemicals", additional_info = "Unlimited range\nInstant\n[q]Drips forever chemicals on its location every 3 sec lasting 1 min inflicting 5 Nature damage to all players within."}
+MultiLanguageSpellData['en'][467138] = {name = "Forever Chemicals", additional_info = "Unlimited range\nInstant\n[q]Drips forever chemicals on its location every 3 sec lasting 1 min inflicting 419254 Nature damage to all players within."}
 MultiLanguageSpellData['en'][467140] = {name = "Calming", additional_info = nil}
 MultiLanguageSpellData['en'][467148] = {name = "Overcharged Bolt", additional_info = nil}
 MultiLanguageSpellData['en'][467149] = {name = "Overcharged Bolt", additional_info = "300 yd range\nInstant\n[q]Electricity arcs from Stix's mech to a nearby location, inflicting 4192543 Nature damage to players within 3 yards of the impact."}
@@ -1823,18 +1772,18 @@ MultiLanguageSpellData['en'][467160] = {name = "Bronze Celebration Title: Shadow
 MultiLanguageSpellData['en'][467161] = {name = "Bronze Celebration Title: Dragon Isles Enthusiast", additional_info = "1.5 sec cast\n[q]Grants the title: Dragon Isles Enthusiast."}
 MultiLanguageSpellData['en'][467162] = {name = "Pressing Button", additional_info = nil}
 MultiLanguageSpellData['en'][467168] = {name = "Bone Thumper Barrage", additional_info = nil}
-MultiLanguageSpellData['en'][467169] = {name = "Bone Thumper Barrage", additional_info = "Unlimited range\n1 sec cast\n[q]The caster launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 75 Nature damage to players within 5 yards."}
-MultiLanguageSpellData['en'][467170] = {name = "Bone Thumper Barrage", additional_info = "Unlimited range\nInstant\n[q]The caster launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 75 Nature damage to players within 5 yards."}
+MultiLanguageSpellData['en'][467169] = {name = "Bone Thumper Barrage", additional_info = "Unlimited range\n1 sec cast\n[q]The caster launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 6288815 Nature damage to players within 5 yards."}
+MultiLanguageSpellData['en'][467170] = {name = "Bone Thumper Barrage", additional_info = "Unlimited range\nInstant\n[q]The caster launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 6288815 Nature damage to players within 5 yards."}
 MultiLanguageSpellData['en'][467171] = {name = "Bone Thumper Barrage", additional_info = nil}
-MultiLanguageSpellData['en'][467172] = {name = "Bone Thumper Barrage", additional_info = "Unlimited range\nInstant\n[q]The caster launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 75 Nature damage to players within 5 yards."}
+MultiLanguageSpellData['en'][467172] = {name = "Bone Thumper Barrage", additional_info = "Unlimited range\nInstant\n[q]The caster launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 6288815 Nature damage to players within 5 yards."}
 MultiLanguageSpellData['en'][467173] = {name = "Bone Thumper Barrage", additional_info = nil}
-MultiLanguageSpellData['en'][467174] = {name = "Bone Thumper Barrage", additional_info = "Unlimited range\nInstant\n[q]The caster launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 75 Nature damage to players within 5 yards."}
+MultiLanguageSpellData['en'][467174] = {name = "Bone Thumper Barrage", additional_info = "Unlimited range\nInstant\n[q]The caster launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 6288815 Nature damage to players within 5 yards."}
 MultiLanguageSpellData['en'][467175] = {name = "Bone Thumper Barrage", additional_info = nil}
-MultiLanguageSpellData['en'][467176] = {name = "Blistering Roar", additional_info = "Unlimited range\n3 sec cast\n[q]The devilsaur unleashes a gout of flame, inflicting 25 Fire damage to enemies caught in the blast every 0.5 sec for 2 sec."}
-MultiLanguageSpellData['en'][467177] = {name = "Blistering Roar", additional_info = "Instant\n[q]The devilsaur unleashes a gout of flame, inflicting 25 Fire damage to enemies caught in the blast every 0.5 sec for 2 sec."}
-MultiLanguageSpellData['en'][467178] = {name = "Bottle Service", additional_info = "60 yd range\n2.5 sec cast\n[q]The waiter throws bottles at random players, inflicting 17 Nature damage and disorienting them for 6 sec."}
+MultiLanguageSpellData['en'][467176] = {name = "Blistering Roar", additional_info = "Unlimited range\n3 sec cast\n[q]The devilsaur unleashes a gout of flame, inflicting 2096272 Fire damage to enemies caught in the blast every 0.5 sec for 2 sec."}
+MultiLanguageSpellData['en'][467177] = {name = "Blistering Roar", additional_info = "Instant\n[q]The devilsaur unleashes a gout of flame, inflicting 2096272 Fire damage to enemies caught in the blast every 0.5 sec for 2 sec."}
+MultiLanguageSpellData['en'][467178] = {name = "Bottle Service", additional_info = "60 yd range\n2.5 sec cast\n[q]The waiter throws bottles at random players, inflicting 1425465 Nature damage and disorienting them for 6 sec."}
 MultiLanguageSpellData['en'][467179] = {name = "Bottle Service", additional_info = nil}
-MultiLanguageSpellData['en'][467180] = {name = "Bottle Service", additional_info = "100 yd range\nInstant\n[q]The waiter throws bottles at random players, inflicting 17 Nature damage and disorienting them for 6 sec."}
+MultiLanguageSpellData['en'][467180] = {name = "Bottle Service", additional_info = "100 yd range\nInstant\n[q]The waiter throws bottles at random players, inflicting 1425465 Nature damage and disorienting them for 6 sec."}
 MultiLanguageSpellData['en'][467182] = {name = "Suppression", additional_info = "Unlimited range\n1.5 sec cast\n[q]Gallywix shrapnels subordinates for 3 sec inflicting 4192544 Fire damage plus an additional 586956 Fire damage every 0.5 sec to players within 2.5 yards of indicated locations for 9 sec. This effect stacks."}
 MultiLanguageSpellData['en'][467183] = {name = "Override Sequence", additional_info = "Instant\n[q]Input a sequence of numbers."}
 MultiLanguageSpellData['en'][467184] = {name = "Suppression", additional_info = "Unlimited range\nInstant\n[q]Gallywix shrapnels subordinates for 3 sec inflicting 4192544 Fire damage plus an additional 586956 Fire damage every 0.5 sec to players within 2.5 yards of indicated locations for 9 sec. This effect stacks."}
@@ -1845,18 +1794,18 @@ MultiLanguageSpellData['en'][467198] = {name = "Resonance Crystal Lump", additio
 MultiLanguageSpellData['en'][467201] = {name = "Molten Gold Knuckles", additional_info = "300 yd range\nInstant\n[q]Mug unleashes a blow of molten gold and lava in a frontal cone, inflicting 37732891 Physical damage and 2683228 Fire damage, knocking them back.\n\n Players hit are covered in Golden Drip ."}
 MultiLanguageSpellData['en'][467202] = {name = "Golden Drip", additional_info = "300 yd range\nInstant\n[q]The blow leaves players covered in molten gold, causing players to drip Molten Gold Pool s in their wake. Each pool that is created removes an application of Golden Drip .\n\n After 14 sec, if Golden Drip isn't removed the player is turned to Solid Gold ."}
 MultiLanguageSpellData['en'][467210] = {name = "Molten Reign", additional_info = "Instant"}
-MultiLanguageSpellData['en'][467212] = {name = "Molten Reign", additional_info = "Unlimited range\n1 sec cast\n[q]The shredder launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 75 Fire damage to players within 3 yards."}
-MultiLanguageSpellData['en'][467213] = {name = "Molten Reign", additional_info = "Unlimited range\nInstant\n[q]The shredder launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 75 Fire damage to players within 3 yards."}
-MultiLanguageSpellData['en'][467215] = {name = "Molten Reign", additional_info = "Unlimited range\nInstant\n[q]The shredder launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 75 Fire damage to players within 3 yards."}
+MultiLanguageSpellData['en'][467212] = {name = "Molten Reign", additional_info = "Unlimited range\n1 sec cast\n[q]The shredder launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 6288815 Fire damage to players within 3 yards."}
+MultiLanguageSpellData['en'][467213] = {name = "Molten Reign", additional_info = "Unlimited range\nInstant\n[q]The shredder launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 6288815 Fire damage to players within 3 yards."}
+MultiLanguageSpellData['en'][467215] = {name = "Molten Reign", additional_info = "Unlimited range\nInstant\n[q]The shredder launches missiles nearby a targeted player's location for 10 sec. On impact, inflicts 6288815 Fire damage to players within 3 yards."}
 MultiLanguageSpellData['en'][467219] = {name = "Cleaning", additional_info = nil}
-MultiLanguageSpellData['en'][467223] = {name = "Searing Slam", additional_info = "12 yd range\n{0.2 sec cast} {2 sec cooldown}\n[q]The shredder smashes its current target, inflicting 85 Fire damage and knocking them back. In addition, the ground under the target will explode inflicting 75 Fire damage to all enemies within 12 yards."}
+MultiLanguageSpellData['en'][467223] = {name = "Searing Slam", additional_info = "12 yd range\n{0.2 sec cast} {2 sec cooldown}\n[q]The shredder smashes its current target, inflicting 7127324 Fire damage and knocking them back. In addition, the ground under the target will explode inflicting 6288815 Fire damage to all enemies within 12 yards."}
 MultiLanguageSpellData['en'][467225] = {name = "Solid Gold", additional_info = "300 yd range\nInstant\n[q]The molten gold eventually solidifies, stunning players for 30 sec."}
 MultiLanguageSpellData['en'][467230] = {name = "Blaze of Glory", additional_info = "300 yd range\nInstant\n[q]The player takes control of an abandoned Geargrinder bike to launch it forward in a Blaze of Glory .\n\n If the bike hits the Geargrinder, the war-tank suffers 1% of its maximum health and loses 1 application of Protective Plating as the bike explodes, inflicting 838509 Fire damage to all players and triggering a shower of Burning Shrapnel ."}
-MultiLanguageSpellData['en'][467231] = {name = "Crap Shoot", additional_info = "60 yd range\n1.5 sec cast\n[q]Hurls dice at an enemy, inflicting 14 Physical damage."}
+MultiLanguageSpellData['en'][467231] = {name = "Crap Shoot", additional_info = "60 yd range\n1.5 sec cast\n[q]Hurls dice at an enemy, inflicting 1173401 Physical damage."}
 MultiLanguageSpellData['en'][467233] = {name = "Nullification Dynamo", additional_info = "40 yd range\n{Instant} {15 sec cooldown}\n[q]Robot interrupt."}
-MultiLanguageSpellData['en'][467234] = {name = "Riddled Darkness", additional_info = "45 yd range\n2 sec cast\n[q]The goon unleashes a hail of bullets at random targets in front of it, inflicting 7 Shadow damage every 0.3 sec and inflicts a 5 healing absorb for 5 sec."}
+MultiLanguageSpellData['en'][467234] = {name = "Riddled Darkness", additional_info = "45 yd range\n2 sec cast\n[q]The goon unleashes a hail of bullets at random targets in front of it, inflicting 586956 Shadow damage every 0.3 sec and inflicts a 357421 healing absorb for 5 sec."}
 MultiLanguageSpellData['en'][467236] = {name = "Riddled Darkness", additional_info = "Instant"}
-MultiLanguageSpellData['en'][467238] = {name = "Riddled Darkness", additional_info = "45 yd range\n{Instant} {1.5 sec cooldown}\n[q]The goon unleashes a hail of bullets at random targets in front of it, inflicting 7 Shadow damage every 0.3 sec and inflicts a 5 healing absorb for 5 sec."}
+MultiLanguageSpellData['en'][467238] = {name = "Riddled Darkness", additional_info = "45 yd range\n{Instant} {1.5 sec cooldown}\n[q]The goon unleashes a hail of bullets at random targets in front of it, inflicting 586956 Shadow damage every 0.3 sec and inflicts a 357421 healing absorb for 5 sec."}
 MultiLanguageSpellData['en'][467241] = {name = "Opening", additional_info = "3 sec cast\nReagents:\nPrized Equipment Chest\n[q]Create a piece of Prized Gladiator's equipment appropriate for your loot specialization."}
 MultiLanguageSpellData['en'][467246] = {name = "Killer Discount", additional_info = "45 yd range\n2 sec cast\n[q]The caster incites the crowd to fight, turning others within 10 yards aggressive and increasing their haste 25% for 6 sec."}
 MultiLanguageSpellData['en'][467247] = {name = "Killer Discount", additional_info = nil}
@@ -1890,16 +1839,16 @@ MultiLanguageSpellData['en'][467301] = {name = "Create Trait Config", additional
 MultiLanguageSpellData['en'][467302] = {name = "Spectral Summon", additional_info = "Instant\n[q]Summons a ghost boar which transforms the target into a ghost"}
 MultiLanguageSpellData['en'][467303] = {name = "Busted Open!", additional_info = "100 yd range\n{Instant} {10 sec cooldown}\n[q]Pitz's invention has cracked the G.O.L.E.M.'s chassis wide open!"}
 MultiLanguageSpellData['en'][467306] = {name = "Lively Totems", additional_info = "[q][ Enhancement : Lava Lash has a chance to summon a Searing Totem to hurl Searing Bolts that deal (48.3% of Spell power) Fire damage to a nearby enemy. Lasts 8 sec.\n\n Frost Shocks empowered by Hailstorm, Lava Lash, and Fire Nova cause your Searing totems to shoot a Searing Volley at up to 5 nearby enemies for (92.736% of Spell power) Fire damage /\n\nRestoration\nWhen you summon a Healing Tide Totem, Healing Stream Totem, Cloudburst Totem, Mana Tide Totem, or Spirit Link Totem you cast a free instant Chain Heal at 100% effectiveness ]"}
-MultiLanguageSpellData['en'][467307] = {name = "Rushing Wind Kick", additional_info = "2.5% of base mana\n{Instant} {10 sec cooldown}\n[q]Mistweaver ( Mistweaver Monk )\n Kick up a powerful gust of wind, dealing (359.5% of Attack power) Nature damage in a 25 yd cone to enemies in front of you, split evenly among them. Damage is increased by 6% for each target hit, up to 30%.\n\n Grants Rushing Winds for 4 sec, increasing Renewing Mist's healing by 150%.\n\n\n Kick up a powerful gust of wind, dealing (359.5% of Attack power) Nature damage in a 25 yd cone to enemies in front of you, split evenly among them. Damage is increased by 6% for each target hit, up to 30%.\n\n Grants Rushing Winds for 4 sec, increasing Renewing Mist's healing by 150%."}
+MultiLanguageSpellData['en'][467307] = {name = "Rushing Wind Kick", additional_info = "2.5% of base mana\n{Instant} {10 sec cooldown}\n[q]Mistweaver ( Mistweaver Monk )\n Kick up a powerful gust of wind, dealing (359.5% of Attack power) Nature damage in a 25 yd cone to enemies in front of you, split evenly among them. Damage is increased by 6% for each target hit, up to 30%.\n\n Grants Rushing Winds for 4 sec, increasing Renewing Mist's healing by 200%.\n\n\n Kick up a powerful gust of wind, dealing (359.5% of Attack power) Nature damage in a 25 yd cone to enemies in front of you, split evenly among them. Damage is increased by 6% for each target hit, up to 30%.\n\n Grants Rushing Winds for 4 sec, increasing Renewing Mist's healing by 200%."}
 MultiLanguageSpellData['en'][467313] = {name = "Spectral Summon", additional_info = "3 sec cast\n[q]Summons a ghost boar which transforms the target into a ghost"}
-MultiLanguageSpellData['en'][467316] = {name = "Jade Empowerment", additional_info = "[q]Casting Thunder Focus Tea increases your next Crackling Jade Lightning's damage by 2500% and causes it to chain to 4 additional enemies at 15% effectiveness."}
-MultiLanguageSpellData['en'][467317] = {name = "Jade Empowerment", additional_info = "Instant\n[q]Casting Thunder Focus Tea increases your next Crackling Jade Lightning's damage by 2500% and causes it to chain to 4 additional enemies at 15% effectiveness."}
+MultiLanguageSpellData['en'][467316] = {name = "Jade Empowerment", additional_info = "[q]Casting Thunder Focus Tea increases your next Crackling Jade Lightning's damage by 2000% and causes it to chain to 4 additional enemies at 25% effectiveness."}
+MultiLanguageSpellData['en'][467317] = {name = "Jade Empowerment", additional_info = "Instant\n[q]Casting Thunder Focus Tea increases your next Crackling Jade Lightning's damage by 2000% and causes it to chain to 4 additional enemies at 25% effectiveness."}
 MultiLanguageSpellData['en'][467319] = {name = "Incorporeal Feedback", additional_info = "100 yd range\nInstant\n[q]Inflicts Shadow damage to this minion's master on death."}
 MultiLanguageSpellData['en'][467327] = {name = "Ghostly Affliction", additional_info = "100 yd range\nChanneled (0 sec cast)\n[q]Increases damage taken from ghosts by 30% until the ghost boar is slain."}
 MultiLanguageSpellData['en'][467336] = {name = "Ghostly Affliction", additional_info = "100 yd range\nInstant\n[q]Increases damage taken from ghosts by 30% until the ghost boar is slain."}
 MultiLanguageSpellData['en'][467337] = {name = "Ghostly Affliction", additional_info = "100 yd range\nInstant\n[q]Increases damage taken from ghosts by 30% until the ghost boar is slain."}
 MultiLanguageSpellData['en'][467338] = {name = "Ghostly Affliction", additional_info = "30 yd range\nInstant\n[q]Increases damage taken from ghosts by 30% until the ghost boar is slain."}
-MultiLanguageSpellData['en'][467341] = {name = "Rushing Winds", additional_info = "Instant\n[q]Kick up a powerful gust of wind, dealing (359.5% of Attack power) Nature damage in a 25 yd cone to enemies in front of you, split evenly among them. Damage is increased by 6% for each target hit, up to 30%.\n\n Grants Rushing Winds for 4 sec, increasing Renewing Mist's healing by 150%."}
+MultiLanguageSpellData['en'][467341] = {name = "Rushing Winds", additional_info = "Instant\n[q]Kick up a powerful gust of wind, dealing (359.5% of Attack power) Nature damage in a 25 yd cone to enemies in front of you, split evenly among them. Damage is increased by 6% for each target hit, up to 30%.\n\n Grants Rushing Winds for 4 sec, increasing Renewing Mist's healing by 200%."}
 MultiLanguageSpellData['en'][467343] = {name = "Malfunctioning", additional_info = nil}
 MultiLanguageSpellData['en'][467371] = {name = "Canisters", additional_info = nil}
 MultiLanguageSpellData['en'][467372] = {name = "Canisters", additional_info = nil}
@@ -1909,7 +1858,7 @@ MultiLanguageSpellData['en'][467375] = {name = "Suppression", additional_info = 
 MultiLanguageSpellData['en'][467376] = {name = "Suppression", additional_info = nil}
 MultiLanguageSpellData['en'][467378] = {name = "Illusionary Night", additional_info = nil}
 MultiLanguageSpellData['en'][467379] = {name = "Goblin-guided Rocket", additional_info = nil}
-MultiLanguageSpellData['en'][467380] = {name = "Goblin-guided Rocket", additional_info = "300 yd range\nInstant\n[q]Zee commands a Volunteer Rocketeer to assist him. This volunteer 'guides' an explosive payload to a player's location, inflicting 60372626 Fire damage split evenly among all players within 12 yards of the impact and creating a Hot Mess . The impact also detonates any hit Unstable Crawler Mines .\n\n If the rocket fails to hit at least 5 players, it inflicts 16770174 Fire damage to all players."}
+MultiLanguageSpellData['en'][467380] = {name = "Goblin-guided Rocket", additional_info = "300 yd range\nInstant\n[q]Zee commands a Volunteer Rocketeer to assist him. This volunteer 'guides' an explosive payload to a player's location, inflicting 250 Fire damage split evenly among all players within 12 yards of the impact and creating a Hot Mess . The impact also detonates any hit Unstable Crawler Mines .\n\n If the rocket fails to hit at least 5 players, it inflicts 100 Fire damage to all players."}
 MultiLanguageSpellData['en'][467381] = {name = "Goblin-guided Rocket", additional_info = "300 yd range\nInstant\n[q]Zee commands a Volunteer Rocketeer to assist him. This volunteer 'guides' an explosive payload to a player's location, inflicting 60372626 Fire damage split evenly among all players within 12 yards of the impact and creating a Hot Mess . The impact also detonates any hit Unstable Crawler Mines .\n\n If the rocket fails to hit at least 5 players, it inflicts 16770174 Fire damage to all players."}
 MultiLanguageSpellData['en'][467383] = {name = "Activate", additional_info = nil}
 MultiLanguageSpellData['en'][467385] = {name = "Activate", additional_info = nil}
@@ -1967,7 +1916,7 @@ MultiLanguageSpellData['en'][467501] = {name = "Sonic Crush", additional_info = 
 MultiLanguageSpellData['en'][467503] = {name = "Mortar", additional_info = "200 yd range\nInstant\n[q]Fires a mortar at a player, inflicting 1463 Physical damage to players in the area."}
 MultiLanguageSpellData['en'][467504] = {name = "Mortar", additional_info = "200 yd range\nInstant\n[q]Fires a mortar at a player, inflicting 1463 Physical damage to players in the area."}
 MultiLanguageSpellData['en'][467505] = {name = "Mortar", additional_info = "1.5 sec cast\n[q]Fires a mortar at a player, inflicting 1463 Physical damage to players in the area."}
-MultiLanguageSpellData['en'][467510] = {name = "Sonic Crush", additional_info = "100 yd range\n5 sec cast\n[q]The caster marks random targets, then hurls them and any allies within 10 yards of their destination into the air inflicting 26 Physical damage."}
+MultiLanguageSpellData['en'][467510] = {name = "Sonic Crush", additional_info = "100 yd range\n5 sec cast\n[q]The caster marks random targets, then hurls them and any allies within 10 yards of their destination into the air inflicting 5450306 Physical damage."}
 MultiLanguageSpellData['en'][467516] = {name = "N.U.K.U.L.A.R Target Painter", additional_info = "Instant"}
 MultiLanguageSpellData['en'][467517] = {name = "Compelling Banishment", additional_info = "Instant\n[q]Charges the target dealing Physical damage and knocking all enemies within 5 yards of the caster back."}
 MultiLanguageSpellData['en'][467520] = {name = "N.U.K.U.L.A.R Device", additional_info = nil}
@@ -1982,8 +1931,8 @@ MultiLanguageSpellData['en'][467555] = {name = "Path of the Azerite Refinery", a
 MultiLanguageSpellData['en'][467558] = {name = "Dynamo", additional_info = "Instant\n[q]Each cast of Electromagnetic Pulse increases the damage of subsequent casts by 10%. This effect stacks."}
 MultiLanguageSpellData['en'][467559] = {name = "Electromagnetic Pulse", additional_info = "Instant\n[q]Once Overdrive is activated, Stix's Mech releases an Electromagnetic Pulse every 5 sec until defeated, inflicting 15 Nature damage to all players and causing a variety of garbage to emerge from the landfill."}
 MultiLanguageSpellData['en'][467560] = {name = "Sonic Crush", additional_info = nil}
-MultiLanguageSpellData['en'][467564] = {name = "Sonic Crush", additional_info = "60 yd range\nInstant\n[q]The caster marks random targets, then hurls them and any allies within 10 yards of their destination into the air inflicting 26 Physical damage."}
-MultiLanguageSpellData['en'][467565] = {name = "Sonic Crush", additional_info = "100 yd range\nInstant\n[q]The caster marks random targets, then hurls them and any allies within 10 yards of their destination into the air inflicting 26 Physical damage."}
+MultiLanguageSpellData['en'][467564] = {name = "Sonic Crush", additional_info = "60 yd range\nInstant\n[q]The caster marks random targets, then hurls them and any allies within 10 yards of their destination into the air inflicting 5450306 Physical damage."}
+MultiLanguageSpellData['en'][467565] = {name = "Sonic Crush", additional_info = "100 yd range\nInstant\n[q]The caster marks random targets, then hurls them and any allies within 10 yards of their destination into the air inflicting 5450306 Physical damage."}
 MultiLanguageSpellData['en'][467568] = {name = "Water Cannon", additional_info = nil}
 MultiLanguageSpellData['en'][467570] = {name = "Water Cannon", additional_info = nil}
 MultiLanguageSpellData['en'][467571] = {name = "Burning Blast", additional_info = "Instant\n[q]Upon death, the Dynamite Booty explodes and inflicts 25 Fire damage to all players."}
@@ -2058,6 +2007,8 @@ MultiLanguageSpellData['en'][467699] = {name = "Arsenal: Crimson Gladiator's Wea
 MultiLanguageSpellData['en'][467700] = {name = "Elite Arsenal: Crimson Gladiator's Weapons", additional_info = "Instant\n[q]Collect the appearances of the Elite Crimson Gladiator's weapon set."}
 MultiLanguageSpellData['en'][467704] = {name = "Excavating", additional_info = nil}
 MultiLanguageSpellData['en'][467705] = {name = "Mechanical Suit ZX-11100", additional_info = nil}
+MultiLanguageSpellData['en'][467709] = {name = "Diggy Doink", additional_info = "Melee Range\n{2 sec cast} {10 sec cooldown}\n[q]Inflicts Physical damage to an enemy."}
+MultiLanguageSpellData['en'][467717] = {name = "Righteous Strike", additional_info = "30 yd range\n{2 sec cast} {12 sec cooldown}\n[q]Inflicts Holy Fire damage to an enemy."}
 MultiLanguageSpellData['en'][467718] = {name = "Bleak Arrows", additional_info = "40 yd range\nInstant\nRequires Ranged Weapon\n[q]Beast Mastery\nYour auto shot now deals Shadow damage, allowing it to bypass armor.\n\n Your auto shot has a 20% chance to grant Deathblow.\n\n Deathblow\n The cooldown of Kill Shot is reset. Your next Kill Shot can be used on any target, regardless of their current health.\n\nMarksmanship\nYour auto shot now deals Shadow damage, allowing it to bypass armor.\n\n Your auto shot has a 8% chance to grant Deathblow.\n\n Deathblow\n The cooldown of Kill Shot is reset. Your next Kill Shot can be used on any target, regardless of their current health."}
 MultiLanguageSpellData['en'][467722] = {name = "Take the Reins", additional_info = nil}
 MultiLanguageSpellData['en'][467726] = {name = "Set Data", additional_info = nil}
@@ -2071,18 +2022,25 @@ MultiLanguageSpellData['en'][467741] = {name = "Shadow Dagger", additional_info 
 MultiLanguageSpellData['en'][467744] = {name = "Mechalizard Line", additional_info = nil}
 MultiLanguageSpellData['en'][467745] = {name = "Shadow Dagger", additional_info = "40 yd range\nInstant\n[q]While in combat, casting Disengage releases a fan of daggers, dealing (0.5% of Attack power) shadow damage over time and reducing affected target's movement speed by 30%."}
 MultiLanguageSpellData['en'][467749] = {name = "Bleak Arrows", additional_info = "40 yd range\n[q]Beast Mastery\n Your auto shot now deals Shadow damage, allowing it to bypass armor.\n\n Your auto shot has a 20% chance to grant Deathblow.\n\n Deathblow\n The cooldown of Kill Shot is reset. Your next Kill Shot can be used on any target, regardless of their current health.\n\nMarksmanship\n Your auto shot now deals Shadow damage, allowing it to bypass armor.\n\n Your auto shot has a 8% chance to grant Deathblow.\n\n Deathblow\n The cooldown of Kill Shot is reset. Your next Kill Shot can be used on any target, regardless of their current health."}
+MultiLanguageSpellData['en'][467750] = {name = "Canonized", additional_info = "40 yd range\n{1 sec cast} {15 sec cooldown}\n[q]Inflicts 7 Holy Fire damage to enemies within 5 yards of the impact."}
 MultiLanguageSpellData['en'][467755] = {name = "Deploy Mole Machine", additional_info = "200 yd range\nInstant\n[q]Deploys a soldier to attack the players. Players standing on the Mole Machine's arrival point suffer 585 Physical damage and are knocked back."}
 MultiLanguageSpellData['en'][467756] = {name = "Deploy Mole Machine", additional_info = "200 yd range\nInstant\n[q]Deploys a soldier to attack the players. Players standing on the Mole Machine's arrival point suffer 585 Physical damage and are knocked back."}
 MultiLanguageSpellData['en'][467757] = {name = "Deploy Mole Machine", additional_info = "200 yd range\nInstant\n[q]Deploys a soldier to attack the players. Players standing on the Mole Machine's arrival point suffer 585 Physical damage and are knocked back."}
 MultiLanguageSpellData['en'][467758] = {name = "Deploy Mole Machine", additional_info = "{Instant} {1 min cooldown}\n[q]Deploys a soldier to attack the players. Players standing on the Mole Machine's arrival point suffer 585 Physical damage and are knocked back."}
+MultiLanguageSpellData['en'][467759] = {name = "Canonized", additional_info = "40 yd range\nInstant\n[q]Inflicts 7 Holy Fire damage to enemies within 5 yards of the impact."}
+MultiLanguageSpellData['en'][467761] = {name = "Canonized", additional_info = nil}
 MultiLanguageSpellData['en'][467767] = {name = "Wayward Vrykul's Lantern", additional_info = "[q]Casting a major class cooldown imbues you with the ferocity of vrykul spirits, granting 137 Critical Strike for 8 sec.\n\n This effect's duration is increased by up to 40 sec based on when you were last imbued."}
 MultiLanguageSpellData['en'][467768] = {name = "Temporal Acceleration", additional_info = "Instant\n[q]Chromie manipulates your timeline, increasing your movement speed while mounted by 250%.\n\n Has no effect while Skyriding."}
 MultiLanguageSpellData['en'][467769] = {name = "Blood Frenzy", additional_info = "100 yd range\nInstant\n[q]Death of an Unruly Stormrook puts the caster into a frenzy, increasing their damage done by 50% and attack speed by s2%."}
+MultiLanguageSpellData['en'][467771] = {name = "Virtuous Vigor", additional_info = "30 yd range\n{3 sec cast} {20 sec cooldown}\n[q]Increases the target's Haste by 15% and movement speed by 15% for 10 sec."}
 MultiLanguageSpellData['en'][467772] = {name = "New Delve Companion", additional_info = "Instant\n[q]Gain access to a new Delve companion to choose."}
+MultiLanguageSpellData['en'][467773] = {name = "Pious Pursuit", additional_info = "40 yd range\n{1 sec cast} {15 sec cooldown}\n[q]Charges towards their current target and deals 10 Holy damage and knocks back all enemies 5 yards nearby."}
 MultiLanguageSpellData['en'][467774] = {name = "Capo's Molten Knuckles", additional_info = "Approximately 2 procs per minute\n[q]Gain a high chance to follow up your attacks with a fiery gilded uppercut, dealing ( 838 * 1 ) Fire damage to your target. Molten gold continues to splatter to deal ( 47 * 1 * 5 / 1) Fire damage over 5 sec to all nearby enemies. Damage reduced beyond 8 enemies."}
 MultiLanguageSpellData['en'][467775] = {name = "Team Flarendo", additional_info = "300 yd range\nInstant\n[q]You've joined the ranks of the Flarendo fans!"}
 MultiLanguageSpellData['en'][467776] = {name = "Job's Done!", additional_info = "4 sec cast\n[q]The Pit Mechanic initiates its self-destruct sequence."}
 MultiLanguageSpellData['en'][467778] = {name = "Lightning Conduit", additional_info = "[q]You have a chance to get struck by lightning, increasing your movement speed by 50% for 5 sec. The effectiveness is increased to 100% in outdoor areas.\n\n You call down a Thunderstorm when you Reincarnate."}
+MultiLanguageSpellData['en'][467779] = {name = "Pious Pursuit", additional_info = "Instant\n[q]Charges towards their current target and deals 10 Holy damage and knocks back all enemies 5 yards nearby."}
+MultiLanguageSpellData['en'][467780] = {name = "Pious Pursuit", additional_info = "Instant\n[q]Charges towards their current target and deals 10 Holy damage and knocks back all enemies 5 yards nearby."}
 MultiLanguageSpellData['en'][467783] = {name = "Team Torq", additional_info = "300 yd range\nInstant\n[q]You've joined the ranks of the Torq fans!"}
 MultiLanguageSpellData['en'][467784] = {name = "Overdrive Pylon", additional_info = "[q]After 30 sec of combat, party members and Brann deal 5% more damage and healing for 20 sec. Can only occur once per combat."}
 MultiLanguageSpellData['en'][467785] = {name = "Gorilla Line", additional_info = nil}
@@ -2116,6 +2074,7 @@ MultiLanguageSpellData['en'][467874] = {name = "Sunrise Sudser", additional_info
 MultiLanguageSpellData['en'][467876] = {name = "Food Fight", additional_info = "100 yd range\nInstant\n[q]Hurls a chunk of questionable food through the air that inflicts 13 Nature damage to enemies within 3 yards of the impact and reduces their movement speed by 30% for 6 sec."}
 MultiLanguageSpellData['en'][467886] = {name = "Undead Call", additional_info = nil}
 MultiLanguageSpellData['en'][467887] = {name = "Omnom", additional_info = "2.5 sec cast\n[q]A delicious snack heals the caster for 30."}
+MultiLanguageSpellData['en'][467890] = {name = "Penitent Charge", additional_info = "{1 sec cast} {10 sec cooldown}\n[q]Charges forward, dealing 20 Holy Fire damage and knocking back all enemies struck."}
 MultiLanguageSpellData['en'][467892] = {name = "Gift of the Life-Binder", additional_info = "Instant\n[q]Reduces damage taken by 99%."}
 MultiLanguageSpellData['en'][467894] = {name = "Antorus, the Burning Throne", additional_info = nil}
 MultiLanguageSpellData['en'][467895] = {name = "Anti Gravity Zone", additional_info = "Instant\n[q]Sly shrouds himself in gravitational energy, causing nearby players to ignore gravity."}
@@ -2134,9 +2093,11 @@ MultiLanguageSpellData['en'][467911] = {name = "Bleak Powder", additional_info =
 MultiLanguageSpellData['en'][467912] = {name = "Bleak Powder", additional_info = "100 yd range\nInstant\n[q]Beast Mastery\nCasting Black Arrow while Beast Cleave is active causes Black Arrow to explode upon hitting its target, dealing (560% of Attack power) Shadow damage to other nearby enemies.\n\nMarksmanship\nCasting Black Arrow while Trick Shots is active causes Black Arrow to explode upon hitting its target, dealing (825% of Attack power) Shadow damage to other nearby enemies."}
 MultiLanguageSpellData['en'][467913] = {name = "Bleak Powder", additional_info = "10 Focus"}
 MultiLanguageSpellData['en'][467914] = {name = "Bleak Powder", additional_info = "Unlimited range\nInstant\n[q]Beast Mastery\nCasting Black Arrow while Beast Cleave is active causes Black Arrow to explode upon hitting its target, dealing (560% of Attack power) Shadow damage to other nearby enemies.\n\nMarksmanship\nCasting Black Arrow while Trick Shots is active causes Black Arrow to explode upon hitting its target, dealing (825% of Attack power) Shadow damage to other nearby enemies."}
+MultiLanguageSpellData['en'][467915] = {name = "Penitent Charge", additional_info = nil}
 MultiLanguageSpellData['en'][467918] = {name = "Poison-Soaked", additional_info = "200 yd range\nInstant\n[q]Poison-Soaked inflicts 263 Nature damage every 1 sec. Poison-Soaked is burned away from players who suffer damage from Flamethrower."}
 MultiLanguageSpellData['en'][467919] = {name = "Flamethrower", additional_info = "{1 sec cast} {20 sec cooldown}\n[q]Inflicts 219 Fire damage and applies Melt Armor to players in a 20 yard cone every 0.5 sec for 10 sec.\n\n Burns away Poison-Soaked and explodes Chemical Pools."}
 MultiLanguageSpellData['en'][467920] = {name = "Hotrod Chest", additional_info = nil}
+MultiLanguageSpellData['en'][467921] = {name = "Rekindled Duty", additional_info = "30 yd range\n{2 sec cast} {16 sec cooldown}\n[q]Rains Holy magic down upon allies that heals them for 25."}
 MultiLanguageSpellData['en'][467922] = {name = "Bleak Powder", additional_info = "Instant\n[q]Beast Mastery\nCasting Black Arrow while Beast Cleave is active causes Black Arrow to explode upon hitting its target, dealing (560% of Attack power) Shadow damage to other nearby enemies.\n\nMarksmanship\nCasting Black Arrow while Trick Shots is active causes Black Arrow to explode upon hitting its target, dealing (825% of Attack power) Shadow damage to other nearby enemies."}
 MultiLanguageSpellData['en'][467924] = {name = "Overstuffed", additional_info = "100 yd range\nInstant\n[q]A horrible stench inflicts 8 Nature damage every 0.5 sec for 10 sec."}
 MultiLanguageSpellData['en'][467925] = {name = "Overstuffed", additional_info = "1 sec cast\n[q]A horrible stench inflicts 8 Nature damage every 0.5 sec for 10 sec."}
@@ -2145,7 +2106,10 @@ MultiLanguageSpellData['en'][467927] = {name = "Livewire", additional_info = "20
 MultiLanguageSpellData['en'][467928] = {name = "Livewire", additional_info = "200 yd range\nInstant\n[q]Afflicts 2 players with Livewire. Livewires inflict 263 Nature damage to players within 12 yards every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][467930] = {name = "Electrical Discharge", additional_info = "200 yd range\nInstant\n[q]When Livewire is removed, a violent Electrical Discharge inflicts 1463 Nature damage to players within 12 yards."}
 MultiLanguageSpellData['en'][467931] = {name = "Sustaining Water", additional_info = nil}
+MultiLanguageSpellData['en'][467932] = {name = "Rekindled Duty", additional_info = "100 yd range\nInstant\n[q]Rains Holy magic down upon allies that heals them for 25."}
+MultiLanguageSpellData['en'][467933] = {name = "Rekindled Duty", additional_info = "100 yd range\nInstant\n[q]Rains Holy magic down upon allies that heals them for 25."}
 MultiLanguageSpellData['en'][467934] = {name = "Big Bad Buncha Bombs", additional_info = nil}
+MultiLanguageSpellData['en'][467935] = {name = "Purifying Storm", additional_info = "30 yd range\n{2 sec cast} {16 sec cooldown}\n[q]The caster unleashes a tornado of Holy Fire that deals 10 Holy Fire damage to enemies when struck and knocks them back."}
 MultiLanguageSpellData['en'][467936] = {name = "Shadow Surge", additional_info = "40 yd range Approximately 6 procs per minute\n[q]Periodic damage from Black Arrow has a small chance to erupt in a burst of darkness, dealing (75% of Attack power) Shadow damage to all enemies near the target. Damage reduced beyond 8 targets."}
 MultiLanguageSpellData['en'][467937] = {name = "Warp Blood", additional_info = "Instant\n[q]The caster warps the blood of all players within 60 yards, inflicting 442136 Shadow damage and absorbing 442136 healing received every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][467940] = {name = "Mechalizard Defeated", additional_info = nil}
@@ -2280,7 +2244,7 @@ MultiLanguageSpellData['en'][468162] = {name = "Leviathan Axe", additional_info 
 MultiLanguageSpellData['en'][468171] = {name = "Hand Over Gallagio Deed", additional_info = nil}
 MultiLanguageSpellData['en'][468173] = {name = "Buckshot Blast", additional_info = "150 yd range\n3 sec cast\n[q]The Geargrinder Biker blasts random players with a powerful shot, inflicting 6 Physical damage."}
 MultiLanguageSpellData['en'][468176] = {name = "Buckshot Blast", additional_info = "150 yd range\nInstant\n[q]The Geargrinder Biker blasts random players with a powerful shot, inflicting 6 Physical damage."}
-MultiLanguageSpellData['en'][468179] = {name = "Rushing Wind Kick", additional_info = "Instant\n[q]Kick up a powerful gust of wind, dealing (359.5% of Attack power) Nature damage in a 25 yd cone to enemies in front of you, split evenly among them. Damage is increased by 6% for each target hit, up to 30%.\n\n Grants Rushing Winds for 4 sec, increasing Renewing Mist's healing by 150%."}
+MultiLanguageSpellData['en'][468179] = {name = "Rushing Wind Kick", additional_info = "Instant\n[q]Kick up a powerful gust of wind, dealing (359.5% of Attack power) Nature damage in a 25 yd cone to enemies in front of you, split evenly among them. Damage is increased by 6% for each target hit, up to 30%.\n\n Grants Rushing Winds for 4 sec, increasing Renewing Mist's healing by 200%."}
 MultiLanguageSpellData['en'][468180] = {name = "Chopped Liver", additional_info = "Instant\n[q]Goblin machinery grinds the player to a pulp, killing them instantly."}
 MultiLanguageSpellData['en'][468182] = {name = "Chopped Liver", additional_info = "Unlimited range\nInstant\n[q]Goblin machinery grinds the player to a pulp, killing them instantly."}
 MultiLanguageSpellData['en'][468185] = {name = "Pulling", additional_info = nil}
@@ -2306,7 +2270,7 @@ MultiLanguageSpellData['en'][468223] = {name = "Incendiary Fire", additional_inf
 MultiLanguageSpellData['en'][468226] = {name = "Lightning Conduit", additional_info = "Instant\n[q]You have a chance to get struck by lightning, increasing your movement speed by 50% for 5 sec. The effectiveness is increased to 100% in outdoor areas.\n\n You call down a Thunderstorm when you Reincarnate."}
 MultiLanguageSpellData['en'][468227] = {name = "Shovel Pull", additional_info = nil}
 MultiLanguageSpellData['en'][468228] = {name = "Timbered Sky Snakelet", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
-MultiLanguageSpellData['en'][468229] = {name = "Slashing Prices", additional_info = "100 yd range\n3 sec cast\n[q]Appears behind the target and stabs them, inflicting 60 Physical damage on impact and 3 Physical damage every 1 sec.\n\n This effect stacks."}
+MultiLanguageSpellData['en'][468229] = {name = "Slashing Prices", additional_info = "100 yd range\n3 sec cast\n[q]Appears behind the target and stabs them, inflicting 5069087 Physical damage on impact and 213876 Physical damage every 1 sec.\n\n This effect stacks."}
 MultiLanguageSpellData['en'][468230] = {name = "Shovel Pull", additional_info = nil}
 MultiLanguageSpellData['en'][468231] = {name = "Sunken Surge", additional_info = "100 yd range\nInstant\n[q]A vortex orbits the caster's position inflicting Dark Water on enemies it contacts."}
 MultiLanguageSpellData['en'][468232] = {name = "Sunken Surge", additional_info = "2 sec cast\n[q]A vortex orbits the caster's position inflicting Dark Water on enemies it contacts."}
@@ -2376,6 +2340,7 @@ MultiLanguageSpellData['en'][468521] = {name = "Vortex Storm", additional_info =
 MultiLanguageSpellData['en'][468524] = {name = "Vortex Storm", additional_info = "100 yd range\nInstant\n[q]Creates a swirling vortex nearby that slows the target by 50% and inflicts 6 Nature damage every 1 sec."}
 MultiLanguageSpellData['en'][468544] = {name = "Ready", additional_info = nil}
 MultiLanguageSpellData['en'][468545] = {name = "Spew Oil", additional_info = "300 yd range\nInstant\n[q]The Geargrinder launches oil at targeted players, forming an Oil Slick at their location and dousing players within 7 yards of the impact with oil, inflicting 838509 Nature damage every 1.5 sec for 12 sec."}
+MultiLanguageSpellData['en'][468546] = {name = "Purifying Storm", additional_info = "100 yd range\nInstant\n[q]The caster unleashes a tornado of Holy Fire that deals 10 Holy Fire damage to enemies when struck and knocks them back."}
 MultiLanguageSpellData['en'][468549] = {name = "Ready to Burst", additional_info = "Unlimited range\nInstant\n[q]Full of Black Blood."}
 MultiLanguageSpellData['en'][468554] = {name = "Warp", additional_info = nil}
 MultiLanguageSpellData['en'][468561] = {name = "Repulse", additional_info = "10 yd range\n3 sec cast\n[q]Knocks all enemies within 10 yards of the caster back.\n Inflicts 13 Nature damage to enemies within 10 yards."}
@@ -2405,7 +2370,7 @@ MultiLanguageSpellData['en'][468608] = {name = "Dam!", additional_info = "Unlimi
 MultiLanguageSpellData['en'][468609] = {name = "Glyph Dummy Aura", additional_info = nil}
 MultiLanguageSpellData['en'][468613] = {name = "Leaping Spark", additional_info = "Instant\n[q]Geezle consumes 40 Electricity to galvanize several Leaping Sparks that fixate players.\n\n Upon contact, the spark inflicts 5895145 Nature damage and stuns for 8 sec."}
 MultiLanguageSpellData['en'][468615] = {name = "Erupting Lava", additional_info = "100 yd range\nInstant\n[q]Increases the duration of Flame Shock by 6 sec and its damage by 50%.\n\n Lava Burst consumes up to 3 sec of Flame Shock, instantly dealing that damage. Lava Burst overloads benefit at 50% effectiveness."}
-MultiLanguageSpellData['en'][468616] = {name = "Leaping Spark", additional_info = "Unlimited range\nChanneled (0 sec cast)\n[q]Geezle consumes 40 Electricity to galvanize several Leaping Sparks that fixate players.\n\n Upon contact, the spark inflicts 5895145 Nature damage and stuns for 8 sec."}
+MultiLanguageSpellData['en'][468616] = {name = "Leaping Spark", additional_info = "Unlimited range\nChanneled (0 sec cast)\n[q]Geezle consumes 40 Electricity to galvanize several Leaping Sparks that fixate players.\n\n Upon contact, the spark inflicts 40 Nature damage and stuns for 8 sec."}
 MultiLanguageSpellData['en'][468617] = {name = "Defiant Roar", additional_info = "1 sec cast\n[q]Causes an enemy to take 75% increased Physical damage for 10 sec."}
 MultiLanguageSpellData['en'][468618] = {name = "Leaping Spark", additional_info = "Unlimited range\nInstant\n[q]Geezle consumes 40 Electricity to galvanize several Leaping Sparks that fixate players.\n\n Upon contact, the spark inflicts 5895145 Nature damage and stuns for 8 sec."}
 MultiLanguageSpellData['en'][468619] = {name = "Leaping Spark", additional_info = "Unlimited range\nInstant\n[q]Geezle consumes 40 Electricity to galvanize several Leaping Sparks that fixate players.\n\n Upon contact, the spark inflicts 5895145 Nature damage and stuns for 8 sec."}
@@ -2416,11 +2381,11 @@ MultiLanguageSpellData['en'][468624] = {name = "Greater Rip", additional_info = 
 MultiLanguageSpellData['en'][468625] = {name = "Charged Conduit", additional_info = "[q]Increases the duration of Lightning Rod by 4 sec and its damage bonus by 25%."}
 MultiLanguageSpellData['en'][468626] = {name = "Earthshatter", additional_info = "[q]Increases Earth Shock and Earthquake damage by 8% and the stat bonuses granted by Elemental Blast by 25%."}
 MultiLanguageSpellData['en'][468630] = {name = "Harpoon", additional_info = nil}
-MultiLanguageSpellData['en'][468631] = {name = "Harpoon", additional_info = "50 yd range\n2.5 sec cast\n[q]The caster reels in a nearby player with their harpoon, inflicting 15 Physical damage and an additional 4 Physical damage every 1 sec for 10 sec."}
+MultiLanguageSpellData['en'][468631] = {name = "Harpoon", additional_info = "50 yd range\n2.5 sec cast\n[q]The caster reels in a nearby player with their harpoon, inflicting 2210679 Physical damage and an additional 589514 Physical damage every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][468632] = {name = "Harpoon", additional_info = nil}
 MultiLanguageSpellData['en'][468633] = {name = "Rip and Tear", additional_info = nil}
 MultiLanguageSpellData['en'][468635] = {name = "Harpoon", additional_info = nil}
-MultiLanguageSpellData['en'][468647] = {name = "Leaping Spark", additional_info = "Unlimited range\nInstant\n[q]Geezle consumes 40 Electricity to galvanize several Leaping Sparks that fixate players.\n\n Upon contact, the spark inflicts 5895145 Nature damage and stuns for 8 sec."}
+MultiLanguageSpellData['en'][468647] = {name = "Leaping Spark", additional_info = "Unlimited range\nInstant\n[q]Geezle consumes 40 Electricity to galvanize several Leaping Sparks that fixate players.\n\n Upon contact, the spark inflicts 40 Nature damage and stuns for 8 sec."}
 MultiLanguageSpellData['en'][468648] = {name = "Leaping Spark", additional_info = "Unlimited range\nInstant\n[q]Geezle consumes 40 Electricity to galvanize several Leaping Sparks that fixate players.\n\n Upon contact, the spark inflicts 5895145 Nature damage and stuns for 8 sec."}
 MultiLanguageSpellData['en'][468651] = {name = "Black Blood Bombardment", additional_info = nil}
 MultiLanguageSpellData['en'][468652] = {name = "Indicating", additional_info = nil}
@@ -2428,8 +2393,8 @@ MultiLanguageSpellData['en'][468655] = {name = "Frostfire Bolt", additional_info
 MultiLanguageSpellData['en'][468658] = {name = "Elemental Carnage", additional_info = "Channeled (6 sec cast)\n[q]Mug takes charge by commanding the elements to assault players, inflicting 1341614 Elemental damage to all players every 1.5 sec for 6 sec.\n\n Players are then branded with Elemental Calamity ."}
 MultiLanguageSpellData['en'][468660] = {name = "Elemental Carnage", additional_info = "300 yd range\nInstant\n[q]Mug takes charge by commanding the elements to assault players, inflicting 1341614 Elemental damage to all players every 1.5 sec for 6 sec.\n\n Players are then branded with Elemental Calamity ."}
 MultiLanguageSpellData['en'][468661] = {name = "Shock Water", additional_info = "Unlimited range\nInstant\n[q]The water electrifies, inflicting 2947572 Nature damage and stunning any player inside for 4 sec.\n\n Inflicts 2947572 Nature damage every 1 sec to players within the effect."}
-MultiLanguageSpellData['en'][468663] = {name = "Elemental Calamity", additional_info = "300 yd range\nInstant\n[q]Mug emanates with elemental ferocity, inflicting 308571 Elemental damage to all players every 1.5 sec for 10 min. This effect stacks."}
-MultiLanguageSpellData['en'][468665] = {name = "Elemental Calamity", additional_info = "300 yd range\nInstant\n[q]Mug emanates with elemental ferocity, inflicting 308571 Elemental damage to all players every 1.5 sec for 10 min. This effect stacks."}
+MultiLanguageSpellData['en'][468663] = {name = "Elemental Calamity", additional_info = "300 yd range\nInstant\n[q]Mug emanates with elemental ferocity, inflicting 271543 Elemental damage to all players every 1.5 sec for 10 min. This effect stacks."}
+MultiLanguageSpellData['en'][468665] = {name = "Elemental Calamity", additional_info = "300 yd range\nInstant\n[q]Mug emanates with elemental ferocity, inflicting 271543 Elemental damage to all players every 1.5 sec for 10 min. This effect stacks."}
 MultiLanguageSpellData['en'][468666] = {name = "Cyrce's Circlet", additional_info = "{Instant} {1.5 sec cooldown}\n[q]Recover Cyrce's Circlet."}
 MultiLanguageSpellData['en'][468668] = {name = "Carry Canister", additional_info = nil}
 MultiLanguageSpellData['en'][468672] = {name = "Pinch", additional_info = "100 yd range\n1 sec cast\n[q]The caster pinches their target, inflicting 3684465 Physical damage and slowing them by 10% for 10 sec. This effect stacks."}
@@ -2455,8 +2420,8 @@ MultiLanguageSpellData['en'][468721] = {name = "Icky Sticky Slime", additional_i
 MultiLanguageSpellData['en'][468723] = {name = "Shock Water", additional_info = "Unlimited range\nInstant\n[q]The water electrifies, inflicting 2947572 Nature damage and stunning any player inside for 4 sec.\n\n Inflicts 2947572 Nature damage every 1 sec to players within the effect."}
 MultiLanguageSpellData['en'][468724] = {name = "Plant Seaforium Charge", additional_info = nil}
 MultiLanguageSpellData['en'][468725] = {name = "Slime Toss", additional_info = "100 yd range\nInstant\n[q]The caster slams their fist into the ground causing gobs of slime to scatter about the nearby area creating pools of slime which inflict Nature damage and make targets vulnerable to Viscous Upheaval."}
-MultiLanguageSpellData['en'][468726] = {name = "Plant Seaforium Charge", additional_info = "Unlimited range\n2.5 sec cast\n[q]The caster plants a massive seaforium charge which explodes when triggered by a nearby player, inflicting 25 Fire damage to players within 6 yards and knocking them upwards."}
-MultiLanguageSpellData['en'][468727] = {name = "Seaforium Charge", additional_info = "Instant\n[q]The caster plants a massive seaforium charge which explodes when triggered by a nearby player, inflicting 25 Fire damage to players within 6 yards and knocking them upwards."}
+MultiLanguageSpellData['en'][468726] = {name = "Plant Seaforium Charge", additional_info = "Unlimited range\n2.5 sec cast\n[q]The caster plants a massive seaforium charge which explodes when triggered by a nearby player, inflicting 3684465 Fire damage to players within 6 yards and knocking them upwards."}
+MultiLanguageSpellData['en'][468727] = {name = "Seaforium Charge", additional_info = "Instant\n[q]The caster plants a massive seaforium charge which explodes when triggered by a nearby player, inflicting 3684465 Fire damage to players within 6 yards and knocking them upwards."}
 MultiLanguageSpellData['en'][468728] = {name = "Mug Taking Charge", additional_info = nil}
 MultiLanguageSpellData['en'][468730] = {name = "Gooey Slam", additional_info = "100 yd range\nInstant\n[q]The caster slams their fist into the ground causing gobs of slime to scatter about the nearby area creating pools of slime which inflict Nature damage and make targets vulnerable to Viscous Upheaval."}
 MultiLanguageSpellData['en'][468732] = {name = "Unpacking Lost & Found Chest", additional_info = "3 sec cast\nReagents:\nLost & Found Chest\n[q]Unpack the chest to get all five of the items out of it."}
@@ -2491,7 +2456,7 @@ MultiLanguageSpellData['en'][468811] = {name = "Gigazap", additional_info = "Unl
 MultiLanguageSpellData['en'][468812] = {name = "Gigazap", additional_info = "Unlimited range\nInstant\n[q]Geezle consumes 20 Electricity to shock players with unlimited power, inflicting 2210679 Nature damage and an additional 884272 Nature damage every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][468813] = {name = "Gigazap", additional_info = "Unlimited range\n3 sec cast\n[q]Geezle consumes 20 Electricity to shock players with unlimited power, inflicting 2210679 Nature damage and an additional 884272 Nature damage every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][468814] = {name = "Blow Up", additional_info = nil}
-MultiLanguageSpellData['en'][468815] = {name = "Gigazap", additional_info = "Unlimited range\nInstant\n[q]Geezle consumes 20 Electricity to shock players with unlimited power, inflicting 15 Nature damage and an additional 6 Nature damage every 1 sec for 6 sec."}
+MultiLanguageSpellData['en'][468815] = {name = "Gigazap", additional_info = "Unlimited range\nInstant\n[q]Geezle consumes 20 Electricity to shock players with unlimited power, inflicting 2210679 Nature damage and an additional 884272 Nature damage every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][468817] = {name = "Goblin-guided Rocket", additional_info = "300 yd range\nInstant\n[q]Zee commands a Volunteer Rocketeer to assist him. This volunteer 'guides' an explosive payload to a player's location, inflicting 60372626 Fire damage split evenly among all players within 12 yards of the impact and creating a Hot Mess . The impact also detonates any hit Unstable Crawler Mines .\n\n If the rocket fails to hit at least 5 players, it inflicts 16770174 Fire damage to all players."}
 MultiLanguageSpellData['en'][468818] = {name = "Designed Disaster", additional_info = "Unlimited range\nInstant\n[q]Fineous Darkvire calls down a rain of hammers. Each hammer inflicts 929328 Radiant damage to nearby enemies, knocks them back, and leaves an architectonic impression that inflicts 464664 Radiant damage every 1 sec. While channeling, Fineous Darkvire takes 99% less damage."}
 MultiLanguageSpellData['en'][468820] = {name = "Designed Disaster", additional_info = "Unlimited range\nInstant\n[q]Fineous Darkvire calls down a rain of hammers. Each hammer inflicts 929328 Radiant damage to nearby enemies, knocks them back, and leaves an architectonic impression that inflicts 464664 Radiant damage every 1 sec. While channeling, Fineous Darkvire takes 99% less damage."}
@@ -2510,7 +2475,7 @@ MultiLanguageSpellData['en'][468863] = {name = "Gigazap", additional_info = "Unl
 MultiLanguageSpellData['en'][468867] = {name = "Rake", additional_info = "{35 Energy} {Melee Range}\nInstant\nRequires Cat Form\n[q]Rake the target for 0 Bleed damage and an additional 25 Bleed damage over 15 sec.\n\nAwards 1 combo point."}
 MultiLanguageSpellData['en'][468868] = {name = "DeLux L-A-Vator", additional_info = nil}
 MultiLanguageSpellData['en'][468869] = {name = "Shred", additional_info = "{40 Energy} {Melee Range}\nInstant\nRequires Cat Form\n[q]Shred the target, causing (133.3% of Attack power) Physical damage to the target.\n\nAwards 1 combo point.\n\nBalance\n[q]While stealthed, Shred deals 60% increased damage, has double the chance to critically strike, and generates 1 additional combo point."}
-MultiLanguageSpellData['en'][468872] = {name = "Red Asphalt", additional_info = "150 yd range\nInstant\n[q]The Geargrinder crushes players underneath its treads, inflicting 500% of the target's maximum health as Physical damage."}
+MultiLanguageSpellData['en'][468872] = {name = "Red Asphalt", additional_info = "150 yd range\nInstant\n[q]The Geargrinder crushes players underneath its treads, inflicting 500 % of the target's maximum health as Physical damage."}
 MultiLanguageSpellData['en'][468873] = {name = "Thrash", additional_info = "100 yd range\nInstant\nRequires Cat Form\n[q]Strikes all nearby enemies, dealing (26.3% of Attack power) Bleed damage and an additional (66.5% of Attack power) Bleed damage over 15 sec.\n\nAwards 1 combo point."}
 MultiLanguageSpellData['en'][468877] = {name = "Double Whammy Shot", additional_info = nil}
 MultiLanguageSpellData['en'][468880] = {name = "Bulletstorm", additional_info = nil}
@@ -2524,7 +2489,7 @@ MultiLanguageSpellData['en'][468904] = {name = "Hulking Charge", additional_info
 MultiLanguageSpellData['en'][468906] = {name = "Memoric Awakening", additional_info = "30 yd range\nInstant\n[q]Unit enters a dormant state."}
 MultiLanguageSpellData['en'][468907] = {name = "Quake and Quell", additional_info = "Unlimited range\nInstant\n[q]Phalanx rumbles the ground in an expanding ring, inflicting 1548881 Physical damage and knocking down players hit by the effect. Quake and Quell can be avoided by jumping over it."}
 MultiLanguageSpellData['en'][468912] = {name = "Hulking Charge", additional_info = "60 yd range\n2 sec cast\n[q]Charges the target's location, trampling enemies and inflicting 50 Physical damage and knocking them back."}
-MultiLanguageSpellData['en'][468915] = {name = "Ear Splitter", additional_info = "45 yd range\n1.5 sec cast\n[q]Shoots at a random enemy, inflicting 7 Physical damage on impact and an additional 3 Physical damage every 1 sec for 6 sec."}
+MultiLanguageSpellData['en'][468915] = {name = "Ear Splitter", additional_info = "45 yd range\n1.5 sec cast\n[q]Shoots at a random enemy, inflicting 586956 Physical damage on impact and an additional 251553 Physical damage every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][468920] = {name = "Quake and Quell", additional_info = nil}
 MultiLanguageSpellData['en'][468923] = {name = "Regrowth", additional_info = "40 yd range\n{Instant} {1 sec cooldown}\n[q]Heals a friendly target for 3 and another 1 over 12 sec.\n\nRestoration\n[q]Tree of Life: Instant cast."}
 MultiLanguageSpellData['en'][468926] = {name = "Hulking Charge", additional_info = "100 yd range\nInstant\n[q]Charges the target's location, trampling enemies and inflicting 50 Physical damage and knocking them back."}
@@ -2552,7 +2517,7 @@ MultiLanguageSpellData['en'][468964] = {name = "Grab", additional_info = nil}
 MultiLanguageSpellData['en'][468965] = {name = "Boulder Throw", additional_info = "60 yd range\nInstant\n[q]A huge boulder is hurled at an enemy which Inflicts 25 Physical damage to enemies within 5 yards of the impact and stuns them for 4 sec."}
 MultiLanguageSpellData['en'][468968] = {name = "Wonder Ball", additional_info = "50 yd range\n2 sec cast\n[q]The caster hurls a Wonder Ball at a random player destination."}
 MultiLanguageSpellData['en'][468969] = {name = "Boulder Throw", additional_info = "60 yd range\n3 sec cast\n[q]A huge boulder is hurled at an enemy which Inflicts 25 Physical damage to enemies within 5 yards of the impact and stuns them for 4 sec."}
-MultiLanguageSpellData['en'][468970] = {name = "Wonder Ball", additional_info = "50 yd range\nInstant\n[q]Throws a grenade at a random player, inflicting 35 Fire damage and knocking back players within 4 yards."}
+MultiLanguageSpellData['en'][468970] = {name = "Wonder Ball", additional_info = "50 yd range\nInstant\n[q]Throws a grenade at a random player, inflicting 2934781 Fire damage and knocking back players within 4 yards."}
 MultiLanguageSpellData['en'][468974] = {name = "Boulder Throw", additional_info = "100 yd range\nInstant\n[q]A huge boulder is hurled at an enemy which Inflicts 25 Physical damage to enemies within 5 yards of the impact and stuns them for 4 sec."}
 MultiLanguageSpellData['en'][468975] = {name = "Dam Water", additional_info = "Unlimited range\nInstant\n[q]Water leaks from the cracks above, forming pools. Contact with electricity transforms the pool into Shock Water ."}
 MultiLanguageSpellData['en'][468978] = {name = "Crashing Star", additional_info = "[q]Shooting Stars has a 15% chance to instead call down a Crashing Star, dealing (114.5% of Spell power) Astral damage to the target and generating 4 Astral Power."}
@@ -2566,8 +2531,8 @@ MultiLanguageSpellData['en'][468990] = {name = "Seabed Leviathan's Citrine", add
 MultiLanguageSpellData['en'][468991] = {name = "Break It Up", additional_info = nil}
 MultiLanguageSpellData['en'][468994] = {name = "Swipe", additional_info = "{35 Energy} {8 yd range}\nInstant\nRequires Cat Form\n[q]Swipe all nearby enemies, inflicting 1 Physical damage. Deals reduced damage beyond 5 targets.\n\nAwards 1 combo point."}
 MultiLanguageSpellData['en'][468995] = {name = "Break It Up", additional_info = "Unlimited range\nInstant\n[q]Inflicts 50 Nature damage to nearby players."}
-MultiLanguageSpellData['en'][469001] = {name = "Wailing Pipes", additional_info = "4 sec cast\n[q]The caster's voice pounds through your skull, inflicting 7 Physical damage every 1 sec for 8 sec."}
-MultiLanguageSpellData['en'][469002] = {name = "Wailing Pipes", additional_info = "45 yd range\n{Instant} {1.5 sec cooldown}\n[q]The caster's voice pounds through your skull, inflicting 7 Physical damage every 1 sec for 8 sec."}
+MultiLanguageSpellData['en'][469001] = {name = "Wailing Pipes", additional_info = "4 sec cast\n[q]The caster's voice pounds through your skull, inflicting 586956 Physical damage every 1 sec for 8 sec."}
+MultiLanguageSpellData['en'][469002] = {name = "Wailing Pipes", additional_info = "45 yd range\n{Instant} {1.5 sec cooldown}\n[q]The caster's voice pounds through your skull, inflicting 586956 Physical damage every 1 sec for 8 sec."}
 MultiLanguageSpellData['en'][469004] = {name = "Hail of Stars", additional_info = "[q]Casting a free Starsurge or Starfall grants Solstice for 3 sec."}
 MultiLanguageSpellData['en'][469012] = {name = "Circle of Life and Death", additional_info = "[q]Moonfire, Sunfire, Stellar Flare, and Starfall deal their damage in 15% less time, and your healing over time effects in 15% less time."}
 MultiLanguageSpellData['en'][469014] = {name = "Ralia Dreamchaser", additional_info = "[q]Feral Druid"}
@@ -2583,10 +2548,10 @@ MultiLanguageSpellData['en'][469035] = {name = "Shadow Word: Anxiety", additiona
 MultiLanguageSpellData['en'][469038] = {name = "Dread Crescendo", additional_info = "Unlimited range\n20 sec cast\n[q]Manifested Dread inflicts Shadow damage equal to its remaining health to all players, split evenly."}
 MultiLanguageSpellData['en'][469039] = {name = "Pang of Panic", additional_info = "Unlimited range\nInstant\n[q]When Manifested Dread is killed or casts Dread Crescendo, it explodes for 619552 Shadow damage to all players."}
 MultiLanguageSpellData['en'][469041] = {name = "Agonizing Torture", additional_info = "Unlimited range\nChanneled (15 sec cast)\n[q]High Interrogator Gerstahn pulls a player to her and traps them in agonizing torture, inflicting 1161660 Shadow damage every 1 sec for 15 sec. Whenever she is interrupted, Agonizing Torture is reduced by 3 sec."}
-MultiLanguageSpellData['en'][469043] = {name = "Searing Shrapnel", additional_info = "300 yd range\nInstant\n[q]The blast embeds searing shrapnel in the player's flesh causing them to absorb the next 1930071 healing. While afflicted by this effect, they also suffer 679192 Fire damage every 1 sec. [This effect stacks.]"}
+MultiLanguageSpellData['en'][469043] = {name = "Searing Shrapnel", additional_info = "300 yd range\nInstant\n[q]The blast embeds searing shrapnel in the player's flesh causing them to absorb the next 1930071 healing. While afflicted by this effect, they also suffer 597689 Fire damage every 1 sec. [This effect stacks.]"}
 MultiLanguageSpellData['en'][469046] = {name = "Bronze Celebration Title: Molten Core Prospector", additional_info = "1.5 sec cast\n[q]Grants the title: Molten Core Prospector."}
 MultiLanguageSpellData['en'][469048] = {name = "Bronze Celebration Title: Karazhan Graduate", additional_info = "1.5 sec cast\n[q]Grants the title: Karazhan Graduate."}
-MultiLanguageSpellData['en'][469052] = {name = "Searing Shrapnel", additional_info = "300 yd range\nInstant\n[q]The blast embeds searing shrapnel in the player's flesh causing them to absorb the next 1930071 healing. While afflicted by this effect, they also suffer 679192 Fire damage every 1 sec. [This effect stacks.]"}
+MultiLanguageSpellData['en'][469052] = {name = "Searing Shrapnel", additional_info = "300 yd range\nInstant\n[q]The blast embeds searing shrapnel in the player's flesh causing them to absorb the next 1930071 healing. While afflicted by this effect, they also suffer 597689 Fire damage every 1 sec. [This effect stacks.]"}
 MultiLanguageSpellData['en'][469060] = {name = "Breath of Death", additional_info = "100 yd range\nInstant\n[q]For 4 sec necrotic dragon breath inflicts 1 Shadow damage every 1 sec. stacking up to 100 times."}
 MultiLanguageSpellData['en'][469061] = {name = "Unstable Crawler Mines", additional_info = "300 yd range\nInstant\n[q]"}
 MultiLanguageSpellData['en'][469062] = {name = "Unstable Crawler Mines", additional_info = nil}
@@ -2676,6 +2641,7 @@ MultiLanguageSpellData['en'][469313] = {name = "Fireworks", additional_info = ni
 MultiLanguageSpellData['en'][469314] = {name = "Flowing Spirits", additional_info = "[q]Your damaging abilities have a 6% chance to summon a Feral Spirit for 8 sec.\n(200ms cooldown)"}
 MultiLanguageSpellData['en'][469316] = {name = "Stoicism", additional_info = "[q]The duration of stun effects on you is reduced by 20%."}
 MultiLanguageSpellData['en'][469317] = {name = "Stand Against Evil", additional_info = "[q]Turn Evil now affects 5 additional enemies."}
+MultiLanguageSpellData['en'][469318] = {name = "Purging Blaze", additional_info = "Melee Range\n{Instant} {12 sec cooldown}\n[q]Holy Fire erupts from the caster inflicting 10 Holy Fire damage to enemies within 8 yards of the caster."}
 MultiLanguageSpellData['en'][469319] = {name = "Fireworks Vehicle", additional_info = nil}
 MultiLanguageSpellData['en'][469321] = {name = "Righteous Protection", additional_info = "[q]Blessing of Sacrifice now removes and prevents all Poison and Disease effects."}
 MultiLanguageSpellData['en'][469322] = {name = "Feral Spirit", additional_info = "30 yd range\nInstant\n[q]Your damaging abilities have a 6% chance to summon a Feral Spirit for 8 sec."}
@@ -2695,7 +2661,7 @@ MultiLanguageSpellData['en'][469336] = {name = "Ingredient A - Visuals", additio
 MultiLanguageSpellData['en'][469337] = {name = "Sacred Strength", additional_info = "[q]Holy Power spending abilities have 2% increased damage and healing."}
 MultiLanguageSpellData['en'][469338] = {name = "Infused Cinderbrwe", additional_info = nil}
 MultiLanguageSpellData['en'][469339] = {name = "Web-Wrapped Axe", additional_info = nil}
-MultiLanguageSpellData['en'][469340] = {name = "Shattering Reverb", additional_info = "45 yd range\n4 sec cast\n[q]Hurls a sound wave at a random enemy that inflicts 15 Physical damage then jumps to nearby players. Affected targets suffer 7 Physical damage every 1 sec for 8 sec."}
+MultiLanguageSpellData['en'][469340] = {name = "Shattering Reverb", additional_info = "45 yd range\n4 sec cast\n[q]Hurls a sound wave at a random enemy that inflicts 1257763 Physical damage then jumps to nearby players. Affected targets suffer 586956 Physical damage every 1 sec for 8 sec."}
 MultiLanguageSpellData['en'][469341] = {name = "Gravekeeper's Axe", additional_info = nil}
 MultiLanguageSpellData['en'][469342] = {name = "Opal Lily", additional_info = nil}
 MultiLanguageSpellData['en'][469343] = {name = "Jade Pearl", additional_info = nil}
@@ -2708,7 +2674,7 @@ MultiLanguageSpellData['en'][469361] = {name = "Giga Bomb", additional_info = "U
 MultiLanguageSpellData['en'][469362] = {name = "Charged Giga Bomb", additional_info = "Unlimited range\nInstant\n[q]Inflicts 168000 Nature damage every 1 sec to players within 0 yards.\n\n Upon interaction gain Charged Giga Bomb, instead suffering 168000 Nature damage every 0.5 sec."}
 MultiLanguageSpellData['en'][469363] = {name = "Fling Giga Bomb", additional_info = "Unlimited range\n{Instant} {2 sec cooldown}\n[q]Ditch the Giga Bomb you are holding."}
 MultiLanguageSpellData['en'][469369] = {name = "Spray and Pray", additional_info = "300 yd range\nInstant\n[q]Zee unleashes a cone of bullets at a player, inflicting 1257763 Physical damage every 0.3 for 3 sec to players standing within the effect and detonating any hit Unstable Crawler Mines ."}
-MultiLanguageSpellData['en'][469373] = {name = "Charged Giga Bomb", additional_info = "Unlimited range\nInstant\n[q]Inflicts 168000 Nature damage every 1 sec to players within 0 yards.\n\n Upon interaction gain Charged Giga Bomb, instead suffering 168000 Nature damage every 0.5 sec."}
+MultiLanguageSpellData['en'][469373] = {name = "Charged Giga Bomb", additional_info = "Unlimited range\nInstant\n[q]Inflicts 2 Nature damage every 1 sec to players within 0 yards.\n\n Upon interaction gain Charged Giga Bomb, instead suffering 2 Nature damage every 0.5 sec."}
 MultiLanguageSpellData['en'][469375] = {name = "Explosive Payload", additional_info = "300 yd range\nInstant\n[q]The round lodges in the original target exploding after 6 sec, inflicting 11739122 Fire damage to players and detonates Unstable Crawler Mines within 15 yards."}
 MultiLanguageSpellData['en'][469376] = {name = "Draining", additional_info = nil}
 MultiLanguageSpellData['en'][469377] = {name = "Explosive Payload", additional_info = "300 yd range\nInstant\n[q]The round lodges in the original target exploding after 6 sec, inflicting 11739122 Fire damage to players and detonates Unstable Crawler Mines within 15 yards."}
@@ -2722,7 +2688,7 @@ MultiLanguageSpellData['en'][469386] = {name = "Highly Explosive", additional_in
 MultiLanguageSpellData['en'][469387] = {name = "Carried Giga Bomb", additional_info = "Unlimited range\nInstant\n[q]Upon death drops a Giga Bomb."}
 MultiLanguageSpellData['en'][469390] = {name = "Charged Giga Bomb", additional_info = "Unlimited range\nInstant\n[q]Inflicts 168000 Nature damage every 1 sec to players within 0 yards.\n\n Upon interaction gain Charged Giga Bomb, instead suffering 168000 Nature damage every 0.5 sec."}
 MultiLanguageSpellData['en'][469391] = {name = "Perforating Wound", additional_info = "300 yd range\nInstant\n[q]The force from the round rips through the first player hit, inflicting 1677017 Physical damage every 1.5 sec for 3.8 min. This effect stacks."}
-MultiLanguageSpellData['en'][469392] = {name = "Heavy Bass", additional_info = "100 yd range\n6 sec cast\n[q]The caster emits a low frequency burst that inflicts 65 Physical damage to all players within 45 yards."}
+MultiLanguageSpellData['en'][469392] = {name = "Heavy Bass", additional_info = "100 yd range\n6 sec cast\n[q]The caster emits a low frequency burst that inflicts 5450307 Physical damage to all players within 45 yards."}
 MultiLanguageSpellData['en'][469393] = {name = "Perforating Wound", additional_info = "300 yd range\nInstant\n[q]The force from the round rips through the first player hit, inflicting 1677017 Physical damage every 1.5 sec for 3.8 min. This effect stacks."}
 MultiLanguageSpellData['en'][469395] = {name = "Charged Giga Bomb", additional_info = "Unlimited range\nInstant\n[q]Inflicts 168000 Nature damage every 1 sec to players within 0 yards.\n\n Upon interaction gain Charged Giga Bomb, instead suffering 168000 Nature damage every 0.5 sec."}
 MultiLanguageSpellData['en'][469397] = {name = "Roaring War-Queen's Citrine", additional_info = "[q]Your spells and abilities have a low chance of triggering the Singing Thunder Citrine effects of 4 nearby allies.\n\n Whenever an allied player dies, this effect is triggered immediately."}
@@ -2732,9 +2698,9 @@ MultiLanguageSpellData['en'][469404] = {name = "Giga BOOM!", additional_info = "
 MultiLanguageSpellData['en'][469405] = {name = "Shoutout!", additional_info = nil}
 MultiLanguageSpellData['en'][469408] = {name = "Salvage from Above!", additional_info = nil}
 MultiLanguageSpellData['en'][469409] = {name = "Divine Spurs", additional_info = "[q]Divine Steed's cooldown is reduced by 20%, but its duration is reduced by 40%."}
-MultiLanguageSpellData['en'][469411] = {name = "A Just Reward", additional_info = "[q]Protection, Retribution\n After Cleanse Toxins successfully removes an effect from an ally, they are healed for (300% of Spell power).\n\nHoly\n After Cleanse successfully removes an effect from an ally, they are healed for (300% of Spell power)."}
+MultiLanguageSpellData['en'][469411] = {name = "A Just Reward", additional_info = "[q]Protection, Retribution\n After Cleanse Toxins successfully removes an effect from an ally, they are healed for (540% of Spell power).\n\nHoly\n After Cleanse successfully removes an effect from an ally, they are healed for (540% of Spell power)."}
 MultiLanguageSpellData['en'][469412] = {name = "Carrying Boomball!", additional_info = nil}
-MultiLanguageSpellData['en'][469413] = {name = "A Just Reward", additional_info = "100 yd range\nInstant\n[q]After [ Holy : Cleanse /\n\nProtection, Retribution\nCleanse Toxins ] successfully removes an effect from an ally, they are healed for (300% of Spell power)."}
+MultiLanguageSpellData['en'][469413] = {name = "A Just Reward", additional_info = "100 yd range\nInstant\n[q]After [ Holy : Cleanse /\n\nProtection, Retribution\nCleanse Toxins ] successfully removes an effect from an ally, they are healed for (540% of Spell power)."}
 MultiLanguageSpellData['en'][469415] = {name = "Blistering Show", additional_info = "300 yd range\n3 sec cast\n[q]The pyrotechnics ignite, launching fireworks at random player destinations every 2 sec for 10 sec. The fireworks explode on impact, inflicting 75 Fire damage to players within 4 yards. When the fireworks are spent, the barrel explodes inflicting 95 Fire damage to everyone."}
 MultiLanguageSpellData['en'][469416] = {name = "Lightbearer", additional_info = "[q]10% of all healing done to you from other sources heals up to 4 nearby allies, divided evenly among them."}
 MultiLanguageSpellData['en'][469417] = {name = "Blistering Show", additional_info = "300 yd range\nInstant\n[q]The pyrotechnics ignite, launching fireworks at random player destinations every 2 sec for 10 sec. The fireworks explode on impact, inflicting 75 Fire damage to players within 4 yards. When the fireworks are spent, the barrel explodes inflicting 95 Fire damage to everyone."}
@@ -2776,7 +2742,10 @@ MultiLanguageSpellData['en'][469490] = {name = "Double Whammy Shot", additional_
 MultiLanguageSpellData['en'][469491] = {name = "Double Whammy Shot", additional_info = "300 yd range\nInstant\n[q]Zee fires an explosive high caliber round towards a random player, inflicting 26832278 Physical damage to the closest player and applying Perforating Wound . All other targets take up to 26832278 Physical damage, reduced by the closest player's total damage mitigation.\n\nUnstable Crawler Mines hit are detonated and all players hit are stunned for 2 sec. In addition, an Explosive Payload is lodged in the original target."}
 MultiLanguageSpellData['en'][469498] = {name = "Cave Aura", additional_info = nil}
 MultiLanguageSpellData['en'][469500] = {name = "Cave Aura", additional_info = nil}
-MultiLanguageSpellData['en'][469573] = {name = "Sound Check", additional_info = "100 yd range\n1.5 sec cast\n[q]Throws a grenade at a random player, inflicting 35 Fire damage and knocking back players within 4 yards."}
+MultiLanguageSpellData['en'][469564] = {name = "Righteous Slash", additional_info = "Melee Range\n{Instant} {16 sec cooldown}\n[q]Inflicts 15 Holy Fire damage and knocks back enemies in front of the caster."}
+MultiLanguageSpellData['en'][469568] = {name = "Righteous Slash", additional_info = "Melee Range\nInstant\n[q]Inflicts 15 Holy Fire damage and knocks back enemies in front of the caster."}
+MultiLanguageSpellData['en'][469572] = {name = "Purging Blaze", additional_info = "Instant\n[q]Holy Fire erupts from the caster inflicting 10 Holy Fire damage to enemies within 8 yards of the caster."}
+MultiLanguageSpellData['en'][469573] = {name = "Sound Check", additional_info = "100 yd range\n1.5 sec cast\n[q]Throws a grenade at a random player, inflicting 2934781 Fire damage and knocking back players within 4 yards."}
 MultiLanguageSpellData['en'][469575] = {name = "Malfunctioning...", additional_info = nil}
 MultiLanguageSpellData['en'][469579] = {name = "Ravenous Honey Buzzer", additional_info = nil}
 MultiLanguageSpellData['en'][469580] = {name = "Colossal Clash", additional_info = "Unlimited range\n2 sec cast\n[q]Upon reaching 100 Energy, Flarendo and Torq clash in the middle of the arena for 20 sec. Their battle inflicts 251553 Fire and 251553 Nature damage to all players every 1 sec and causes Zapbolt s and Fiery Wave s to erupt from them.\n\n Each clash increases the damage of Colossal Clash by 30%. This effect stacks."}
@@ -2792,7 +2761,9 @@ MultiLanguageSpellData['en'][469604] = {name = "Explosive Flame", additional_inf
 MultiLanguageSpellData['en'][469609] = {name = "Door VFX", additional_info = nil}
 MultiLanguageSpellData['en'][469610] = {name = "Shadow Fang", additional_info = "Instant\n[q]The caster's melee attacks leaves behind Creeping Shadow .\n(2s cooldown)"}
 MultiLanguageSpellData['en'][469612] = {name = "Tempered Banner of the Algari", additional_info = "{Instant} {10 min cooldown}\n[q]Plant a banner representing your successes against the Tempered."}
+MultiLanguageSpellData['en'][469613] = {name = "Prized Banner of the Algari", additional_info = "{Instant} {10 min cooldown}\n[q]Plant a banner representing your successes against the Prized."}
 MultiLanguageSpellData['en'][469616] = {name = "Forged Champion's Prestigious Banner", additional_info = "{Instant} {10 min cooldown}\n[q]Plant a banner representing your victories within the Forged arenas."}
+MultiLanguageSpellData['en'][469617] = {name = "Prized Champion's Prestigious Banner", additional_info = "{Instant} {10 min cooldown}\n[q]Plant a banner representing your victories within the Prized arenas."}
 MultiLanguageSpellData['en'][469620] = {name = "Creeping Shadow", additional_info = "100 yd range\nInstant\n[q]Inflicts 110534 Shadow damage every 1 sec for 6 sec. This effect stacks."}
 MultiLanguageSpellData['en'][469625] = {name = "Black Trickshot", additional_info = "Unlimited range\nInstant\n[q]The caster fires a Black Blood-infused round that explodes outward, inflicting 10 Shadow damage to all players caught in the blast and absorbing the next 10 healing received."}
 MultiLanguageSpellData['en'][469627] = {name = "Learning", additional_info = nil}
@@ -2835,10 +2806,10 @@ MultiLanguageSpellData['en'][469707] = {name = "Terrify", additional_info = "{In
 MultiLanguageSpellData['en'][469708] = {name = "Uncontrolled Destruction", additional_info = "300 yd range\nInstant\n[q]Zee takes charge by calling in bombs, rockets, and drones, inflicting 423950 Fire damage to all players every 0.5 sec for 6 sec.\n\n Players are then afflicted with Uncontrolled Burn ."}
 MultiLanguageSpellData['en'][469711] = {name = "Terrify", additional_info = "200 yd range\n5 sec cast\n[q]Fears and inflicts 439 Shadow damage to all players within 12 yards of the impact every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][469713] = {name = "Lava Barrage", additional_info = "100 yd range\n3 sec cast\n[q]Blasts the target's location repeatedly over 2 sec inflicting Fire damage to all enemies within 3 yards."}
-MultiLanguageSpellData['en'][469715] = {name = "Uncontrolled Burn", additional_info = "300 yd range\nInstant\n[q]The chaotic destruction burns, inflicting 308571 Fire damage to all players every 0.5 sec for 10 min. This effect stacks."}
+MultiLanguageSpellData['en'][469715] = {name = "Uncontrolled Burn", additional_info = "300 yd range\nInstant\n[q]The chaotic destruction burns, inflicting 271543 Fire damage to all players every 0.5 sec for 10 min. This effect stacks."}
 MultiLanguageSpellData['en'][469716] = {name = "Lava Barrage", additional_info = "15 yd range\nInstant\n[q]Blasts the target's location repeatedly over 2 sec inflicting Fire damage to all enemies within 3 yards."}
-MultiLanguageSpellData['en'][469719] = {name = "Uncontrolled Burn", additional_info = "300 yd range\nInstant\n[q]The chaotic destruction burns, inflicting 308571 Fire damage to all players every 0.5 sec for 10 min. This effect stacks."}
-MultiLanguageSpellData['en'][469721] = {name = "Backwash", additional_info = "Unlimited range\n3 sec cast\n[q]Bubbles spits volleys of saliva water at players, inflicting 4 Frost damage and an additional 2 Frost damage every 1 sec for 6 sec."}
+MultiLanguageSpellData['en'][469719] = {name = "Uncontrolled Burn", additional_info = "300 yd range\nInstant\n[q]The chaotic destruction burns, inflicting 271543 Fire damage to all players every 0.5 sec for 10 min. This effect stacks."}
+MultiLanguageSpellData['en'][469721] = {name = "Backwash", additional_info = "Unlimited range\n3 sec cast\n[q]Bubbles spits volleys of saliva water at players, inflicting 589514 Frost damage and an additional 221068 Frost damage every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][469722] = {name = "Mind Torrent", additional_info = "Instant\n[q]Vile'rel assaults the mind of a player, inflicting 3511 Shadow damage every 1 sec for 10 sec. Damage is split between players within 8 yards of the target."}
 MultiLanguageSpellData['en'][469723] = {name = "Mind Torrent", additional_info = "200 yd range\n6 sec cast\n[q]Vile'rel assaults the mind of a player, inflicting 4646642 Shadow damage every 1 sec for 10 sec. Damage is split between players within 8 yards of the target."}
 MultiLanguageSpellData['en'][469724] = {name = "Mind Torrent", additional_info = "200 yd range\nInstant\n[q]Vile'rel assaults the mind of a player, inflicting 3511 Shadow damage every 1 sec for 10 sec. Damage is split between players within 8 yards of the target."}
@@ -2878,8 +2849,8 @@ MultiLanguageSpellData['en'][469807] = {name = "Experimental Go-Pack", additiona
 MultiLanguageSpellData['en'][469808] = {name = "Giga Bomb Detonation", additional_info = "Unlimited range\nInstant\n[q]Carrying a Giga Bomb in front of Giga Controls automatically detonates the Giga Bomb inflicting 838509 Nature damage to players within 8 yards, and sabotages nearby Giga Controls based on the health of the bomb.\n\n Additionally this jolt grants 30% increased movement speed for 10 sec."}
 MultiLanguageSpellData['en'][469809] = {name = "Experimental Go-Pack", additional_info = "Instant\n[q]Equip Experimental Go-Pack."}
 MultiLanguageSpellData['en'][469810] = {name = "Orweyna's Fury", additional_info = "150 yd range\n{1 sec cast} {1.5 sec cooldown}\n[q]Request Orweyna's assistance to assault the area."}
-MultiLanguageSpellData['en'][469811] = {name = "Backwash", additional_info = "Unlimited range\nInstant\n[q]Bubbles spits volleys of saliva water at players, inflicting 4 Frost damage and an additional 2 Frost damage every 1 sec for 6 sec."}
-MultiLanguageSpellData['en'][469812] = {name = "Backwash", additional_info = "Unlimited range\nInstant\n[q]Bubbles spits volleys of saliva water at players, inflicting 4 Frost damage and an additional 2 Frost damage every 1 sec for 6 sec."}
+MultiLanguageSpellData['en'][469811] = {name = "Backwash", additional_info = "Unlimited range\nInstant\n[q]Bubbles spits volleys of saliva water at players, inflicting 589514 Frost damage and an additional 221068 Frost damage every 1 sec for 6 sec."}
+MultiLanguageSpellData['en'][469812] = {name = "Backwash", additional_info = "Unlimited range\nInstant\n[q]Bubbles spits volleys of saliva water at players, inflicting 589514 Frost damage and an additional 221068 Frost damage every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][469813] = {name = "Molten Furnace", additional_info = "{Instant} {2 min cooldown}\n[q]Absorbs 30 % of the damage you take up to 22636 total damage. For every ( 22636 / 3 ) damage absorbed, you release a wave of heat dealing 539 Fire damage split amongst enemies within 5 yds."}
 MultiLanguageSpellData['en'][469814] = {name = "Tempered in Battle", additional_info = "100 yd range\nInstant\n[q]When you or an ally wielding a Holy Bulwark are healed above maximum health, transfer 100% of the overhealing to your ally.\n\n When you or an ally wielding a Sacred Weapon drop below 40% health, redistribute your health immediately and every 1 sec for 4 sec. May only occur once per cast."}
 MultiLanguageSpellData['en'][469815] = {name = "Furnace Blast", additional_info = "Instant\n[q]Deals 3 Fire damage split amongst enemies within $ryrds."}
@@ -2927,8 +2898,8 @@ MultiLanguageSpellData['en'][469893] = {name = "Elemental Shield", additional_in
 MultiLanguageSpellData['en'][469895] = {name = "Spellbreaker", additional_info = "[q]Eye for an Eye can now also trigger at 100% effectiveness from direct Magic damage."}
 MultiLanguageSpellData['en'][469897] = {name = "Crystalline Charge", additional_info = nil}
 MultiLanguageSpellData['en'][469898] = {name = "Fel Hunger", additional_info = "1 sec cast\n[q]Insatiable hunger increases the caster's attack speed by 30% for 10 sec."}
-MultiLanguageSpellData['en'][469900] = {name = "Scrap Dump", additional_info = "Unlimited range\n2 sec cast\n[q]Discharges a pile of scrap, which inflicts 13 Physical damage every 2 sec for 10 sec to the first player that steps into it."}
-MultiLanguageSpellData['en'][469901] = {name = "Scrap Dump", additional_info = "Unlimited range\nInstant\n[q]Discharges a pile of scrap, which inflicts 13 Physical damage every 2 sec for 10 sec to the first player that steps into it."}
+MultiLanguageSpellData['en'][469900] = {name = "Scrap Dump", additional_info = "Unlimited range\n2 sec cast\n[q]Discharges a pile of scrap, which inflicts 1048136 Physical damage every 2 sec for 10 sec to the first player that steps into it."}
+MultiLanguageSpellData['en'][469901] = {name = "Scrap Dump", additional_info = "Unlimited range\nInstant\n[q]Discharges a pile of scrap, which inflicts 1048136 Physical damage every 2 sec for 10 sec to the first player that steps into it."}
 MultiLanguageSpellData['en'][469903] = {name = "Skittish", additional_info = "Instant\n[q]Gizmo is easily startled by sudden movement."}
 MultiLanguageSpellData['en'][469915] = {name = "Golem Gearbox", additional_info = "[q]The gearbox is Wound each time you cause a critical strike. When Wound 3 times, unleash a Torrent of Flames dealing ( 1 * 294 ) Fire damage. The gearbox cannot be Wound more than once every 2.5 sec.\n(2.5s cooldown)"}
 MultiLanguageSpellData['en'][469917] = {name = "Winding Up", additional_info = "Instant\n[q]Wind the Golem Gearbox. When Wound 3 times, release a Torent of Flames dealing 294 Fire damage."}
@@ -2990,6 +2961,8 @@ MultiLanguageSpellData['en'][469992] = {name = "Explode", additional_info = "10 
 MultiLanguageSpellData['en'][469993] = {name = "Foul Exhaust", additional_info = "{0.5 sec cast} {4.5 sec cooldown}\n[q]The One-Armed Bandit blasts out smoky exhaust at all players every 0.5 sec for 1.5 sec. Each blast absorbs the next 1429682 healing received.\n\n While this effect persists, it inflicts 120745 Shadow damage every 1 sec and reduces movement speed by 15% per application."}
 MultiLanguageSpellData['en'][469994] = {name = "Ancient Power", additional_info = "1 sec cast\n[q]Empowers the caster with 30% increased attack speed and movement speed for 20 sec."}
 MultiLanguageSpellData['en'][469995] = {name = "Demonsurge", additional_info = "Instant\n[q]Metamorphosis now also [ Havoc : causes Demon's Bite to generate 15 additional Fury /\n\nVengeance\ngreatly empowers Soul Cleave and Spirit Bomb ]\n While demon form is active, the first cast of each empowered ability induces a Demonsurge, causing you to explode with Fel energy, dealing (330% of Attack power) Fire damage to nearby enemies. Deals reduced damage beyond 8 targets."}
+MultiLanguageSpellData['en'][469996] = {name = "Teleport", additional_info = nil}
+MultiLanguageSpellData['en'][469997] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][470004] = {name = "Vicious Bite", additional_info = "20 yd range\nInstant\n[q]Chomps into their current target, inflicting 10 Physical damage and causing the target to bleed for 5 Physical damage every 1.5 sec for 12 sec. This effect stacks."}
 MultiLanguageSpellData['en'][470005] = {name = "Vicious Bite", additional_info = "Unlimited range\nInstant\n[q]Chomps into their current target, inflicting 10 Physical damage and causing the target to bleed for 5 Physical damage every 1.5 sec for 12 sec. This effect stacks."}
 MultiLanguageSpellData['en'][470006] = {name = "Drop Drinks", additional_info = "{Instant} {1 min cooldown}\n[q]The drinks fall to the floor and explode, inflicting 20 Fire damage to players within 3 yards of the impact."}
@@ -3005,6 +2978,8 @@ MultiLanguageSpellData['en'][470020] = {name = "Arcane Overcharge", additional_i
 MultiLanguageSpellData['en'][470021] = {name = "Signature Spell", additional_info = "[q]Frost\n Consuming Winter's Chill with Glacial Spike conjures 2 additional Frost Splinters.\n\nArcane\n When your Magi's Spark explodes, you conjure 6 Arcane Splinters."}
 MultiLanguageSpellData['en'][470022] = {name = "Barreling Charge", additional_info = "Unlimited range\nInstant\n[q]Bront barrels towards his target, inflicting 4421358 Physical damage to any players in his way and stunning them for 2 sec.\n\n The force of Bront's charge is strong enough to knock away any Ticking Time Bombs in his path."}
 MultiLanguageSpellData['en'][470025] = {name = "Echo Stomp", additional_info = "10 yd range\n3 sec cast\n[q]A powerful stomp inflicts 10 Physical damage to enemies within 10 yards three times and stuns them, rendering them unable to move or attack for 6 sec."}
+MultiLanguageSpellData['en'][470027] = {name = "Teleport", additional_info = nil}
+MultiLanguageSpellData['en'][470028] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][470032] = {name = "Colossal Clash", additional_info = "Unlimited range\nInstant\n[q]Upon reaching 100 Energy, Flarendo and Torq clash in the middle of the arena for 20 sec. Their battle inflicts 251553 Fire and 251553 Nature damage to all players every 1 sec and causes Zapbolt s and Fiery Wave s to erupt from them.\n\n Each clash increases the damage of Colossal Clash by 30%. This effect stacks."}
 MultiLanguageSpellData['en'][470033] = {name = "Highly Explosive", additional_info = "Instant\n[q]The caster detonates 3 sec after being defeated, inflicting Fire damage to all players within 6 yards."}
 MultiLanguageSpellData['en'][470034] = {name = "Colossal Clash", additional_info = "Unlimited range\nInstant\n[q]Upon reaching 100 Energy, Flarendo and Torq clash in the middle of the arena for 20 sec. Their battle inflicts 251553 Fire and 251553 Nature damage to all players every 1 sec and causes Zapbolt s and Fiery Wave s to erupt from them.\n\n Each clash increases the damage of Colossal Clash by 30%. This effect stacks."}
@@ -3055,12 +3030,13 @@ MultiLanguageSpellData['en'][470096] = {name = "Unstable Prototype", additional_
 MultiLanguageSpellData['en'][470097] = {name = "Unstable Prototype", additional_info = nil}
 MultiLanguageSpellData['en'][470098] = {name = "Giga Controls", additional_info = nil}
 MultiLanguageSpellData['en'][470099] = {name = "Stage Dive", additional_info = nil}
-MultiLanguageSpellData['en'][470100] = {name = "Stage Dive", additional_info = "300 yd range\nInstant\n[q]The caster leaps into the crowd, inflicting 45 Physical damage to enemies and 75 Physical damage to enemies within 12 yards and knocking them back."}
+MultiLanguageSpellData['en'][470100] = {name = "Stage Dive", additional_info = "300 yd range\nInstant\n[q]The caster leaps into the crowd, inflicting 3773289 Physical damage to enemies and 6288815 Physical damage to enemies within 12 yards and knocking them back."}
 MultiLanguageSpellData['en'][470102] = {name = "Unstable Prototype", additional_info = nil}
 MultiLanguageSpellData['en'][470106] = {name = "Unstable Prototype", additional_info = nil}
 MultiLanguageSpellData['en'][470107] = {name = "Upgrade", additional_info = nil}
 MultiLanguageSpellData['en'][470109] = {name = "Grappling Hook", additional_info = nil}
 MultiLanguageSpellData['en'][470110] = {name = "Breaking Control", additional_info = "45 yd range\n2 sec cast\n[q]The entranced breaks free of control and grants players Hero of the People ."}
+MultiLanguageSpellData['en'][470116] = {name = "Chasting Strike", additional_info = "Melee Range\n{0.5 sec cast} {12 sec cooldown}\n[q]Inflicts 15 Holy Fire damage to the target."}
 MultiLanguageSpellData['en'][470119] = {name = "Toy Sword and Shield", additional_info = nil}
 MultiLanguageSpellData['en'][470122] = {name = "Frostmourne", additional_info = nil}
 MultiLanguageSpellData['en'][470128] = {name = "Ashbringer", additional_info = nil}
@@ -3069,6 +3045,8 @@ MultiLanguageSpellData['en'][470130] = {name = "Warglaive of Azzinoth", addition
 MultiLanguageSpellData['en'][470131] = {name = "Collecting", additional_info = nil}
 MultiLanguageSpellData['en'][470132] = {name = "Doomhammer", additional_info = nil}
 MultiLanguageSpellData['en'][470135] = {name = "Deliver Newspaper", additional_info = "100 yd range\nInstant\n[q]Deliver a newspaper to an Uninformed Citizen in Undermine."}
+MultiLanguageSpellData['en'][470137] = {name = "Falling Grace", additional_info = "30 yd range\n{Instant} {18 sec cooldown}\n[q]Leaps towards the target, dealing 5 Holy Fire damage and stunning enemies 5 yards from the impact."}
+MultiLanguageSpellData['en'][470138] = {name = "Falling Grace", additional_info = "30 yd range\nInstant\n[q]Leaps towards the target, dealing 5 Holy Fire damage and stunning enemies 5 yards from the impact."}
 MultiLanguageSpellData['en'][470139] = {name = "Deliver Newspaper", additional_info = "30 yd range\n{1.5 sec cast} {3 sec cooldown}\n[q]Deliver a newspaper to an Uninformed Citizen in Undermine."}
 MultiLanguageSpellData['en'][470141] = {name = "Cosmetic - Reading Scroll, Upper Only", additional_info = nil}
 MultiLanguageSpellData['en'][470142] = {name = "Mug", additional_info = nil}
@@ -3124,11 +3102,14 @@ MultiLanguageSpellData['en'][470296] = {name = "Double Strike", additional_info 
 MultiLanguageSpellData['en'][470298] = {name = "Unstable Prototype", additional_info = nil}
 MultiLanguageSpellData['en'][470301] = {name = "Fiery Wave", additional_info = "Unlimited range\nInstant\n[q]A fiery heat wave formed by Flarendo's spontaneous combustion engine. inflicts 5031052 Fire damage to players it contacts."}
 MultiLanguageSpellData['en'][470302] = {name = "Black Blood Bombardment", additional_info = nil}
+MultiLanguageSpellData['en'][470303] = {name = "Swarm Spin", additional_info = "Melee Range\n{Instant} {10 sec cooldown}\n[q]Inflicts 3 Physical damage to an enemy."}
+MultiLanguageSpellData['en'][470308] = {name = "Forced Evulsion", additional_info = "30 yd range\n{2 sec cast} {14 sec cooldown}\n[q]While maintained on a friendly target, grants them life leech whenever they damage an enemy.\n(500ms cooldown)"}
 MultiLanguageSpellData['en'][470309] = {name = "Serving Food", additional_info = nil}
 MultiLanguageSpellData['en'][470311] = {name = "Serving Food", additional_info = nil}
 MultiLanguageSpellData['en'][470313] = {name = "Flea Dip Barrel Controler", additional_info = nil}
 MultiLanguageSpellData['en'][470315] = {name = "Flea Dip Barrel Usage Counter", additional_info = nil}
 MultiLanguageSpellData['en'][470316] = {name = "Double Strike", additional_info = "Melee Range\nInstant\n[q]Strikes the enemy twice inflicting Physical damage."}
+MultiLanguageSpellData['en'][470321] = {name = "Forced Evulsion", additional_info = "Instant\n[q]Damage dealt siphons 0 health."}
 MultiLanguageSpellData['en'][470322] = {name = "Unsolved Amethyst Runelock", additional_info = "Instant\n[q]Play an arcane puzzle."}
 MultiLanguageSpellData['en'][470323] = {name = "Back Off", additional_info = "10 yd range\nInstant\n[q]Knocks the target back and stuns them for until canceled."}
 MultiLanguageSpellData['en'][470324] = {name = "Unstable Prototype", additional_info = "Unlimited range\nInstant\n[q]Sly tosses untested explosives at players that inflict 4 Fire damage every 1 sec to their holder and nearby players.\n\n The Unstable Prototype may have unexpected effects when combined with Goblin Weaponry."}
@@ -3136,7 +3117,10 @@ MultiLanguageSpellData['en'][470329] = {name = "Unstable Prototype", additional_
 MultiLanguageSpellData['en'][470330] = {name = "Explosive Demise", additional_info = "3 sec cast\n[q]Upon dying, casts Explosive Demise , inflicting 1463 Fire damage to all players."}
 MultiLanguageSpellData['en'][470333] = {name = "Back Off", additional_info = "100 yd range\nInstant\n[q]Knocks the target back and stuns them for until canceled."}
 MultiLanguageSpellData['en'][470334] = {name = "Petting", additional_info = "3 yd range\n4 sec cast\n[q]Pet a cute creature!"}
+MultiLanguageSpellData['en'][470335] = {name = "Frenzied Burrow", additional_info = "5 - 60 yd range\n{1.5 sec cast} {8 sec cooldown}\n[q]Burrows rapidly towards an enemy, dealing 10 damage and knocking back enemies 5 yards from impact."}
+MultiLanguageSpellData['en'][470336] = {name = "Frenzied Burrow", additional_info = "100 yd range\nInstant\n[q]Burrows rapidly towards an enemy, dealing 10 damage and knocking back enemies 5 yards from impact."}
 MultiLanguageSpellData['en'][470337] = {name = "No Escape", additional_info = "30 yd range\n1 sec cast\n[q]Throws a net that immobilizes an enemy for up to 4 sec."}
+MultiLanguageSpellData['en'][470339] = {name = "Frenzied Burrow", additional_info = "Instant\n[q]Burrows rapidly towards an enemy, dealing 10 damage and knocking back enemies 5 yards from impact."}
 MultiLanguageSpellData['en'][470340] = {name = "Exit", additional_info = "Instant\n[q]Exit Puzzle"}
 MultiLanguageSpellData['en'][470341] = {name = "Exit", additional_info = "Instant\n[q]Exit the puzzle."}
 MultiLanguageSpellData['en'][470344] = {name = "Supercharged", additional_info = nil}
@@ -3145,12 +3129,16 @@ MultiLanguageSpellData['en'][470350] = {name = "Dominated", additional_info = "I
 MultiLanguageSpellData['en'][470351] = {name = "Crashing Surge", additional_info = "30 yd range\n2 sec cast\n[q]Knocks all enemies within 30 yards of the caster high into the air."}
 MultiLanguageSpellData['en'][470354] = {name = "Distress Signal", additional_info = "5 sec cast\n[q]The caster begins to send out a"}
 MultiLanguageSpellData['en'][470356] = {name = "Cremate", additional_info = "200 yd range\nInstant\n[q]Ambassador Flamelash channels his full fury into his target, inflicting 7022 Fire damage to players within 10 yards every 1 sec, split between enemies struck.\n\n If Ambassador Flamelash's target is killed, his energy is refilled.\n\n Ambassador Flamelash's target is afflicted with Flamelash ."}
+MultiLanguageSpellData['en'][470357] = {name = "Frenzied Burrow", additional_info = "100 yd range\nInstant\n[q]Burrows rapidly towards an enemy, dealing 10 damage and knocking back enemies 5 yards from impact."}
 MultiLanguageSpellData['en'][470363] = {name = "Cremation", additional_info = "200 yd range\nInstant\n[q]Inflicts 59 Fire damage every 3 sec for 45 sec."}
 MultiLanguageSpellData['en'][470365] = {name = "Gallywix", additional_info = nil}
+MultiLanguageSpellData['en'][470366] = {name = "Spawn Hatchlings", additional_info = "{2 sec cast} {15 sec cooldown}\n[q]Summons several Sureki Drones."}
+MultiLanguageSpellData['en'][470368] = {name = "Spawn Hatchlings", additional_info = "100 yd range\nInstant\n[q]Summons several Sureki Drones."}
 MultiLanguageSpellData['en'][470371] = {name = "Water Sphere", additional_info = "100 yd range\nInstant\n[q]Projects a bubble that entraps targets it touches, stunning them and inflicting 7 Nature damage every 5.2 sec. for 6 sec."}
 MultiLanguageSpellData['en'][470372] = {name = "Water Sphere", additional_info = "60 yd range\n3 sec cast\n[q]Projects a bubble that entraps targets it touches, stunning them and inflicting 7 Nature damage every 5.2 sec. for 6 sec."}
-MultiLanguageSpellData['en'][470373] = {name = "Smelly", additional_info = "Instant\n[q]The caster's overpowering stench inflicts 10 Nature damage to players within 60 yards every 2 sec."}
-MultiLanguageSpellData['en'][470376] = {name = "Smelly", additional_info = "Instant\n[q]The caster's overpowering stench inflicts 10 Nature damage to players within 60 yards every 2 sec."}
+MultiLanguageSpellData['en'][470373] = {name = "Smelly", additional_info = "Instant\n[q]The caster's overpowering stench inflicts 838509 Nature damage to players within 60 yards every 2 sec."}
+MultiLanguageSpellData['en'][470374] = {name = "Spawn Hatchlings", additional_info = "Unlimited range\nInstant\n[q]Summons several Sureki Drones."}
+MultiLanguageSpellData['en'][470376] = {name = "Smelly", additional_info = "Instant\n[q]The caster's overpowering stench inflicts 838509 Nature damage to players within 60 yards every 2 sec."}
 MultiLanguageSpellData['en'][470377] = {name = "Worgen Female Mask", additional_info = "1 sec cast\n[q]Place this mask over your face or helmet."}
 MultiLanguageSpellData['en'][470378] = {name = "<DNT> Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][470379] = {name = "Slime Bolt", additional_info = "30 yd range\n1.5 sec cast\n[q]Reduces the movement speed of the target by 30% for 8 sec.\n Inflicts Nature damage to an enemy."}
@@ -3158,18 +3146,21 @@ MultiLanguageSpellData['en'][470380] = {name = "<DNT> Cancel Arrow to Destinatio
 MultiLanguageSpellData['en'][470381] = {name = "Crystalline Ground", additional_info = nil}
 MultiLanguageSpellData['en'][470382] = {name = "Trash Piledrive", additional_info = "Instant\n[q]The hobgoblin leaps towards a player and smashes downwards with extreme force, sending players within 10 yards of the impact careening and inflicting 30 Physical damage.\n\n The force of this impact awakens Bombshell Crabs buried in the trash heap."}
 MultiLanguageSpellData['en'][470383] = {name = "Talon Shred", additional_info = "15 yd range\n{2 sec cast} {3 sec cooldown}\n[q]The caster sinks its claws into its target, inflicting Physical damage. The wound continues to bleed, inflicting Physical damage every 1 sec for 12 sec."}
-MultiLanguageSpellData['en'][470384] = {name = "Trash Piledrive", additional_info = "Unlimited range\n2.5 sec cast\n[q]The hobgoblin leaps towards a player and smashes downwards with extreme force, sending players within 10 yards of the impact careening and inflicting 30 Physical damage.\n\n The force of this impact awakens Bombshell Crabs buried in the trash heap."}
-MultiLanguageSpellData['en'][470385] = {name = "Trash Piledrive", additional_info = "Instant\n[q]The hobgoblin leaps towards a player and smashes downwards with extreme force, sending players within 10 yards of the impact careening and inflicting 30 Physical damage.\n\n The force of this impact awakens Bombshell Crabs buried in the trash heap."}
+MultiLanguageSpellData['en'][470384] = {name = "Trash Piledrive", additional_info = "Unlimited range\n2.5 sec cast\n[q]The hobgoblin leaps towards a player and smashes downwards with extreme force, sending players within 10 yards of the impact careening and inflicting 2515526 Physical damage.\n\n The force of this impact awakens Bombshell Crabs buried in the trash heap."}
+MultiLanguageSpellData['en'][470385] = {name = "Trash Piledrive", additional_info = "Instant\n[q]The hobgoblin leaps towards a player and smashes downwards with extreme force, sending players within 10 yards of the impact careening and inflicting 2515526 Physical damage.\n\n The force of this impact awakens Bombshell Crabs buried in the trash heap."}
 MultiLanguageSpellData['en'][470386] = {name = "<DNT> Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][470387] = {name = "Bountiful", additional_info = nil}
+MultiLanguageSpellData['en'][470388] = {name = "Skewering Spikes", additional_info = "30 yd range\n{3 sec cast} {12 sec cooldown}\n[q]The caster erupts the earth in front of it, inflicting 25 Physical damage to players hit and knocking them upwards."}
 MultiLanguageSpellData['en'][470389] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][470390] = {name = "Unstable Prototype", additional_info = nil}
 MultiLanguageSpellData['en'][470392] = {name = "Slime Bolt", additional_info = "30 yd range\n1.5 sec cast\n[q]Reduces the movement speed of the target by 30% for 8 sec.\n Inflicts Nature damage to an enemy."}
-MultiLanguageSpellData['en'][470393] = {name = "Trash Piledrive", additional_info = "Unlimited range\nInstant\n[q]The hobgoblin leaps towards a player and smashes downwards with extreme force, sending players within 10 yards of the impact careening and inflicting 30 Physical damage.\n\n The force of this impact awakens Bombshell Crabs buried in the trash heap."}
+MultiLanguageSpellData['en'][470393] = {name = "Trash Piledrive", additional_info = "Unlimited range\nInstant\n[q]The hobgoblin leaps towards a player and smashes downwards with extreme force, sending players within 10 yards of the impact careening and inflicting 2515526 Physical damage.\n\n The force of this impact awakens Bombshell Crabs buried in the trash heap."}
 MultiLanguageSpellData['en'][470395] = {name = "REUSE", additional_info = "45 yd range\nInstant\n[q]Your heroism spurs you to greatness, increasing your Haste by 65% for 10 sec."}
 MultiLanguageSpellData['en'][470397] = {name = "Alarming Screech", additional_info = nil}
 MultiLanguageSpellData['en'][470398] = {name = "Supercharge", additional_info = "Instant\n[q][ Subtlety : Symbols of Death / Outlaw : Roll the Bones /\n\nAssassination\nShiv ] supercharges 1 combo point.\n\n Damaging finishing moves consume a supercharged combo point to function as if they spent 2 additional combo point."}
+MultiLanguageSpellData['en'][470399] = {name = "Skewering Spikes", additional_info = "100 yd range\nInstant\n[q]"}
 MultiLanguageSpellData['en'][470400] = {name = "Unstable Prototype", additional_info = nil}
+MultiLanguageSpellData['en'][470402] = {name = "Skewering Spikes", additional_info = "100 yd range\nInstant\n[q]Knocks all enemies within 3 yards of the impact back.\n Inflicts 25 Physical damage to enemies within 3 yards of the impact."}
 MultiLanguageSpellData['en'][470403] = {name = "Slime Bolt", additional_info = "30 yd range\n1.5 sec cast\n[q]Reduces the movement speed of the target by 30% for 8 sec.\n Inflicts Shadow damage to an enemy."}
 MultiLanguageSpellData['en'][470404] = {name = "Hitting buttons!", additional_info = nil}
 MultiLanguageSpellData['en'][470405] = {name = "Blowout!", additional_info = "Unlimited range\nInstant\n[q]Haywire Amplifiers blow out from the force of the sound, knocking players within 10 yards up into the air, inflicting 503105 Physical damage and granting them immunity to Blaring Drop ."}
@@ -3191,7 +3182,7 @@ MultiLanguageSpellData['en'][470434] = {name = "Final Mile Delivery", additional
 MultiLanguageSpellData['en'][470444] = {name = "Gallywix", additional_info = nil}
 MultiLanguageSpellData['en'][470445] = {name = "Trash Collection", additional_info = "Unlimited range\nInstant\n[q]The caster begins to collect all trash within 60 yards, pulling players towards their location."}
 MultiLanguageSpellData['en'][470446] = {name = "Trash Collection", additional_info = "1 sec cast\n[q]The caster begins to collect all trash within 60 yards, pulling players towards their location."}
-MultiLanguageSpellData['en'][470447] = {name = "Compact Trash", additional_info = "10 yd range\n1.5 sec cast\n[q]The caster slams a trash-compacting cube into the nearby ground, inflicting 300 Physical damage to players within 8 yards of the impact."}
+MultiLanguageSpellData['en'][470447] = {name = "Compact Trash", additional_info = "10 yd range\n1.5 sec cast\n[q]The caster slams a trash-compacting cube into the nearby ground, inflicting 25155261 Physical damage to players within 8 yards of the impact."}
 MultiLanguageSpellData['en'][470450] = {name = "<DNT> Launch Player Choice Menu", additional_info = nil}
 MultiLanguageSpellData['en'][470464] = {name = "Disassemble Armor", additional_info = "Unlimited range\nInstant\n[q]The caster dismantles part of their target's armor and adds it to their own, reducing their Physical damage taken by 5% and increasing their target's Physical damage taken by 5%."}
 MultiLanguageSpellData['en'][470465] = {name = "Disassemble Armor", additional_info = "20 yd range\n1.5 sec cast\n[q]The caster dismantles part of their target's armor and adds it to their own, reducing their Physical damage taken by 5% and increasing their target's Physical damage taken by 5%."}
@@ -3210,12 +3201,13 @@ MultiLanguageSpellData['en'][470491] = {name = "Unrelenting Storms", additional_
 MultiLanguageSpellData['en'][470492] = {name = "Grenade Juggler", additional_info = "Instant\n[q]Wildfire Bomb deals 5% increased damage and has a 25% chance to reset the cooldown of Explosive Shot.\n\n Explosive Shot reduces the cooldown of Wildfire Bomb by 2 sec."}
 MultiLanguageSpellData['en'][470493] = {name = "Fury of the Firelands", additional_info = "200 yd range\nInstant\n[q]A Burning Spirit sacrifices itself to infuse Ambassador Flamelash with fiery vigor, causing him to inflict 644 Fire damage to all players every 2 sec until all stacks are consumed."}
 MultiLanguageSpellData['en'][470494] = {name = "Reading", additional_info = "Instant\n[q]Read the paystub."}
-MultiLanguageSpellData['en'][470498] = {name = "Dispense Bomblets", additional_info = "1.5 sec cast\n[q]The caster spins wildly for 6 sec, dispensing a salvo of bomblets that inflict 25 Fire damage to players within 4 yards of impact."}
-MultiLanguageSpellData['en'][470499] = {name = "Dispense Bomblets", additional_info = "Instant\n[q]The caster spins wildly for 6 sec, dispensing a salvo of bomblets that inflict 25 Fire damage to players within 4 yards of impact."}
-MultiLanguageSpellData['en'][470502] = {name = "Dispense Bomblets", additional_info = "Unlimited range\nInstant\n[q]The caster spins wildly for 6 sec, dispensing a salvo of bomblets that inflict 25 Fire damage to players within 4 yards of impact."}
+MultiLanguageSpellData['en'][470498] = {name = "Dispense Bomblets", additional_info = "1.5 sec cast\n[q]The caster spins wildly for 6 sec, dispensing a salvo of bomblets that inflict 2096272 Fire damage to players within 4 yards of impact."}
+MultiLanguageSpellData['en'][470499] = {name = "Dispense Bomblets", additional_info = "Instant\n[q]The caster spins wildly for 6 sec, dispensing a salvo of bomblets that inflict 2096272 Fire damage to players within 4 yards of impact."}
+MultiLanguageSpellData['en'][470502] = {name = "Dispense Bomblets", additional_info = "Unlimited range\nInstant\n[q]The caster spins wildly for 6 sec, dispensing a salvo of bomblets that inflict 2096272 Fire damage to players within 4 yards of impact."}
 MultiLanguageSpellData['en'][470503] = {name = "Queensbane", additional_info = "Unlimited range\nInstant\n[q]A dark venom fit for royalty. Inflicts 863447 Shadow damage every 1 sec for 9 sec . This effect stacks.\n\n Upon expiration, the void infection bursts inflicting 1726895 Shadow damage."}
-MultiLanguageSpellData['en'][470504] = {name = "Dispense Bomblets", additional_info = "Unlimited range\nInstant\n[q]The caster spins wildly for 6 sec, dispensing a salvo of bomblets that inflict 25 Fire damage to players within 4 yards of impact."}
+MultiLanguageSpellData['en'][470504] = {name = "Dispense Bomblets", additional_info = "Unlimited range\nInstant\n[q]The caster spins wildly for 6 sec, dispensing a salvo of bomblets that inflict 2096272 Fire damage to players within 4 yards of impact."}
 MultiLanguageSpellData['en'][470514] = {name = "Leave the Storm", additional_info = "3 sec cast\n[q]Retreat and wait for the storm to clear.\n\n Usable during a Seafury Tempest on Siren Isle."}
+MultiLanguageSpellData['en'][470515] = {name = "Web Grip", additional_info = "10 - 60 yd range\n{2 sec cast} {18 sec cooldown}\n[q]Pulls up to two enemies towards the caster using projectile webbing."}
 MultiLanguageSpellData['en'][470516] = {name = "Seafury Tempest", additional_info = nil}
 MultiLanguageSpellData['en'][470517] = {name = "Teleport", additional_info = "1 sec cast\n[q]Retreat and await for the storm to pass."}
 MultiLanguageSpellData['en'][470518] = {name = "Backtrace the Signal", additional_info = "120 yd range\nInstant\n[q]Using the X-Plo-Dar 64k to reveal the bomb's source."}
@@ -3242,18 +3234,28 @@ MultiLanguageSpellData['en'][470549] = {name = "Wildwood Roots", additional_info
 MultiLanguageSpellData['en'][470556] = {name = "Petrifying Cloud", additional_info = nil}
 MultiLanguageSpellData['en'][470558] = {name = "Summon Crawler Mine", additional_info = nil}
 MultiLanguageSpellData['en'][470559] = {name = "Summon Crawler Mine", additional_info = nil}
+MultiLanguageSpellData['en'][470561] = {name = "Web Grip", additional_info = nil}
 MultiLanguageSpellData['en'][470562] = {name = "Renewing Surge", additional_info = "[q]The cooldown of Swiftmend is reduced by up to 40%, based on the current health of the target. Cooldown is reduced more when cast on a lower health target."}
+MultiLanguageSpellData['en'][470563] = {name = "Web Grip", additional_info = "100 yd range\nInstant\n[q]Hit by projectile webbing, slowed by 50% and will be shortly pulled towards the caster."}
 MultiLanguageSpellData['en'][470564] = {name = "Command Mine", additional_info = "100 yd range\n{Instant} {6 sec cooldown}\n[q]Command a crawler mine to attack your current target."}
+MultiLanguageSpellData['en'][470565] = {name = "Web Grip", additional_info = nil}
+MultiLanguageSpellData['en'][470567] = {name = "Web Grip", additional_info = nil}
+MultiLanguageSpellData['en'][470569] = {name = "Web Grip", additional_info = nil}
+MultiLanguageSpellData['en'][470576] = {name = "Web Grip", additional_info = nil}
 MultiLanguageSpellData['en'][470580] = {name = "Summon Zoatroids", additional_info = nil}
 MultiLanguageSpellData['en'][470581] = {name = "Forest's Flow", additional_info = "[q]Consuming Clearcasting now causes your Regrowth to also cast Nourish onto a nearby injured ally at 60% effectiveness, preferring those with your heal over time effects.\n\n Nourish :\nHeals a friendly target for (446% of Spell power). Receives 300% bonus from Mastery: Harmony ."}
 MultiLanguageSpellData['en'][470582] = {name = "Swamp Bolt", additional_info = "30 yd range\n2 sec cast\n[q]Inflicts Nature damage to an enemy."}
+MultiLanguageSpellData['en'][470583] = {name = "Web Grip", additional_info = nil}
+MultiLanguageSpellData['en'][470584] = {name = "Web Grip", additional_info = nil}
+MultiLanguageSpellData['en'][470585] = {name = "Web Grip", additional_info = nil}
+MultiLanguageSpellData['en'][470586] = {name = "Web Grip", additional_info = "100 yd range\nInstant\n[q]Stunned for 2 sec."}
 MultiLanguageSpellData['en'][470587] = {name = "Abyssal Surge", additional_info = "30 yd range\n2 sec cast\n[q]The caster throws dark water at the target, inflicting Shadow damage."}
 MultiLanguageSpellData['en'][470588] = {name = "Curse of the Depths", additional_info = "30 yd range\n2 sec cast\n[q]The caster places a curse on the target, reducing their haste by 5% and reducing their movement speed by 30% for 12 sec."}
 MultiLanguageSpellData['en'][470590] = {name = "Bubble Surge", additional_info = "100 yd range\nInstant\n[q]Sends forth watery bubbles in several directions. Coming into contact with the bubble causes it to explode, inflicting 0 Frost damage and knocking players back."}
 MultiLanguageSpellData['en'][470591] = {name = "Shadow Bolt", additional_info = "30 yd range\n2.5 sec cast\n[q]Fires a bolt of shadow at an enemy, inflicting 243973 Shadow damage."}
 MultiLanguageSpellData['en'][470592] = {name = "Blessing of Dusk", additional_info = "30 yd range\n{3 sec cast} {22 sec cooldown}\n[q]Increases the casters auto attack damage by 20% and reduces damage taken by 20% for 20 sec."}
 MultiLanguageSpellData['en'][470593] = {name = "Inflict Death", additional_info = "30 yd range\n{3 sec cast} {3 sec cooldown}\n[q]The caster channels death into the target, inflicting Shadow damage every 1 sec for 5 sec and reducing their movement speed by 50% ."}
-MultiLanguageSpellData['en'][470596] = {name = "Frostfire Burst", additional_info = "100 yd range\nInstant\n[q]Frost\nCasting Comet Storm causes your next Ice Lance to explode in a Frostfire Burst, dealing (265.6% of Spell power) Frostfire damage to nearby enemies. Damage reduced beyond 8 targets.\n\n Frostfire Burst, grants Brain Freeze.\n\nFire\nCasting Meteor causes your next Fire Blast to explode in a Frostfire Burst, dealing (265.6% of Spell power) Frostfire damage to nearby enemies. Damage reduced beyond 8 targets.\n\n Frostfire Burst, reduces the cooldown of Phoenix Flames by 5 sec."}
+MultiLanguageSpellData['en'][470596] = {name = "Frostfire Burst", additional_info = "100 yd range\nInstant\n[q]Frost\nCasting Comet Storm causes your next Ice Lance to explode in a Frostfire Burst, dealing (265.6% of Spell power) Frostfire damage to nearby enemies. Damage reduced beyond 8 targets.\n\n Frostfire Burst grants Brain Freeze.\n\nFire\nCasting Meteor causes your next Fire Blast to explode in a Frostfire Burst, dealing (265.6% of Spell power) Frostfire damage to nearby enemies. Damage reduced beyond 8 targets.\n\n Frostfire Burst reduces the cooldown of Phoenix Flames by 5 sec."}
 MultiLanguageSpellData['en'][470598] = {name = "Beseech the Firelord", additional_info = "Instant\n[q]When Dagran falls below 70% health, he beseeches the Firelord for aid, gaining a shield that absorbs 38722016 damage.\n\n An Avatar of Ragnaros joins the battle inflicting 3872202 Fire damage to all players. The damage is decreased farther from the impact point."}
 MultiLanguageSpellData['en'][470599] = {name = "Shadow Word: Necrosis", additional_info = "{1 sec cast} {5 min cooldown}\n[q]Afflicts a player with a shadowy contagion reducing healing taken by 90%. Standing within 5 yards of another player for 1 sec causes the contagion to pass to the nearby player and unleashes a Necrotic Blast ."}
 MultiLanguageSpellData['en'][470600] = {name = "Shadow Word: Necrosis", additional_info = "200 yd range\nInstant\n[q]Afflicts a player with a shadowy contagion reducing healing taken by 90%. Standing within 5 yards of another player for 1 sec causes the contagion to pass to the nearby player and unleashes a Necrotic Blast ."}
@@ -3333,7 +3335,7 @@ MultiLanguageSpellData['en'][470677] = {name = "The First Dance", additional_inf
 MultiLanguageSpellData['en'][470678] = {name = "The First Dance", additional_info = "Instant\n[q]Remaining out of combat for 6 sec increases the duration of your next Shadow Dance by 4 sec."}
 MultiLanguageSpellData['en'][470679] = {name = "Deathmark", additional_info = "1 Energy\nInstant\n[q]Activating [ Outlaw : Adrenaline Rush /\n\nAssassination\nDeathmark ] flips a Fatebound Coin and causes it to land on its edge, counting as both Heads and Tails."}
 MultiLanguageSpellData['en'][470680] = {name = "Adrenaline Rush", additional_info = "1 Energy\nInstant\n[q]Activating [ Outlaw : Adrenaline Rush /\n\nAssassination\nDeathmark ] flips a Fatebound Coin and causes it to land on its edge, counting as both Heads and Tails."}
-MultiLanguageSpellData['en'][470684] = {name = "Greasefire Blast", additional_info = "40 yd range\n2.5 sec cast\n[q]Blasts their target with a globule of flaming grease, inflicting 15 Fire damage plus an additional 10 Fire damage every 1 sec and reducing their movement speed by 50% for 4 sec."}
+MultiLanguageSpellData['en'][470684] = {name = "Greasefire Blast", additional_info = "40 yd range\n2.5 sec cast\n[q]Blasts their target with a globule of flaming grease, inflicting 1257763 Fire damage plus an additional 838509 Fire damage every 1 sec and reducing their movement speed by 50% for 4 sec."}
 MultiLanguageSpellData['en'][470686] = {name = "Mech-a-Zoomies", additional_info = "2 sec cast\n[q]The caster zooms towards a nearby player every 3 sec for 8 sec, applying Mech-a-Zoomies to players the caster passes through."}
 MultiLanguageSpellData['en'][470687] = {name = "Mine Blast", additional_info = "Instant\n[q]Crawls toward a player and detonates when nearby, inflicting 58 Fire damage on impact and 4 Fire damage every 2 sec for 4 sec."}
 MultiLanguageSpellData['en'][470688] = {name = "Ping", additional_info = nil}
@@ -3347,9 +3349,11 @@ MultiLanguageSpellData['en'][470701] = {name = "Shrieking Decibels", additional_
 MultiLanguageSpellData['en'][470702] = {name = "Catching", additional_info = "100 yd range\nInstant\n[q]Grab that raccoon!"}
 MultiLanguageSpellData['en'][470703] = {name = "Explode", additional_info = nil}
 MultiLanguageSpellData['en'][470705] = {name = "Knockdown", additional_info = "8 yd range\n{Instant} {10 sec cooldown}\n[q]Knocks an enemy down, stunning it for 1 sec"}
-MultiLanguageSpellData['en'][470706] = {name = "Sparkbolt", additional_info = "50 yd range\n2.5 sec cast\n[q]Inflicts 25 Nature damage."}
+MultiLanguageSpellData['en'][470706] = {name = "Sparkbolt", additional_info = "50 yd range\n2.5 sec cast\n[q]Inflicts 2096272 Nature damage."}
+MultiLanguageSpellData['en'][470708] = {name = "Web Grip", additional_info = nil}
 MultiLanguageSpellData['en'][470709] = {name = "<DNT> Arrow to Destination - T07", additional_info = nil}
 MultiLanguageSpellData['en'][470710] = {name = "<DNT> Cancel Arrow to Destination - T07", additional_info = nil}
+MultiLanguageSpellData['en'][470711] = {name = "Web Grip", additional_info = nil}
 MultiLanguageSpellData['en'][470712] = {name = "Electric Scales", additional_info = "2 sec cast\n[q]The caster charges its scales with electricity for 6 sec, inflicting Nature damage to attackers."}
 MultiLanguageSpellData['en'][470714] = {name = "Snuffling Weekly Tracker<DNT>", additional_info = nil}
 MultiLanguageSpellData['en'][470715] = {name = "Electric Scales", additional_info = "30 yd range\nInstant\n[q]The caster charges its scales with electricity for 6 sec, inflicting Nature damage to attackers."}
@@ -3357,8 +3361,11 @@ MultiLanguageSpellData['en'][470716] = {name = "<DNT> Arrow to Destination", add
 MultiLanguageSpellData['en'][470717] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][470718] = {name = "Kill Credit: Fruit Jumped On (ERW)", additional_info = nil}
 MultiLanguageSpellData['en'][470719] = {name = "Bite", additional_info = "Melee Range\n1.5 sec cast\n[q]Inflicts Physical damage to an enemy."}
+MultiLanguageSpellData['en'][470723] = {name = "Tail Swipe", additional_info = "10 yd range\n{Instant} {16 sec cooldown}\n[q]"}
+MultiLanguageSpellData['en'][470724] = {name = "Tail Swipe", additional_info = "10 yd range\nInstant\n[q]Knocks all enemies within 15 yards of the impact back.\n Inflicts 15 Physical damage to enemies within 15 yards of the impact."}
 MultiLanguageSpellData['en'][470725] = {name = "11.1 Delves - Goblin - NPCs Interact - Ad on Aura - Dance and Applaud (Hufton)", additional_info = nil}
 MultiLanguageSpellData['en'][470726] = {name = "Gleaming Shatter", additional_info = "2 sec cast\n[q]Disenchant a Gleaming Shard, reducing it to 3 Storm Dust. The quality of Storm Dust produced is limited by the quality of Gleaming Shard used, and is otherwise based on a combination of your Enchanting skill and Uncommon Utilitarian specialization.\nProfession:\nEnchanting (1)"}
+MultiLanguageSpellData['en'][470727] = {name = "Jump Smash", additional_info = "15 yd range\n{1 sec cast} {20 sec cooldown}\n[q]Smashes into the ground, creating a wave that deals 10 Physical damage and knocks enemies back."}
 MultiLanguageSpellData['en'][470728] = {name = "Studying", additional_info = "1.5 sec cast\n[q]Study to increase your Khaz Algar Alchemy Knowledge by 10."}
 MultiLanguageSpellData['en'][470729] = {name = "Studying", additional_info = "1.5 sec cast\n[q]Study to increase your Khaz Algar Blacksmithing Knowledge by 10."}
 MultiLanguageSpellData['en'][470730] = {name = "Studying", additional_info = "1.5 sec cast\n[q]Study to increase your Khaz Algar Enchanting Knowledge by 10."}
@@ -3377,6 +3384,7 @@ MultiLanguageSpellData['en'][470747] = {name = "Void Shot", additional_info = ni
 MultiLanguageSpellData['en'][470750] = {name = "Void Shot", additional_info = nil}
 MultiLanguageSpellData['en'][470751] = {name = "<DNT> Knockback", additional_info = nil}
 MultiLanguageSpellData['en'][470752] = {name = "<DNT> Bounce Nearby", additional_info = nil}
+MultiLanguageSpellData['en'][470756] = {name = "Jump Smash", additional_info = "100 yd range\n1 sec cast\n[q]Smashes into the ground, creating a wave that deals 10 Physical damage and knocks enemies back."}
 MultiLanguageSpellData['en'][470757] = {name = "11.0 Renown - Delves - Purchaseable Rare Delve Key - Discount 1", additional_info = nil}
 MultiLanguageSpellData['en'][470758] = {name = "11.0 Renown - Delves - Purchaseable Rare Delve Key - Discount 3", additional_info = nil}
 MultiLanguageSpellData['en'][470759] = {name = "11.0 Renown - Delves - Purchaseable Rare Delve Key - Discount 2", additional_info = nil}
@@ -3415,9 +3423,19 @@ MultiLanguageSpellData['en'][470821] = {name = "Pluck Out Singing Citrine", addi
 MultiLanguageSpellData['en'][470823] = {name = "Smoke Bomb", additional_info = nil}
 MultiLanguageSpellData['en'][470824] = {name = "Smoke Bomb", additional_info = nil}
 MultiLanguageSpellData['en'][470825] = {name = "Summon Shredder", additional_info = nil}
+MultiLanguageSpellData['en'][470826] = {name = "Poison Breath", additional_info = "20 yd range\n{2 sec cast} {14 sec cooldown}\n[q]Breathes poison in the direction of a player within 30 yards, inflicting 10 Nature damage to players in a cone in front of the caster every 1 sec for 2 sec."}
+MultiLanguageSpellData['en'][470827] = {name = "Poison Breath", additional_info = "Instant\n[q]Breathes poison in the direction of a player within 30 yards, inflicting 10 Nature damage to players in a cone in front of the caster every 1 sec for 2 sec."}
+MultiLanguageSpellData['en'][470828] = {name = "Evacuation Protocol", additional_info = nil}
+MultiLanguageSpellData['en'][470830] = {name = "Evacuation Protocol", additional_info = nil}
+MultiLanguageSpellData['en'][470831] = {name = "Noxious Ooze", additional_info = "{3 sec cast} {30 sec cooldown}\n[q]Causes the caster to leak puddles of Noxious Ooze that deal Nature damage while enemies stand in them."}
 MultiLanguageSpellData['en'][470833] = {name = "Tracking Quest", additional_info = nil}
+MultiLanguageSpellData['en'][470839] = {name = "Noxious Ooze", additional_info = nil}
 MultiLanguageSpellData['en'][470840] = {name = "Input Sequence", additional_info = "Instant\n[q]Input a sequence of numbers."}
 MultiLanguageSpellData['en'][470841] = {name = "Input Sequence", additional_info = "Instant\n[q]Input a sequence of numbers."}
+MultiLanguageSpellData['en'][470843] = {name = "Noxious Ooze", additional_info = "Unlimited range\nInstant\n[q]Deals 5 Nature damage every 1 sec while standing in Noxious Ooze."}
+MultiLanguageSpellData['en'][470845] = {name = "Slobber Volley", additional_info = "{3 sec cast} {16 sec cooldown}\n[q]Spits haphazardly around the caster's location and dealing Nature damage to all enemies hit."}
+MultiLanguageSpellData['en'][470846] = {name = "Slobber Volley", additional_info = nil}
+MultiLanguageSpellData['en'][470847] = {name = "Slobber Volley", additional_info = "Unlimited range\nInstant\n[q]Inflicts 10 Nature damage to enemies within 4 yards of the impact."}
 MultiLanguageSpellData['en'][470848] = {name = "Enter Mole Machine", additional_info = nil}
 MultiLanguageSpellData['en'][470850] = {name = "Enter Mole Machine", additional_info = nil}
 MultiLanguageSpellData['en'][470852] = {name = "Kill Credit: Crystal Aligned (ERW)", additional_info = nil}
@@ -3433,8 +3451,8 @@ MultiLanguageSpellData['en'][470865] = {name = "Runecaster's Eye", additional_in
 MultiLanguageSpellData['en'][470869] = {name = "AI Say To Player (Override Points) to Demon Creator", additional_info = nil}
 MultiLanguageSpellData['en'][470871] = {name = "Summon", additional_info = nil}
 MultiLanguageSpellData['en'][470872] = {name = "Summon", additional_info = nil}
-MultiLanguageSpellData['en'][470873] = {name = "Festering Uppercut", additional_info = "20 yd range\n1 sec cast\n[q]The caster uppercuts their target with dirty fist, inflicting 60 Physical damage and applying Flea Infestation ."}
-MultiLanguageSpellData['en'][470877] = {name = "Flea Infestation", additional_info = "Unlimited range\nInstant\n[q]The caster uppercuts their target with dirty fist, inflicting 60 Physical damage and applying Flea Infestation ."}
+MultiLanguageSpellData['en'][470873] = {name = "Festering Uppercut", additional_info = "20 yd range\n1 sec cast\n[q]The caster uppercuts their target with dirty fist, inflicting 5031052 Physical damage and applying Flea Infestation ."}
+MultiLanguageSpellData['en'][470877] = {name = "Flea Infestation", additional_info = "Unlimited range\nInstant\n[q]The caster uppercuts their target with dirty fist, inflicting 5031052 Physical damage and applying Flea Infestation ."}
 MultiLanguageSpellData['en'][470878] = {name = "Dramatic Entrance", additional_info = nil}
 MultiLanguageSpellData['en'][470881] = {name = "Engine: The Pozzik Standard", additional_info = "[q]When the Mirage Raceway was destroyed during the cataclysm, Pozzik needed a new place to refine his craft.\n\n The Undermine proved fertile grounds for an automatic revolution.\n\n Average top speed.\n Average acceleration."}
 MultiLanguageSpellData['en'][470882] = {name = "Engine: GNZ Airmaster 9000", additional_info = "[q]That block's got cylinders with 80 millimeter pores and puts out 35,000 horses.\n\n Increases top speed.\n Decreases acceleration."}
@@ -3443,6 +3461,7 @@ MultiLanguageSpellData['en'][470884] = {name = "Open the Garage", additional_inf
 MultiLanguageSpellData['en'][470886] = {name = "<DNT> Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][470887] = {name = "<DNT> Cancel Arrow to Destination AND Cancel Aura", additional_info = nil}
 MultiLanguageSpellData['en'][470888] = {name = "Handling Extra Fireworks", additional_info = nil}
+MultiLanguageSpellData['en'][470890] = {name = "Exit Vision", additional_info = nil}
 MultiLanguageSpellData['en'][470891] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][470892] = {name = "Runecaster's Eye", additional_info = nil}
 MultiLanguageSpellData['en'][470894] = {name = "<DNT> Area Trigger Visibility - O2a", additional_info = nil}
@@ -3455,7 +3474,7 @@ MultiLanguageSpellData['en'][470901] = {name = "<DNT> Cancel All Auras and Chann
 MultiLanguageSpellData['en'][470902] = {name = "Phantom Strikes", additional_info = "10 yd range\n1.5 sec cast\n[q]The caster unleashes a series of strikes at the target, inflicting Physical damage with each hit and causing the target to bleed for additional Physical damage every 1.5 sec for 9 sec. This effect stacks."}
 MultiLanguageSpellData['en'][470903] = {name = "Phantom Strikes", additional_info = "10 yd range\nInstant\n[q]The caster unleashes a series of strikes at the target, inflicting Physical damage with each hit and causing the target to bleed for additional Physical damage every 1.5 sec for 9 sec. This effect stacks."}
 MultiLanguageSpellData['en'][470905] = {name = "Fireworks Dispensed", additional_info = nil}
-MultiLanguageSpellData['en'][470906] = {name = "Trash Piledrive", additional_info = "Unlimited range\nInstant\n[q]The hobgoblin leaps towards a player and smashes downwards with extreme force, sending players within 10 yards of the impact careening and inflicting 30 Physical damage.\n\n The force of this impact awakens Bombshell Crabs buried in the trash heap."}
+MultiLanguageSpellData['en'][470906] = {name = "Trash Piledrive", additional_info = "Unlimited range\nInstant\n[q]The hobgoblin leaps towards a player and smashes downwards with extreme force, sending players within 10 yards of the impact careening and inflicting 2515526 Physical damage.\n\n The force of this impact awakens Bombshell Crabs buried in the trash heap."}
 MultiLanguageSpellData['en'][470907] = {name = "Fireworks", additional_info = "60 yd range\nInstant\n[q]Launch a Celebratory Firework."}
 MultiLanguageSpellData['en'][470910] = {name = "Gaol Break", additional_info = "12 yd range\n2.5 sec cast\n[q]The goon erupts when killed, inflicting 2263973 Nature damage to players within the gaol and knocking them back.\n\n Colliding with a wall of Earthshaker Gaol causes it to be destroyed."}
 MultiLanguageSpellData['en'][470911] = {name = "Notarizing Document", additional_info = nil}
@@ -3489,7 +3508,7 @@ MultiLanguageSpellData['en'][470945] = {name = "Aspect of the Hydra", additional
 MultiLanguageSpellData['en'][470946] = {name = "Hand Over Gallagio Deed", additional_info = nil}
 MultiLanguageSpellData['en'][470948] = {name = "Intangible Presence", additional_info = "2 sec cast\n[q]The caster shifts into the shadows for 10 sec, decreasing Physical damage taken by 30% and increasing Arcane damage done by 15%."}
 MultiLanguageSpellData['en'][470950] = {name = "<DNT> Daily Credit", additional_info = nil}
-MultiLanguageSpellData['en'][470953] = {name = "Explosive Shell", additional_info = "Instant\n[q]The caster's makeshift home explodes on death, inflicting Fire damage to players within $1234 yards."}
+MultiLanguageSpellData['en'][470953] = {name = "Explosive Shell", additional_info = "Instant\n[q]The caster's makeshift home explodes on death, inflicting Fire damage to players within 3 yards."}
 MultiLanguageSpellData['en'][470954] = {name = "Explosive Shell", additional_info = "Instant\n[q]The caster's makeshift home explodes on death, inflicting Fire damage to players within 3 yards."}
 MultiLanguageSpellData['en'][470955] = {name = "<DNT> Daily Credit", additional_info = nil}
 MultiLanguageSpellData['en'][470959] = {name = "<DNT> Daily Credit", additional_info = nil}
@@ -3510,7 +3529,7 @@ MultiLanguageSpellData['en'][470976] = {name = "Lightning Ward", additional_info
 MultiLanguageSpellData['en'][470977] = {name = "Rocket Barrage", additional_info = "Instant"}
 MultiLanguageSpellData['en'][470978] = {name = "Rocket Barrage", additional_info = "100 yd range\nInstant\n[q]Boom"}
 MultiLanguageSpellData['en'][470979] = {name = "Overcharged Electro-Blast", additional_info = "300 yd range\n2 sec cast\n[q]Inflicts 5.2 Nature damage to all players. Affected players take 40% increased damage from Overcharged Electro-Blast and Electro-Discharge ."}
-MultiLanguageSpellData['en'][470981] = {name = "Corrosive Flatulence", additional_info = "100 yd range\n2.8 sec cast\n[q]The caster expels noxious gas, inflicting 75 Nature damage to players and an additional 2 Nature damage every 2 sec for 30 sec."}
+MultiLanguageSpellData['en'][470981] = {name = "Corrosive Flatulence", additional_info = "100 yd range\n2.8 sec cast\n[q]The caster expels noxious gas, inflicting 6288815 Nature damage to players and an additional 167702 Nature damage every 2 sec for 30 sec."}
 MultiLanguageSpellData['en'][470982] = {name = "<DNT> Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][470983] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][470984] = {name = "Transit Authority Privateer", additional_info = nil}
@@ -3518,12 +3537,16 @@ MultiLanguageSpellData['en'][470985] = {name = "Vehicle Hit Ping", additional_in
 MultiLanguageSpellData['en'][470986] = {name = "Dumpster Diving", additional_info = "5 yd range\n3 sec cast\n[q]Sift through the dumpster to look for valuables."}
 MultiLanguageSpellData['en'][470988] = {name = "Dumpster Diving", additional_info = nil}
 MultiLanguageSpellData['en'][470989] = {name = "Dumpster Diving", additional_info = nil}
+MultiLanguageSpellData['en'][470990] = {name = "Orb Operation Manual", additional_info = "[q]In Horrific Visions, enable Sanity Restoration Orb use. The orb revives all nearby allies and restores their Sanity.\n\n Up to 3 Sanity Restoration Orbs can be summoned in a single Vision, and orbs summoned by any player in the party count against this limit."}
 MultiLanguageSpellData['en'][470991] = {name = "<DNT> Cancel Vehicle Mod Aura", additional_info = nil}
 MultiLanguageSpellData['en'][470992] = {name = "<DNT> Cancel Arrow to Destination AND Cancel Aura", additional_info = nil}
+MultiLanguageSpellData['en'][470994] = {name = "Stormwind", additional_info = nil}
+MultiLanguageSpellData['en'][470995] = {name = "Orgrimmar", additional_info = nil}
 MultiLanguageSpellData['en'][470999] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][471000] = {name = "Abandon", additional_info = nil}
 MultiLanguageSpellData['en'][471023] = {name = "Stormfury Cloud", additional_info = nil}
 MultiLanguageSpellData['en'][471031] = {name = "Stormfury Cloud", additional_info = nil}
+MultiLanguageSpellData['en'][471034] = {name = "Cleanse Mementos", additional_info = nil}
 MultiLanguageSpellData['en'][471039] = {name = "Ride to Court", additional_info = nil}
 MultiLanguageSpellData['en'][471049] = {name = "Notarizing Deed", additional_info = nil}
 MultiLanguageSpellData['en'][471055] = {name = "Head Honcho", additional_info = nil}
@@ -3533,9 +3556,9 @@ MultiLanguageSpellData['en'][471059] = {name = "Geargrinder's Remote", additiona
 MultiLanguageSpellData['en'][471063] = {name = "Best-in-Slots", additional_info = "Approximately 3 procs per minute\n[q]Your spells and abilities have a chance to grant you [ 157 * (1 - 10 / 100)] to [ 157 * (1 + 10 / 100)] of a random secondary stat for 15 sec."}
 MultiLanguageSpellData['en'][471066] = {name = "Traditional Ascendance", additional_info = "1.5 sec cast\n[q]Your Ascendance transformations embody their traditional forms."}
 MultiLanguageSpellData['en'][471067] = {name = "Glyph of Traditional Ascendance", additional_info = "[q]Your Ascendance transformations embody their traditional forms."}
-MultiLanguageSpellData['en'][471070] = {name = "Boom Dogs", additional_info = "45 yd range\n2.5 sec cast\n[q]The caster hurls Boom Dogs at random players, inflicting 6 Nature damage every 1 sec for 10 sec. On expiration, the target erupts with Gastric Destruction ."}
+MultiLanguageSpellData['en'][471070] = {name = "Boom Dogs", additional_info = "45 yd range\n2.5 sec cast\n[q]The caster hurls Boom Dogs at random players, inflicting 503105 Nature damage every 1 sec for 10 sec. On expiration, the target erupts with Gastric Destruction ."}
 MultiLanguageSpellData['en'][471071] = {name = "Boom Dogs", additional_info = nil}
-MultiLanguageSpellData['en'][471072] = {name = "Boom Dogs", additional_info = "Unlimited range\nInstant\n[q]The caster hurls Boom Dogs at random players, inflicting 6 Nature damage every 1 sec for 10 sec. On expiration, the target erupts with Gastric Destruction ."}
+MultiLanguageSpellData['en'][471072] = {name = "Boom Dogs", additional_info = "Unlimited range\nInstant\n[q]The caster hurls Boom Dogs at random players, inflicting 503105 Nature damage every 1 sec for 10 sec. On expiration, the target erupts with Gastric Destruction ."}
 MultiLanguageSpellData['en'][471074] = {name = "Air Dash", additional_info = nil}
 MultiLanguageSpellData['en'][471076] = {name = "Chomp", additional_info = "10 yd range\n1.5 sec cast\n[q]Inflicts Physical damage to an enemy.\n Inflicts Physical damage to an enemy every 1 sec for 9 sec."}
 MultiLanguageSpellData['en'][471078] = {name = "Recall", additional_info = "100 yd range\nInstant\n[q]You may reactivate [ Dream Flight : Dream Flight and ][ Breath of Eons / Deep Breath ] within 3 sec after landing to travel back in time to your takeoff location."}
@@ -3592,9 +3615,9 @@ MultiLanguageSpellData['en'][471169] = {name = "Unlocking", additional_info = "1
 MultiLanguageSpellData['en'][471170] = {name = "Unlocking", additional_info = nil}
 MultiLanguageSpellData['en'][471173] = {name = "Bargus Collapse Cave", additional_info = nil}
 MultiLanguageSpellData['en'][471174] = {name = "Nether Phantom", additional_info = "Unlimited range\nInstant\n[q]A spectral image of Ky'veza that mirrors some of her attacks."}
-MultiLanguageSpellData['en'][471175] = {name = "Compact Trash", additional_info = "Unlimited range\nInstant\n[q]The caster slams a trash-compacting cube into the nearby ground, inflicting 300 Physical damage to players within 8 yards of the impact."}
+MultiLanguageSpellData['en'][471175] = {name = "Compact Trash", additional_info = "Unlimited range\nInstant\n[q]The caster slams a trash-compacting cube into the nearby ground, inflicting 25155261 Physical damage to players within 8 yards of the impact."}
 MultiLanguageSpellData['en'][471176] = {name = "Digestive Spittle", additional_info = "30 yd range\n2 sec cast\n[q]Soak an enemy in digestive juices, inflicting Nature damage and increasing all damage taken by 10% for 8 sec."}
-MultiLanguageSpellData['en'][471177] = {name = "Compact Trash", additional_info = "Unlimited range\nInstant\n[q]The caster slams a trash-compacting cube into the nearby ground, inflicting 300 Physical damage to players within 8 yards of the impact."}
+MultiLanguageSpellData['en'][471177] = {name = "Compact Trash", additional_info = "Unlimited range\nInstant\n[q]The caster slams a trash-compacting cube into the nearby ground, inflicting 25155261 Physical damage to players within 8 yards of the impact."}
 MultiLanguageSpellData['en'][471178] = {name = "Caustic Bolt", additional_info = "Unlimited range\nInstant\n[q]Load a Caustic Bolt into a ballista.\n\nCaustic Bolt :\nFire a caustic bolt, inflicting 3454209 Nature damage to enemies within 10 yards, and leaves a caustic pool that inflicts 287549 Nature damage every 1 sec for 12 sec ."}
 MultiLanguageSpellData['en'][471179] = {name = "Frostshard Bolt", additional_info = "Unlimited range\nInstant\n[q]Load a Frostshard Bolt into a ballista.\n\nFrostshard Bolt :\nFire a frost shrapnel bolt, inflicting 2875492 Frost damage to enemies within 8 yards. This damage is increased by 400% against flying creatures."}
 MultiLanguageSpellData['en'][471180] = {name = "Barbed Bolt", additional_info = "Unlimited range\nInstant\n[q]Load a Barbed Bolt into a ballista.\n\nBarbed Bolt :\nFire a barbed bolt, inflicting 2302526 Physical damage to enemies within 6 yards and an additional 287816 Physical damage every 2 sec for 20 sec. This effect stacks."}
@@ -3642,8 +3665,12 @@ MultiLanguageSpellData['en'][471259] = {name = "Malfunctioning", additional_info
 MultiLanguageSpellData['en'][471260] = {name = "Harvest Scrap", additional_info = nil}
 MultiLanguageSpellData['en'][471265] = {name = "Knocked Down", additional_info = nil}
 MultiLanguageSpellData['en'][471266] = {name = "Shadow Word: Anxiety", additional_info = "Unlimited range\nInstant\n[q]High Interrogator Gerstahn conjures orbs of pure dread that begin to cast Dread Crescendo.\n\nDread Crescendo :\nManifested Dread inflicts Shadow damage equal to its remaining health to all players, split evenly."}
+MultiLanguageSpellData['en'][471267] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][471268] = {name = "Shadow Word: Anxiety", additional_info = "Unlimited range\nInstant\n[q]High Interrogator Gerstahn conjures orbs of pure dread that begin to cast Dread Crescendo.\n\nDread Crescendo :\nManifested Dread inflicts Shadow damage equal to its remaining health to all players, split evenly."}
 MultiLanguageSpellData['en'][471269] = {name = "Knocked Down", additional_info = nil}
+MultiLanguageSpellData['en'][471270] = {name = "Teleport", additional_info = nil}
+MultiLanguageSpellData['en'][471271] = {name = "Portal", additional_info = "Instant\n[q]Teleports the caster to the Cathedral District."}
+MultiLanguageSpellData['en'][471272] = {name = "Detonation", additional_info = "Unlimited range\nInstant\n[q]Deals 0 Fire damage to all nearby players."}
 MultiLanguageSpellData['en'][471274] = {name = "Heckle", additional_info = nil}
 MultiLanguageSpellData['en'][471276] = {name = "Heckle", additional_info = nil}
 MultiLanguageSpellData['en'][471282] = {name = "Stormtouched Claw", additional_info = "Melee Range\n2 sec cast\n[q]Powerful lightning infused claws inflict Nature damage to an enemy."}
@@ -3656,11 +3683,16 @@ MultiLanguageSpellData['en'][471293] = {name = "Hulking Flail", additional_info 
 MultiLanguageSpellData['en'][471294] = {name = "Meteor", additional_info = nil}
 MultiLanguageSpellData['en'][471296] = {name = "Meteor", additional_info = nil}
 MultiLanguageSpellData['en'][471299] = {name = "Blisterizer Mk. II", additional_info = nil}
-MultiLanguageSpellData['en'][471303] = {name = "Shocking Blast", additional_info = "30 yd range\n2 sec cast\n[q]The caster strikes the target with a lightning bolt that inflicts 35 Nature damage then jumps to nearby players. Affected targets suffer 12 Nature damage every 2 sec for 8 sec."}
+MultiLanguageSpellData['en'][471303] = {name = "Shocking Blast", additional_info = "30 yd range\n2 sec cast\n[q]The caster strikes the target with a lightning bolt that inflicts 2934781 Nature damage then jumps to nearby players. Affected targets suffer 1006210 Nature damage every 2 sec for 8 sec."}
 MultiLanguageSpellData['en'][471308] = {name = "Blisterizer Mk. II", additional_info = "300 yd range\nInstant\n[q]Touching a trap causes it snap shut, launching the player into the air and inflicting 670807 Fire damage every 0.5 sec. The pain of the fiery blister additionally increases movement speed by 60% for 6 sec."}
 MultiLanguageSpellData['en'][471312] = {name = "Grabbing desperately", additional_info = nil}
 MultiLanguageSpellData['en'][471316] = {name = "Vile Contamination", additional_info = "Approximately 5 procs per minute\n[q]Your attacks have a very high chance to contaminate your target with industrial runoff up to 25 times, dealing ( 4 * 1 ) Shadow damage per stack every 3 sec until their demise."}
+MultiLanguageSpellData['en'][471317] = {name = "Steeled Mind 1", additional_info = "[q]Reduces sanity drain in Horrific Visions by 10%."}
+MultiLanguageSpellData['en'][471318] = {name = "Steeled Mind 2", additional_info = "[q]Reduces sanity drain in Horrific Visions by 20%."}
 MultiLanguageSpellData['en'][471319] = {name = "Abyssal Conduit", additional_info = nil}
+MultiLanguageSpellData['en'][471320] = {name = "Steeled Mind 3", additional_info = "[q]Reduces sanity drain in Horrific Visions by 30%."}
+MultiLanguageSpellData['en'][471321] = {name = "Steeled Mind 4", additional_info = "[q]Reduces sanity drain in Horrific Visions by 40%."}
+MultiLanguageSpellData['en'][471322] = {name = "Steeled Mind 5", additional_info = "[q]Reduces sanity drain in Horrific Visions by 50%."}
 MultiLanguageSpellData['en'][471323] = {name = "Lightning Ball", additional_info = "60 yd range\n3 sec cast\n[q]The caster projects a ball of lightning which inflicts 9 Nature damage."}
 MultiLanguageSpellData['en'][471324] = {name = "<DNT> Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][471325] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
@@ -3735,7 +3767,7 @@ MultiLanguageSpellData['en'][471433] = {name = "Retrieving", additional_info = n
 MultiLanguageSpellData['en'][471434] = {name = "Seek and Destroy", additional_info = nil}
 MultiLanguageSpellData['en'][471437] = {name = "Seek and Destroy", additional_info = nil}
 MultiLanguageSpellData['en'][471438] = {name = "Retrieving", additional_info = nil}
-MultiLanguageSpellData['en'][471442] = {name = "Rabid Charge", additional_info = "45 yd range\nInstant\n[q]Jumps towards a random player's location, inflicting 17 Physical damage on impact to players within 7 yards and an additional 3 Physical damage every 1 sec for 10 sec."}
+MultiLanguageSpellData['en'][471442] = {name = "Rabid Charge", additional_info = "45 yd range\nInstant\n[q]Jumps towards a random player's location, inflicting 1402758 Physical damage on impact to players within 7 yards and an additional 247746 Physical damage every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][471443] = {name = "Heart of Azeroth", additional_info = nil}
 MultiLanguageSpellData['en'][471444] = {name = "Ride Vehicle Hardcoded", additional_info = nil}
 MultiLanguageSpellData['en'][471445] = {name = "Expulsion Beam", additional_info = "Unlimited range\nInstant\n[q]The Chamber Expeller teleports away and then fires a cosmic beam towards a player, inflicting 2439731 Shadow damage to players hit and knocking them away."}
@@ -3748,10 +3780,10 @@ MultiLanguageSpellData['en'][471459] = {name = "Boltwrench Broiler", additional_
 MultiLanguageSpellData['en'][471460] = {name = "Boltwrench Broiler", additional_info = "{1 sec cast} {10 sec cooldown}\n[q]Inflicts Fire damage to enemies every 1 sec for 5 sec."}
 MultiLanguageSpellData['en'][471463] = {name = "Boltwrench Broiler", additional_info = "30 yd range\nInstant\n[q]Inflicts 16 Fire damage to enemies every .5 sec for 5 sec."}
 MultiLanguageSpellData['en'][471465] = {name = "Deploy Mole Machine", additional_info = "{Instant} {45 sec cooldown}\n[q]Deploys a soldier to attack the players. Players standing on the Mole Machine's arrival point suffer 20 Physical damage and are knocked back."}
-MultiLanguageSpellData['en'][471467] = {name = "Ankle Snapper", additional_info = "45 yd range\n2.5 sec cast\n[q]The caster hurls traps at random locations. If players run over a trap it inflicts 7 Physical damage every 1 sec and roots them for 4 sec."}
+MultiLanguageSpellData['en'][471467] = {name = "Ankle Snapper", additional_info = "45 yd range\n2.5 sec cast\n[q]The caster hurls traps at random locations. If players run over a trap it inflicts 586956 Physical damage every 1 sec and roots them for 4 sec."}
 MultiLanguageSpellData['en'][471468] = {name = "Eject!", additional_info = "Instant\n[q]Leave the G-99 Breakneck."}
 MultiLanguageSpellData['en'][471470] = {name = "Ankle Snapper", additional_info = nil}
-MultiLanguageSpellData['en'][471477] = {name = "Ankle Snapper", additional_info = "300 yd range\nInstant\n[q]The caster hurls traps at random locations. If players run over a trap it inflicts 7 Physical damage every 1 sec and roots them for 4 sec."}
+MultiLanguageSpellData['en'][471477] = {name = "Ankle Snapper", additional_info = "300 yd range\nInstant\n[q]The caster hurls traps at random locations. If players run over a trap it inflicts 586956 Physical damage every 1 sec and roots them for 4 sec."}
 MultiLanguageSpellData['en'][471479] = {name = "Sparklesnap", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][471483] = {name = "Thunder Clap", additional_info = "60 yd range\n3 sec cast\n[q]The caster calls a bolt of lightning to strike a nearby enemy which inflicts 13 Nature damage and Stuns them for 5 sec."}
 MultiLanguageSpellData['en'][471486] = {name = "Boltwrench Broiler", additional_info = "2 sec cast\n[q]Unleash a torrent of flames in a cone in front of you."}
@@ -3761,6 +3793,7 @@ MultiLanguageSpellData['en'][471491] = {name = "Ursol's Warding", additional_inf
 MultiLanguageSpellData['en'][471492] = {name = "Ursol's Warding", additional_info = "[q]Gain magical damage reduction equal to 5% of your damage reduction from armor."}
 MultiLanguageSpellData['en'][471493] = {name = "<DNT> Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][471494] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
+MultiLanguageSpellData['en'][471497] = {name = "Singular Sanitation Expertise", additional_info = "[q]In Horrific Visions, Reduced damage taken and increased damage done by 5%.\n\n Each ally within 100 yds reduces this amount by 1%."}
 MultiLanguageSpellData['en'][471499] = {name = "Mark Dispel", additional_info = nil}
 MultiLanguageSpellData['en'][471500] = {name = "Protective Plating", additional_info = "Instant\n[q]Durable plating protects the Geargrinder, allowing it to slowly gain energy.\n\n When all applications of Protective Plating are removed, the Geargrinder enters a Mechanical Breakdown ."}
 MultiLanguageSpellData['en'][471504] = {name = "Lasting Words", additional_info = "[q]Holy Word: Serenity applies 12 sec of Renew to its target.\n\n Holy Word: Sanctify applies 6 sec of Renew to allies it heals."}
@@ -3815,7 +3848,7 @@ MultiLanguageSpellData['en'][471597] = {name = "Jetpack Joyride", additional_inf
 MultiLanguageSpellData['en'][471599] = {name = "Cosmetic - Oily Smoke with Sparks (Chest)", additional_info = nil}
 MultiLanguageSpellData['en'][471601] = {name = "<DNT> Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][471602] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
-MultiLanguageSpellData['en'][471603] = {name = "Scatterblast Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix cannons his current target inflicting 20950056 Physical damage. This attack cannot be dodged or parried.\n\n This additionally blasts players in a frontal cone inflicting 46083683 Fire damage and increases Scatterblast Canisters damage taken by 100% for until canceled . This damage splits evenly among effected players.\n\n All targets become afflicted with Mechengineer's Canisters .\n\n If this fails to hit at least 3 targets all players suffer the full effect."}
+MultiLanguageSpellData['en'][471603] = {name = "Scatterblast Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix cannons his current target inflicting 20950056 Physical damage. This attack cannot be dodged or parried.\n\n This additionally blasts players in a frontal cone inflicting 46083683 Fire damage and increases Scatterblast Canisters damage taken by 100% for . This damage splits evenly among effected players.\n\n All targets become afflicted with Mechengineer's Canisters .\n\n If this fails to hit at least 3 targets all players suffer the full effect."}
 MultiLanguageSpellData['en'][471605] = {name = "Ironforge Express", additional_info = nil}
 MultiLanguageSpellData['en'][471608] = {name = "Teleport to Ironforge", additional_info = nil}
 MultiLanguageSpellData['en'][471617] = {name = "Arena Boss Death Tracker", additional_info = nil}
@@ -4053,17 +4086,17 @@ MultiLanguageSpellData['en'][471922] = {name = "Mr. DELVER", additional_info = "
 MultiLanguageSpellData['en'][471923] = {name = "Personal-Use Sapper", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][471924] = {name = "Steamwheedle Flunkie", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][471925] = {name = "Bilgewater Junkhauler", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
-MultiLanguageSpellData['en'][471926] = {name = "Cannon Blast", additional_info = "5 - 200 yd range\n{Instant} {3 sec cooldown}\n[q]Jump into the cannon and fire yourself at the target location, dealing 7 Fire damage to enemies within 10 yards upon landing and stunning them for 4 sec."}
+MultiLanguageSpellData['en'][471926] = {name = "Cannon Blast", additional_info = "5 - 200 yd range\n{Instant} {3 sec cooldown}\n[q]Jump into the cannon and fire yourself at the target location, dealing 243973 Fire damage to enemies within 10 yards upon landing and stunning them for 4 sec."}
 MultiLanguageSpellData['en'][471927] = {name = "Withering Flames", additional_info = "100 yd range\nInstant\n[q]Reel Assistants wrap flames around a player, inflicting 1844719 Fire damage every 1 sec for 30 sec. This inferno reduces the targets maximum health by 5% every time the flames inflict damage.\n\n Upon removal, Traveling Flames erupt outwards from the player."}
 MultiLanguageSpellData['en'][471928] = {name = "Leaking Pipe", additional_info = nil}
 MultiLanguageSpellData['en'][471929] = {name = "Back Off", additional_info = "100 yd range\nInstant\n[q]Knocks the target back and stuns them for 1.5 sec."}
-MultiLanguageSpellData['en'][471930] = {name = "Withering Flames", additional_info = "100 yd range\n1 sec cast\n[q]Reel Assistants wrap flames around a player, inflicting 14 Fire damage every 1 sec for . This inferno reduces the targets maximum health by 2 % every time the flames inflict damage.\n\n Upon removal, Traveling Flames erupt outwards from the player."}
+MultiLanguageSpellData['en'][471930] = {name = "Withering Flames", additional_info = "100 yd range\n1 sec cast\n[q]Reel Assistants wrap flames around a player, inflicting 1844719 Fire damage every 1 sec for 30 sec. This inferno reduces the targets maximum health by 5% every time the flames inflict damage.\n\n Upon removal, Traveling Flames erupt outwards from the player."}
 MultiLanguageSpellData['en'][471931] = {name = "Dissolving Spray", additional_info = "100 yd range\nInstant\n[q]A toxic spray."}
 MultiLanguageSpellData['en'][471932] = {name = "Varmint Mark II", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][471933] = {name = "Fun-Size Flarendo", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][471934] = {name = "Lime Roboclucker", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][471935] = {name = "Gorillion", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
-MultiLanguageSpellData['en'][471936] = {name = "Boar Charge", additional_info = nil}
+MultiLanguageSpellData['en'][471936] = {name = "Boar Charge", additional_info = "100 yd range\nInstant\n[q]While in combat, every 30 sec your next Kill Command summons the aid of a Beast.\n\n Wyvern\n A Wyvern descends from the skies, letting out a battle cry that increases the damage of you and your pets by 10% for 15 sec.\n\n Boar\n A Boar charges through your target 3 times, dealing (400% of Attack power) physical damage to the primary target and (160% of Attack power) damage to up to 8 nearby enemies.\n\n Bear\n A Bear leaps into the fray, rending the flesh of your enemies, dealing (600% of Attack power) damage over 10 sec to up to 8 nearby enemies."}
 MultiLanguageSpellData['en'][471937] = {name = "Ultrahopper EX", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][471938] = {name = "Boar Charge", additional_info = "100 yd range\nInstant\n[q]While in combat, every 30 sec your next Kill Command summons the aid of a Beast.\n\n Wyvern\n A Wyvern descends from the skies, letting out a battle cry that increases the damage of you and your pets by 10% for 15 sec.\n\n Boar\n A Boar charges through your target 3 times, dealing (400% of Attack power) physical damage to the primary target and (160% of Attack power) damage to up to 8 nearby enemies.\n\n Bear\n A Bear leaps into the fray, rending the flesh of your enemies, dealing (600% of Attack power) damage over 10 sec to up to 8 nearby enemies."}
 MultiLanguageSpellData['en'][471939] = {name = "Crimson Mechasaur", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
@@ -4124,7 +4157,7 @@ MultiLanguageSpellData['en'][472035] = {name = "Detonate", additional_info = "10
 MultiLanguageSpellData['en'][472036] = {name = "Mobilize Mechadrones", additional_info = "Instant\n[q]Big M.O.M.M.A. summons 4 Darkfuse Mechadrones to assist them in combat."}
 MultiLanguageSpellData['en'][472037] = {name = "RP Scene 0019 Convo", additional_info = nil}
 MultiLanguageSpellData['en'][472038] = {name = "Mobilize Mechadrones", additional_info = "Instant\n[q]Big M.O.M.M.A. summons 4 Darkfuse Mechadrones to assist them in combat."}
-MultiLanguageSpellData['en'][472041] = {name = "Tear Gas", additional_info = "100 yd range\n1 sec cast\n[q]Launches a tear gas canister at an enemy location, inflicts 15 Nature damage every 1 sec. and disorients targets caught within for 2 sec. Also leaves behind a pool of tear gas for 10 sec. Inflicting 20 Nature damage every 1 sec to players inside."}
+MultiLanguageSpellData['en'][472041] = {name = "Tear Gas", additional_info = "100 yd range\n1 sec cast\n[q]Launches a tear gas canister at an enemy location, inflicts 2210679 Nature damage every 1 sec. and disorients targets caught within for 2 sec. Also leaves behind a pool of tear gas for 10 sec. Inflicting 2947572 Nature damage every 1 sec to players inside."}
 MultiLanguageSpellData['en'][472047] = {name = "Focused Strike", additional_info = "8 yd range\n{1.5 sec cast} {3 sec cooldown}\n[q]Inflicts Physical damage to an enemy."}
 MultiLanguageSpellData['en'][472051] = {name = "Runecaster's Eye", additional_info = "Instant\n[q]Gain the ability to find and unveil hidden treasures around Siren Isle. The wind will passively guide you towards them."}
 MultiLanguageSpellData['en'][472056] = {name = "Hot Mess", additional_info = nil}
@@ -4180,13 +4213,20 @@ MultiLanguageSpellData['en'][472148] = {name = "The Claw", additional_info = nil
 MultiLanguageSpellData['en'][472149] = {name = "Return to Chromie", additional_info = "Unlimited range\nInstant\n[q]Teleport the caster closer to Chromie."}
 MultiLanguageSpellData['en'][472150] = {name = "The Claw", additional_info = nil}
 MultiLanguageSpellData['en'][472151] = {name = "The Claw", additional_info = "Unlimited range\nChanneled (20 sec cast)\n[q]The lifterbot latches onto a player, grabbing them and traveling upwards for 20 sec."}
+MultiLanguageSpellData['en'][472152] = {name = "Singular Sanitation Expertise 3", additional_info = "[q]In Horrific Visions, Reduced damage taken and increased damage done by 15%.\n\n Each ally within 100 yds reduces this amount by 3%."}
 MultiLanguageSpellData['en'][472153] = {name = "The Big Shot", additional_info = "50 yd range\n6 sec cast\n[q]The caster fires a massive shot, inflicting Physical damage to their target."}
 MultiLanguageSpellData['en'][472154] = {name = "Disengage", additional_info = "100 yd range\n1 sec cast\n[q]Leaps backward 25 yards."}
 MultiLanguageSpellData['en'][472156] = {name = "Ritual of Summoning", additional_info = "Unlimited range\nInstant\n[q]Summoning the target player."}
 MultiLanguageSpellData['en'][472158] = {name = "Call Web Terror", additional_info = "Unlimited range\n{1 sec cast} {1 sec cooldown}\n[q]Calls forth a Web Terror to assist the caster."}
 MultiLanguageSpellData['en'][472159] = {name = "Call Web Terror", additional_info = "100 yd range\n{1 sec cast} {1 sec cooldown}\n[q]Calls forth a Web Terror to assist the caster."}
+MultiLanguageSpellData['en'][472160] = {name = "Singular Sanitation Expertise 2", additional_info = "[q]In Horrific Visions, Reduced damage taken and increased damage done by 10%.\n\n Each ally within 100 yds reduces this amount by 2%."}
+MultiLanguageSpellData['en'][472161] = {name = "Emergency Cranial Defibrillation", additional_info = "[q]In Horrific Visions, upon losing all Sanity or health, you revive instantly and gain 500 Sanity and full health. Occurs once per Vision."}
+MultiLanguageSpellData['en'][472162] = {name = "Expansive Mind", additional_info = "[q]In Horrific Visions, increases all party members' maximum Sanity by 50."}
+MultiLanguageSpellData['en'][472163] = {name = "Expansive Mind 2", additional_info = "[q]In Horrific Visions, increases all party members' maximum Sanity by 100."}
+MultiLanguageSpellData['en'][472164] = {name = "Expansive Mind 3", additional_info = "[q]In Horrific Visions, increases all party members' maximum Sanity by 150."}
 MultiLanguageSpellData['en'][472165] = {name = "Mind Pulse", additional_info = "100 yd range\n5 sec cast\n[q]Inflicts 5 Nature damage to enemies within 100 yards."}
-MultiLanguageSpellData['en'][472167] = {name = "Scrapfield 9001 Overload", additional_info = "Instant"}
+MultiLanguageSpellData['en'][472166] = {name = "Synchronized Mind Stabilizer", additional_info = "[q]In Horrific Visions, the first revival you perform on an ally costs no Sanity."}
+MultiLanguageSpellData['en'][472167] = {name = "Scrapfield 9001 Overload", additional_info = "{Instant} {30 sec cooldown}\n[q]Falling below 60 % health surrounds you with a protective vortex of junk, reducing damage taken by 50% for 15 sec or until 3251 damage is prevented. This effect may only occur every 30 sec.\n\n After 20 sec without activating while in combat, the Scrapfield overloads to energize you with 113 Haste for 12 sec.\nValid only for tank specializations."}
 MultiLanguageSpellData['en'][472169] = {name = "The Big Shot", additional_info = "50 yd range\n{6 sec cast} {18 sec cooldown}\n[q]The caster fires a massive shot, inflicting Physical damage to their target."}
 MultiLanguageSpellData['en'][472170] = {name = "Scrapfield 9001 Recharging", additional_info = nil}
 MultiLanguageSpellData['en'][472171] = {name = "Scrapfield 9001 Recharging", additional_info = "Instant\n[q]Falling below 60 % health surrounds you with a protective vortex of junk, reducing damage taken by 50% for 15 sec or until 3251 damage is prevented. This effect may only occur every 30 sec.\n\n After 20 sec without activating while in combat, the Scrapfield overloads to energize you with 113 Haste for 12 sec.\nValid only for tank specializations."}
@@ -4231,13 +4271,24 @@ MultiLanguageSpellData['en'][472232] = {name = "Cursed Pirate Skull", additional
 MultiLanguageSpellData['en'][472233] = {name = "Blastburn Roarcannon", additional_info = "Unlimited range\n3.5 sec cast\n[q]Flarendo tracks a target while charging, then locks in place and prepares to fire. Once ready, it fires a beam over the next 3 sec. The beam inflicts 66606435 Fire damage every 0.1 sec to players on contact, obliterating them."}
 MultiLanguageSpellData['en'][472235] = {name = "Dark Prayer", additional_info = nil}
 MultiLanguageSpellData['en'][472237] = {name = "Blastburn Roarcannon", additional_info = "300 yd range\nChanneled (3 sec cast)\n[q]Flarendo tracks a target while charging, then locks in place and prepares to fire. Once ready, it fires a beam over the next 3 sec. The beam inflicts 66606435 Fire damage every 0.1 sec to players on contact, obliterating them."}
+MultiLanguageSpellData['en'][472238] = {name = "Clear Sight", additional_info = "Instant\n[q]In Horrific Visions, able to see and loot treasure chests in Tainted areas."}
 MultiLanguageSpellData['en'][472239] = {name = "Cannon Blast", additional_info = nil}
+MultiLanguageSpellData['en'][472241] = {name = "Elite Extermination", additional_info = "Instant\n[q]In Horrific Visions, defeating an Elite enemy restores 50 Sanity."}
 MultiLanguageSpellData['en'][472242] = {name = "Blastburn Roarcannon", additional_info = "Unlimited range\nInstant\n[q]Flarendo tracks a target while charging, then locks in place and prepares to fire. Once ready, it fires a beam over the next 3 sec. The beam inflicts 66606435 Fire damage every 0.1 sec to players on contact, obliterating them."}
 MultiLanguageSpellData['en'][472244] = {name = "Cannon Blast", additional_info = "100 yd range\nInstant\n[q]A fiery blast from the cannon inflicts 0 Fire damage to targets struck."}
+MultiLanguageSpellData['en'][472246] = {name = "Clear Sight", additional_info = "Instant\n[q]In Horrific Visions, able to see and loot treasure chests in Tainted and Corrupted areas."}
+MultiLanguageSpellData['en'][472248] = {name = "Clear Sight", additional_info = "Instant\n[q]In Horrific Visions, able to see and loot treasure chests in Tainted, Corrupted, and Lost areas."}
 MultiLanguageSpellData['en'][472251] = {name = "Pollutants Quarantined", additional_info = nil}
 MultiLanguageSpellData['en'][472252] = {name = "Pollutants Quarantined", additional_info = nil}
 MultiLanguageSpellData['en'][472253] = {name = "Lunar Launcher", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"It's always a festival when you are on the Lunar Launcher.\"\nVendor:\nLunar Festival"}
 MultiLanguageSpellData['en'][472260] = {name = "Goldmine's Repaired Fire Totem", additional_info = "60 yd range\n{0.5 sec cast} {6 sec cooldown}\n[q]Throw Goldmine's Repaired Fire Totem at an enemy to summon Magmatooth."}
+MultiLanguageSpellData['en'][472261] = {name = "Experimental Destabilization", additional_info = "Instant\n[q]In Horrific Visions, while above 50% Sanity, your damage done is increased by 4%.\n\n While below 50% Sanity, your damage taken is reduced by 4%."}
+MultiLanguageSpellData['en'][472263] = {name = "Experimental Destabilization", additional_info = "Instant\n[q]In Horrific Visions, while above 50% Sanity, your damage done is increased by 8%.\n\n While below 50% Sanity, your damage taken is reduced by 8%."}
+MultiLanguageSpellData['en'][472264] = {name = "Experimental Destabilization", additional_info = "Instant\n[q]In Horrific Visions, while above 50% Sanity, your damage done is increased by 12%.\n\n While below 50% Sanity, your damage taken is reduced by 12%."}
+MultiLanguageSpellData['en'][472265] = {name = "Vision Hunter", additional_info = "Instant\n[q]In Horrific Visions, killing an enemy grants 1% increased movement speed and haste for 60 sec. Stacks up to 5."}
+MultiLanguageSpellData['en'][472266] = {name = "Vision Hunter", additional_info = "Instant\n[q]In Horrific Visions, killing an enemy grants 2% increased movement speed and haste for 60 sec. Stacks up to 5."}
+MultiLanguageSpellData['en'][472267] = {name = "Vision Hunter", additional_info = "Instant\n[q]In Horrific Visions, killing an enemy grants 3% increased movement speed and haste for 60 sec. Stacks up to 5."}
+MultiLanguageSpellData['en'][472270] = {name = "Gift of the Titans", additional_info = "[q]In Horrific Visions, defeating enemies has a chance to grant Gift of the Titans, increasing haste and movement speed by 60% and reducing Sanity loss from all sources by 100% for 20 sec."}
 MultiLanguageSpellData['en'][472273] = {name = "Reinforce Armor", additional_info = "{2.3 sec cast} {5 sec cooldown}\n[q]The caster reinforces their armor, reducing damage taken by 20% for 8 sec."}
 MultiLanguageSpellData['en'][472275] = {name = "Carrying De-Pollutant", additional_info = "Instant\n[q]Carrying a handful of powdered de-pollutant, capable of destroying an Agitated Contaminant."}
 MultiLanguageSpellData['en'][472276] = {name = "Throw De-Pollutant", additional_info = "20 yd range\nInstant\n[q]Throw a handful of powdered de-pollutant at an Agitated Contaminant, destroying it."}
@@ -4304,7 +4355,7 @@ MultiLanguageSpellData['en'][472366] = {name = "Don't Stand In Those Webs", addi
 MultiLanguageSpellData['en'][472369] = {name = "Johnny Awesome", additional_info = nil}
 MultiLanguageSpellData['en'][472370] = {name = "Boulder Explosion", additional_info = nil}
 MultiLanguageSpellData['en'][472371] = {name = "Goldmine's Overused Air Totem", additional_info = "60 yd range\n{0.5 sec cast} {6 sec cooldown}\n[q]Throw Goldmine's Overused Air Totem at an enemy for an unknown effect."}
-MultiLanguageSpellData['en'][472378] = {name = "Repairing", additional_info = "{Channeled (6 sec cast)} {3 sec cooldown}\n[q]The caster heals itself for 0% of its max health every 5.2 sec for 6 sec."}
+MultiLanguageSpellData['en'][472378] = {name = "Repairing", additional_info = "{Channeled (6 sec cast)} {3 sec cooldown}\n[q]The caster heals itself for 3% of its max health every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][472380] = {name = "Pause Story", additional_info = "100 yd range\nInstant\n[q]Stop listening to Brann's story."}
 MultiLanguageSpellData['en'][472389] = {name = "Conductive Surge", additional_info = "25 yd range\n2 sec cast\n[q]The caster strikes the target with a lightning bolt that inflicts Nature damage then jumps to nearby players. Affected targets suffer Nature damage every 2 sec for 8 sec."}
 MultiLanguageSpellData['en'][472390] = {name = "Celestial Barrage", additional_info = "Channeled (2 sec cast)\n[q]- Line Attack\n- Hold to charge\n- Extreme range\n\n16 sec cooldown\n Call down a barrage of moonbeams, damaging enemies.\n\n Hold to increase range."}
@@ -4321,13 +4372,23 @@ MultiLanguageSpellData['en'][472400] = {name = "Celestial Barrage", additional_i
 MultiLanguageSpellData['en'][472401] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472402] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472403] = {name = "Celestial Barrage", additional_info = "Channeled (2 sec cast)\n[q]- Line Attack\n- Hold to charge\n- Extreme range\n\n14 sec cooldown\n Call down a barrage of moonbeams, damaging enemies.\n\n Hold to increase range."}
+MultiLanguageSpellData['en'][472404] = {name = "Cosmetic", additional_info = nil}
+MultiLanguageSpellData['en'][472405] = {name = "Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][472406] = {name = "Celestial Barrage", additional_info = "Channeled (2 sec cast)\n[q]- Line Attack\n- Hold to charge\n- Extreme range\n\n12 sec cooldown\n Call down a barrage of moonbeams, damaging enemies.\n\n Hold to increase range."}
 MultiLanguageSpellData['en'][472407] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472408] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472409] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472410] = {name = "Celestial Barrage", additional_info = nil}
+MultiLanguageSpellData['en'][472411] = {name = "Cosmetic", additional_info = nil}
+MultiLanguageSpellData['en'][472412] = {name = "Cosmetic", additional_info = nil}
+MultiLanguageSpellData['en'][472413] = {name = "Cosmetic", additional_info = nil}
+MultiLanguageSpellData['en'][472414] = {name = "Cosmetic", additional_info = nil}
+MultiLanguageSpellData['en'][472415] = {name = "Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][472416] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472417] = {name = "Celestial Barrage", additional_info = nil}
+MultiLanguageSpellData['en'][472418] = {name = "Cosmetic", additional_info = nil}
+MultiLanguageSpellData['en'][472419] = {name = "Cosmetic", additional_info = nil}
+MultiLanguageSpellData['en'][472420] = {name = "Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][472422] = {name = "Brann's Point of View", additional_info = nil}
 MultiLanguageSpellData['en'][472424] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][472431] = {name = "Leave", additional_info = nil}
@@ -4496,6 +4557,7 @@ MultiLanguageSpellData['en'][472706] = {name = "Umbral Wave", additional_info = 
 MultiLanguageSpellData['en'][472707] = {name = "Shell Cover", additional_info = "[q]When dropping below 60% health, summon the aid of a Turtle, reducing the damage you take by 10% for 6 sec.\n\n This effect can only occur once every 1.5 min."}
 MultiLanguageSpellData['en'][472708] = {name = "Shell Cover", additional_info = "Instant\n[q]When dropping below 60% health, summon the aid of a Turtle, reducing the damage you take by 10% for 6 sec.\n\n This effect can only occur once every 1.5 min."}
 MultiLanguageSpellData['en'][472710] = {name = "Shell Cover", additional_info = "Instant\n[q]When dropping below 60% health, summon the aid of a Turtle, reducing the damage you take by 10% for 6 sec.\n\n This effect can only occur once every 1.5 min."}
+MultiLanguageSpellData['en'][472711] = {name = "Repeatable Event - Dastardly Duos - Score Placard", additional_info = nil}
 MultiLanguageSpellData['en'][472712] = {name = "Shrapnel", additional_info = nil}
 MultiLanguageSpellData['en'][472713] = {name = "Insanity", additional_info = nil}
 MultiLanguageSpellData['en'][472714] = {name = "Resonant Echoes", additional_info = "0.25 sec cast\n[q]Rik rally-chants about Chrome-King Gallywix causing Resonant Echoes to burst out from all amplifiers in random directions."}
@@ -4516,9 +4578,9 @@ MultiLanguageSpellData['en'][472734] = {name = "Arcane Bombardment", additional_
 MultiLanguageSpellData['en'][472737] = {name = "S4F3-T Inspection", additional_info = "Instant\n[q]Equip the goggles, allowing you to identify nearby building code violations in Hovel Hill."}
 MultiLanguageSpellData['en'][472738] = {name = "Pulling Cracker", additional_info = nil}
 MultiLanguageSpellData['en'][472740] = {name = "Explosion", additional_info = nil}
-MultiLanguageSpellData['en'][472741] = {name = "Lead From the Front", additional_info = "[q]Beast Mastery\n Casting Bestial Wrath grants Howl of the Pack Leader and increases the damage dealt by your Beasts by 25% and your pets by 30% for 12 sec.\n\nSurvival\n Casting Coordinated Assault grants Howl of the Pack Leader and increases the damage dealt by your Beasts by 25% and your pet by 25% for 12 sec.\n\n(700ms cooldown)"}
+MultiLanguageSpellData['en'][472741] = {name = "Lead From the Front", additional_info = "[q]Beast Mastery\n Casting Bestial Wrath grants Howl of the Pack Leader and increases the damage dealt by your Beasts by 25% and your pets by 15% for 12 sec.\n\nSurvival\n Casting Coordinated Assault grants Howl of the Pack Leader and increases the damage dealt by your Beasts by 25% and your pet by 30% for 12 sec.\n\n(700ms cooldown)"}
 MultiLanguageSpellData['en'][472742] = {name = "Shock", additional_info = nil}
-MultiLanguageSpellData['en'][472743] = {name = "Lead From the Front", additional_info = "Instant\n[q]Beast Mastery\nCasting Bestial Wrath grants Howl of the Pack Leader and increases the damage dealt by your Beasts by 25% and your pets by 30% for 12 sec.\n\nSurvival\nCasting Coordinated Assault grants Howl of the Pack Leader and increases the damage dealt by your Beasts by 25% and your pet by 25% for 12 sec."}
+MultiLanguageSpellData['en'][472743] = {name = "Lead From the Front", additional_info = "Instant\n[q]Beast Mastery\nCasting Bestial Wrath grants Howl of the Pack Leader and increases the damage dealt by your Beasts by 25% and your pets by 15% for 12 sec.\n\nSurvival\nCasting Coordinated Assault grants Howl of the Pack Leader and increases the damage dealt by your Beasts by 25% and your pet by 30% for 12 sec."}
 MultiLanguageSpellData['en'][472744] = {name = "Carry Crate", additional_info = nil}
 MultiLanguageSpellData['en'][472748] = {name = "S4F3-T Inspection", additional_info = "30 yd range\n1.5 sec cast\n[q]Identify building code violations in the targeted area."}
 MultiLanguageSpellData['en'][472750] = {name = "Blazing Shot", additional_info = "30 yd range\n2 sec cast\n[q]Inflicts Fire damage to an enemy.\n Inflicts Fire damage to an enemy every 1 sec for 6 sec."}
@@ -4621,7 +4683,7 @@ MultiLanguageSpellData['en'][472911] = {name = "80 Percent Health", additional_i
 MultiLanguageSpellData['en'][472912] = {name = "AI Regen / Crit", additional_info = "AI Regen / Crit\n(1s cooldown)"}
 MultiLanguageSpellData['en'][472913] = {name = "Undermine Arena VO Cooldown Aura Player Death", additional_info = nil}
 MultiLanguageSpellData['en'][472914] = {name = "G.R.A.V. Glove", additional_info = nil}
-MultiLanguageSpellData['en'][472915] = {name = "Sinister Strike", additional_info = "{45 Energy} {Melee Range}\nInstant\nRequires One-Handed Melee Weapon"}
+MultiLanguageSpellData['en'][472915] = {name = "Sinister Strike", additional_info = "{45 Energy} {Melee Range}\nInstant\nRequires One-Handed Melee Weapon\n[q]Viciously strike an enemy, causing [1 * ((max(0, min( 80 - 10, 10)) * 8 + 195) / 275)] Physical damage.\n\nAwards 1 combo point each time it strikes."}
 MultiLanguageSpellData['en'][472929] = {name = "Earth Warden", additional_info = nil}
 MultiLanguageSpellData['en'][472931] = {name = "Tier 11", additional_info = "Instant\n[q]Johnny Awesome has no right dragging Brann into this difficulty. Don't be like Johnny."}
 MultiLanguageSpellData['en'][472934] = {name = "Hunter - Pack Leader - Bear Summon - Dissolve", additional_info = nil}
@@ -4653,9 +4715,9 @@ MultiLanguageSpellData['en'][473027] = {name = "Dynamite-Laden Coil", additional
 MultiLanguageSpellData['en'][473028] = {name = "Close Rift", additional_info = "10 yd range\n3 sec cast\n[q]Seal the void rift preventing void creatures from manifesting"}
 MultiLanguageSpellData['en'][473029] = {name = "Coin and Shock", additional_info = nil}
 MultiLanguageSpellData['en'][473030] = {name = "Shock and Bomb", additional_info = nil}
-MultiLanguageSpellData['en'][473031] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
-MultiLanguageSpellData['en'][473032] = {name = "Wonder Ball", additional_info = "50 yd range\nInstant\n[q]Throws a grenade at a random player, inflicting 35 Fire damage and knocking back players within 4 yards."}
-MultiLanguageSpellData['en'][473033] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][473031] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK- 1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][473032] = {name = "Wonder Ball", additional_info = "50 yd range\nInstant\n[q]Throws a grenade at a random player, inflicting 2934781 Fire damage and knocking back players within 4 yards."}
+MultiLanguageSpellData['en'][473033] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK- 1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
 MultiLanguageSpellData['en'][473034] = {name = "Wonderball", additional_info = nil}
 MultiLanguageSpellData['en'][473035] = {name = "Dominating Beats", additional_info = "50 yd range\nInstant\n[q]The Wonder Ball emits Shrieking Decibels , inflicting 7 Physical damage every 1 sec to players."}
 MultiLanguageSpellData['en'][473036] = {name = "Flamethrower Torch", additional_info = "{Channeled (12 sec cast)} {6 sec cooldown}\n[q]Use the torch flamethrower to deal 12789 Fire damage every 5.2 sec over 12 sec.\n\n Jumping will cancel any usage of the flamethrower."}
@@ -4663,11 +4725,11 @@ MultiLanguageSpellData['en'][473037] = {name = "Dominating Beats", additional_in
 MultiLanguageSpellData['en'][473038] = {name = "Detonation", additional_info = nil}
 MultiLanguageSpellData['en'][473039] = {name = "G.R.A.V. Glove", additional_info = nil}
 MultiLanguageSpellData['en'][473040] = {name = "Wonder Ball", additional_info = nil}
-MultiLanguageSpellData['en'][473041] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][473041] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK- 1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
 MultiLanguageSpellData['en'][473042] = {name = "Tracking Quest", additional_info = nil}
 MultiLanguageSpellData['en'][473043] = {name = "Stealth", additional_info = "Instant\n[q]Quietly observing."}
 MultiLanguageSpellData['en'][473044] = {name = "G.R.A.V. Glove", additional_info = nil}
-MultiLanguageSpellData['en'][473045] = {name = "Pacifist Rig", additional_info = "150 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][473045] = {name = "Pacifist Rig", additional_info = "150 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK- 1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
 MultiLanguageSpellData['en'][473046] = {name = "Skewering Root", additional_info = "Unlimited range\nInstant\n[q]Colossal roots burst from below, inflicting 7368931 Nature damage to players within 5 yards as Rushing Tides flow outwards."}
 MultiLanguageSpellData['en'][473047] = {name = "Skewering Root", additional_info = "Unlimited range\nInstant\n[q]Colossal roots burst from below, inflicting 7368931 Nature damage to players within 5 yards as Rushing Tides flow outwards."}
 MultiLanguageSpellData['en'][473048] = {name = "Pacifist Rig", additional_info = "Instant\n[q]Get buried in snow!"}
@@ -4737,11 +4799,11 @@ MultiLanguageSpellData['en'][473163] = {name = "Rock-in-a-Bottle", additional_in
 MultiLanguageSpellData['en'][473164] = {name = "Hyper Coil", additional_info = nil}
 MultiLanguageSpellData['en'][473165] = {name = "Riled Up", additional_info = "2 sec cast\n[q]The caster enters a rage for 10 sec, increasing their attack speed by s1% and increasing Physical damage done by 30%."}
 MultiLanguageSpellData['en'][473166] = {name = "Refreshment", additional_info = "Instant\n[q]Restores ( 375000 / 5 * 20) health over 20 sec. Must remain seated while eating.\n\nGreasy Well Fed\n If you spend at least 10 seconds eating you will become Greasy Well Fed and gain ( 470 * 1.5) of your highest secondary and lose 5 % movement speed.\n\n Only usable in delves and outdoors in Khaz Algar."}
-MultiLanguageSpellData['en'][473168] = {name = "Rapid Extraction", additional_info = "60 yd range\n2.5 sec cast\n[q]The machine begins to rapidly extract Azerite, inflicting 3 Physical damage to all players and causes Azerite Eruption at nearby location."}
+MultiLanguageSpellData['en'][473168] = {name = "Rapid Extraction", additional_info = "60 yd range\n2.5 sec cast\n[q]The machine begins to rapidly extract Azerite, inflicting 442136 Physical damage to all players and causes Azerite Eruption at nearby location."}
 MultiLanguageSpellData['en'][473169] = {name = "Veteran of Ironforge", additional_info = nil}
 MultiLanguageSpellData['en'][473173] = {name = "Greasy Well Fed", additional_info = nil}
 MultiLanguageSpellData['en'][473176] = {name = "Rapid Extraction", additional_info = nil}
-MultiLanguageSpellData['en'][473177] = {name = "Rapid Extraction", additional_info = "60 yd range\nInstant\n[q]The machine begins to rapidly extract Azerite, inflicting 3 Physical damage to all players and causes Azerite Eruption at nearby location."}
+MultiLanguageSpellData['en'][473177] = {name = "Rapid Extraction", additional_info = "60 yd range\nInstant\n[q]The machine begins to rapidly extract Azerite, inflicting 442136 Physical damage to all players and causes Azerite Eruption at nearby location."}
 MultiLanguageSpellData['en'][473178] = {name = "Voltaic Streak", additional_info = "300 yd range\nInstant\n[q]Crossing the beam inflicts 7127324 Nature damage every 0.3 sec to players."}
 MultiLanguageSpellData['en'][473179] = {name = "Knuckle Duster", additional_info = "40 yd range\n0.5 sec cast\n[q]Inflicts 50 Physical damage to an enemy."}
 MultiLanguageSpellData['en'][473181] = {name = "Greasy Well Fed", additional_info = nil}
@@ -4751,12 +4813,12 @@ MultiLanguageSpellData['en'][473184] = {name = "Greasy Well Fed", additional_inf
 MultiLanguageSpellData['en'][473186] = {name = "Linked Machines", additional_info = nil}
 MultiLanguageSpellData['en'][473187] = {name = "Linked Machines", additional_info = nil}
 MultiLanguageSpellData['en'][473188] = {name = "Bronze Goblin Waveshredder", additional_info = "1.5 sec cast\n[q]Summons and dismisses a Goblin Wave Shredder. This mount changes depending on your Riding skill and location.\n[q]\"Even cartel employees deserve to have some R&R on occassion.\"\nDrop:\nDarkfuse Trove\nZone:\nUndermine"}
-MultiLanguageSpellData['en'][473189] = {name = "Sinister Strike", additional_info = "100 yd range\nInstant\nRequires Melee Weapon"}
-MultiLanguageSpellData['en'][473192] = {name = "Opportunity", additional_info = "Instant"}
+MultiLanguageSpellData['en'][473189] = {name = "Sinister Strike", additional_info = "100 yd range\nInstant\nRequires Melee Weapon\n[q]Viciously strike an enemy, causing [(88% of Attack power) * ((max(0, min( 80 - 10, 10)) * 8 + 195) / 275)] Physical damage.[ Opportunity : Has a 35% chance to hit an additional time, making your next Pistol Shot half cost and double damage ]\nAwards 1 combo point each time it strikes."}
+MultiLanguageSpellData['en'][473192] = {name = "Opportunity", additional_info = "Instant\n[q]Viciously strike an enemy, causing [(88% of Attack power) * ((max(0, min( 80 - 10, 10)) * 8 + 195) / 275)] Physical damage.[ Opportunity : Has a 35% chance to hit an additional time, making your next Pistol Shot half cost and double damage ]\nAwards 1 combo point each time it strikes."}
 MultiLanguageSpellData['en'][473194] = {name = "Trample", additional_info = "100 yd range\n4 sec cast\n[q]The caster charges forward, inflicting Physical damage to players in its path and knocking them back."}
 MultiLanguageSpellData['en'][473195] = {name = "Linked Machines", additional_info = "300 yd range\nInstant\n[q]Three Shock symbols causes the One-Armed Bandit to periodically create Hyper Coils. A Hyper Coil knocks back all players on creation or activation and is linked to the One-Armed Bandit with a Voltaic Streak ."}
 MultiLanguageSpellData['en'][473196] = {name = "Azerite Eruption", additional_info = nil}
-MultiLanguageSpellData['en'][473198] = {name = "Azerite Eruption", additional_info = "100 yd range\nInstant\n[q]The machine begins to rapidly extract Azerite, inflicting 3 Physical damage to all players and causes Azerite Eruption at nearby location."}
+MultiLanguageSpellData['en'][473198] = {name = "Azerite Eruption", additional_info = "100 yd range\nInstant\n[q]The machine begins to rapidly extract Azerite, inflicting 442136 Physical damage to all players and causes Azerite Eruption at nearby location."}
 MultiLanguageSpellData['en'][473199] = {name = "Pistol Shot", additional_info = "20 yd range\nInstant\n[q]Draw a concealed pistol and fire a quick shot at an enemy, dealing [1 * [(Attack power * 0.98)][((Attack power + Offhand attack power) * 2 / 3)] -- 2H, DW / Attack power] Physical damage and reducing movement speed by 30% for 6 sec.\n\nAwards 2 combo point."}
 MultiLanguageSpellData['en'][473200] = {name = "Water Spit", additional_info = "50 yd range\n2 sec cast\n[q]If no players are within melee range, the caster spits a glob of water at a player that inflicts 10 Frost damage."}
 MultiLanguageSpellData['en'][473201] = {name = "Colossal Clash", additional_info = "Unlimited range\nChanneled (1 sec cast)\n[q]Upon reaching 100 Energy, Flarendo and Torq clash in the middle of the arena for 20 sec. Their battle inflicts 251553 Fire and 251553 Nature damage to all players every 1 sec and causes Zapbolt s and Fiery Wave s to erupt from them.\n\n Each clash increases the damage of Colossal Clash by 30%. This effect stacks."}
@@ -4790,7 +4852,7 @@ MultiLanguageSpellData['en'][473246] = {name = "Headline Slam", additional_info 
 MultiLanguageSpellData['en'][473247] = {name = "RP Scene 0001 Jetpacks", additional_info = nil}
 MultiLanguageSpellData['en'][473248] = {name = "Roll the Bones", additional_info = "25 Energy\n{Instant} {45 sec cooldown}\n[q]Roll the dice of fate, providing a random combat enhancement for 30 sec."}
 MultiLanguageSpellData['en'][473250] = {name = "Veteran of Ironforge", additional_info = "40 yd range\n{Instant} {25 sec cooldown}\n[q]Brann throws healing potions near injured players that restores a moderate amount of health upon walking through them."}
-MultiLanguageSpellData['en'][473257] = {name = "Sinister Strike", additional_info = "100 yd range\nInstant\nRequires Melee Weapon"}
+MultiLanguageSpellData['en'][473257] = {name = "Sinister Strike", additional_info = "100 yd range\nInstant\nRequires Melee Weapon\n[q]Viciously strike an enemy, causing [(88% of Attack power) * ((max(0, min( 80 - 10, 10)) * 8 + 195) / 275)] Physical damage.[ Opportunity : Has a 35% chance to hit an additional time, making your next Pistol Shot half cost and double damage ]\nAwards 1 combo point each time it strikes."}
 MultiLanguageSpellData['en'][473259] = {name = "Petting", additional_info = "3 yd range\n4 sec cast\n[q]Pet a cute creature!"}
 MultiLanguageSpellData['en'][473260] = {name = "Blaring Drop", additional_info = "5 sec cast\n[q]Rik's sonic resonator drops down out of the air, unleashing a ring of sonic demise inflicting 4192543 Sonic damage to targets in its wake every 0.5 sec for 3 sec."}
 MultiLanguageSpellData['en'][473261] = {name = "Echo Blade", additional_info = nil}
@@ -4812,9 +4874,9 @@ MultiLanguageSpellData['en'][473294] = {name = "Voidstep", additional_info = "10
 MultiLanguageSpellData['en'][473295] = {name = "Voidstep", additional_info = "100 yd range\n3 sec cast\n[q]Shadowcrown unleashes a massive explosion of shadow magic in an attempt to destroy any players aboard the Dawnbreaker. While casting Shadowcrown is immune to damage."}
 MultiLanguageSpellData['en'][473300] = {name = "Wanderer Liu", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][473303] = {name = "Landlubber", additional_info = nil}
-MultiLanguageSpellData['en'][473304] = {name = "Brainstorm", additional_info = "60 yd range\n2 sec cast\n[q]Caster unleashes its amazing brain power in a psychic storm, inflicting 3 Arcane damage to all players and manifesting psychic tempests at each player's location, inflicting 10 Arcane damage to any players hit and silencing them for until canceled."}
+MultiLanguageSpellData['en'][473304] = {name = "Brainstorm", additional_info = "60 yd range\n2 sec cast\n[q]Caster unleashes its amazing brain power in a psychic storm, inflicting 442136 Arcane damage to all players and manifesting psychic tempests at each player's location, inflicting 1473786 Arcane damage to any players hit and silencing them for until canceled."}
 MultiLanguageSpellData['en'][473307] = {name = "Brainstorm", additional_info = nil}
-MultiLanguageSpellData['en'][473309] = {name = "Brainstorm", additional_info = "60 yd range\nInstant\n[q]Caster unleashes its amazing brain power in a psychic storm, inflicting 3 Arcane damage to all players and manifesting psychic tempests at each player's location, inflicting 10 Arcane damage to any players hit and silencing them for until canceled."}
+MultiLanguageSpellData['en'][473309] = {name = "Brainstorm", additional_info = "60 yd range\nInstant\n[q]Caster unleashes its amazing brain power in a psychic storm, inflicting 442136 Arcane damage to all players and manifesting psychic tempests at each player's location, inflicting 1473786 Arcane damage to any players hit and silencing them for until canceled."}
 MultiLanguageSpellData['en'][473313] = {name = "Corrupted", additional_info = "Instant\n[q]Inflicts damage over time."}
 MultiLanguageSpellData['en'][473314] = {name = "Petting", additional_info = "3 yd range\nInstant\n[q]Pet a cute creature!"}
 MultiLanguageSpellData['en'][473322] = {name = "Taking Notes", additional_info = "Channeled (45 sec cast)\n[q]Take notes while Bargus and Angorla repair the fractured shard."}
@@ -4825,7 +4887,7 @@ MultiLanguageSpellData['en'][473330] = {name = "Viscous Muck", additional_info =
 MultiLanguageSpellData['en'][473332] = {name = "Viscous Muck", additional_info = "Unlimited range\nInstant\n[q]Questionable sludge spews from the pipes inflicting 10 Shadow damage to targets within 3 yards."}
 MultiLanguageSpellData['en'][473333] = {name = "Lightning Strikes", additional_info = "Instant\n[q]For each consecutive melee attack against the same target, Torq's attack speed increases by 3%. This effect stacks.\n\n When Torq switches to a new target, Lightning Strikes is reset."}
 MultiLanguageSpellData['en'][473335] = {name = "Amplified Blitz", additional_info = "Instant\n[q]Each of Torq's consecutive melee attacks against the same target grant Lightning Strikes , increasing his attack speed.\n(500ms cooldown)"}
-MultiLanguageSpellData['en'][473338] = {name = "Stunned", additional_info = "100 yd range\nInstant\n[q]Jump into the cannon and fire yourself at the target location, dealing 7 Fire damage to enemies within 10 yards upon landing and stunning them for 4 sec."}
+MultiLanguageSpellData['en'][473338] = {name = "Stunned", additional_info = "100 yd range\nInstant\n[q]Jump into the cannon and fire yourself at the target location, dealing 243973 Fire damage to enemies within 10 yards upon landing and stunning them for 4 sec."}
 MultiLanguageSpellData['en'][473340] = {name = "Wyvern Dressing", additional_info = nil}
 MultiLanguageSpellData['en'][473341] = {name = "the Treasured", additional_info = nil}
 MultiLanguageSpellData['en'][473343] = {name = "Viscous Muck", additional_info = "Unlimited range\nInstant\n[q]Questionable sludge spews from the pipes inflicting 10 Shadow damage to targets within 3 yards."}
@@ -4846,11 +4908,12 @@ MultiLanguageSpellData['en'][473369] = {name = "Eagle's Accuracy", additional_in
 MultiLanguageSpellData['en'][473370] = {name = "Double Tap", additional_info = "[q]Casting Trueshot or Volley grants Double Tap, causing your next Aimed Shot to fire again at 80% power, or your next Rapid Fire to fire 80% additional shots during its channel."}
 MultiLanguageSpellData['en'][473374] = {name = "Scattered Payout", additional_info = nil}
 MultiLanguageSpellData['en'][473375] = {name = "Scattered Payout", additional_info = nil}
-MultiLanguageSpellData['en'][473376] = {name = "Forking Voltage", additional_info = "20 yd range\n2 sec cast\n[q]The caster strikes their target with electricity that arcs to another nearby player, inflicting Nature damage and reducing their movement speed by 30% for 8 sec/. The spell affects up to 3 targets."}
+MultiLanguageSpellData['en'][473376] = {name = "Forking Voltage", additional_info = "20 yd range\n2 sec cast\n[q]The caster strikes their target with electricity that arcs to another nearby player, inflicting Nature damage and reducing their movement speed by 30% for 8 sec. The spell affects up to 3 targets."}
 MultiLanguageSpellData['en'][473377] = {name = "Interpreting", additional_info = "3 sec cast\n[q]Unlocks this customization option for the Delver's Gob-Trotter at the Rostrum of Transformation."}
 MultiLanguageSpellData['en'][473378] = {name = "Bullet Hell", additional_info = "[q]Damage from Multi-Shot and Volley reduces the cooldown of Rapid Fire by 0.30 sec.\n\n Damage from Aimed Shot reduces the cooldown of Volley by 0.50 sec."}
 MultiLanguageSpellData['en'][473379] = {name = "Target Acquisition", additional_info = "[q]Consuming Spotter's Mark reduces the cooldown of Aimed Shot by 2.0 sec.\n(1.5s cooldown)"}
 MultiLanguageSpellData['en'][473380] = {name = "Quickdraw", additional_info = "[q]Lock and Load now increases the damage of Aimed Shot by 15%."}
+MultiLanguageSpellData['en'][473382] = {name = "Spawn", additional_info = nil}
 MultiLanguageSpellData['en'][473383] = {name = "Expel Intruders", additional_info = "30 yd range\n4 sec cast\n[q]The caster swings their shield at any enemies in front of them, inflicting Physical damage and knocking them back."}
 MultiLanguageSpellData['en'][473385] = {name = "No Scope", additional_info = "[q]Rapid Fire grants Precise Shots."}
 MultiLanguageSpellData['en'][473386] = {name = "Mobilize Mechadrones", additional_info = "Instant\n[q]Big M.O.M.M.A. summons 4 Darkfuse Mechadrones to assist them in combat."}
@@ -4864,7 +4927,7 @@ MultiLanguageSpellData['en'][473415] = {name = "Mine Field", additional_info = n
 MultiLanguageSpellData['en'][473418] = {name = "Inspect Crystal", additional_info = "Instant\n[q]Examining the citrine."}
 MultiLanguageSpellData['en'][473419] = {name = "Cancel", additional_info = nil}
 MultiLanguageSpellData['en'][473434] = {name = "Go-Go Juice", additional_info = "{Instant} {1 min cooldown}\n[q]Take a swig of Venture Co.'s\n delicious energy beverage. Increase your movement speed by 1-60% for 12 sec.\n\n Only usable in delves and outdoors in Khaz Algar."}
-MultiLanguageSpellData['en'][473436] = {name = "High-Explosive Rockets", additional_info = "Instant\n[q]Launches High-Explosive Rockets every 4 sec, inflicting 1 Fire damage to all players."}
+MultiLanguageSpellData['en'][473436] = {name = "High-Explosive Rockets", additional_info = "Instant\n[q]Launches High-Explosive Rockets every 4 sec, inflicting 88427 Fire damage to all players."}
 MultiLanguageSpellData['en'][473438] = {name = "High-Explosive Rockets", additional_info = nil}
 MultiLanguageSpellData['en'][473440] = {name = "High Explosive Rockets", additional_info = "100 yd range\nInstant\n[q]Inflicts 1 Fire damage to enemies within 100 yards of the impact."}
 MultiLanguageSpellData['en'][473442] = {name = "Teleport - Gate of the Setting Sun", additional_info = "{Instant} {20 min cooldown}\n[q]Have Wanderer Liu teleport you."}
@@ -4917,7 +4980,7 @@ MultiLanguageSpellData['en'][473540] = {name = "Well of Darkness", additional_in
 MultiLanguageSpellData['en'][473541] = {name = "Flurry of Punches", additional_info = "2.5 sec cast\n[q]Unleashes a Flurry of Punches inflicting 104560 Physical damage to all enemies within 3 yds in front of the Punchy Thug."}
 MultiLanguageSpellData['en'][473542] = {name = "Teleport - Gate of the Setting Sun", additional_info = "Instant\n[q]Ask Wanderer Liu to teleport you? There is a 20-minute cooldown before he can teleport you again."}
 MultiLanguageSpellData['en'][473546] = {name = "Self Destruct", additional_info = "Instant\n[q]Eject all passengers.\n\n The Mechano-Hog continues driving, inflicting damage to the first enemy it collides with."}
-MultiLanguageSpellData['en'][473547] = {name = "Sleepy Liu", additional_info = nil}
+MultiLanguageSpellData['en'][473547] = {name = "Sleepy Liu", additional_info = "Instant\n[q]Wanderer Liu is tired after teleporting you and can't do so again until he rests."}
 MultiLanguageSpellData['en'][473549] = {name = "B.B.B.F.G.", additional_info = "Instant\n[q]Keeza unleashes her Blazing Ballistic Blunt Force Gun, inflicting 4421358 Fire damage to players caught in the blast and knocking them back."}
 MultiLanguageSpellData['en'][473550] = {name = "Rocket Barrage", additional_info = "2 sec cast\n[q]Unleashes a Rocket Barrage at nearby players inflicting 522799 Fire damage to players caught in the blast and knocking them back."}
 MultiLanguageSpellData['en'][473551] = {name = "Dismount", additional_info = "Instant\n[q]Eject all passengers.\n\n The Mechano-Hog continues driving, inflicting damage to the first enemy it collides with."}
@@ -4990,7 +5053,7 @@ MultiLanguageSpellData['en'][473637] = {name = "B.B.B.F.G.", additional_info = "
 MultiLanguageSpellData['en'][473638] = {name = "High Maintenance", additional_info = "Channeled (1 min cast)\n[q]The Support Rig inspires efficiency in nearby pit crew members, making Pit Mechanics within 15 yards immune to crowd control effects."}
 MultiLanguageSpellData['en'][473639] = {name = "Preload Personal Phase", additional_info = nil}
 MultiLanguageSpellData['en'][473641] = {name = "Amplification!", additional_info = nil}
-MultiLanguageSpellData['en'][473645] = {name = "Grand Brann Slam", additional_info = "Unlimited range\nInstant\n[q]Leap through the air toward a target location, slamming down with destructive force to deal (23.5% of Attack power) Physical damage to all enemies within 8 yards [ Protection : and resetting the remaining cooldown on Taunt ]"}
+MultiLanguageSpellData['en'][473645] = {name = "Grand Brann Slam", additional_info = "Unlimited range\nInstant\n[q]Leap through the air toward a target location, slamming down with destructive force to deal (23.5% of Attack power) Physical damage to all enemies within 8 yards[ Protection : and resetting the remaining cooldown on Taunt ]"}
 MultiLanguageSpellData['en'][473646] = {name = "Grand Brann Slam", additional_info = "{5 Energy} {40 yd range}\nInstant\n[q]Brann leaps into battle with concussive force, dealing damage and taunting enemies nearby."}
 MultiLanguageSpellData['en'][473650] = {name = "Scrapbomb", additional_info = "Unlimited range\n3 sec cast\n[q]Flarendo spits a ball of scrap that explodes after 10 sec, inflicting 8385087 Fire damage to all players and knocking back players within 0 yards. This damage is reduced for each player within 8 yards of the Scrapbomb ."}
 MultiLanguageSpellData['en'][473651] = {name = "B.B.B.F.G.", additional_info = "Unlimited range\nInstant\n[q]Keeza unleashes her Blazing Ballistic Blunt Force Gun, inflicting 4421358 Fire damage to players caught in the blast and knocking them back."}
@@ -5003,7 +5066,7 @@ MultiLanguageSpellData['en'][473664] = {name = "Unstable Prototype", additional_
 MultiLanguageSpellData['en'][473667] = {name = "Unstable Prototype", additional_info = nil}
 MultiLanguageSpellData['en'][473675] = {name = "Prismatic Disc", additional_info = nil}
 MultiLanguageSpellData['en'][473677] = {name = "Bear Charge", additional_info = "40 yd range\nInstant\n[q]Brann summons the family bear, which charges into battle, launching enemies up into the air.\n\n The bear then prepares for a series of massive stomps, dealing damage, forming an area that increases chance to dodge, and increasing maximum health."}
-MultiLanguageSpellData['en'][473678] = {name = "Bear Charge", additional_info = "Unlimited range\nInstant\n[q]Leap through the air toward a target location, slamming down with destructive force to deal (23.5% of Attack power) Physical damage to all enemies within 8 yards [ Protection : and resetting the remaining cooldown on Taunt ]"}
+MultiLanguageSpellData['en'][473678] = {name = "Bear Charge", additional_info = "Unlimited range\nInstant\n[q]Leap through the air toward a target location, slamming down with destructive force to deal (23.5% of Attack power) Physical damage to all enemies within 8 yards[ Protection : and resetting the remaining cooldown on Taunt ]"}
 MultiLanguageSpellData['en'][473679] = {name = "L00T RAID-R", additional_info = "100 yd range\nInstant\n[q]Every 60 sec or 5 sec after entering combat, scan the environment highlighting Mislaid Curiosities and making enemies below 95% health take 4% more damage for 10 sec."}
 MultiLanguageSpellData['en'][473680] = {name = "Bear Stomp", additional_info = "Unlimited range\n1.5 sec cast\n[q]Brann summons the family bear, which charges into battle, launching enemies up into the air.\n\n The bear then prepares for a series of massive stomps, dealing damage, forming an area that increases chance to dodge, and increasing maximum health."}
 MultiLanguageSpellData['en'][473681] = {name = "Compelling Banishment", additional_info = "Instant\n[q]Charges the target dealing Physical damage and knocking all enemies within 5 yards of the caster back."}
@@ -5030,7 +5093,7 @@ MultiLanguageSpellData['en'][473711] = {name = "Throw Charged Battery", addition
 MultiLanguageSpellData['en'][473712] = {name = "Throw Charged Battery", additional_info = nil}
 MultiLanguageSpellData['en'][473713] = {name = "Kinetic Explosive Gel", additional_info = "Unlimited range\nInstant\n[q]Keeza affixes a Kinetic Explosive Gel to a player which inflicts 1105340 Fire damage every 1 sec for 12 sec.\n\n Removing the gel causes it to erupt with force, inflicting 1473786 Fire damage to players and knocking up all Ticking Time Bombs within 5 yards."}
 MultiLanguageSpellData['en'][473714] = {name = "Bombard", additional_info = nil}
-MultiLanguageSpellData['en'][473715] = {name = "Dark Bolt", additional_info = "30 yd range\n2 sec cast\n[q]The caster strikes the target with a bolt that inflicts 35 Shadow damage and absorbs 35 healing for 15 sec."}
+MultiLanguageSpellData['en'][473715] = {name = "Dark Bolt", additional_info = "30 yd range\n2 sec cast\n[q]The caster strikes the target with a bolt that inflicts 2934781 Shadow damage and absorbs 2501944 healing for 15 sec."}
 MultiLanguageSpellData['en'][473716] = {name = "Neat Rope Trick", additional_info = "40 yd range\nInstant\n[q]When an enemy attacks a player, Brann throws his trusty lasso, pulling the enemy back to him. The same enemy cannot be lassoed more than once within 10 sec."}
 MultiLanguageSpellData['en'][473718] = {name = "Electro-Charged Pistol", additional_info = "40 yd range\nInstant\n[q]Brann's equipment is enhanced with cutting-edge tech upgrades.\n\nElectro-Charged Shield\n Effective healing done to Brann pulsates as Nature damage to nearby enemies.\n\nElectro-Charged Pistol\n Each shot discharges an electrical current, arcing through nearby enemies and reducing their attack speed. Healing Brann super-charges his pistol to deal more damage.\n\nElectro-Charged Shotgun\n Each enemy hit has a chance to be knocked down. Healing Brann super-charges his shotgun to deal more damage."}
 MultiLanguageSpellData['en'][473719] = {name = "Kinetic Explosive Gel", additional_info = "Unlimited range\nInstant\n[q]Keeza affixes a Kinetic Explosive Gel to a player which inflicts 1105340 Fire damage every 1 sec for 12 sec.\n\n Removing the gel causes it to erupt with force, inflicting 1473786 Fire damage to players and knocking up all Ticking Time Bombs within 5 yards."}
@@ -5094,29 +5157,29 @@ MultiLanguageSpellData['en'][473837] = {name = "High Winds", additional_info = "
 MultiLanguageSpellData['en'][473838] = {name = "Electrocrush", additional_info = "Unlimited range\nInstant\n[q]Big M.O.M.M.A. crushes their target with an electrified claw, inflicting 6632038 Nature damage and an additional 1031650 Nature damage every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][473839] = {name = "Mobilize Mechadrones", additional_info = "Unlimited range\nInstant\n[q]Big M.O.M.M.A. summons 4 Darkfuse Mechadrones to assist them in combat."}
 MultiLanguageSpellData['en'][473840] = {name = "Bloodthrower", additional_info = "{Channeled (5 sec cast)} {5 sec cooldown}\n[q]"}
-MultiLanguageSpellData['en'][473841] = {name = "Fool's Gold", additional_info = "45 yd range\n2.5 sec cast\n[q]Flings chests of fool's gold to random destinations. Inflicts 90 Fire damage to players that come into contact with these trapped chests."}
+MultiLanguageSpellData['en'][473841] = {name = "Fool's Gold", additional_info = "45 yd range\n2.5 sec cast\n[q]Flings chests of fool's gold to random destinations. Inflicts 7546578 Fire damage to players that come into contact with these trapped chests."}
 MultiLanguageSpellData['en'][473842] = {name = "Portside Winds", additional_info = "Unlimited range\n{Instant} {2 sec cooldown}\n[q]Push the winds away on the left side."}
 MultiLanguageSpellData['en'][473843] = {name = "Starboard Winds", additional_info = "Unlimited range\n{Instant} {2 sec cooldown}\n[q]Push the winds away on the right side."}
 MultiLanguageSpellData['en'][473844] = {name = "Push Forward", additional_info = "Unlimited range\n{Instant} {2 sec cooldown}\n[q]Push the winds behind you to propel forward."}
 MultiLanguageSpellData['en'][473857] = {name = "Fool's Gold", additional_info = nil}
 MultiLanguageSpellData['en'][473861] = {name = "Savage Alabaster Battle Turtle", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable Savage Alabaster Battle Turtle. This mount swims fast and can't move very quickly on land, but it doesn't need to. It has cannons.\n[q]\"Wisdom throughout the ages has led to a well-known saying, \"Nothing can outrun a cannon.\"\"\nTrading Post"}
-MultiLanguageSpellData['en'][473876] = {name = "Glob Stomp", additional_info = "3 sec cast\n[q]Globikus stomps, inflicting 10 Nature damage and applying Globbed to players within 60 yards."}
-MultiLanguageSpellData['en'][473878] = {name = "Globbed", additional_info = "Instant\n[q]Globikus stomps, inflicting 10 Nature damage and applying Globbed to players within 60 yards."}
+MultiLanguageSpellData['en'][473876] = {name = "Glob Stomp", additional_info = "3 sec cast\n[q]Globikus stomps, inflicting 838509 Nature damage and applying Globbed to players within 60 yards."}
+MultiLanguageSpellData['en'][473878] = {name = "Globbed", additional_info = "Instant\n[q]Globikus stomps, inflicting 838509 Nature damage and applying Globbed to players within 60 yards."}
 MultiLanguageSpellData['en'][473883] = {name = "Fool's Gold", additional_info = nil}
-MultiLanguageSpellData['en'][473885] = {name = "Fool's Gold", additional_info = "300 yd range\nInstant\n[q]Flings chests of fool's gold to random destinations. Inflicts 90 Fire damage to players that come into contact with these trapped chests."}
-MultiLanguageSpellData['en'][473895] = {name = "Reglobify", additional_info = "Channeled (12 sec cast)\n[q]Globikus reassimiliates their form, surrounding themselves with a shield that absorbs up to 200 damage and healing 2% of their health every 2 sec for until canceled."}
+MultiLanguageSpellData['en'][473885] = {name = "Fool's Gold", additional_info = "300 yd range\nInstant\n[q]Flings chests of fool's gold to random destinations. Inflicts 7546578 Fire damage to players that come into contact with these trapped chests."}
+MultiLanguageSpellData['en'][473895] = {name = "Reglobify", additional_info = "Channeled (12 sec cast)\n[q]Globikus reassimiliates their form, surrounding themselves with a shield that absorbs up to 14296823 damage and healing 2% of their health every 2 sec for until canceled."}
 MultiLanguageSpellData['en'][473896] = {name = "Static Charge", additional_info = "Unlimited range\nInstant\n[q]Charges an enemy with energy, inflicting 0 Nature damage every 1 sec for 12 sec. While the target is affected, the static periodically zaps its nearby allies with Nature damage as well."}
 MultiLanguageSpellData['en'][473901] = {name = "Flourish", additional_info = "100 yd range\nInstant\n[q]Extends the duration of all of your heal over time effects on friendly targets within 60 yards by 6 sec, and increases the rate of your heal over time effects by 25% for 8 sec.\n\n Affected allies are healed for (1400% of Spell power), split evenly among them."}
-MultiLanguageSpellData['en'][473903] = {name = "Reglobify", additional_info = "2 sec cast\n[q]Globikus reassimiliates their form, surrounding themselves with a shield that absorbs up to 200 damage and healing 2% of their health every 2 sec for until canceled."}
-MultiLanguageSpellData['en'][473904] = {name = "Globsorption Shield", additional_info = "Instant\n[q]Globikus reassimiliates their form, surrounding themselves with a shield that absorbs up to 200 damage and healing 2% of their health every 2 sec for until canceled."}
+MultiLanguageSpellData['en'][473903] = {name = "Reglobify", additional_info = "2 sec cast\n[q]Globikus reassimiliates their form, surrounding themselves with a shield that absorbs up to 14296823 damage and healing 2% of their health every 2 sec for until canceled."}
+MultiLanguageSpellData['en'][473904] = {name = "Globsorption Shield", additional_info = "Instant\n[q]Globikus reassimiliates their form, surrounding themselves with a shield that absorbs up to 14296823 damage and healing 2% of their health every 2 sec for until canceled."}
 MultiLanguageSpellData['en'][473909] = {name = "Ancient of Lore", additional_info = "[q]Replaces Incarnation: Tree of Life\n{1.5 sec cast} {1.5 min cooldown}\n[q]Shapeshift into an Ancient of Lore, preventing all crowd control effects, reducing damage taken by 30%, and granting you access to Blossom Burst and Mass Blooming. Reduces movement speed.\n\n Lasts 12 sec.\n\n Blossom Burst :\nHeals an ally for (910% of Spell power) and applies 1 missing heal over time effect. If all of them are present, Blossom Burst critically heals.\n\n Mass Blooming :\nHeals 5 allies for (585% of Spell power) and applies 1 missing heal over time effect."}
 MultiLanguageSpellData['en'][473910] = {name = "Oil Splatter", additional_info = "60 yd range\n{2 sec cast} {3 sec cooldown}\n[q]The caster flings oil at nearby players, inflicting Nature damage every 1 sec and reducing their movement speed by 30% for 10 sec. Creates an oil spill upon removal."}
 MultiLanguageSpellData['en'][473911] = {name = "Orweyna's Fury", additional_info = nil}
-MultiLanguageSpellData['en'][473913] = {name = "Reglobify", additional_info = "Instant\n[q]Globikus reassimiliates their form, surrounding themselves with a shield that absorbs up to 200 damage and healing 2% of their health every 2 sec for until canceled."}
-MultiLanguageSpellData['en'][473918] = {name = "Lob Glob", additional_info = "60 yd range\n1.5 sec cast\n[q]Lobs a glob, inflicting 25 Nature damage to players within 5 yards of impact."}
+MultiLanguageSpellData['en'][473913] = {name = "Reglobify", additional_info = "Instant\n[q]Globikus reassimiliates their form, surrounding themselves with a shield that absorbs up to 14296823 damage and healing 2% of their health every 2 sec for until canceled."}
+MultiLanguageSpellData['en'][473918] = {name = "Lob Glob", additional_info = "60 yd range\n1.5 sec cast\n[q]Lobs a glob, inflicting 2096272 Nature damage to players within 5 yards of impact."}
 MultiLanguageSpellData['en'][473919] = {name = "Blossom Burst", additional_info = "40 yd range\nInstant\n[q]Heals an ally for (910% of Spell power) and applies 1 missing heal over time effect. If all of them are present, Blossom Burst critically heals."}
 MultiLanguageSpellData['en'][473920] = {name = "Flag Tracking", additional_info = nil}
-MultiLanguageSpellData['en'][473921] = {name = "Lob Glob", additional_info = "Unlimited range\nInstant\n[q]Lobs a glob, inflicting 25 Nature damage to players within 5 yards of impact."}
+MultiLanguageSpellData['en'][473921] = {name = "Lob Glob", additional_info = "Unlimited range\nInstant\n[q]Lobs a glob, inflicting 2096272 Nature damage to players within 5 yards of impact."}
 MultiLanguageSpellData['en'][473922] = {name = "High Winds", additional_info = "30 yd range\nInstant\n[q]Winds upon the portside. Push left!"}
 MultiLanguageSpellData['en'][473923] = {name = "Lob Glob", additional_info = "Instant"}
 MultiLanguageSpellData['en'][473924] = {name = "Expel Slime", additional_info = "{3 sec cast} {3 sec cooldown}\n[q]The caster oozes off globs of its form, creating allies to fight alongside it."}
@@ -5140,19 +5203,19 @@ MultiLanguageSpellData['en'][473953] = {name = "\"Ducky Friend\"", additional_in
 MultiLanguageSpellData['en'][473954] = {name = "Deploy Flame Laser", additional_info = "Unlimited range\nInstant\n[q]The caster rapidly constructs a Flame Laser."}
 MultiLanguageSpellData['en'][473955] = {name = "Deploy Flame Laser", additional_info = "Unlimited range\n2.5 sec cast\n[q]The caster rapidly constructs a Flame Laser."}
 MultiLanguageSpellData['en'][473957] = {name = "Fire Laser", additional_info = nil}
-MultiLanguageSpellData['en'][473958] = {name = "Fire Laser", additional_info = "Unlimited range\n2.5 sec cast\n[q]The turret blasts a gout of fire, inflicting 50 Fire damage to players within the beam."}
+MultiLanguageSpellData['en'][473958] = {name = "Fire Laser", additional_info = "Unlimited range\n2.5 sec cast\n[q]The turret blasts a gout of fire, inflicting 4192543 Fire damage to players within the beam."}
 MultiLanguageSpellData['en'][473959] = {name = "Draw Soul", additional_info = "200 yd range\nInstant\n[q]Kul'tharok tears the souls from players, inflicting 442136 Shadow damage every 2 sec for 8 sec.\n\n The lost souls move toward Kul'tharok and causes Soul Corruption when they reach him."}
 MultiLanguageSpellData['en'][473960] = {name = "Draw Soul", additional_info = "200 yd range\nInstant\n[q]Kul'tharok corrupts the player's soul, causes it to erupt in necromantic energy. Inflicting 4421358 Shadow damage to players."}
 MultiLanguageSpellData['en'][473961] = {name = "Card Shark", additional_info = "Instant\n[q]Summons a void shark under a random player destination, inflicting 75 Shadow damage to players within 4 yards."}
 MultiLanguageSpellData['en'][473962] = {name = "Draw Soul", additional_info = "200 yd range\nInstant\n[q]Kul'tharok corrupts the player's soul, causes it to erupt in necromantic energy. Inflicting 4421358 Shadow damage to players."}
-MultiLanguageSpellData['en'][473963] = {name = "Reckless Charge", additional_info = "100 yd range\nInstant\n[q]Recklessly charges a location, inflicting 30 Physical damage and stunning players in the way for 3 sec."}
-MultiLanguageSpellData['en'][473964] = {name = "Card Shark", additional_info = "50 yd range\n3 sec cast\n[q]Summons a void shark under a random player destination, inflicting 75 Shadow damage to players within 4 yards."}
+MultiLanguageSpellData['en'][473963] = {name = "Reckless Charge", additional_info = "100 yd range\nInstant\n[q]Recklessly charges a location, inflicting 1045599 Physical damage and stunning players in the way for 3 sec."}
+MultiLanguageSpellData['en'][473964] = {name = "Card Shark", additional_info = "50 yd range\n3 sec cast\n[q]Summons a void shark under a random player destination, inflicting 6288815 Shadow damage to players within 4 yards."}
 MultiLanguageSpellData['en'][473965] = {name = "Reckless Charge", additional_info = nil}
 MultiLanguageSpellData['en'][473966] = {name = "Reckless Charge", additional_info = nil}
 MultiLanguageSpellData['en'][473968] = {name = "Orweyna's Fury", additional_info = "20 yd range\n{Instant} {8 sec cooldown}\n[q]Request Orweyna's assistance to assault the area."}
-MultiLanguageSpellData['en'][473970] = {name = "Reuse", additional_info = "50 yd range\nInstant\n[q]Throws a grenade at a random player, inflicting 35 Fire damage and knocking back players within 4 yards."}
+MultiLanguageSpellData['en'][473970] = {name = "Reuse", additional_info = "50 yd range\nInstant\n[q]Throws a grenade at a random player, inflicting 2934781 Fire damage and knocking back players within 4 yards."}
 MultiLanguageSpellData['en'][473972] = {name = "Reckless Charge", additional_info = nil}
-MultiLanguageSpellData['en'][473973] = {name = "Card Shark", additional_info = "50 yd range\nInstant\n[q]Summons a void shark under a random player destination, inflicting 75 Shadow damage to players within 4 yards."}
+MultiLanguageSpellData['en'][473973] = {name = "Card Shark", additional_info = "50 yd range\nInstant\n[q]Summons a void shark under a random player destination, inflicting 6288815 Shadow damage to players within 4 yards."}
 MultiLanguageSpellData['en'][473974] = {name = "Kobold Priest Friend", additional_info = nil}
 MultiLanguageSpellData['en'][473975] = {name = "Reckless Charge", additional_info = nil}
 MultiLanguageSpellData['en'][473976] = {name = "Reckless Charge", additional_info = nil}
@@ -5197,37 +5260,37 @@ MultiLanguageSpellData['en'][474041] = {name = "Haranir Transform", additional_i
 MultiLanguageSpellData['en'][474042] = {name = "Hologram", additional_info = nil}
 MultiLanguageSpellData['en'][474044] = {name = "Residual Void Energy", additional_info = "100 yd range\nInstant\n[q]Inflicts 15 Shadow damage every 1 sec."}
 MultiLanguageSpellData['en'][474052] = {name = "Rocket Barrage", additional_info = "1.15 sec cast"}
-MultiLanguageSpellData['en'][474053] = {name = "Stand at Attention", additional_info = "{Instant} {30 sec cooldown}\n[q]Stand at Attention."}
+MultiLanguageSpellData['en'][474053] = {name = "Stand at Attention", additional_info = "{Instant} {30 sec cooldown}\n[q]Stand at attention."}
 MultiLanguageSpellData['en'][474058] = {name = "Complainer Container 9000", additional_info = nil}
 MultiLanguageSpellData['en'][474059] = {name = "Malfunctioning", additional_info = "Instant\n[q]Without its protective Electro-Shield , damage taken is increased by 10%."}
 MultiLanguageSpellData['en'][474061] = {name = "Tank Buster", additional_info = "100 yd range\nInstant\n[q]The Geargrinder slams into its current target, inflicting 12577630 Physical damage, knocking them back and causing them to bleed for 670807 Physical damage every 1.5 sec for 25 sec. In addition, the target suffers 200% increased damage taken by Tank Buster for 25 sec. This effect stacks.\n\n The exertion causes the Geargrinder to expel a cloud of Exhaust Fumes and leak an Oil Slick that lasts for 5 min."}
 MultiLanguageSpellData['en'][474064] = {name = "Rocket Barrage", additional_info = "100 yd range\nInstant\n[q]Boom"}
 MultiLanguageSpellData['en'][474066] = {name = "Hillsbrad Express", additional_info = nil}
 MultiLanguageSpellData['en'][474067] = {name = "Cast Queue: Bronzebeard's Brown Bear", additional_info = "Unlimited range\nInstant\n[q]Brann summons the family bear, which charges into battle, launching enemies up into the air.\n\n The bear then prepares for a series of massive stomps, dealing damage, forming an area that increases chance to dodge, and increasing maximum health."}
-MultiLanguageSpellData['en'][474069] = {name = "Noxious Spew", additional_info = "30 yd range\n2 sec cast\n[q]Spews noxious filth, inflicting 10 Nature damage every 1 sec to players standing within."}
+MultiLanguageSpellData['en'][474069] = {name = "Noxious Spew", additional_info = "30 yd range\n2 sec cast\n[q]Spews noxious filth, inflicting 838509 Nature damage every 1 sec to players standing within."}
 MultiLanguageSpellData['en'][474070] = {name = "Cast Queue: Lightning Link", additional_info = "Unlimited range\nInstant\n[q]Brann's equipment is enhanced with cutting-edge tech upgrades.\n\nElectro-Charged Shield\n Effective healing done to Brann pulsates as Nature damage to nearby enemies.\n\nElectro-Charged Pistol\n Each shot discharges an electrical current, arcing through nearby enemies and reducing their attack speed. Healing Brann super-charges his pistol to deal more damage.\n\nElectro-Charged Shotgun\n Each enemy hit has a chance to be knocked down. Healing Brann super-charges his shotgun to deal more damage."}
-MultiLanguageSpellData['en'][474072] = {name = "Noxious Spew", additional_info = "Unlimited range\nInstant\n[q]Spews noxious filth, inflicting 10 Nature damage every 1 sec to players standing within."}
+MultiLanguageSpellData['en'][474072] = {name = "Noxious Spew", additional_info = "Unlimited range\nInstant\n[q]Spews noxious filth, inflicting 838509 Nature damage every 1 sec to players standing within."}
 MultiLanguageSpellData['en'][474073] = {name = "Teleport to Hillsbrad", additional_info = nil}
 MultiLanguageSpellData['en'][474076] = {name = "Neat Rope Trick", additional_info = "40 yd range\nInstant\n[q]When an enemy attacks a player, Brann throws his trusty lasso, pulling the enemy back to him. The same enemy cannot be lassoed more than once within 10 sec."}
 MultiLanguageSpellData['en'][474077] = {name = "Hillsbrad Express", additional_info = nil}
 MultiLanguageSpellData['en'][474078] = {name = "Hillsbrad Express", additional_info = nil}
-MultiLanguageSpellData['en'][474081] = {name = "Black Blood Collector", additional_info = nil}
+MultiLanguageSpellData['en'][474081] = {name = "Black Blood Collector", additional_info = "1 sec cast\n[q]Equip collector for gathering Black Blood."}
 MultiLanguageSpellData['en'][474082] = {name = "Electro-Charged Gadgets", additional_info = "Instant\n[q]Brann's equipment is enhanced with cutting-edge tech upgrades.\n\nElectro-Charged Shield\n Effective healing done to Brann pulsates as Nature damage to nearby enemies.\n\nElectro-Charged Pistol\n Each shot discharges an electrical current, arcing through nearby enemies and reducing their attack speed. Healing Brann super-charges his pistol to deal more damage.\n\nElectro-Charged Shotgun\n Each enemy hit has a chance to be knocked down. Healing Brann super-charges his shotgun to deal more damage."}
 MultiLanguageSpellData['en'][474083] = {name = "Black Blood Collector", additional_info = "30 yd range\n{1 sec cast} {6 sec cooldown}\n[q]If it's not collected, it's not worth collecting."}
 MultiLanguageSpellData['en'][474084] = {name = "Necrotic Eruption", additional_info = "200 yd range\nInstant\n[q]Kul'tharok unleashes necrotic energy at primary target, inflicts 25 Shadow damage to all players in a line 20 yards long in front of the Kul'tharok."}
-MultiLanguageSpellData['en'][474085] = {name = "Necrotic Eruption", additional_info = "200 yd range\nInstant\n[q]Kul'tharok unleashes necrotic energy at primary target, inflicts 25 Shadow damage to all players in a line 20 yards long in front of the Kul'tharok."}
+MultiLanguageSpellData['en'][474085] = {name = "Necrotic Eruption", additional_info = "200 yd range\nInstant\n[q]Kul'tharok unleashes necrotic energy at primary target, inflicts 3684465 Shadow damage to all players in a line 20 yards long in front of the Kul'tharok."}
 MultiLanguageSpellData['en'][474086] = {name = "Prismatic Snapdragon", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Chameleonic creatures can oftentimes adapt their cells to match the color of the outside world. This snapdragon adopted this ability, but only to match the contents of their stomach; taking the phrase 'you are what you eat' to a whole new level.\"\nQuest:\nA Loyal Friend\nZone:\nSiren Isle"}
 MultiLanguageSpellData['en'][474087] = {name = "Necrotic Eruption", additional_info = "200 yd range\n3 sec cast\n[q]Kul'tharok unleashes necrotic energy at primary target, inflicts 3684465 Shadow damage to all players in front of him."}
 MultiLanguageSpellData['en'][474088] = {name = "11.1 Delves - Nerubians01 - V05 - Stuck Goblin Web Shackles (Hufton)", additional_info = nil}
 MultiLanguageSpellData['en'][474090] = {name = "Black Blood Collector", additional_info = "30 yd range\nInstant\n[q]If it's not collected, it's not worth collecting."}
 MultiLanguageSpellData['en'][474091] = {name = "Purify Candle", additional_info = nil}
-MultiLanguageSpellData['en'][474092] = {name = "Septic Swell", additional_info = "Unlimited range\nInstant\n[q]The caster releases a swell of poison from their tail, inflicting 10 Nature damage every 1 sec to players within the swell and reducing their movement speed by 75%."}
+MultiLanguageSpellData['en'][474092] = {name = "Septic Swell", additional_info = "Unlimited range\nInstant\n[q]The caster releases a swell of poison from their tail, inflicting 838509 Nature damage every 1 sec to players within the swell and reducing their movement speed by 75%."}
 MultiLanguageSpellData['en'][474093] = {name = "Purify Candle", additional_info = nil}
 MultiLanguageSpellData['en'][474094] = {name = "Purify Candle", additional_info = nil}
 MultiLanguageSpellData['en'][474095] = {name = "Tracking", additional_info = nil}
 MultiLanguageSpellData['en'][474096] = {name = "Waste Management License", additional_info = nil}
 MultiLanguageSpellData['en'][474097] = {name = "Trash Knockback", additional_info = nil}
-MultiLanguageSpellData['en'][474098] = {name = "Septic Swell", additional_info = "Unlimited range\nInstant\n[q]The caster releases a swell of poison from their tail, inflicting 10 Nature damage every 1 sec to players within the swell and reducing their movement speed by 75%."}
+MultiLanguageSpellData['en'][474098] = {name = "Septic Swell", additional_info = "Unlimited range\nInstant\n[q]The caster releases a swell of poison from their tail, inflicting 838509 Nature damage every 1 sec to players within the swell and reducing their movement speed by 75%."}
 MultiLanguageSpellData['en'][474100] = {name = "Hallowfall Supply Cache", additional_info = "{Instant} {10 sec cooldown}\n[q]Carry your crate full of Hallowfall supplies."}
 MultiLanguageSpellData['en'][474101] = {name = "Blood Missile 3", additional_info = nil}
 MultiLanguageSpellData['en'][474103] = {name = "Teal Snapdragon Treat", additional_info = "Instant\n[q]Feed your snapdragon a treat. They will now take on the teal color variant when summoned."}
@@ -5242,18 +5305,19 @@ MultiLanguageSpellData['en'][474112] = {name = "Crimson Snapdragon Treat", addit
 MultiLanguageSpellData['en'][474113] = {name = "Sandy Snapdragon Treat", additional_info = "Instant\n[q]Feed your snapdragon a treat. They will now take on the Sandy color variant when summoned."}
 MultiLanguageSpellData['en'][474114] = {name = "Draw Soul", additional_info = "200 yd range\nInstant\n[q]Kul'tharok tears the souls from players, inflicting 442136 Shadow damage every 2 sec for 8 sec.\n\n The lost souls move toward Kul'tharok and causes Soul Corruption when they reach him."}
 MultiLanguageSpellData['en'][474115] = {name = "Burning", additional_info = nil}
-MultiLanguageSpellData['en'][474119] = {name = "Mechmastermind's Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix's experiment covers afflicted enemies absorbing healing for 30 sec. Each target contributes 170 healing to this pool and all linked players share this burden.\n\n Upon expiration or consuming this healing implodes the canister incurring Mastermind's Detonation ."}
+MultiLanguageSpellData['en'][474119] = {name = "Mechmastermind's Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix's experiment covers afflicted enemies absorbing healing for 30 sec. Each target contributes 153 healing to this pool and all linked players share this burden.\n\n Upon expiration or consuming this healing implodes the canister incurring Mastermind's Detonation ."}
 MultiLanguageSpellData['en'][474120] = {name = "Purify Candle", additional_info = nil}
 MultiLanguageSpellData['en'][474121] = {name = "Call Galefeather", additional_info = "60 yd range\n{Instant} {22 sec cooldown}\n[q]- Ground targeted\n- Knockback\n- Persistent effect\n\n22 sec cooldown\n Call forth Galefeather to knock enemies back with heavy winds for a short duration."}
 MultiLanguageSpellData['en'][474122] = {name = "Dust Cloud", additional_info = "100 yd range\nInstant\n[q]Brann summons the family bear, which charges into battle, launching enemies up into the air.\n\n The bear then prepares for a series of massive stomps, dealing damage, forming an area that increases chance to dodge, and increasing maximum health."}
 MultiLanguageSpellData['en'][474123] = {name = "Unleash Darkness", additional_info = "100 yd range\nInstant\n[q]Unleashes the darkness within the caster, inflicting 20 Shadow damage to all players hit. The radius of the darkness increases with each stack of $spellname472765."}
 MultiLanguageSpellData['en'][474124] = {name = "Bear Stomp", additional_info = "Unlimited range\nInstant\n[q]Brann summons the family bear, which charges into battle, launching enemies up into the air.\n\n The bear then prepares for a series of massive stomps, dealing damage, forming an area that increases chance to dodge, and increasing maximum health."}
-MultiLanguageSpellData['en'][474125] = {name = "Septic Swell", additional_info = "2.5 sec cast\n[q]The caster releases a swell of poison from their tail, inflicting 10 Nature damage every 1 sec to players within the swell and reducing their movement speed by 75%."}
-MultiLanguageSpellData['en'][474130] = {name = "Mechmastermind's Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix's experiment covers afflicted enemies absorbing healing for 30 sec. Each target contributes 170 healing to this pool and all linked players share this burden.\n\n Upon expiration or consuming this healing implodes the canister incurring Mastermind's Detonation ."}
+MultiLanguageSpellData['en'][474125] = {name = "Septic Swell", additional_info = "2.5 sec cast\n[q]The caster releases a swell of poison from their tail, inflicting 838509 Nature damage every 1 sec to players within the swell and reducing their movement speed by 75%."}
+MultiLanguageSpellData['en'][474128] = {name = "Repeatable Event - Dastardly Duos - Score Placard - bunny", additional_info = nil}
+MultiLanguageSpellData['en'][474130] = {name = "Mechmastermind's Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix's experiment covers afflicted enemies absorbing healing for 30 sec. Each target contributes 153 healing to this pool and all linked players share this burden.\n\n Upon expiration or consuming this healing implodes the canister incurring Mastermind's Detonation ."}
 MultiLanguageSpellData['en'][474131] = {name = "Coin Missile 3", additional_info = "0.5 sec cast"}
 MultiLanguageSpellData['en'][474135] = {name = "Coin Missile 3", additional_info = "0.5 sec cast"}
 MultiLanguageSpellData['en'][474139] = {name = "Sit on Crate", additional_info = "{Instant} {5 sec cooldown}\n[q]Take a seat on the Arathi Crate."}
-MultiLanguageSpellData['en'][474140] = {name = "Mechmastermind's Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix's experiment covers afflicted enemies absorbing healing for 30 sec. Each target contributes 170 healing to this pool and all linked players share this burden.\n\n Upon expiration or consuming this healing implodes the canister incurring Mastermind's Detonation ."}
+MultiLanguageSpellData['en'][474140] = {name = "Mechmastermind's Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix's experiment covers afflicted enemies absorbing healing for 30 sec. Each target contributes 153 healing to this pool and all linked players share this burden.\n\n Upon expiration or consuming this healing implodes the canister incurring Mastermind's Detonation ."}
 MultiLanguageSpellData['en'][474141] = {name = "Draw Soul", additional_info = "200 yd range\nInstant\n[q]Kul'tharok corrupts the player's soul, causes it to erupt in necromantic energy. Inflicting 4421358 Shadow damage to players."}
 MultiLanguageSpellData['en'][474143] = {name = "Black Blood", additional_info = nil}
 MultiLanguageSpellData['en'][474144] = {name = "Put Down Hallowfall Crate", additional_info = nil}
@@ -5261,7 +5325,7 @@ MultiLanguageSpellData['en'][474145] = {name = "Throw Hallowfall Crate", additio
 MultiLanguageSpellData['en'][474147] = {name = "Noire Royal", additional_info = "2.5 sec cast\n[q]The caster guzzles the liquid, increasing their damage done by 75% for 30 sec."}
 MultiLanguageSpellData['en'][474149] = {name = "Mass Blooming", additional_info = "40 yd range\n{Instant} {7 sec cooldown}\n[q]Heals 5 allies for (585% of Spell power) and applies 1 missing heal over time effect."}
 MultiLanguageSpellData['en'][474150] = {name = "Nature's Wrath", additional_info = nil}
-MultiLanguageSpellData['en'][474152] = {name = "Necrotic Eruption", additional_info = "200 yd range\n3 sec cast\n[q]Kul'tharok unleashes necrotic energy at primary target, inflicts 25 Shadow damage to all players in a line 20 yards long in front of the Kul'tharok."}
+MultiLanguageSpellData['en'][474152] = {name = "Necrotic Eruption", additional_info = "200 yd range\n3 sec cast\n[q]Kul'tharok unleashes necrotic energy at primary target, inflicts 3684465 Shadow damage to all players in a line 20 yards long in front of the Kul'tharok."}
 MultiLanguageSpellData['en'][474153] = {name = "Slime Trail", additional_info = "Instant\n[q]Leaves behind a Slime Trail that inflicts Shadow damage to players within every 1 sec."}
 MultiLanguageSpellData['en'][474154] = {name = "Slime Trail", additional_info = nil}
 MultiLanguageSpellData['en'][474155] = {name = "Slime Trail", additional_info = "100 yd range\nInstant\n[q]Inflicts 104560 Shadow damage every 0.5 sec and reduces movement speed by 30%."}
@@ -5270,20 +5334,20 @@ MultiLanguageSpellData['en'][474160] = {name = "Viscous Bite", additional_info =
 MultiLanguageSpellData['en'][474164] = {name = "Lights!", additional_info = nil}
 MultiLanguageSpellData['en'][474165] = {name = "Waste", additional_info = nil}
 MultiLanguageSpellData['en'][474166] = {name = "Clearing Trash", additional_info = "1.5 sec cast"}
-MultiLanguageSpellData['en'][474167] = {name = "Black Blood Collector", additional_info = nil}
-MultiLanguageSpellData['en'][474168] = {name = "Acid Rain", additional_info = "Channeled (10 sec cast)\n[q]Calls down a hail of acidic rain for 10 sec, inflicting 25 Nature damage to players within 2 yards of impact."}
+MultiLanguageSpellData['en'][474167] = {name = "Black Blood Collector", additional_info = "Instant\n[q]Equip collector for gathering Black Blood."}
+MultiLanguageSpellData['en'][474168] = {name = "Acid Rain", additional_info = "Channeled (10 sec cast)\n[q]Calls down a hail of acidic rain for 10 sec, inflicting 2096272 Nature damage to players within 2 yards of impact."}
 MultiLanguageSpellData['en'][474172] = {name = "Black Blood Collector", additional_info = nil}
 MultiLanguageSpellData['en'][474173] = {name = "Lights!", additional_info = nil}
 MultiLanguageSpellData['en'][474174] = {name = "Static Discharge", additional_info = nil}
-MultiLanguageSpellData['en'][474175] = {name = "Acid Rain", additional_info = "Unlimited range\nInstant\n[q]Calls down a hail of acidic rain for 10 sec, inflicting 25 Nature damage to players within 2 yards of impact."}
+MultiLanguageSpellData['en'][474175] = {name = "Acid Rain", additional_info = "Unlimited range\nInstant\n[q]Calls down a hail of acidic rain for 10 sec, inflicting 2096272 Nature damage to players within 2 yards of impact."}
 MultiLanguageSpellData['en'][474177] = {name = "Lights!", additional_info = nil}
 MultiLanguageSpellData['en'][474178] = {name = "Lights!", additional_info = nil}
 MultiLanguageSpellData['en'][474179] = {name = "Static Discharge", additional_info = nil}
-MultiLanguageSpellData['en'][474180] = {name = "Acid Rain", additional_info = "Unlimited range\nInstant\n[q]Calls down a hail of acidic rain for 10 sec, inflicting 25 Nature damage to players within 2 yards of impact."}
-MultiLanguageSpellData['en'][474184] = {name = "Acid Rain", additional_info = "Instant\n[q]Calls down a hail of acidic rain for 10 sec, inflicting 25 Nature damage to players within 2 yards of impact."}
+MultiLanguageSpellData['en'][474180] = {name = "Acid Rain", additional_info = "Unlimited range\nInstant\n[q]Calls down a hail of acidic rain for 10 sec, inflicting 2096272 Nature damage to players within 2 yards of impact."}
+MultiLanguageSpellData['en'][474184] = {name = "Acid Rain", additional_info = "Instant\n[q]Calls down a hail of acidic rain for 10 sec, inflicting 2096272 Nature damage to players within 2 yards of impact."}
 MultiLanguageSpellData['en'][474185] = {name = "Play ATU Client Scene", additional_info = nil}
-MultiLanguageSpellData['en'][474187] = {name = "Acid Rain", additional_info = "Unlimited range\nInstant\n[q]Calls down a hail of acidic rain for 10 sec, inflicting 25 Nature damage to players within 2 yards of impact."}
-MultiLanguageSpellData['en'][474188] = {name = "Acid Rain", additional_info = "Unlimited range\nInstant\n[q]Calls down a hail of acidic rain for 10 sec, inflicting 25 Nature damage to players within 2 yards of impact."}
+MultiLanguageSpellData['en'][474187] = {name = "Acid Rain", additional_info = "Unlimited range\nInstant\n[q]Calls down a hail of acidic rain for 10 sec, inflicting 2096272 Nature damage to players within 2 yards of impact."}
+MultiLanguageSpellData['en'][474188] = {name = "Acid Rain", additional_info = "Unlimited range\nInstant\n[q]Calls down a hail of acidic rain for 10 sec, inflicting 2096272 Nature damage to players within 2 yards of impact."}
 MultiLanguageSpellData['en'][474189] = {name = "Static Discharge", additional_info = nil}
 MultiLanguageSpellData['en'][474190] = {name = "Lock and Load", additional_info = "Instant\n[q]Modifies Damage/Healing Done +15%:\nAimed Shot"}
 MultiLanguageSpellData['en'][474193] = {name = "Blaze of Glory", additional_info = nil}
@@ -5291,13 +5355,13 @@ MultiLanguageSpellData['en'][474194] = {name = "Black Blood", additional_info = 
 MultiLanguageSpellData['en'][474199] = {name = "Precision Detonation", additional_info = nil}
 MultiLanguageSpellData['en'][474200] = {name = "Drop Black Blood", additional_info = nil}
 MultiLanguageSpellData['en'][474201] = {name = "Gore", additional_info = "40 yd range\n2 sec cast\n[q]Gores the target inflicting 278826 Physical damage and causes the target to bleed for an additional 69707 Physical damage every 3 sec for 12 sec."}
-MultiLanguageSpellData['en'][474203] = {name = "Toxic Additives", additional_info = "60 yd range\n2 sec cast\n[q]Infects players, inflicting 8 Nature damage every 1 sec for 12 sec.\n\n After $474203dd, toxins overwhelm the player and they become stunned for 6 sec, spreading the effect to players within 4 yards."}
+MultiLanguageSpellData['en'][474203] = {name = "Toxic Additives", additional_info = "60 yd range\n2 sec cast\n[q]Infects players, inflicting 670807 Nature damage every 1 sec for 12 sec.\n\n After 12 sec, toxins overwhelm the player and they become stunned for 6 sec, spreading the effect to players within 4 yards."}
 MultiLanguageSpellData['en'][474205] = {name = "Drop Black Blood", additional_info = nil}
-MultiLanguageSpellData['en'][474206] = {name = "Shadow Stomp", additional_info = "{100 Energy} {30 yd range}\n4 sec cast\n[q]Inflicts 20 Shadow damage and knocks back all players within 12 yds."}
+MultiLanguageSpellData['en'][474206] = {name = "Shadow Stomp", additional_info = "{100 Energy} {30 yd range}\n4 sec cast\n[q]Inflicts 697066 Shadow damage and knocks back all players within 12 yds."}
 MultiLanguageSpellData['en'][474207] = {name = "Create Transcribed Kul Tiran Journal", additional_info = nil}
-MultiLanguageSpellData['en'][474209] = {name = "Toxic Additives", additional_info = "Unlimited range\nInstant\n[q]Infects players, inflicting 8 Nature damage every 1 sec for 12 sec.\n\n After $474203dd, toxins overwhelm the player and they become stunned for 6 sec, spreading the effect to players within 4 yards."}
+MultiLanguageSpellData['en'][474209] = {name = "Toxic Additives", additional_info = "Unlimited range\nInstant\n[q]Infects players, inflicting 670807 Nature damage every 1 sec for 12 sec.\n\n After 12 sec, toxins overwhelm the player and they become stunned for 6 sec, spreading the effect to players within 4 yards."}
 MultiLanguageSpellData['en'][474211] = {name = "Toxic Additives", additional_info = nil}
-MultiLanguageSpellData['en'][474212] = {name = "Toxic Additives", additional_info = "2.5 sec cast\n[q]Infects players, inflicting 8 Nature damage every 1 sec for 12 sec.\n\n After $474203dd, toxins overwhelm the player and they become stunned for 6 sec, spreading the effect to players within 4 yards."}
+MultiLanguageSpellData['en'][474212] = {name = "Toxic Additives", additional_info = "2.5 sec cast\n[q]Infects players, inflicting 670807 Nature damage every 1 sec for 12 sec.\n\n After 12 sec, toxins overwhelm the player and they become stunned for 6 sec, spreading the effect to players within 4 yards."}
 MultiLanguageSpellData['en'][474215] = {name = "Barely Holding Together", additional_info = "Instant\n[q]After 5 min, the garbage will fall apart. Timer pauses while in combat."}
 MultiLanguageSpellData['en'][474216] = {name = "Barely Holding Together", additional_info = nil}
 MultiLanguageSpellData['en'][474222] = {name = "Salvage", additional_info = nil}
@@ -5330,10 +5394,11 @@ MultiLanguageSpellData['en'][474277] = {name = "Holiday Hat", additional_info = 
 MultiLanguageSpellData['en'][474278] = {name = "Holiday Hat", additional_info = "Instant\n[q]Dress fashionably for the holidays!"}
 MultiLanguageSpellData['en'][474279] = {name = "Satchel of Carved Undermine Crests", additional_info = "{1.5 sec cast} {1.5 sec cooldown}\n[q]Collect 15 Carved Undermine Crests. These crests ignore the seasonal cap."}
 MultiLanguageSpellData['en'][474281] = {name = "Kill Credit: Door Rune", additional_info = nil}
-MultiLanguageSpellData['en'][474282] = {name = "Unstable Formula", additional_info = "Instant\n[q]Explodes upon death, inflicting 4 Shadow damage every 2 sec. for 6 sec. to players within 40 yards. This effect stacks."}
-MultiLanguageSpellData['en'][474283] = {name = "Unstable Formula", additional_info = "Instant\n[q]Explodes upon death, inflicting 4 Shadow damage every 2 sec. for 6 sec. to players within 40 yards. This effect stacks."}
+MultiLanguageSpellData['en'][474282] = {name = "Unstable Formula", additional_info = "Instant\n[q]Explodes upon death, inflicting 335403 Shadow damage every 2 sec. for 6 sec. to players within 40 yards. This effect stacks."}
+MultiLanguageSpellData['en'][474283] = {name = "Unstable Formula", additional_info = "Instant\n[q]Explodes upon death, inflicting 335403 Shadow damage every 2 sec. for 6 sec. to players within 40 yards. This effect stacks."}
 MultiLanguageSpellData['en'][474285] = {name = "Moxie Frenzy", additional_info = "Instant\n[q]Your spells have a chance to send you into a frenzy, granting you 32 Critical Strike for 15 sec. While frenzied, each spell cast grants an additional 32 Critical Strike but does not refresh the duration. This effect may only occur every 1 sec."}
-MultiLanguageSpellData['en'][474288] = {name = "Black Blood Collector", additional_info = nil}
+MultiLanguageSpellData['en'][474287] = {name = "Health Monitor", additional_info = nil}
+MultiLanguageSpellData['en'][474288] = {name = "Black Blood Collector", additional_info = "Instant\n[q]Equip collector for gathering Black Blood."}
 MultiLanguageSpellData['en'][474289] = {name = "Flywheel", additional_info = "Instant\n[q]Flings a spare flywheel towards a player, inflicting 35 Physical damage to players who come into contact with the projectile."}
 MultiLanguageSpellData['en'][474290] = {name = "Black Blood Collector", additional_info = nil}
 MultiLanguageSpellData['en'][474291] = {name = "Flywheel", additional_info = "Unlimited range\n3 sec cast\n[q]Flings a spare flywheel towards a player, inflicting 35 Physical damage to players who come into contact with the projectile."}
@@ -5348,6 +5413,7 @@ MultiLanguageSpellData['en'][474301] = {name = "Flywheel", additional_info = "Un
 MultiLanguageSpellData['en'][474302] = {name = "Flywheel", additional_info = "Unlimited range\nInstant\n[q]Flings a spare flywheel towards a player, inflicting 35 Physical damage to players who come into contact with the projectile."}
 MultiLanguageSpellData['en'][474305] = {name = "Absolute Darkness", additional_info = nil}
 MultiLanguageSpellData['en'][474307] = {name = "Instant Kill", additional_info = "Instant\n[q]The subject dies"}
+MultiLanguageSpellData['en'][474309] = {name = "Mind Lost", additional_info = nil}
 MultiLanguageSpellData['en'][474310] = {name = "Shrapnel Shot", additional_info = "100 yd range\nInstant\n[q]Damaging an enemy with Explosive Shot increases the damage they receive from your next Arcane Shot or Multi-Shot by 30%."}
 MultiLanguageSpellData['en'][474312] = {name = "Abyssal Grasp", additional_info = "100 yd range\nInstant\n[q]Abyssal Tentacle grabs a player in the area and inflicts 1 Shadow damage every 0.5 sec and stuns for 4 sec."}
 MultiLanguageSpellData['en'][474314] = {name = "Abyssal Grasp", additional_info = "100 yd range\nChanneled (4 sec cast)\n[q]Abyssal Tentacle grabs a player in the area and inflicts 1 Shadow damage every 0.5 sec and stuns for 4 sec."}
@@ -5377,6 +5443,8 @@ MultiLanguageSpellData['en'][474357] = {name = "Electro-Charged Gadgets", additi
 MultiLanguageSpellData['en'][474360] = {name = "Deploy Drones", additional_info = "3 sec cast\n[q]The caster mobilizes drones to fight by its side."}
 MultiLanguageSpellData['en'][474361] = {name = "Deploy Drones", additional_info = "30 yd range\nInstant\n[q]The caster mobilizes drones to fight by its side."}
 MultiLanguageSpellData['en'][474362] = {name = "Deploy Drones", additional_info = "30 yd range\nInstant\n[q]The caster mobilizes drones to fight by its side."}
+MultiLanguageSpellData['en'][474364] = {name = "Dummy", additional_info = nil}
+MultiLanguageSpellData['en'][474368] = {name = "Lost Mind Follow Advert", additional_info = nil}
 MultiLanguageSpellData['en'][474372] = {name = "Call Galefeather", additional_info = nil}
 MultiLanguageSpellData['en'][474376] = {name = "Mug's Moxie Jug", additional_info = "Instant\n[q]Your spells have a chance to send you into a frenzy, granting you 32 Critical Strike for 15 sec. While frenzied, each spell cast grants an additional 32 Critical Strike but does not refresh the duration. This effect may only occur every 1 sec.\n(750ms cooldown)"}
 MultiLanguageSpellData['en'][474388] = {name = "Flamethrower", additional_info = "Unlimited range\nInstant\n[q]The shredder unleashes a jet of flames, inflicting 589514 Fire damage to all players in front of the shredder every 0.2 sec for 5 sec."}
@@ -5396,10 +5464,12 @@ MultiLanguageSpellData['en'][474423] = {name = "Umbral Wave", additional_info = 
 MultiLanguageSpellData['en'][474424] = {name = "Canister Radiation", additional_info = "Unlimited range\nInstant\n[q]Dangerous emissions inflict 10 Shadow damage to all players. The original target suffers an additional 8 damage every 1 sec for 15 sec and increases Canister Radiation damage taken by 50%. This effect stacks."}
 MultiLanguageSpellData['en'][474425] = {name = "Umbral Wave", additional_info = "100 yd range\nInstant\n[q]Caster causes nearby Void Fragments to unleash a wave of umbral energy, inflicting 1 Shadow damage to all players and pushing them back every 1.5 sec for 6 sec."}
 MultiLanguageSpellData['en'][474426] = {name = "<DNT> Arrow to Destination", additional_info = nil}
+MultiLanguageSpellData['en'][474427] = {name = "Repeatable Event - Dastardly Duos - Prop - Palm Tree 01", additional_info = nil}
 MultiLanguageSpellData['en'][474429] = {name = "Teleport to Ground", additional_info = nil}
 MultiLanguageSpellData['en'][474430] = {name = "Overload!", additional_info = "30 yd range\n2 sec cast\n[q]The caster overloads a drone for 10 sec, increasing its attack and casting speed by 0% every 2 sec.\n\n After 10 sec, the drone explodes with System Overloaded! ."}
 MultiLanguageSpellData['en'][474432] = {name = "Overload!", additional_info = "30 yd range\nInstant\n[q]The caster overloads a drone for 10 sec, increasing its attack and casting speed by 0% every 2 sec.\n\n After 10 sec, the drone explodes with System Overloaded! ."}
 MultiLanguageSpellData['en'][474433] = {name = "Spreading Ashes", additional_info = "30 yd range\n{Channeled (5 sec cast)} {5 sec cooldown}\n[q]Spread Renzik's ashes across Undermine."}
+MultiLanguageSpellData['en'][474434] = {name = "Repeatable Event - Dastardly Duos - Prop - destroyed", additional_info = nil}
 MultiLanguageSpellData['en'][474437] = {name = "System Overloaded!", additional_info = "30 yd range\nInstant\n[q]The drone's system overloads, exploding and inflicting Fire damage to players within 15 yards."}
 MultiLanguageSpellData['en'][474438] = {name = "Throw Scrap", additional_info = "30 yd range\n1.5 sec cast\n[q]Inflicts Physical damage to an enemy."}
 MultiLanguageSpellData['en'][474440] = {name = "Cunning", additional_info = "[q]Your Spotting Eagle gains the Cunning specialization, granting you Master's Call and Pathfinding.\n\n Master's Call\nYour pet removes all root and movement impairing effects from itself and a friendly target, and grants immunity to all such effects for 4 sec.\n\n Pathfinding\n Your movement speed is increased by 8%."}
@@ -5407,10 +5477,10 @@ MultiLanguageSpellData['en'][474441] = {name = "Feather Feet", additional_info =
 MultiLanguageSpellData['en'][474442] = {name = "<DNT> Cancel ALL Arrow to Destination AND Cancel Aura", additional_info = nil}
 MultiLanguageSpellData['en'][474443] = {name = "Spreading Ashes", additional_info = nil}
 MultiLanguageSpellData['en'][474446] = {name = "Nemesis Invader Repelled", additional_info = nil}
-MultiLanguageSpellData['en'][474447] = {name = "Canister Detonation", additional_info = "Unlimited range\nInstant\n[q]Explodes inflicting up to 3354035 Shadow damage to all players based on the remaining healing absorb in the Mechengineer's Canister."}
+MultiLanguageSpellData['en'][474447] = {name = "Canister Detonation", additional_info = "Unlimited range\nInstant\n[q]Explodes inflicting up to 3018631 Shadow damage to all players based on the remaining healing absorb in the Mechengineer's Canister."}
 MultiLanguageSpellData['en'][474448] = {name = "Rumbling Impact", additional_info = nil}
 MultiLanguageSpellData['en'][474451] = {name = "Mega Blast", additional_info = "{Instant} {6 sec cooldown}\n[q]Unleashes a massive torrent of electricity, inflicting 175 Nature damage to all players caught in the blast."}
-MultiLanguageSpellData['en'][474453] = {name = "Mega Blast", additional_info = "Unlimited range\n4 sec cast\n[q]Unleashes a massive torrent of electricity, inflicting 175 Nature damage to all players caught in the blast."}
+MultiLanguageSpellData['en'][474453] = {name = "Mega Blast", additional_info = "Unlimited range\n4 sec cast\n[q]Unleashes a massive torrent of electricity, inflicting 14673902 Nature damage to all players caught in the blast."}
 MultiLanguageSpellData['en'][474454] = {name = "<DNT> Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][474455] = {name = "<DNT> Cancel ALL Arrow to Destination AND Cancel Aura", additional_info = nil}
 MultiLanguageSpellData['en'][474456] = {name = "Tenacious", additional_info = "[q]Your Spotting Eagle gains the Tenacity specialization, granting you Endurance Training and Air Superiority.\n\n Endurance Training\n You gain 5% increased maximum health.\n\n Air Superiority\nYour Spotting Eagle alerts you to oncoming danger, reducing all damage you take by 3%"}
@@ -5428,10 +5498,10 @@ MultiLanguageSpellData['en'][474474] = {name = "Well-Crafted Lockbox", additiona
 MultiLanguageSpellData['en'][474475] = {name = "Lure of the Void", additional_info = "40 yd range\nInstant\n[q]Creates a nearby portal which attempts to draw players toward it for 6 sec."}
 MultiLanguageSpellData['en'][474480] = {name = "Unstable Mech", additional_info = "Instant\n[q]Begins to Short Circuit at 70% health."}
 MultiLanguageSpellData['en'][474482] = {name = "Lure of the Void", additional_info = "40 yd range\n2 sec cast\n[q]Creates a nearby portal which attempts to draw players toward it for 6 sec."}
-MultiLanguageSpellData['en'][474487] = {name = "Short Circuit", additional_info = "Instant\n[q]Inflicts 15 Nature damage to all players within 60 yards every 5 sec, and increases the damage done by Short Circuit by 10%. This effect stacks."}
-MultiLanguageSpellData['en'][474490] = {name = "Short Circuit", additional_info = "Instant\n[q]Inflicts 15 Nature damage to all players within 60 yards every 5 sec, and increases the damage done by Short Circuit by 10%. This effect stacks."}
+MultiLanguageSpellData['en'][474487] = {name = "Short Circuit", additional_info = "Instant\n[q]Inflicts 15 Nature damage to all players within 60 yards every 5 sec, and increases the damage done by Short Circuit by 10 %. This effect stacks."}
+MultiLanguageSpellData['en'][474490] = {name = "Short Circuit", additional_info = "Instant\n[q]Inflicts 1257763 Nature damage to all players within 60 yards every 5 sec, and increases the damage done by Short Circuit by 10%. This effect stacks."}
 MultiLanguageSpellData['en'][474491] = {name = "Freshly Toweled", additional_info = nil}
-MultiLanguageSpellData['en'][474492] = {name = "Short Circuit", additional_info = "Instant\n[q]Inflicts 15 Nature damage to all players within 60 yards every 5 sec, and increases the damage done by Short Circuit by 10%. This effect stacks."}
+MultiLanguageSpellData['en'][474492] = {name = "Short Circuit", additional_info = "Instant\n[q]Inflicts 1257763 Nature damage to all players within 60 yards every 5 sec, and increases the damage done by Short Circuit by 10%. This effect stacks."}
 MultiLanguageSpellData['en'][474493] = {name = "Freshly Toweled", additional_info = "12 yd range\nInstant\n[q]The best way to clean your hands before you eat!\n\n That's the Incontinental guarantee."}
 MultiLanguageSpellData['en'][474497] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][474498] = {name = "Teleport", additional_info = nil}
@@ -5457,6 +5527,7 @@ MultiLanguageSpellData['en'][474533] = {name = "Diving Suit", additional_info = 
 MultiLanguageSpellData['en'][474534] = {name = "Infected Bite", additional_info = "40 yd range\n2 sec cast\n[q]Bites the target inflicting 5 Nature damage and reducing movement speed by 10% for 10 sec."}
 MultiLanguageSpellData['en'][474535] = {name = "Super Fly", additional_info = "40 - 200 yd range\nInstant\n[q]Take flight to your target location within 400 yds."}
 MultiLanguageSpellData['en'][474537] = {name = "Wraithgrasp Hand", additional_info = nil}
+MultiLanguageSpellData['en'][474538] = {name = "Repeatable Event - Dastardly Duos - Prop - Get Hit", additional_info = nil}
 MultiLanguageSpellData['en'][474540] = {name = "Harpoon Cannon", additional_info = nil}
 MultiLanguageSpellData['en'][474541] = {name = "Circle of the Heavens", additional_info = "[q]Restoration\n Magical damage dealt by your spells increased by 25%.\n\nBalance, Feral, Guardian\n Magical damage dealt by your spells increased by 5%."}
 MultiLanguageSpellData['en'][474542] = {name = "Bear Vigor", additional_info = "100 yd range\nInstant\n[q]Brann summons the family bear, which charges into battle, launching enemies up into the air.\n\n The bear then prepares for a series of massive stomps, dealing damage, forming an area that increases chance to dodge, and increasing maximum health."}
@@ -5466,6 +5537,7 @@ MultiLanguageSpellData['en'][474548] = {name = "Harpoon Cannon", additional_info
 MultiLanguageSpellData['en'][474550] = {name = "Harpoon Cannon", additional_info = "40 yd range\n{Instant} {0.05 sec cooldown}\n[q]Deals 5 Physical damage to target, and stuns them for 10 sec"}
 MultiLanguageSpellData['en'][474551] = {name = "Shaken Earth", additional_info = nil}
 MultiLanguageSpellData['en'][474554] = {name = "Shaken Earth", additional_info = "300 yd range\nInstant\n[q]The goons death causes the earth to shake, inflicting 1886645 Nature damage every 1 sec to players within the gaol."}
+MultiLanguageSpellData['en'][474555] = {name = "Repeatable Event - Dastardly Duos - Prop - Planter 01", additional_info = nil}
 MultiLanguageSpellData['en'][474557] = {name = "Consume Essence", additional_info = nil}
 MultiLanguageSpellData['en'][474559] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nL00T RAID-R\n[q]Every 60 sec or 5 sec after entering combat, scan the environment highlighting Mislaid Curiosities and making enemies below 95% health take 4% more damage for 10 sec.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474561] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nL00T RAID-R\n[q]Every 45 sec or 5 sec after entering combat, scan the environment highlighting Mislaid Curiosities and making enemies below 95% health take 6% more damage for 10 sec.\n\nYou already have this curio in your collection."}
@@ -5474,28 +5546,29 @@ MultiLanguageSpellData['en'][474563] = {name = "Adding", additional_info = "1.5 
 MultiLanguageSpellData['en'][474567] = {name = "Reuse", additional_info = "Instant\n[q]Your player level and item level have been adjusted for testing purposes."}
 MultiLanguageSpellData['en'][474572] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nKaja'Cola Carrier\n[q]Mislaid Curiosities now have a 35% chance to contain 1 Kaja'Cola and once per delve Brann now summons a Kaja'6-Pack when creating campfires.\n\n There are various Kaja'Cola flavors, and each one has its own effect that applies when collected.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474573] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nComically Large Magnet\n[q]When Brann uses Gathering Tools , there is a 100 % chance to magnetize Discarded Plating to party members granting them 5 % of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474574] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nBiofuel Rocket Gear\n[q]Party members are equipped with Biofuel Rocket Gear .\n\n Biofuel\n Each enemy slain fuels the Biofuel Rocket Gear increasing Movement Speed by 2% and Haste by 2% for 10 sec, stacking up to 10 times.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474576] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nThree Dimensional Bioprinter\n[q]Damaging an Elite creature below 40% health creates an imperfect copy of it at 50% power to fight by your side. Only 1 copy can exist at the same time.\n\n The device may malfunction creating imperfect copies of your companion.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474577] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nOverdrive Pylon\n[q]After 30 sec of combat, party members and Brann deal 5% more damage and healing for 20 sec. Can only occur once per combat.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474578] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPacifist Rig\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474574] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nBiofuel Rocket Gear\n[q]Party members are equipped with Biofuel Rocket Gear .\n\n Biofuel\n Each enemy slain fuels the Biofuel Rocket Gear increasing Movement Speed by 2 % and Haste by 2 % for 10 sec, stacking up to 10 times.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474576] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nThree Dimensional Bioprinter\n[q]Damaging an Elite creature below 40 % health creates an imperfect copy of it at 50 % power to fight by your side. Only 1 copy can exist at the same time.\n\n The device may malfunction creating imperfect copies of your companion.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474577] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nOverdrive Pylon\n[q]After 30 sec of combat, party members and Brann deal 5 % more damage and healing for 20 sec. Can only occur once per combat.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474578] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPacifist Rig\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK- 1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474579] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nKaja'Cola Carrier\n[q]Mislaid Curiosities now have a 45% chance to contain 2 Kaja'Colas and once per delve Brann now summons a Kaja'6-Pack when creating campfires.\n\n There are various Kaja'Cola flavors, and each one has its own effect that applies when collected.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474580] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nKaja'Cola Carrier\n[q]Mislaid Curiosities now have a 40% chance to contain 1 Kaja'Cola and once per delve Brann now summons a Kaja'6-Pack when creating campfires.\n\n There are various Kaja'Cola flavors, and each one has its own effect that applies when collected.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474581] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nKaja'Cola Carrier\n[q]Mislaid Curiosities now have a 50% chance to contain 2 Kaja'Colas and once per delve Brann now summons a Kaja'6-Pack when creating campfires.\n\n There are various Kaja'Cola flavors, and each one has its own effect that applies when collected.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474582] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nComically Large Magnet\n[q]When Brann uses Gathering Tools , there is a 100 % chance to magnetize Discarded Plating to party members granting them 10 % of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474583] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nComically Large Magnet\n[q]When Brann uses Gathering Tools , there is a 100 % chance to magnetize Discarded Plating to party members granting them 15 % of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474584] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nComically Large Magnet\n[q]When Brann uses Gathering Tools , there is a 100 % chance to magnetize Discarded Plating to party members granting them 20 % of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474585] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nThree Dimensional Bioprinter\n[q]Damaging an Elite creature below 40% health creates an imperfect copy of it at 75% power to fight by your side. Only 1 copy can exist at the same time.\n\n The device may malfunction creating imperfect copies of your companion.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474586] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nThree Dimensional Bioprinter\n[q]Damaging an Elite creature below 40% health creates an imperfect copy of it at 75% power to fight by your side. Only 2 copy can exist at the same time.\n\n The device may malfunction creating imperfect copies of your companion.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474587] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nThree Dimensional Bioprinter\n[q]Damaging an Elite creature below 40% health creates an imperfect copy of it at 100% power to fight by your side. Only 2 copy can exist at the same time.\n\n The device may malfunction creating imperfect copies of your companion.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474588] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nBiofuel Rocket Gear\n[q]Party members are equipped with Biofuel Rocket Gear .\n\n Biofuel\n Each enemy slain fuels the Biofuel increasing Movement Speed by 2% and Haste by 2% for 20 sec, stacking up to 15 times.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474589] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nBiofuel Rocket Gear\n[q]Party members are equipped with Biofuel Rocket Gear .\n\n Biofuel\n Each enemy slain fuels the Biofuel increasing Movement Speed by 2% and Haste by 2% for 30 sec, stacking up to 20 times.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474590] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nBiofuel Rocket Gear\n[q]Party members are equipped with Biofuel Rocket Gear .\n\n Biofuel\n Each enemy slain fuels the Rocket Gear increasing Movement Speed by 2% and Haste by 2% for 45 sec, stacking up to 30 times.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474591] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPacifist Rig\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-2 at their location, equipping them with it for 10 sec, and knocking back nearby enemies.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474592] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPacifist Rig\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-3 at their location, equipping them with it for 10 sec, and knocking back nearby enemies.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474593] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPacifist Rig\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-4 at their location, equipping them with it for 10 sec, and knocking back nearby enemies.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474594] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nOverdrive Pylon\n[q]After 30 sec of combat, party members and Brann deal 10% more damage and healing for 30 sec. Can only occur once per combat.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474595] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nOverdrive Pylon\n[q]After 30 sec of combat, party members and Brann deal 15% more damage and healing for 30 sec. Can only occur once per combat.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474596] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nOverdrive Pylon\n[q]After 30 sec of combat, party members and Brann deal 20% more damage and healing for 40 sec. Can only occur once per combat.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474585] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nThree Dimensional Bioprinter\n[q]Damaging an Elite creature below 40 % health creates an imperfect copy of it at 75 % power to fight by your side. Only 1 copy can exist at the same time.\n\n The device may malfunction creating imperfect copies of your companion.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474586] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nThree Dimensional Bioprinter\n[q]Damaging an Elite creature below 40 % health creates an imperfect copy of it at 75 % power to fight by your side. Only 2 copy can exist at the same time.\n\n The device may malfunction creating imperfect copies of your companion.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474587] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nThree Dimensional Bioprinter\n[q]Damaging an Elite creature below 40 % health creates an imperfect copy of it at 100 % power to fight by your side. Only 2 copy can exist at the same time.\n\n The device may malfunction creating imperfect copies of your companion.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474588] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nBiofuel Rocket Gear\n[q]Party members are equipped with Biofuel Rocket Gear .\n\n Biofuel\n Each enemy slain fuels the Biofuel increasing Movement Speed by 2 % and Haste by 2 % for 20 sec, stacking up to 15 times.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474589] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nBiofuel Rocket Gear\n[q]Party members are equipped with Biofuel Rocket Gear .\n\n Biofuel\n Each enemy slain fuels the Biofuel increasing Movement Speed by 2 % and Haste by 2 % for 30 sec, stacking up to 20 times.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474590] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nBiofuel Rocket Gear\n[q]Party members are equipped with Biofuel Rocket Gear .\n\n Biofuel\n Each enemy slain fuels the Rocket Gear increasing Movement Speed by 2 % and Haste by 2 % for 45 sec, stacking up to 30 times.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474591] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPacifist Rig\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-2 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474592] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPacifist Rig\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-3 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474593] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPacifist Rig\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-4 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474594] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nOverdrive Pylon\n[q]After 30 sec of combat, party members and Brann deal 10 % more damage and healing for 30 sec. Can only occur once per combat.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474595] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nOverdrive Pylon\n[q]After 30 sec of combat, party members and Brann deal 15 % more damage and healing for 30 sec. Can only occur once per combat.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474596] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nOverdrive Pylon\n[q]After 30 sec of combat, party members and Brann deal 20 % more damage and healing for 40 sec. Can only occur once per combat.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474597] = {name = "Repeatable Event - Dastardly Duos - Prop - Palm Light", additional_info = nil}
 MultiLanguageSpellData['en'][474598] = {name = "Send Event, 1A and 1B Accepted", additional_info = nil}
 MultiLanguageSpellData['en'][474599] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nMechasaur EZ-Build Kit\n[q]Brann's Epic Egg now houses 1 mechasaurs that taunt enemies for ( 4000 / 1000) sec while within the egg.\n\n Mechasaurs will periodically stomp in addition to their usual abilities, dealing moderate Fire damage split between nearby enemies. Affected enemies explode after 5 sec, taking moderate Fire damage.\n\nBrann's Epic Egg\nBrann summons a devilsaur egg. Hopefully it hatches.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474600] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nAutomatic Footbomb Dispenser\n[q]Brann's spells and abilities have a chance to drop 2 footbombs on the field for 10 sec.\n\n Running into a footbomb kicks it at your enemy target dealing significant Fire damage to all enemies in a 6-yard radius.\n\nYou already have this curio in your collection."}
@@ -5504,11 +5577,11 @@ MultiLanguageSpellData['en'][474602] = {name = "Blastburn Roarcannon", additiona
 MultiLanguageSpellData['en'][474603] = {name = "Call Galefeather", additional_info = nil}
 MultiLanguageSpellData['en'][474605] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPocket Factory\n[q]Brann's spells and abilities have a chance to commission the Pocket Factory to build 1 turret to assist for 10 sec.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474606] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nGoblomagnetic Bouncing Grenade\n[q]Brann has a chance during combat to toss a GMB grenade at an enemy target dealing moderate Nature damage with a 20% chance to stun for 1.5 sec. This has a 25% chance to bounce to a new target.\n\n The grenade can safely bounce on party members.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474607] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPinged Augment Chip\n[q]Brann's maximum health is increased by 4% and his damage and healing done is increased by 20%.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30% of his maximum health in damage and be stunned for 5 sec.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474607] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPinged Augment Chip\n[q]Brann's maximum health is increased by 4 % and his damage and healing done is increased by 20 %.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30 % of his maximum health in damage and be stunned for 5 sec.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474608] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nReverse Engineered Goblin Death Bomb\n[q]When any player's health falls below 50% during combat, Brann throws a giant bomb that explodes on impact.\n\n The explosion knocks back and slows surrounding enemies by 45% for 5 sec and heals nearby party members for 35% of their maximum health. Can only occur every 1.5 min.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474609] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPinged Augment Chip\n[q]Brann's maximum health is increased by 6% and his damage and healing done is increased by 25%.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30% of his maximum health in damage and be stunned for 5 sec.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474610] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPinged Augment Chip\n[q]Brann's maximum health is increased by 8% and his damage and healing done is increased by 30%.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30% of his maximum health in damage and be stunned for 5 sec.\n\nYou already have this curio in your collection."}
-MultiLanguageSpellData['en'][474611] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPinged Augment Chip\n[q]Brann's maximum health is increased by 10% and his damage and healing done is increased by 35%.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30% of his maximum health in damage and be stunned for 5 sec.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474609] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPinged Augment Chip\n[q]Brann's maximum health is increased by 6 % and his damage and healing done is increased by 25 %.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30 % of his maximum health in damage and be stunned for 5 sec.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474610] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPinged Augment Chip\n[q]Brann's maximum health is increased by 8 % and his damage and healing done is increased by 30 %.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30 % of his maximum health in damage and be stunned for 5 sec.\n\nYou already have this curio in your collection."}
+MultiLanguageSpellData['en'][474611] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nPinged Augment Chip\n[q]Brann's maximum health is increased by 10 % and his damage and healing done is increased by 35 %.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30 % of his maximum health in damage and be stunned for 5 sec.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474612] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nReverse Engineered Goblin Death Bomb\n[q]When any player's health falls below 50% during combat, Brann throws a giant bomb that explodes on impact.\n\n The explosion knocks back and slows surrounding enemies by 60% for 5 sec and heals nearby party members for 50% of their maximum health. Can only occur every 1.5 min.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474613] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nReverse Engineered Goblin Death Bomb\n[q]When any player's health falls below 50% during combat, Brann throws a giant bomb that explodes on impact.\n\n The explosion knocks back and slows surrounding enemies by 75% for 5 sec and heals nearby party members for 65% of their maximum health. Can only occur every 1.5 min.\n\nYou already have this curio in your collection."}
 MultiLanguageSpellData['en'][474614] = {name = "Adding", additional_info = "1.5 sec cast\nReagents:\nReverse Engineered Goblin Death Bomb\n[q]When any player's health falls below 50% during combat, Brann throws a giant bomb that explodes on impact.\n\n The explosion knocks back and slows surrounding enemies by 90% for 5 sec and heals nearby party members for 80% of their maximum health. Can only occur every 1.5 min.\n\nYou already have this curio in your collection."}
@@ -5541,7 +5614,7 @@ MultiLanguageSpellData['en'][474652] = {name = "Call Galefeather", additional_in
 MultiLanguageSpellData['en'][474653] = {name = "Utility: Call Galefeather", additional_info = nil}
 MultiLanguageSpellData['en'][474658] = {name = "Dark Moonlight", additional_info = "Unlimited range\nInstant\n[q]The Dark Moonlight reduces spell-casting speed by 50%."}
 MultiLanguageSpellData['en'][474664] = {name = "Coin and Shock", additional_info = nil}
-MultiLanguageSpellData['en'][474665] = {name = "Coin Magnet", additional_info = "300 yd range\nInstant\n[q]The Premium Currency Coil attracts the gold in player bags, pulling them towards itself and inflicting 754658 Physical damage every 1 sec for 5 sec."}
+MultiLanguageSpellData['en'][474665] = {name = "Coin Magnet", additional_info = "300 yd range\nInstant\n[q]The Premium Currency Coil attracts the gold in player bags, pulling them towards itself and inflicting 679192 Physical damage every 1 sec for 5 sec."}
 MultiLanguageSpellData['en'][474667] = {name = "Linked Machines", additional_info = nil}
 MultiLanguageSpellData['en'][474672] = {name = "Taking Notes", additional_info = "Channeled\n[q]Take notes while Bargus and Angorla repair the fractured shard."}
 MultiLanguageSpellData['en'][474678] = {name = "Aessina's Renewal", additional_info = "[q]When a hit deals more than 12% of your maximum health, instantly heal for 10% of your health.\n\n This effect cannot occur more than once every 30 seconds.\n(30s cooldown)"}
@@ -5562,7 +5635,7 @@ MultiLanguageSpellData['en'][474712] = {name = "Zapbolt", additional_info = "60 
 MultiLanguageSpellData['en'][474721] = {name = "Envenom", additional_info = "Instant\nRequires One-Handed Melee Weapon\n[q]Finishing move that drives your poisoned blades in deep, dealing instant Nature damage and increasing your poison application chance by 0%. Damage and duration increased per combo point.\n\n 1 point : 0 damage, 1 sec\n 2 points: 0 damage, 2 sec\n 3 points: 0 damage, 3 sec\n 4 points: 0 damage, 4 sec\n 5 points: 0 damage, 5 sec\n [  6 points: 0 damage, 6 sec] [ Deeper Stratagem : 7 points: 0 damage, 7 sec ]\nAssassination\n[q]Up to 2 Envenom applications can overlap."}
 MultiLanguageSpellData['en'][474722] = {name = "Envenom", additional_info = "Instant\nRequires One-Handed Melee Weapon\n[q]Finishing move that drives your poisoned blades in deep, dealing instant Nature damage and increasing your poison application chance by 0%. Damage and duration increased per combo point.\n\n 1 point : 0 damage, 1 sec\n 2 points: 0 damage, 2 sec\n 3 points: 0 damage, 3 sec\n 4 points: 0 damage, 4 sec\n 5 points: 0 damage, 5 sec\n [  6 points: 0 damage, 6 sec] [ Deeper Stratagem : 7 points: 0 damage, 7 sec ]\nAssassination\n[q]Up to 2 Envenom applications can overlap."}
 MultiLanguageSpellData['en'][474726] = {name = "Someone's Influence", additional_info = "Instant\n[q]The Underpin's allies are wandering about the delve.\n\n Defeating these enemies provides additional Undercoin and Delver's Journey progress at the end of this delve.\n [\n Enemy groups remaining: / ]"}
-MultiLanguageSpellData['en'][474728] = {name = "Lycara's Meditation", additional_info = "[q]You retain Lycara's Teachings' bonus from your most recent shapeshift form for 5 sec after shifting out of it."}
+MultiLanguageSpellData['en'][474728] = {name = "Lycara's Meditation", additional_info = "[q]You retain Lycara's Teachings' bonus from your most recent shapeshift form for 5 sec after shifting out of it, provided you remained in that form for 2.9 sec, reduced by Haste."}
 MultiLanguageSpellData['en'][474730] = {name = "Titan Orb", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][474731] = {name = "Traveling Flames", additional_info = "200 yd range\nInstant\n[q]Colliding with Traveling Flames inflicts 6708070 Fire damage and knocks players back."}
 MultiLanguageSpellData['en'][474738] = {name = "Unerring Vision", additional_info = "[q]Trueshot now increases your critical strike chance by an additional 10% and increases your critical strike damage by an additional 20%.\n\n Additionally, Calling the Shots reduces Trueshot's cooldown by an additional 1.0 sec."}
@@ -5571,7 +5644,7 @@ MultiLanguageSpellData['en'][474745] = {name = "Inhyldir's Rush", additional_inf
 MultiLanguageSpellData['en'][474746] = {name = "Solitary Companion", additional_info = "[q]Your pet damage is increased by 35% and your pet is 10% larger."}
 MultiLanguageSpellData['en'][474747] = {name = "Solitary Companion", additional_info = nil}
 MultiLanguageSpellData['en'][474748] = {name = "Severed Strands", additional_info = "Instant\n[q]The Severed Threads lend you their aid, increasing your damage dealt & healing done while inside Nerub-ar Palace."}
-MultiLanguageSpellData['en'][474750] = {name = "Symbiotic Relationship", additional_info = "{2% of base mana} {40 yd range}\n2.5 sec cast\n[q]Form a bond with an ally. Your self-healing also heals your bonded ally for 10 % of the amount healed. Your healing to your bonded ally also heals you for 8 % of the amount healed."}
+MultiLanguageSpellData['en'][474750] = {name = "Symbiotic Relationship", additional_info = "{2% of base mana} {40 yd range}\n1.5 sec cast\n[q]Form a bond with an ally. Your self-healing also heals your bonded ally for 10 % of the amount healed. Your healing to your bonded ally also heals you for 8 % of the amount healed."}
 MultiLanguageSpellData['en'][474751] = {name = "Solitary Companion", additional_info = nil}
 MultiLanguageSpellData['en'][474753] = {name = "Mister Pick-Me-Up", additional_info = "Instant\n[q]Your healing spells and abilities have a chance to summon Mister Pick-Me-Up for 6 sec, firing a healing beam every 2 sec that jumps between 5 injured allies to restore 212 health each.\n\n Overhealing from this effect irradiates allies to deal Nature damage to nearby enemies over 1.5 sec, increased by additional overhealing."}
 MultiLanguageSpellData['en'][474754] = {name = "Symbiotic Relationship", additional_info = "100 yd range\nInstant\n[q]Form a bond with an ally. Your self-healing also heals your bonded ally for 10% of the amount healed. Your healing to your bonded ally also heals you for 8% of the amount healed."}
@@ -5597,7 +5670,7 @@ MultiLanguageSpellData['en'][1213151] = {name = "Rotting Acid", additional_info 
 MultiLanguageSpellData['en'][1213152] = {name = "Rotting Acid", additional_info = "Instant\n[q]On death, afflicts players within 0 yards with Sticky Sludge ."}
 MultiLanguageSpellData['en'][1213153] = {name = "Electrified Floor", additional_info = nil}
 MultiLanguageSpellData['en'][1213154] = {name = "Electrified Floor", additional_info = "Instant\n[q]Inflicts 20% of maximum health as Nature damage every 1 sec."}
-MultiLanguageSpellData['en'][1213156] = {name = "Scatterblast Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix cannons his current target inflicting 20950056 Physical damage. This attack cannot be dodged or parried.\n\n This additionally blasts players in a frontal cone inflicting 46083683 Fire damage and increases Scatterblast Canisters damage taken by 100% for until canceled . This damage splits evenly among effected players.\n\n All targets become afflicted with Mechengineer's Canisters .\n\n If this fails to hit at least 3 targets all players suffer the full effect."}
+MultiLanguageSpellData['en'][1213156] = {name = "Scatterblast Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix cannons his current target inflicting 20950056 Physical damage. This attack cannot be dodged or parried.\n\n This additionally blasts players in a frontal cone inflicting 46083683 Fire damage and increases Scatterblast Canisters damage taken by 100% for . This damage splits evenly among effected players.\n\n All targets become afflicted with Mechengineer's Canisters .\n\n If this fails to hit at least 3 targets all players suffer the full effect."}
 MultiLanguageSpellData['en'][1213157] = {name = "Rooted", additional_info = nil}
 MultiLanguageSpellData['en'][1213161] = {name = "Harpoon Cannon", additional_info = "Channeled (2 sec cast)"}
 MultiLanguageSpellData['en'][1213162] = {name = "Gold Return", additional_info = nil}
@@ -5634,7 +5707,7 @@ MultiLanguageSpellData['en'][1213292] = {name = "Pressurizing Tank", additional_
 MultiLanguageSpellData['en'][1213303] = {name = "Dr. Scrapheal", additional_info = "Approximately 3 procs per minute\n[q]Your healing spells and abilities have a chance to summon Dr. Scrapheal to heal your target additionally for 487 .\n\n When a nearby ally's health falls below 35 %, Dr. Scrapheal springs into action, delivering instant care to heal them for 1900 . This effect can only activate once every 1 min."}
 MultiLanguageSpellData['en'][1213305] = {name = "Black Shot", additional_info = "Instant\n[q]Shoots the current threat target for 18 Shadow damage and absorbs 60 healing for 15 sec."}
 MultiLanguageSpellData['en'][1213311] = {name = "Harpoon Cannon", additional_info = "70 yd range\n{Instant} {10 sec cooldown}\n[q]Deals 5 Physical damage to target, and stuns them for 10 sec"}
-MultiLanguageSpellData['en'][1213313] = {name = "Black Shot", additional_info = "10 yd range\n{Instant} {5 sec cooldown}\n[q]Shoots the current threat target for 18 Shadow damage and absorbs 60 healing for 15 sec."}
+MultiLanguageSpellData['en'][1213313] = {name = "Black Shot", additional_info = "10 yd range\n{Instant} {5 sec cooldown}\n[q]Shoots the current threat target for 1493259 Shadow damage and absorbs 4289047 healing for 15 sec."}
 MultiLanguageSpellData['en'][1213320] = {name = "Unstable Excavation", additional_info = "100 yd range\nInstant\n[q]The caster excavates the ground, creating a patch of unstable ground. Inflicts Nature damage every 1 sec and reduces movement speed by 30% to players within."}
 MultiLanguageSpellData['en'][1213326] = {name = "Stealth", additional_info = "Instant\n[q]Sneaking around."}
 MultiLanguageSpellData['en'][1213327] = {name = "Flashbang", additional_info = "30 yd range\n{Instant} {10 sec cooldown}\n[q]Mr. DELVER blinds a target, lowering their damage resistance and stunning them for 10 sec."}
@@ -5643,7 +5716,7 @@ MultiLanguageSpellData['en'][1213344] = {name = "Distract", additional_info = "3
 MultiLanguageSpellData['en'][1213345] = {name = "Manual Shutdown", additional_info = "Instant\n[q]Destroys Mr. DELVER. Useful for any unknown bugs that may occur due to its early build.\n\n Please send feedback to ERROR GOBLIN COMPANY NOT FOUND."}
 MultiLanguageSpellData['en'][1213348] = {name = "Harppon Cannon", additional_info = nil}
 MultiLanguageSpellData['en'][1213350] = {name = "Mr. DELVER Pilot", additional_info = nil}
-MultiLanguageSpellData['en'][1213354] = {name = "Scream Saw", additional_info = "300 yd range\n2 sec cast\n[q]Severs the target, inflicting 9 Physical damage every 1 sec and stunning the target for 10 sec."}
+MultiLanguageSpellData['en'][1213354] = {name = "Scream Saw", additional_info = "300 yd range\n2 sec cast\n[q]Severs the target, inflicting 754658 Physical damage every 1 sec and stunning the target for 10 sec."}
 MultiLanguageSpellData['en'][1213363] = {name = "Alpha Build", additional_info = "Instant\n[q]Mr. DELVER is immune to all forms of nature damage. It will self-destruct if it is submerged in any kind of liquid."}
 MultiLanguageSpellData['en'][1213370] = {name = "Vulnerability Detected", additional_info = "Unlimited range\nInstant\n[q]Every 45 sec or 5 sec after entering combat, scan the environment highlighting Mislaid Curiosities and making enemies below 95% health take 6% more damage for 10 sec."}
 MultiLanguageSpellData['en'][1213371] = {name = "Vulnerability Detected", additional_info = "Unlimited range\nInstant\n[q]Every 45 sec or 5 sec after entering combat, scan the environment highlighting Mislaid Curiosities and making enemies below 95% health take 8% more damage for 15 sec."}
@@ -5655,7 +5728,7 @@ MultiLanguageSpellData['en'][1213396] = {name = "Shoot", additional_info = nil}
 MultiLanguageSpellData['en'][1213416] = {name = "Ping Hostage", additional_info = nil}
 MultiLanguageSpellData['en'][1213423] = {name = "Dr. Scrapheal", additional_info = "50 yd range\nInstant\n[q]Your healing spells and abilities have a chance to summon Dr. Scrapheal to heal your target additionally for 487 .\n\n When a nearby ally's health falls below 35 %, Dr. Scrapheal springs into action, delivering instant care to heal them for 1900 . This effect can only activate once every 1 min."}
 MultiLanguageSpellData['en'][1213424] = {name = "Dr. Scrapheal", additional_info = "100 yd range\nInstant\n[q]Your healing spells and abilities have a chance to summon Dr. Scrapheal to heal your target additionally for 487 .\n\n When a nearby ally's health falls below 35 %, Dr. Scrapheal springs into action, delivering instant care to heal them for 1900 . This effect can only activate once every 1 min."}
-MultiLanguageSpellData['en'][1213425] = {name = "Terrifying Roar", additional_info = "100 yd range\n3.5 sec cast\n[q]Unleashes a Terrifying Roar fearing all players within 100 yds and inflicts 1 Shadow damage every 0.5 sec while running in fear."}
+MultiLanguageSpellData['en'][1213425] = {name = "Terrifying Roar", additional_info = "100 yd range\n3.5 sec cast\n[q]Unleashes a Terrifying Roar fearing all players within 100 yds and inflicts 34853 Shadow damage every 0.5 sec while running in fear."}
 MultiLanguageSpellData['en'][1213426] = {name = "Tentacle Slam", additional_info = "100 yd range\n4 sec cast\n[q]Xel'anegh attempts to crush its enemies, inflicting 697066 Physical damage and stunning players in the area for 4 sec.\n The force of the impact inflicts 174266 Physical damage to all players within 100 yds."}
 MultiLanguageSpellData['en'][1213427] = {name = "Tentacle Slam", additional_info = "100 Energy"}
 MultiLanguageSpellData['en'][1213428] = {name = "Archivist's Codex", additional_info = "{Instant} {30 sec cooldown}\n[q]Write in the archivist's codex."}
@@ -5669,7 +5742,7 @@ MultiLanguageSpellData['en'][1213435] = {name = "Hold Clipboard and Quill", addi
 MultiLanguageSpellData['en'][1213436] = {name = "Goo-blin Grenade", additional_info = nil}
 MultiLanguageSpellData['en'][1213437] = {name = "Goo-blin Grenade", additional_info = "50 yd range\n{Instant} {1.5 min cooldown}\n[q]Coat the enemy in a layer of unstable slime, dealing 2643 Nature damage over 10 sec. If the target dies while slimed, it releases corrosive goo that deals 1266 Nature damage, split between nearby enemies."}
 MultiLanguageSpellData['en'][1213438] = {name = "Goo-blin Grenade", additional_info = "100 yd range\nInstant\n[q]Coat the enemy in a layer of unstable slime, dealing 2643 Nature damage over 10 sec. If the target dies while slimed, it releases corrosive goo that deals 1266 Nature damage, split between nearby enemies."}
-MultiLanguageSpellData['en'][1213469] = {name = "Dark Slug", additional_info = "45 yd range\n1.5 sec cast\n[q]Shoots at a random enemy, inflicting 18 Shadow damage."}
+MultiLanguageSpellData['en'][1213469] = {name = "Dark Slug", additional_info = "45 yd range\n1.5 sec cast\n[q]Shoots at a random enemy, inflicting 1509316 Shadow damage."}
 MultiLanguageSpellData['en'][1213473] = {name = "Diving Helmet", additional_info = nil}
 MultiLanguageSpellData['en'][1213474] = {name = "Malfunction!", additional_info = nil}
 MultiLanguageSpellData['en'][1213476] = {name = "Tear Gas", additional_info = "10 yd range\nInstant\n[q]Choking on Darkfuse tear gas!"}
@@ -5687,7 +5760,7 @@ MultiLanguageSpellData['en'][1213517] = {name = "Glyph of the Ashvane Pistol Sho
 MultiLanguageSpellData['en'][1213528] = {name = "Song of Faith", additional_info = nil}
 MultiLanguageSpellData['en'][1213535] = {name = "Teleport to Undermine", additional_info = nil}
 MultiLanguageSpellData['en'][1213549] = {name = "Evergreen Glyph Template", additional_info = "1.5 sec cast\n[q]$spelldesc"}
-MultiLanguageSpellData['en'][1213551] = {name = "Pacifist Rig", additional_info = "[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1213551] = {name = "Pacifist Rig", additional_info = "[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
 MultiLanguageSpellData['en'][1213554] = {name = "Automatic Footbomb Dispenser", additional_info = "[q]Brann's spells and abilities have a chance to drop 2 footbombs on the field for 10 sec.\n\n Running into a footbomb kicks it at your enemy target dealing significant Fire damage to all enemies in a 6-yard radius."}
 MultiLanguageSpellData['en'][1213555] = {name = "Mechasaur EZ-Build Kit", additional_info = "[q]Brann's Epic Egg now houses 1 mechasaurs that taunt enemies for ( 4000 / 1000) sec while within the egg.\n\n Mechasaurs will periodically stomp in addition to their usual abilities, dealing moderate Fire damage split between nearby enemies. Affected enemies explode after 5 sec, taking moderate Fire damage.\n\nBrann's Epic Egg\nBrann summons a devilsaur egg. Hopefully it hatches."}
 MultiLanguageSpellData['en'][1213556] = {name = "Glyph of the Ashvane Pistol Shot", additional_info = "[q]Pistol Shot now uses the appearance of Ashvane when firing."}
@@ -5716,12 +5789,12 @@ MultiLanguageSpellData['en'][1213614] = {name = "Electro-Discharge", additional_
 MultiLanguageSpellData['en'][1213615] = {name = "Stealth Burst", additional_info = "Instant\n[q]Electricty bends the light around you, preventing enemies from detecting you for until canceled."}
 MultiLanguageSpellData['en'][1213618] = {name = "Electro-Discharge", additional_info = nil}
 MultiLanguageSpellData['en'][1213620] = {name = "[q3]22H Slicks", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nPile of Rusted Scrap (50), Handful of Bismuth Bolts (32), Whimsical Wiring (6), Gyrating Gear (12), Entropy Enhancer (2)\nVendor:\nSmaks Topskimmer\nZone:\nUndermine\nCost:\n150\n\n[q3]22H Slicks\n[q2]Use: Install these wheels to increase the turning capability of your G-99 Breakneck at the cost of drifting stabilization.\n80\n[q]\"Full surface contact for maximum friction.\""}
-MultiLanguageSpellData['en'][1213621] = {name = "Rocket Rain", additional_info = "Unlimited range\n{3.5 sec cast} {12 sec cooldown}\n[q]The shredder launches missiles at random targets for 10 sec. On impact, inflicts 15 Fire damage and an additional 9 Fire damage every 1 sec for 10 sec."}
+MultiLanguageSpellData['en'][1213621] = {name = "Rocket Rain", additional_info = "Unlimited range\n{3.5 sec cast} {12 sec cooldown}\n[q]The shredder launches missiles at random targets for 10 sec. On impact, inflicts 1215838 Fire damage and an additional 754658 Fire damage every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][1213630] = {name = "Delver's Starter Kit", additional_info = nil}
 MultiLanguageSpellData['en'][1213632] = {name = "Delver's Cosmetic Surprise Bag", additional_info = nil}
 MultiLanguageSpellData['en'][1213641] = {name = "Big Smashy", additional_info = "8 yd range\n{2 sec cast} {3 sec cooldown}\n[q]The caster slams the target with it's weapon, inflicting Physical damage and knocking them back."}
 MultiLanguageSpellData['en'][1213642] = {name = "Rocket Rain", additional_info = nil}
-MultiLanguageSpellData['en'][1213648] = {name = "Rocket Rain", additional_info = "Unlimited range\nInstant\n[q]The shredder launches missiles at random targets for 10 sec. On impact, inflicts 15 Fire damage and an additional 9 Fire damage every 1 sec for 10 sec."}
+MultiLanguageSpellData['en'][1213648] = {name = "Rocket Rain", additional_info = "Unlimited range\nInstant\n[q]The shredder launches missiles at random targets for 10 sec. On impact, inflicts 1215838 Fire damage and an additional 754658 Fire damage every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][1213652] = {name = "Electric Fields", additional_info = "Instant\n[q]Dangerous electric fields are activated, preventing access to certain areas."}
 MultiLanguageSpellData['en'][1213654] = {name = "Rocket Rain", additional_info = nil}
 MultiLanguageSpellData['en'][1213656] = {name = "Overtime!", additional_info = "3 sec cast\n[q]Increases the caster's attack speed by 50% for 10 sec."}
@@ -5743,7 +5816,7 @@ MultiLanguageSpellData['en'][1213690] = {name = "Molten Phlegm", additional_info
 MultiLanguageSpellData['en'][1213692] = {name = "Searing Slam", additional_info = nil}
 MultiLanguageSpellData['en'][1213694] = {name = "Earthcrusher", additional_info = nil}
 MultiLanguageSpellData['en'][1213695] = {name = "Earthcrusher", additional_info = "100 yd range\nInstant\n[q]Inflicts 15 Physical damage to all players and causes earth to erupt in nearby locations, inflicting 30 Nature damage to players within 4 yards of impact."}
-MultiLanguageSpellData['en'][1213696] = {name = "Searing Slam", additional_info = "100 yd range\nInstant\n[q]The shredder smashes its current target, inflicting 85 Fire damage and knocking them back. In addition, the ground under the target will explode inflicting 75 Fire damage to all enemies within 12 yards."}
+MultiLanguageSpellData['en'][1213696] = {name = "Searing Slam", additional_info = "100 yd range\nInstant\n[q]The shredder smashes its current target, inflicting 7127324 Fire damage and knocking them back. In addition, the ground under the target will explode inflicting 6288815 Fire damage to all enemies within 12 yards."}
 MultiLanguageSpellData['en'][1213700] = {name = "Unanswered Call", additional_info = "5 sec cast\n[q]Reduces movement speed by 60%.\n Causes the caster to inflict 500% increased Physical damage."}
 MultiLanguageSpellData['en'][1213703] = {name = "Stealth Burst", additional_info = "Instant\n[q]Electricty bends the light around you, preventing enemies from detecting you for 10 sec."}
 MultiLanguageSpellData['en'][1213704] = {name = "Zeppelin Barrage", additional_info = "Unlimited range\nInstant\n[q]The zeppelin unleashes a salvo of blasts, each inflicting 25 Fire damage to players within 4 yards of impact."}
@@ -5760,11 +5833,11 @@ MultiLanguageSpellData['en'][1213767] = {name = "Archivists Observation", additi
 MultiLanguageSpellData['en'][1213768] = {name = "Black Blood Boo-Boo", additional_info = "[UNUSED] Black Blood Boo-Boo\n300 yd range\nInstant\n[q]The void laser inflicts 60 damage to players in front of it. Afflicts players with a [UNUSED] Black Blood Boo-Boo ."}
 MultiLanguageSpellData['en'][1213772] = {name = "Zeppelin Barrage", additional_info = "Unlimited range\nInstant\n[q]The zeppelin unleashes a salvo of blasts, each inflicting 25 Fire damage to players within 4 yards of impact."}
 MultiLanguageSpellData['en'][1213773] = {name = "Knockback", additional_info = nil}
-MultiLanguageSpellData['en'][1213776] = {name = "Hopeless Curse", additional_info = "100 yd range\n3 sec cast\n[q]Reduces attacking and casting speed by 20% for 12 sec.\n Reduces the movement speed of the target by 40% for 12 sec.\n Inflicts 5 Shadow damage to an enemy every 2 sec for 12 sec."}
+MultiLanguageSpellData['en'][1213776] = {name = "Hopeless Curse", additional_info = "100 yd range\n3 sec cast\n[q]Reduces attacking and casting speed by 20% for 12 sec.\n Reduces the movement speed of the target by 40% for 12 sec.\n Inflicts 156840 Shadow damage to an enemy every 2 sec for 12 sec."}
 MultiLanguageSpellData['en'][1213778] = {name = "Vile Bolt", additional_info = "60 yd range\n{2 sec cast} {3 sec cooldown}\n[q]The caster inflicts Shadow damage to their target."}
 MultiLanguageSpellData['en'][1213781] = {name = "Tear Down This Garish Statue", additional_info = "100 yd range\n1.5 sec cast\n[q][DNT]Your spell description goes here!"}
 MultiLanguageSpellData['en'][1213783] = {name = "Tower", additional_info = nil}
-MultiLanguageSpellData['en'][1213785] = {name = "Tear it Down", additional_info = "100 yd range\n2.5 sec cast\n[q]Inflicts 8 Physical damage to enemies within 60 yards."}
+MultiLanguageSpellData['en'][1213785] = {name = "Tear it Down", additional_info = "100 yd range\n2.5 sec cast\n[q]Inflicts 278826 Physical damage to enemies within 60 yards."}
 MultiLanguageSpellData['en'][1213787] = {name = "Terrifying Roar", additional_info = nil}
 MultiLanguageSpellData['en'][1213790] = {name = "Zeppelin Barrage", additional_info = "Unlimited range\nInstant\n[q]Inflicts 25 Fire damage to enemies within 4 yards of the impact."}
 MultiLanguageSpellData['en'][1213791] = {name = "Shadow Barrage", additional_info = nil}
@@ -5791,6 +5864,7 @@ MultiLanguageSpellData['en'][1213825] = {name = "Dye Hard", additional_info = ni
 MultiLanguageSpellData['en'][1213826] = {name = "Old Tongue", additional_info = nil}
 MultiLanguageSpellData['en'][1213831] = {name = "Skitterbite", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][1213832] = {name = "Bloodbathe", additional_info = "60 yd range\nInstant\n[q]The caster douses their target in Black Blood, applying a healing absorb to enemies in a cone in front of the caster every 1 sec for 4 sec."}
+MultiLanguageSpellData['en'][1213836] = {name = "Repeatable Event - Dastardly Duos - Trash - Highlight", additional_info = nil}
 MultiLanguageSpellData['en'][1213838] = {name = "Unanswered Call", additional_info = nil}
 MultiLanguageSpellData['en'][1213839] = {name = "Ensemble: Unkindled Waxweave Panoply", additional_info = "Instant\n[q]Collect the appearances of the Unkindled Waxweave Panoply armor set."}
 MultiLanguageSpellData['en'][1213840] = {name = "Ensemble: Myconic Shell", additional_info = "Instant\n[q]Collect the appearances of the Myconic Shell armor set."}
@@ -5800,9 +5874,9 @@ MultiLanguageSpellData['en'][1213845] = {name = "Wrecking Ball", additional_info
 MultiLanguageSpellData['en'][1213848] = {name = "Wrecking Ball", additional_info = nil}
 MultiLanguageSpellData['en'][1213849] = {name = "Poltergeist Chase", additional_info = "200 yd range\nInstant\n[q]Kul'tharok create a phantasm to chase a random player.\n\n Phantasm inflicts 30 Shadow damage to players who are caught."}
 MultiLanguageSpellData['en'][1213850] = {name = "Crush", additional_info = "300 yd range\n{Instant} {1.5 sec cooldown}\n[q]The Underpin attempts to Crush his enemies with his the full force of his mech, inflicting 50 Physical damage to players caught in the area and stunning them for 4 sec."}
-MultiLanguageSpellData['en'][1213852] = {name = "Crush", additional_info = "300 yd range\n2 sec cast\n[q]The Underpin attempts to Crush his enemies with his the full force of his mech, inflicting 50 Physical damage to players caught in the area and stunning them for 4 sec."}
-MultiLanguageSpellData['en'][1213853] = {name = "Crush", additional_info = "300 yd range\nInstant\n[q]The Underpin attempts to Crush his enemies with his the full force of his mech, inflicting 50 Physical damage to players caught in the area and stunning them for 4 sec."}
-MultiLanguageSpellData['en'][1213854] = {name = "Crush", additional_info = "300 yd range\nInstant\n[q]The Underpin attempts to Crush his enemies with his the full force of his mech, inflicting 50 Physical damage to players caught in the area and stunning them for 4 sec."}
+MultiLanguageSpellData['en'][1213852] = {name = "Crush", additional_info = "300 yd range\n2 sec cast\n[q]The Underpin attempts to Crush his enemies with his the full force of his mech, inflicting 1742665 Physical damage to players caught in the area and stunning them for 4 sec."}
+MultiLanguageSpellData['en'][1213853] = {name = "Crush", additional_info = "300 yd range\nInstant\n[q]The Underpin attempts to Crush his enemies with his the full force of his mech, inflicting 1742665 Physical damage to players caught in the area and stunning them for 4 sec."}
+MultiLanguageSpellData['en'][1213854] = {name = "Crush", additional_info = "300 yd range\nInstant\n[q]The Underpin attempts to Crush his enemies with his the full force of his mech, inflicting 1742665 Physical damage to players caught in the area and stunning them for 4 sec."}
 MultiLanguageSpellData['en'][1213855] = {name = "Poltergeist Chase", additional_info = "200 yd range\n3 sec cast\n[q]Kul'tharok create a phantasm to chase a random player.\n\n Phantasm inflicts 30 Shadow damage to players who are caught."}
 MultiLanguageSpellData['en'][1213858] = {name = "Arsenal: Hallowfall Weaponry", additional_info = "Instant\n[q]Collect the appearances of the Hallowfall Weaponry weapon set."}
 MultiLanguageSpellData['en'][1213859] = {name = "Oily Outrage", additional_info = "100 yd range\nInstant\n[q]Summon Pitbot Geardo to assist you for 5 sec, coating nearby enemies with rancid motor oil for additional threat. Geardo ensures you take the blame.\n\n Geardo departs explosively to deal 2280 Fire damage split between nearby enemies, increased by 15 % if recently oiled."}
@@ -5883,7 +5957,7 @@ MultiLanguageSpellData['en'][1214078] = {name = "Call Flock", additional_info = 
 MultiLanguageSpellData['en'][1214080] = {name = "Return from Queen Ansurek", additional_info = nil}
 MultiLanguageSpellData['en'][1214083] = {name = "Scrapbomb", additional_info = "Unlimited range\nInstant\n[q]Flarendo spits a ball of scrap that explodes after 10 sec, inflicting 8385087 Fire damage to all players and knocking back players within 0 yards. This damage is reduced for each player within 8 yards of the Scrapbomb ."}
 MultiLanguageSpellData['en'][1214084] = {name = "Call Flock", additional_info = "Instant\n[q]The caster rallies its flock, calling Pterrodax to her aid."}
-MultiLanguageSpellData['en'][1214090] = {name = "Shoot", additional_info = "45 yd range\n{1 sec cast} {1.5 sec cooldown}\n[q]Inflicts 7 Physical damage to an enemy."}
+MultiLanguageSpellData['en'][1214090] = {name = "Shoot", additional_info = "45 yd range\n{1 sec cast} {1.5 sec cooldown}\n[q]Inflicts 243973 Physical damage to an enemy."}
 MultiLanguageSpellData['en'][1214096] = {name = "Punt", additional_info = "5 yd range\nInstant\n[q]Kick a Puntable Time Bomb, sending it flying."}
 MultiLanguageSpellData['en'][1214097] = {name = "Vanish", additional_info = "Unlimited range\nInstant\n[q]Allows you to vanish from sight, entering stealth while in combat. For the first 3 sec after vanishing, damage and harmful effects received will not break stealth. Also breaks movement impairing effects."}
 MultiLanguageSpellData['en'][1214099] = {name = "Territorial Shriek", additional_info = "{1.5 sec cast} {3 sec cooldown}\n[q]The caster lets out a shriek, increasing the damage allies within 20 yards inflict by 15%."}
@@ -5904,7 +5978,7 @@ MultiLanguageSpellData['en'][1214130] = {name = "Timed Explosion", additional_in
 MultiLanguageSpellData['en'][1214131] = {name = "[q3]Combine Gorillion Powers", additional_info = "3 sec cast\nReagents:\nGorillion Chasis , Gorillion Engine , Gorillion Batteries , Gorillion Grease , Gorillion Fork\n[q]Combine to form Gorillion!"}
 MultiLanguageSpellData['en'][1214133] = {name = "Blazing Impact", additional_info = "300 yd range\nInstant\n[q]Punting a Time Bomb into a Croney inflicts damage equal to 40% of their health."}
 MultiLanguageSpellData['en'][1214134] = {name = "Rat-tastic Tunes", additional_info = nil}
-MultiLanguageSpellData['en'][1214135] = {name = "Make It Rain!", additional_info = "3 sec cast\n[q]Craggle Fritzbrains loads his signature Black Blood Boomstick MK1 with profits, and fires them into the air, inflicting 20 Shadow damage to players hit."}
+MultiLanguageSpellData['en'][1214135] = {name = "Make It Rain!", additional_info = "3 sec cast\n[q]Craggle Fritzbrains loads his signature Black Blood Boomstick MK1 with profits, and fires them into the air, inflicting 697066 Shadow damage to players hit."}
 MultiLanguageSpellData['en'][1214140] = {name = "Dr. Scrapheal", additional_info = nil}
 MultiLanguageSpellData['en'][1214142] = {name = "Yuletide Dreams", additional_info = "Instant 1 hour cooldown\n[q]Dream of colder, more festive times."}
 MultiLanguageSpellData['en'][1214144] = {name = "Shout Down", additional_info = nil}
@@ -5914,10 +5988,10 @@ MultiLanguageSpellData['en'][1214148] = {name = "Time Bomb Launcher", additional
 MultiLanguageSpellData['en'][1214149] = {name = "Time Bomb Launcher", additional_info = "300 yd range\nInstant\n[q]The Underpin launches several Puntable Time Bombs nearby."}
 MultiLanguageSpellData['en'][1214161] = {name = "The Jastor Diamond", additional_info = "[q]Take Credit for your allies' deeds up to once every 12 sec, gaining 3 of their highest secondary stat up to 10 times until shortly after leaving combat. You have a 10 % chance to get caught in the act, transferring all accumulated Credit to your ally for 15 sec instead."}
 MultiLanguageSpellData['en'][1214164] = {name = "Excitement", additional_info = "100 yd range\nInstant\n[q]Successful attacks on the pyrotechnics spark excitement, increasing movement speed by 10% and haste by 2% for 10 sec. This effect stacks up to 3 times."}
-MultiLanguageSpellData['en'][1214180] = {name = "Torch Light", additional_info = "300 yd range\nInstant\n[q]The caster's auto-attacks ignite their target, inflicting 4 Fire damage every 1 sec for 6 sec. This effect stacks.\n(2s cooldown)"}
-MultiLanguageSpellData['en'][1214181] = {name = "Ignited", additional_info = "300 yd range\nInstant\n[q]The caster's auto-attacks ignite their target, inflicting 4 Fire damage every 1 sec for 6 sec. This effect stacks."}
+MultiLanguageSpellData['en'][1214180] = {name = "Torch Light", additional_info = "300 yd range\nInstant\n[q]The caster's auto-attacks ignite their target, inflicting 335403 Fire damage every 1 sec for 6 sec. This effect stacks.\n(2s cooldown)"}
+MultiLanguageSpellData['en'][1214181] = {name = "Ignited", additional_info = "300 yd range\nInstant\n[q]The caster's auto-attacks ignite their target, inflicting 335403 Fire damage every 1 sec for 6 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1214182] = {name = "Big Finish", additional_info = nil}
-MultiLanguageSpellData['en'][1214183] = {name = "Big Finish", additional_info = "300 yd range\nInstant\n[q]The caster gets ready for their big finish, launching fireworks that inflict 12 Fire damage every 3 sec for 15 sec."}
+MultiLanguageSpellData['en'][1214183] = {name = "Big Finish", additional_info = "300 yd range\nInstant\n[q]The caster gets ready for their big finish, launching fireworks that inflict 1006211 Fire damage every 3 sec for 15 sec."}
 MultiLanguageSpellData['en'][1214187] = {name = "Digging Escape Tunnel", additional_info = "30 yd range\n5 sec cast\n[q]Use the shovel to dig out of the cave."}
 MultiLanguageSpellData['en'][1214188] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1214189] = {name = "OLD OLD", additional_info = nil}
@@ -5980,7 +6054,7 @@ MultiLanguageSpellData['en'][1214350] = {name = "[q3]Massive Shards of Amorphous
 MultiLanguageSpellData['en'][1214359] = {name = "Loading Ballista", additional_info = nil}
 MultiLanguageSpellData['en'][1214362] = {name = "Blood Bolt", additional_info = "50 yd range\n2 sec cast\n[q]The caster inflicts Shadow damage to their target."}
 MultiLanguageSpellData['en'][1214363] = {name = "Black Bloodwave", additional_info = nil}
-MultiLanguageSpellData['en'][1214369] = {name = "TOTAL DESTRUCTION!!!", additional_info = "Unlimited range\n2 sec cast\n[q]Gallywix rains rockets inflicting 1257763 Fire damage to all players every 1 sec for 25 sec. Every 1 sec this damage increases by 5%."}
+MultiLanguageSpellData['en'][1214369] = {name = "TOTAL DESTRUCTION!!!", additional_info = "Unlimited range\n2 sec cast\n[q]Gallywix rains rockets inflicting 1131987 Fire damage to all players every 1 sec for 25 sec. Every 1 sec this damage increases by 5%."}
 MultiLanguageSpellData['en'][1214371] = {name = "Oozing Darkness", additional_info = "Instant\n[q]Leaves behind a tainted trail that inflicts Shadow damage to enemies every sec."}
 MultiLanguageSpellData['en'][1214372] = {name = "Oozing Darkness", additional_info = nil}
 MultiLanguageSpellData['en'][1214373] = {name = "Tainted Blood", additional_info = "50 yd range\n{2.5 sec cast} {2 sec cooldown}\n[q]The caster taints their target's blood, inflicting Shadow damage every 2 sec for 18 sec."}
@@ -5988,6 +6062,7 @@ MultiLanguageSpellData['en'][1214401] = {name = "Oozing Darkness", additional_in
 MultiLanguageSpellData['en'][1214404] = {name = "Sanguine Regeneration", additional_info = "{3 sec cast} {3 sec cooldown}\n[q]The caster regenerates itself, healing for 20% of its max health."}
 MultiLanguageSpellData['en'][1214412] = {name = "Black Bloodwave", additional_info = nil}
 MultiLanguageSpellData['en'][1214415] = {name = "[q3]Essence of Life", additional_info = "[q0]Anima Power\n100 yd range\nInstant\n[q]Increases your maximum health by 50%."}
+MultiLanguageSpellData['en'][1214431] = {name = "Repeatable Event - Dastardly Duos - First Run - Quest Credit", additional_info = nil}
 MultiLanguageSpellData['en'][1214434] = {name = "Kaja'Cola Carrier", additional_info = "100 yd range\nInstant\n[q]Mislaid Curiosities now have a 35% chance to contain 1 Kaja'Cola and once per delve Brann now summons a Kaja'6-Pack when creating campfires.\n\n There are various Kaja'Cola flavors, and each one has its own effect that applies when collected."}
 MultiLanguageSpellData['en'][1214435] = {name = "Ensemble: Rune Scribe's Vestments", additional_info = "Instant\n[q]Acquire the Cloth Rune Scribe's Vestments armor set."}
 MultiLanguageSpellData['en'][1214436] = {name = "Ensemble: Bloodscout Outfit", additional_info = "Instant\n[q]Acquire the Leather Bloodscout Outfit armor set."}
@@ -6001,16 +6076,16 @@ MultiLanguageSpellData['en'][1214444] = {name = "Ensemble: Sun-Soaked Clothing",
 MultiLanguageSpellData['en'][1214445] = {name = "Ensemble: Rusty Bruiser's Outfit", additional_info = "Instant\n[q]Acquire the Rusty Bruiser's Outfit armor set."}
 MultiLanguageSpellData['en'][1214446] = {name = "Ensemble: Southsea Cruise Loungewear", additional_info = "Instant\n[q]Acquire the Southsea Cruise Loungewear armor set."}
 MultiLanguageSpellData['en'][1214447] = {name = "Ensemble: Salvage Rig Garments", additional_info = "Instant\n[q]Acquire the Salvage Rig Garments armor set."}
-MultiLanguageSpellData['en'][1214448] = {name = "TOTAL DESTRUCTION!!!", additional_info = "Unlimited range\nInstant\n[q]Gallywix rains rockets inflicting 1257763 Fire damage to all players every 1 sec for 25 sec. Every 1 sec this damage increases by 5%."}
+MultiLanguageSpellData['en'][1214448] = {name = "TOTAL DESTRUCTION!!!", additional_info = "Unlimited range\nInstant\n[q]Gallywix rains rockets inflicting 1131987 Fire damage to all players every 1 sec for 25 sec. Every 1 sec this damage increases by 5%."}
 MultiLanguageSpellData['en'][1214450] = {name = "Ensemble: Awakened Ambassador's Uniform", additional_info = "Instant\n[q]Acquire the Awakened Ambassador's Uniform armor set."}
-MultiLanguageSpellData['en'][1214453] = {name = "Make it Rain!", additional_info = "100 yd range\nInstant\n[q]Craggle Fritzbrains loads his signature Black Blood Boomstick MK1 with profits, and fires them into the air, inflicting 20 Shadow damage to players hit."}
+MultiLanguageSpellData['en'][1214453] = {name = "Make it Rain!", additional_info = "100 yd range\nInstant\n[q]Craggle Fritzbrains loads his signature Black Blood Boomstick MK1 with profits, and fires them into the air, inflicting 697066 Shadow damage to players hit."}
 MultiLanguageSpellData['en'][1214454] = {name = "Make it Rain!", additional_info = nil}
-MultiLanguageSpellData['en'][1214455] = {name = "Make it Rain!", additional_info = "100 yd range\nInstant\n[q]Craggle Fritzbrains loads his signature Black Blood Boomstick MK1 with profits, and fires them into the air, inflicting 20 Shadow damage to players hit."}
-MultiLanguageSpellData['en'][1214457] = {name = "Make it Rain!", additional_info = "100 yd range\nInstant\n[q]Craggle Fritzbrains loads his signature Black Blood Boomstick MK1 with profits, and fires them into the air, inflicting 20 Shadow damage to players hit."}
+MultiLanguageSpellData['en'][1214455] = {name = "Make it Rain!", additional_info = "100 yd range\nInstant\n[q]Craggle Fritzbrains loads his signature Black Blood Boomstick MK1 with profits, and fires them into the air, inflicting 697066 Shadow damage to players hit."}
+MultiLanguageSpellData['en'][1214457] = {name = "Make it Rain!", additional_info = "100 yd range\nInstant\n[q]Craggle Fritzbrains loads his signature Black Blood Boomstick MK1 with profits, and fires them into the air, inflicting 697066 Shadow damage to players hit."}
 MultiLanguageSpellData['en'][1214458] = {name = "Bloodtwist", additional_info = nil}
 MultiLanguageSpellData['en'][1214464] = {name = "Trickshot", additional_info = "Unlimited range\nInstant\n[q]The sniper does a sick trickshot, inflicting 1179029 Shadow damage to the target. The black blood bullet ricochets to up to 4 nearby players."}
 MultiLanguageSpellData['en'][1214466] = {name = "Teleport", additional_info = nil}
-MultiLanguageSpellData['en'][1214467] = {name = "Rain of Fire", additional_info = "3 Soul Shards 40 yd range\nInstant\n[q]Calls down a rain of hellfire upon your target, dealing [(33.3936% of Spell power) * 8] Fire damage over 8 sec to enemies in the area.\n\nThis spell is cast at your target."}
+MultiLanguageSpellData['en'][1214467] = {name = "Rain of Fire", additional_info = "3 Soul Shards 40 yd range\nInstant\n[q]Calls down a rain of hellfire upon your target, dealing [(41.742% of Spell power) * 8] Fire damage over 8 sec to enemies in the area.\n\nThis spell is cast at your target."}
 MultiLanguageSpellData['en'][1214468] = {name = "Trickshot", additional_info = "Unlimited range\n4 sec cast\n[q]The sniper does a sick trickshot, inflicting 1179029 Shadow damage to the target. The black blood bullet ricochets to up to 4 nearby players."}
 MultiLanguageSpellData['en'][1214483] = {name = "Sinister Coatings", additional_info = "{2 sec cast} {3 sec cooldown}\n[q]The caster coats their weapon with a Black Blood serum, increasing their damage done by 30%."}
 MultiLanguageSpellData['en'][1214486] = {name = "Bloody Assault", additional_info = "8 yd range\n{1.5 sec cast} {3 sec cooldown}\n[q]Inflicts Shadow damage to an enemy every 0.5 sec for 6 sec."}
@@ -6019,9 +6094,9 @@ MultiLanguageSpellData['en'][1214489] = {name = "Ensemble: Pilfered Mariner's Ga
 MultiLanguageSpellData['en'][1214490] = {name = "Ensemble: Salt-Stained Garb", additional_info = "Instant\n[q]Acquire the Salt-Stained Garb armor set."}
 MultiLanguageSpellData['en'][1214498] = {name = "Not on Fire", additional_info = "Instant\n[q]Sparking after using a goblin teleporter."}
 MultiLanguageSpellData['en'][1214501] = {name = "Disable ALL Mounts", additional_info = nil}
-MultiLanguageSpellData['en'][1214502] = {name = "Pinged Augment Chip", additional_info = "100 yd range\nInstant\nApproximately 1.5 procs per minute\n[q]Brann's maximum health is increased by 4% and his damage and healing done is increased by 20%.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30% of his maximum health in damage and be stunned for 5 sec.\n(1.5m cooldown)"}
+MultiLanguageSpellData['en'][1214502] = {name = "Pinged Augment Chip", additional_info = "100 yd range\nInstant\nApproximately 1.5 procs per minute\n[q]Brann's maximum health is increased by 4 % and his damage and healing done is increased by 20 %.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30 % of his maximum health in damage and be stunned for 5 sec.\n(1.5m cooldown)"}
 MultiLanguageSpellData['en'][1214503] = {name = "Gorecannon", additional_info = "60 yd range\n{2 sec cast} {3 sec cooldown}\n[q]The caster douses their target in Black Blood, applying a healing absorb to enemies in a cone in front of the caster every 0.5 sec for 4 sec."}
-MultiLanguageSpellData['en'][1214504] = {name = "Goblin Ingenuity", additional_info = "100 yd range\n3 sec cast\n[q]Craggle tinkers with the Black Blood Boomstick MK1, causing an explosive reaction inflicting 8 Shadow damage, and increasing his damage done by 50%."}
+MultiLanguageSpellData['en'][1214504] = {name = "Goblin Ingenuity", additional_info = "100 yd range\n3 sec cast\n[q]Craggle tinkers with the Black Blood Boomstick MK1, causing an explosive reaction inflicting 278826 Shadow damage, and increasing his damage done by 50%."}
 MultiLanguageSpellData['en'][1214505] = {name = "Gorecannon", additional_info = "60 yd range\nInstant\n[q]The caster douses their target in Black Blood, applying a healing absorb to enemies in a cone in front of the caster every 0.5 sec for 4 sec."}
 MultiLanguageSpellData['en'][1214509] = {name = "Hurl Spear", additional_info = nil}
 MultiLanguageSpellData['en'][1214513] = {name = "Voltaic Image", additional_info = nil}
@@ -6034,8 +6109,8 @@ MultiLanguageSpellData['en'][1214532] = {name = "Throw Spear", additional_info =
 MultiLanguageSpellData['en'][1214533] = {name = "Cata Timewalking Marker", additional_info = nil}
 MultiLanguageSpellData['en'][1214538] = {name = "Battery Discharge", additional_info = "Unlimited range\nInstant\n[q]Taking damage causes the hobgoblin's batteries to discharge, inflicting 8 Nature damage to all players and zapping nearby locations."}
 MultiLanguageSpellData['en'][1214544] = {name = "Reels", additional_info = nil}
-MultiLanguageSpellData['en'][1214546] = {name = "Umbral Wave", additional_info = "3 sec cast\n[q]Unleashes a wave of void energy around the caster, inflicting 20 Shadow damage to players hit."}
-MultiLanguageSpellData['en'][1214550] = {name = "Umbral Wave", additional_info = "100 yd range\nInstant\n[q]Unleashes a wave of void energy around the caster, inflicting 20 Shadow damage to players hit."}
+MultiLanguageSpellData['en'][1214546] = {name = "Umbral Wave", additional_info = "3 sec cast\n[q]Unleashes a wave of void energy around the caster, inflicting 2947572 Shadow damage to players hit."}
+MultiLanguageSpellData['en'][1214550] = {name = "Umbral Wave", additional_info = "100 yd range\nInstant\n[q]Unleashes a wave of void energy around the caster, inflicting 2947572 Shadow damage to players hit."}
 MultiLanguageSpellData['en'][1214551] = {name = "Dulux Bluesberry Blast", additional_info = "Unlimited range\nInstant\nReagents:\n[q]Drink on Pick-Up: Increases lowest secondary by 4%."}
 MultiLanguageSpellData['en'][1214552] = {name = "Hot Dog On a LONG Stick", additional_info = nil}
 MultiLanguageSpellData['en'][1214553] = {name = "Stun Reels", additional_info = nil}
@@ -6060,13 +6135,13 @@ MultiLanguageSpellData['en'][1214585] = {name = "Introducing the Goblin Guard De
 MultiLanguageSpellData['en'][1214587] = {name = "Turbulent Runekey", additional_info = "Instant\n[q]Take this to the Forgotten Vault to activate the Turbulent Runestone."}
 MultiLanguageSpellData['en'][1214588] = {name = "Cyclonic Runekey", additional_info = "Instant\n[q]Take this to the Forgotten Vault to activate the Cyclonic Runestone."}
 MultiLanguageSpellData['en'][1214589] = {name = "Torrential Runekey", additional_info = "Instant\n[q]Take this to the Forgotten Vault to activate the Torrential Runestone."}
-MultiLanguageSpellData['en'][1214590] = {name = "TOTAL DESTRUCTION!!!", additional_info = "Unlimited range\nChanneled (1 sec cast)\n[q]Gallywix rains rockets inflicting 1257763 Fire damage to all players every 1 sec for 25 sec . Every 1 sec this damage increases by 5%."}
+MultiLanguageSpellData['en'][1214590] = {name = "TOTAL DESTRUCTION!!!", additional_info = "Unlimited range\nChanneled (1 sec cast)\n[q]Gallywix rains rockets inflicting 7 Fire damage to all players every 1 sec for 25 sec . Every 1 sec this damage increases by 20 %."}
 MultiLanguageSpellData['en'][1214592] = {name = "Whirling Runekey", additional_info = "Instant\n[q]Take this to the Forgotten Vault to activate the Whirling Runestone."}
 MultiLanguageSpellData['en'][1214593] = {name = "Thunderous Runekey", additional_info = "Instant\n[q]Take this to the Forgotten Vault to activate the Thunderous Runestone."}
 MultiLanguageSpellData['en'][1214596] = {name = "Kaja'Cola Fan Badge", additional_info = nil}
 MultiLanguageSpellData['en'][1214598] = {name = "Entranced", additional_info = "300 yd range\nInstant\n[q]Allured by the sound of Rik's sweet voice, the target is lured towards him, unable to take any actions for 1 min.\n\n Dealing sufficient damage to the charmed target will break them free of the effect."}
 MultiLanguageSpellData['en'][1214600] = {name = "Automatic Footbomb Dispenser", additional_info = nil}
-MultiLanguageSpellData['en'][1214601] = {name = "Fire!", additional_info = nil}
+MultiLanguageSpellData['en'][1214601] = {name = "Fire!", additional_info = "45 yd range\n0.25 sec cast\n[q]Fling a Web Bomb from a Nerubian Ballista."}
 MultiLanguageSpellData['en'][1214603] = {name = "Funhouse Lens", additional_info = nil}
 MultiLanguageSpellData['en'][1214604] = {name = "Automatic Footbomb Dispenser", additional_info = "Unlimited range\nInstant\n[q]Empty out the Dragon Games kickballs onto the field. Running into them kicks them at your enemy target, dealing 2709 Physical damage."}
 MultiLanguageSpellData['en'][1214605] = {name = "Goblin Snorkel", additional_info = "Instant\n[q]You can breathe under water."}
@@ -6095,7 +6170,7 @@ MultiLanguageSpellData['en'][1214636] = {name = "Static Charge", additional_info
 MultiLanguageSpellData['en'][1214638] = {name = "Erupting Darkness", additional_info = nil}
 MultiLanguageSpellData['en'][1214639] = {name = "Bounce Pad", additional_info = nil}
 MultiLanguageSpellData['en'][1214640] = {name = "Static Charge", additional_info = nil}
-MultiLanguageSpellData['en'][1214642] = {name = "Bigger Badder Bomb Blast", additional_info = "Unlimited range\nInstant\n[q]Gallywix shells his primary target with many explosives inflicting 12577631 Physical damage and increases Bigger Badder Bomb Blast damage taken by 200% for 1.2 min . This effect stacks and cannot be dodged or parried.\n\n Additionally inflicts 12577631 Fire damage to players within 30 yards of the primary target, applying Blast Burns . These munitions (mostly) detonate on impact.\n\n However, some of the fuze within the bunch scatters about the arena."}
+MultiLanguageSpellData['en'][1214642] = {name = "Bigger Badder Bomb Blast", additional_info = "Unlimited range\nInstant\n[q]Gallywix shells his primary target with many explosives inflicting 100 Physical damage and increases Bigger Badder Bomb Blast damage taken by 200 % for 1.2 min . This effect stacks and cannot be dodged or parried.\n\n Additionally inflicts 100 Fire damage to players within 30 yards of the primary target, applying Blast Burns . These munitions (mostly) detonate on impact.\n\n However, some of the fuze within the bunch scatters about the arena."}
 MultiLanguageSpellData['en'][1214643] = {name = "Gold Slide", additional_info = nil}
 MultiLanguageSpellData['en'][1214645] = {name = "Erupting Darkness", additional_info = "100 yd range\nInstant\n[q]Inflicts 20 Shadow damage to enemies within 6 yards of the impact."}
 MultiLanguageSpellData['en'][1214648] = {name = "Bounce Pad", additional_info = nil}
@@ -6133,7 +6208,7 @@ MultiLanguageSpellData['en'][1214703] = {name = "Kaja'Cola Carrier", additional_
 MultiLanguageSpellData['en'][1214704] = {name = "Core Recycling Unit", additional_info = nil}
 MultiLanguageSpellData['en'][1214705] = {name = "Kaja'Cola Carrier", additional_info = "[q]Mislaid Curiosities now have a 45% chance to contain 2 Kaja'Colas and once per delve Brann now summons a Kaja'6-Pack when creating campfires.\n\n There are various Kaja'Cola flavors, and each one has its own effect that applies when collected."}
 MultiLanguageSpellData['en'][1214707] = {name = "Kaja'Cola Carrier", additional_info = "[q]Mislaid Curiosities now have a 50% chance to contain 2 Kaja'Colas and once per delve Brann now summons a Kaja'6-Pack when creating campfires.\n\n There are various Kaja'Cola flavors, and each one has its own effect that applies when collected."}
-MultiLanguageSpellData['en'][1214708] = {name = "Emergency Repair Protocol", additional_info = "{3 sec cast} {2 sec cooldown}\n[q]Heals $21% health every 5.2 for 8 sec."}
+MultiLanguageSpellData['en'][1214708] = {name = "Emergency Repair Protocol", additional_info = "{3 sec cast} {2 sec cooldown}\n[q]Heals 5% max health every 2 sec for 8 sec."}
 MultiLanguageSpellData['en'][1214711] = {name = "Throw Stone", additional_info = nil}
 MultiLanguageSpellData['en'][1214712] = {name = "Oiled Blade", additional_info = "8 yd range\n{1 sec cast} {3 sec cooldown}\n[q]Slash out with a weapon coated with oil, inflicting Fire damage and causing the target to receive 25% less healing for 8 sec."}
 MultiLanguageSpellData['en'][1214713] = {name = "Legion Timewalking Marker", additional_info = nil}
@@ -6158,13 +6233,13 @@ MultiLanguageSpellData['en'][1214743] = {name = "Void Barrage", additional_info 
 MultiLanguageSpellData['en'][1214744] = {name = "Void Barrage", additional_info = "Unlimited range\nInstant\n[q]Alleria fires a barrage of void arrows each inflicting Shadow damage. The volley culminates with a massive void blast, inflicting Shadow damage in an area around the target."}
 MultiLanguageSpellData['en'][1214745] = {name = "Void Barrage", additional_info = "Unlimited range\nInstant\n[q]Alleria fires a barrage of void arrows each inflicting Shadow damage. The volley culminates with a massive void blast, inflicting Shadow damage in an area around the target."}
 MultiLanguageSpellData['en'][1214746] = {name = "Shoot", additional_info = "20 yd range\n1 sec cast\nRequires Weapons\n[q]Shoots at an enemy, inflicting Shadow damage."}
-MultiLanguageSpellData['en'][1214748] = {name = "Brainstorm", additional_info = "100 yd range\nInstant\n[q]Caster unleashes its amazing brain power in a psychic storm, inflicting 3 Arcane damage to all players and manifesting psychic tempests at each player's location, inflicting 10 Arcane damage to any players hit and silencing them for until canceled."}
+MultiLanguageSpellData['en'][1214748] = {name = "Brainstorm", additional_info = "100 yd range\nInstant\n[q]Caster unleashes its amazing brain power in a psychic storm, inflicting 442136 Arcane damage to all players and manifesting psychic tempests at each player's location, inflicting 1473786 Arcane damage to any players hit and silencing them for until canceled."}
 MultiLanguageSpellData['en'][1214749] = {name = "Overloaded Rockets", additional_info = "Unlimited range\nInstant\n[q]The blast lights the good stuff attaching some OL rockets to unsuspecting fools for 6 sec.\n\n Upon removal these rockets blast out in indicated directions inflicting 2934780 Fire damage every second for 9 sec to impacted players, knocking them back."}
 MultiLanguageSpellData['en'][1214750] = {name = "Overloaded Rockets", additional_info = "Unlimited range\nInstant\n[q]The blast lights the good stuff attaching some OL rockets to unsuspecting fools for 6 sec.\n\n Upon removal these rockets blast out in indicated directions inflicting 2934780 Fire damage every second for 9 sec to impacted players, knocking them back."}
 MultiLanguageSpellData['en'][1214751] = {name = "Brutal Charge", additional_info = "100 yd range\nInstant\n[q]Charge to an enemy and inflict Physical damage."}
-MultiLanguageSpellData['en'][1214752] = {name = "Brutal Charge", additional_info = "100 yd range\nInstant\n[q]Charge to a target enemy and inflicts 15 Physical damage and reducing their movement speed by 25%."}
+MultiLanguageSpellData['en'][1214752] = {name = "Brutal Charge", additional_info = "100 yd range\nInstant\n[q]Charge to a target enemy and inflicts 2210679 Physical damage and reducing their movement speed by 25%."}
 MultiLanguageSpellData['en'][1214753] = {name = "Faulty Archivist's Orb", additional_info = "{Instant} {15 sec cooldown}\n[q]Rummage through the crate to find your archivist orb."}
-MultiLanguageSpellData['en'][1214754] = {name = "Massive Slam", additional_info = "12 yd range\n{3 sec cast} {2 sec cooldown}\n[q]Inflicts 35 Nature damage to enemies within 12 yards."}
+MultiLanguageSpellData['en'][1214754] = {name = "Massive Slam", additional_info = "12 yd range\n{3 sec cast} {2 sec cooldown}\n[q]Inflicts 5158251 Nature damage to enemies within 12 yards."}
 MultiLanguageSpellData['en'][1214755] = {name = "Overloaded Rockets", additional_info = "Unlimited range\nInstant\n[q]The blast lights the good stuff attaching some OL rockets to unsuspecting fools for 6 sec.\n\n Upon removal these rockets blast out in indicated directions inflicting 2934780 Fire damage every second for 9 sec to impacted players, knocking them back."}
 MultiLanguageSpellData['en'][1214756] = {name = "Overloaded Rockets", additional_info = "Unlimited range\nInstant\n[q]The blast lights the good stuff attaching some OL rockets to unsuspecting fools for 6 sec.\n\n Upon removal these rockets blast out in indicated directions inflicting 2934780 Fire damage every second for 9 sec to impacted players, knocking them back."}
 MultiLanguageSpellData['en'][1214757] = {name = "Overloaded Rockets", additional_info = "Unlimited range\nInstant\n[q]The blast lights the good stuff attaching some OL rockets to unsuspecting fools for 6 sec .\n\n Upon removal these rockets blast out in indicated directions inflicting 2934780 Fire damage every second for 9 sec to impacted players, knocking them back."}
@@ -6184,12 +6259,13 @@ MultiLanguageSpellData['en'][1214776] = {name = "Iced Spritzer", additional_info
 MultiLanguageSpellData['en'][1214778] = {name = "Duelist Dash", additional_info = "30 yd range\n{2 sec cast} {5 sec cooldown}\n[q]Charges forward, inflicting 15 Physical damage at the target's location and 8 Physical damage to all players caught in the path."}
 MultiLanguageSpellData['en'][1214779] = {name = "Duelist Dash", additional_info = "100 yd range\nInstant\n[q]Charges forward, inflicting 15 Physical damage at the target's location and 8 Physical damage to all players caught in the path."}
 MultiLanguageSpellData['en'][1214780] = {name = "Maximum Distortion", additional_info = "4 sec cast\n[q]The mechadrone overloads its communications array, inflicting 1473786 Sonic damage to players within 60 yards and pushing them away every 2 sec for 12 sec."}
-MultiLanguageSpellData['en'][1214783] = {name = "Transmogrify", additional_info = "60 yd range\nInstant\n[q]The caster marks random players, then transforms them and any players within 10 yards into bunnies inflicting 65 Arcane damage. Affected targets are pacified for 8 sec."}
+MultiLanguageSpellData['en'][1214783] = {name = "Transmogrify", additional_info = "60 yd range\nInstant\n[q]The caster marks random players, then transforms them and any players within 10 yards into bunnies inflicting 5450306 Arcane damage. Affected targets are pacified for 8 sec."}
 MultiLanguageSpellData['en'][1214784] = {name = "Duelist Dash", additional_info = "100 yd range\nInstant\n[q]Charges forward, inflicting 15 Physical damage at the target's location and 8 Physical damage to all players caught in the path."}
 MultiLanguageSpellData['en'][1214787] = {name = "Mechano-Core Amplifier", additional_info = "Approximately 3 procs per minute\n[q]Your harmful abilities have a chance to power the amplifier, randomly increasing either your highest secondary stat by 9 or your lowest secondary stat by 11 for 10 sec."}
-MultiLanguageSpellData['en'][1214790] = {name = "Transmogrify", additional_info = "100 yd range\n5 sec cast\n[q]The caster marks random players, then transforms them and any players within 10 yards into bunnies inflicting 65 Arcane damage. Affected targets are pacified for 8 sec."}
-MultiLanguageSpellData['en'][1214794] = {name = "Transmogrify", additional_info = "100 yd range\nInstant\n[q]The caster marks random players, then transforms them and any players within 10 yards into bunnies inflicting 65 Arcane damage. Affected targets are pacified for 8 sec."}
-MultiLanguageSpellData['en'][1214796] = {name = "Pinged Augment Chip", additional_info = "Instant\n[q]Brann's maximum health is increased by 4% and his damage and healing done is increased by 20%.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30% of his maximum health in damage and be stunned for 5 sec."}
+MultiLanguageSpellData['en'][1214790] = {name = "Transmogrify", additional_info = "100 yd range\n5 sec cast\n[q]The caster marks random players, then transforms them and any players within 10 yards into bunnies inflicting 5450306 Arcane damage. Affected targets are pacified for 8 sec."}
+MultiLanguageSpellData['en'][1214793] = {name = "Repeatable Event - Dastardly Duos - Mob - Damage Tracker", additional_info = nil}
+MultiLanguageSpellData['en'][1214794] = {name = "Transmogrify", additional_info = "100 yd range\nInstant\n[q]The caster marks random players, then transforms them and any players within 10 yards into bunnies inflicting 5450306 Arcane damage. Affected targets are pacified for 8 sec."}
+MultiLanguageSpellData['en'][1214796] = {name = "Pinged Augment Chip", additional_info = "Instant\n[q]Brann's maximum health is increased by 4 % and his damage and healing done is increased by 20 %.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30 % of his maximum health in damage and be stunned for 5 sec."}
 MultiLanguageSpellData['en'][1214797] = {name = "Cancel Aura: Spray Medicine", additional_info = nil}
 MultiLanguageSpellData['en'][1214798] = {name = "Gatling Gun", additional_info = "3 sec cast\n[q]Spins in place and fires a hail of bullets, inflicting 7 Physical damage every 0.3 sec to all players in front of the mech."}
 MultiLanguageSpellData['en'][1214799] = {name = "Alpha Cannon", additional_info = "25 yd range\n{2 sec cast} {3 sec cooldown}\n[q]"}
@@ -6217,13 +6293,14 @@ MultiLanguageSpellData['en'][1214829] = {name = "Feedback Nullifier", additional
 MultiLanguageSpellData['en'][1214831] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][1214832] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][1214834] = {name = "Heave Container", additional_info = "100 yd range\n2 sec cast\n[q]The caster throws a container of Black Blood at a targets location, leaving behind a Filthy Pool ."}
-MultiLanguageSpellData['en'][1214836] = {name = "Three Dimensional Bioprinter", additional_info = "100 yd range\nInstant\n[q]Damaging an Elite creature below 40% health creates an imperfect copy of it at 50% power to fight by your side. Only 1 copy can exist at the same time.\n\n The device may malfunction creating imperfect copies of your companion."}
+MultiLanguageSpellData['en'][1214836] = {name = "Three Dimensional Bioprinter", additional_info = "100 yd range\nInstant\n[q]Damaging an Elite creature below 40 % health creates an imperfect copy of it at 50 % power to fight by your side. Only 1 copy can exist at the same time.\n\n The device may malfunction creating imperfect copies of your companion."}
 MultiLanguageSpellData['en'][1214837] = {name = "Chillburst Bomb", additional_info = "1.5 sec cast\n[q]Freeze the weakened pipeline in ice."}
 MultiLanguageSpellData['en'][1214838] = {name = "Chillburst", additional_info = nil}
 MultiLanguageSpellData['en'][1214842] = {name = "Filthy Pool", additional_info = nil}
 MultiLanguageSpellData['en'][1214843] = {name = "Kill-o-Block Barrier", additional_info = nil}
 MultiLanguageSpellData['en'][1214845] = {name = "Filthy Pool", additional_info = "100 yd range\nInstant\n[q]Inflicts Shadow damage every 1 sec and reduces movement speed by 30% to players standing within"}
 MultiLanguageSpellData['en'][1214847] = {name = "Chillburst Toss", additional_info = "30 yd range\n{Instant} {5 sec cooldown}\n[q]Freeze the weakened pipeline in ice."}
+MultiLanguageSpellData['en'][1214848] = {name = "Winds of Mysterious Fortune", additional_info = "Instant\n[q]Experience gains increased by 20% for levels 10 through 80.\n\nDragonflight reputation gains increased by 200%.\n\n The War Within reputation gains increased by 100%.\n\n Quests and kills in the Dragon Isles and Khaz Algar on leveling characters have a chance to award Mysterious Satchels that can contain equipment, cosmetics, and combat and experience potions.[] [\n Eligible for the Daily Bonus ]"}
 MultiLanguageSpellData['en'][1214849] = {name = "Empty Nest", additional_info = "40 yd range\n{Instant} {1 min cooldown}\n[q]Beast Mastery, Survival\nInstructs your pet to protect a friendly target from critical strikes, making attacks against that target unable to be critical strikes, but 10% of all damage taken by that target is also taken by the pet. Lasts 12 sec.\n\nMarksmanship\nInstructs your pet to protect a friendly target from critical strikes, making attacks against that target unable to be critical strikes. Lasts 12 sec.\n\n While Roar of Sacrifice is active, your Spotting Eagle cannot apply Spotter's Mark."}
 MultiLanguageSpellData['en'][1214850] = {name = "Kill-o-Block Barrier", additional_info = nil}
 MultiLanguageSpellData['en'][1214852] = {name = "Three Dimensional Bioprinter", additional_info = "[q]Damaging an Elite creature below 40% health creates an imperfect copy of it at 50% power to fight by your side. Only 1 copy can exist at the same time.\n\n The device may malfunction creating imperfect copies of your companion."}
@@ -6246,14 +6323,14 @@ MultiLanguageSpellData['en'][1214877] = {name = "Anti-Anti-Freeze Missile", addi
 MultiLanguageSpellData['en'][1214878] = {name = "Pyro Party Pack", additional_info = "Unlimited range\nInstant\n[q]Lockenstock gifts his current target a package of explosives. After 6 sec the recipient explodes, inflicting up to 16770174 Fire damage to all players. Players further from the impact position receive less damage."}
 MultiLanguageSpellData['en'][1214882] = {name = "Biofuel Rocket Gear", additional_info = "Unlimited range\nInstant\n[q]Party members are equipped with Biofuel Rocket Gear .\n\n Biofuel\n Each enemy slain fuels the Biofuel Rocket Gear increasing Movement Speed by 2% and Haste by 2% for 10 sec, stacking up to 10 times."}
 MultiLanguageSpellData['en'][1214887] = {name = "Cycle of Hatred", additional_info = "Instant\n[q]Activating Eye Beam reduces the cooldown of your next Eye Beam by 5.0 sec, stacking up to 20 sec."}
-MultiLanguageSpellData['en'][1214889] = {name = "Chilled Steps", additional_info = "20 yd range\nInstant\n[q]Inflicts 2 Frost damage to an enemy and reduces its movement speed by 50% for 3 sec."}
+MultiLanguageSpellData['en'][1214889] = {name = "Chilled Steps", additional_info = "20 yd range\nInstant\n[q]Inflicts 69707 Frost damage to an enemy and reduces its movement speed by 50% for 3 sec."}
 MultiLanguageSpellData['en'][1214890] = {name = "Cycle of Hatred", additional_info = "Instant\n[q]Activating Eye Beam reduces the cooldown of your next Eye Beam by 5.0 sec, stacking up to 20 sec."}
 MultiLanguageSpellData['en'][1214892] = {name = "Biofuel", additional_info = "Instant\n[q]Party members are equipped with Biofuel Rocket Gear .\n\n Biofuel\n Each enemy slain fuels the Biofuel Rocket Gear increasing Movement Speed by 2% and Haste by 2% for 10 sec, stacking up to 10 times."}
 MultiLanguageSpellData['en'][1214893] = {name = "Concussion", additional_info = "Unlimited range\nInstant\n[q]Brann's maximum health is increased by 4% and his damage and healing done is increased by 20%.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30% of his maximum health in damage and be stunned for 5 sec."}
 MultiLanguageSpellData['en'][1214897] = {name = "Blood Bash", additional_info = "8 yd range\n{2 sec cast} {5 sec cooldown}\n[q]Bashes an enemy with the caster's shield, inflicting Shadow damage and knocking the target back.\n\n Black Blood coats the target, applying a healing absorb."}
-MultiLanguageSpellData['en'][1214902] = {name = "Pinged Augment Chip", additional_info = "[q]Brann's maximum health is increased by 6% and his damage and healing done is increased by 25%.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30% of his maximum health in damage and be stunned for 5 sec."}
-MultiLanguageSpellData['en'][1214903] = {name = "Pinged Augment Chip", additional_info = "[q]Brann's maximum health is increased by 8% and his damage and healing done is increased by 30%.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30% of his maximum health in damage and be stunned for 5 sec."}
-MultiLanguageSpellData['en'][1214904] = {name = "Pinged Augment Chip", additional_info = "[q]Brann's maximum health is increased by 10% and his damage and healing done is increased by 35%.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30% of his maximum health in damage and be stunned for 5 sec."}
+MultiLanguageSpellData['en'][1214902] = {name = "Pinged Augment Chip", additional_info = "[q]Brann's maximum health is increased by 6 % and his damage and healing done is increased by 25 %.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30 % of his maximum health in damage and be stunned for 5 sec."}
+MultiLanguageSpellData['en'][1214903] = {name = "Pinged Augment Chip", additional_info = "[q]Brann's maximum health is increased by 8 % and his damage and healing done is increased by 30 %.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30 % of his maximum health in damage and be stunned for 5 sec."}
+MultiLanguageSpellData['en'][1214904] = {name = "Pinged Augment Chip", additional_info = "[q]Brann's maximum health is increased by 10 % and his damage and healing done is increased by 35 %.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30 % of his maximum health in damage and be stunned for 5 sec."}
 MultiLanguageSpellData['en'][1214905] = {name = "Pinged Augment Chip", additional_info = "100 yd range\nInstant\nApproximately 1.5 procs per minute\n[q]Brann's maximum health is increased by 4% and his damage and healing done is increased by 20%.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30% of his maximum health in damage and be stunned for 5 sec.\n(1.5m cooldown)"}
 MultiLanguageSpellData['en'][1214906] = {name = "Pinged Augment Chip", additional_info = "100 yd range\nInstant\nApproximately 1.5 procs per minute\n[q]Brann's maximum health is increased by 4% and his damage and healing done is increased by 20%.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30% of his maximum health in damage and be stunned for 5 sec.\n(1.5m cooldown)"}
 MultiLanguageSpellData['en'][1214907] = {name = "Pinged Augment Chip", additional_info = "100 yd range\nInstant\nApproximately 1.5 procs per minute\n[q]Brann's maximum health is increased by 4% and his damage and healing done is increased by 20%.\n\n While in combat, Brann may become targeted by mechanical bots that fixate on him which can be destroyed or dispelled. If they reach Brann, he will suffer 30% of his maximum health in damage and be stunned for 5 sec.\n(1.5m cooldown)"}
@@ -6261,6 +6338,7 @@ MultiLanguageSpellData['en'][1214908] = {name = "Dr. Scrapheal", additional_info
 MultiLanguageSpellData['en'][1214910] = {name = "Pyro Party Pack", additional_info = "300 yd range\nInstant\n[q]Lockenstock gifts his current target a package of explosives. After 6 sec the recipient explodes, inflicting up to 16770174 Fire damage to all players. Players further from the impact position receive less damage."}
 MultiLanguageSpellData['en'][1214911] = {name = "Zealot's Smite", additional_info = nil}
 MultiLanguageSpellData['en'][1214914] = {name = "<DNT> Cover Spell", additional_info = nil}
+MultiLanguageSpellData['en'][1214915] = {name = "Repeatable Event - Dastardly Duos - Score - Current (during fight)", additional_info = nil}
 MultiLanguageSpellData['en'][1214919] = {name = "Aura of Zealotry", additional_info = nil}
 MultiLanguageSpellData['en'][1214920] = {name = "Nightfall Skyreaver", additional_info = "1.5 sec cast\n[q]Summons and dismisses an Nightfall Skyreaver. This mount changes depending on your Riding skill and location.\n[q]\"Descending on their prey in the dead of night, the cries of these skyreavers once instilled terror in all the children of Draenor.\"\nVendor:\nKronnus\nZone:\nWarspear\nCost:\n5000\n\nVendor:\nTempra\nZone:\nStormshield\nCost:\n5000"}
 MultiLanguageSpellData['en'][1214923] = {name = "Collect Canister", additional_info = nil}
@@ -6282,14 +6360,14 @@ MultiLanguageSpellData['en'][1214984] = {name = "Chillburst", additional_info = 
 MultiLanguageSpellData['en'][1214985] = {name = "Cosmetic - Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1214986] = {name = "Pocket Factory", additional_info = "[q]Brann's spells and abilities have a chance to commission the Pocket Factory to build 1 turret to assist for 10 sec."}
 MultiLanguageSpellData['en'][1214987] = {name = "Engulfing Flames", additional_info = "150 yd range\nInstant\n[q]Standing within the fire inflicts 20 Fire damage every 1 sec."}
-MultiLanguageSpellData['en'][1214991] = {name = "Surging Arc", additional_info = "300 yd range\n3 sec cast\nRequires Ranged Weapon\n[q]The MK II Electro Shocker fires an arc of electricity at a random player, inflicting 1509316 Nature damage and then jumping to up to 3 targets. This damage increases by 10% each time it jumps."}
+MultiLanguageSpellData['en'][1214991] = {name = "Surging Arc", additional_info = "300 yd range\n3 sec cast\nRequires Ranged Weapon\n[q]The MK II Electro Shocker fires an arc of electricity at a random player, inflicting 1328198 Nature damage and then jumping to up to 3 targets. This damage increases by 10% each time it jumps."}
 MultiLanguageSpellData['en'][1214992] = {name = "Vermincide", additional_info = nil}
 MultiLanguageSpellData['en'][1214993] = {name = "Pocket Factory", additional_info = nil}
 MultiLanguageSpellData['en'][1214994] = {name = "Reverse Engineered Goblin Death Bomb", additional_info = "Instant\n[q]When any player's health falls below 50% during combat, Brann throws a giant bomb that explodes on impact.\n\n The explosion knocks back and slows surrounding enemies by 45% for 5 sec and heals nearby party members for 35% of their maximum health. Can only occur every 1.5 min."}
 MultiLanguageSpellData['en'][1214995] = {name = "Vermincide", additional_info = nil}
 MultiLanguageSpellData['en'][1214996] = {name = "Web Explosion", additional_info = "100 yd range\nInstant\n[q]Reduces the max health of all enemies within 15 yards of the impact by 70%."}
 MultiLanguageSpellData['en'][1214997] = {name = "Vermincide", additional_info = nil}
-MultiLanguageSpellData['en'][1214998] = {name = "Vermincide", additional_info = "Instant\n[q]The vermin explodes, inflicting 40 Nature damage plus 16 Nature damage every 1 sec for 6 sec to players within 10 yards."}
+MultiLanguageSpellData['en'][1214998] = {name = "Vermincide", additional_info = "Instant\n[q]The vermin explodes, inflicting 3354035 Nature damage plus 1341614 Nature damage every 1 sec for 6 sec to players within 10 yards."}
 MultiLanguageSpellData['en'][1215000] = {name = "Vermincide", additional_info = nil}
 MultiLanguageSpellData['en'][1215004] = {name = "Horn of the High Seas", additional_info = "1.5 sec cast\n[q]The caster rallies nearby allies with their horn, increasing their haste by 30%."}
 MultiLanguageSpellData['en'][1215006] = {name = "Lightning Turret", additional_info = "40 yd range\n5 sec cast\n[q]Lightning Turret launches lightning that arcs to up to 3 players, inflicting 5 Nature damage."}
@@ -6306,7 +6384,7 @@ MultiLanguageSpellData['en'][1215019] = {name = "Vacuum Slime", additional_info 
 MultiLanguageSpellData['en'][1215020] = {name = "Vacuum Slime", additional_info = "100 yd range\nInstant\n[q]Vacuum up all slime puddles within 10 yards, storing it safely in the slimetanker and restoring 5% health."}
 MultiLanguageSpellData['en'][1215021] = {name = "Ohn'ahran Winds", additional_info = "[q]When your Eagle applies Spotter's Mark, it has a 25% chance to apply a Spotter's Mark to up to 3 additional nearby enemy."}
 MultiLanguageSpellData['en'][1215022] = {name = "Flag Tracking Quest", additional_info = nil}
-MultiLanguageSpellData['en'][1215023] = {name = "Shoot", additional_info = "45 yd range\n{1 sec cast} {1.5 sec cooldown}\n[q]Inflicts 7 Physical damage to an enemy."}
+MultiLanguageSpellData['en'][1215023] = {name = "Shoot", additional_info = "45 yd range\n{1 sec cast} {1.5 sec cooldown}\n[q]Inflicts 243973 Physical damage to an enemy."}
 MultiLanguageSpellData['en'][1215025] = {name = "Explosive Impact", additional_info = nil}
 MultiLanguageSpellData['en'][1215026] = {name = "Explosive Impact", additional_info = nil}
 MultiLanguageSpellData['en'][1215032] = {name = "Killer Mark", additional_info = "[q]Spotter's Mark now additionally increases the critical strike chance of Aimed Shot by 15%."}
@@ -6316,14 +6394,14 @@ MultiLanguageSpellData['en'][1215037] = {name = "Long Fuse Missiles", additional
 MultiLanguageSpellData['en'][1215039] = {name = "B.4.T.T.L.3. Mine", additional_info = nil}
 MultiLanguageSpellData['en'][1215042] = {name = "Explosive Impact", additional_info = nil}
 MultiLanguageSpellData['en'][1215043] = {name = "Recently Stole Credit", additional_info = "Instant\n[q]Take Credit for your allies' deeds up to once every 12 sec, gaining 3 of their highest secondary stat up to 10 times until shortly after leaving combat. You have a 10 % chance to get caught in the act, transferring all accumulated Credit to your ally for 15 sec instead."}
-MultiLanguageSpellData['en'][1215044] = {name = "Pacifist Rig", additional_info = "Unlimited range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
-MultiLanguageSpellData['en'][1215045] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\nApproximately 1 procs per minute\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies.\n(30s cooldown)"}
+MultiLanguageSpellData['en'][1215044] = {name = "Pacifist Rig", additional_info = "Unlimited range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK- 1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1215045] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\nApproximately 1 procs per minute\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK- 1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies.\n(30s cooldown)"}
 MultiLanguageSpellData['en'][1215049] = {name = "11.1 Delves - Nerubians01 - V05: TNT Barrel - Bot Ignore + Barrel Health (Hufton)", additional_info = nil}
-MultiLanguageSpellData['en'][1215050] = {name = "Pacifist Rig", additional_info = "Instant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
-MultiLanguageSpellData['en'][1215051] = {name = "LifeLink Emergency Activator", additional_info = "Unlimited range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
-MultiLanguageSpellData['en'][1215052] = {name = "Pacifist Rig", additional_info = "Unlimited range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1215050] = {name = "Pacifist Rig", additional_info = "Instant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK- 1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1215051] = {name = "LifeLink Emergency Activator", additional_info = "Unlimited range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1215052] = {name = "Pacifist Rig", additional_info = "Unlimited range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
 MultiLanguageSpellData['en'][1215053] = {name = "Arcane Missiles", additional_info = nil}
-MultiLanguageSpellData['en'][1215054] = {name = "Pacifist Rig", additional_info = "Instant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1215054] = {name = "Pacifist Rig", additional_info = "Instant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
 MultiLanguageSpellData['en'][1215056] = {name = "Long Fuse Missiles", additional_info = "100 yd range\nInstant\n[q]Torque fires his new patented Long Fuse Missiles, which explode when walked over or after 10 sec. Lackey's caught stepping on Long Fuse Missiles will also detonate them, stunning them and increasing their damage taken by 100%."}
 MultiLanguageSpellData['en'][1215057] = {name = "Spotter's Mark", additional_info = "40 yd range\nInstant\n[q]The damage bonus of Spotter's Mark is increased by 20%.\n\n Spotter's Mark\n Damaging an enemy with abilities empowered by Precise Shots has a 30% chance to apply Spotter's Mark to the primary target, causing your next Aimed Shot to deal 20% increased damage to the target."}
 MultiLanguageSpellData['en'][1215058] = {name = "Long Fuse Missiles", additional_info = "100 yd range\nInstant\n[q]Torque fires his new patented Long Fuse Missiles, which explode when walked over or after 10 sec. Lackey's caught stepping on Long Fuse Missiles will also detonate them, stunning them and increasing their damage taken by 100%."}
@@ -6331,7 +6409,7 @@ MultiLanguageSpellData['en'][1215059] = {name = "Arcane Missiles", additional_in
 MultiLanguageSpellData['en'][1215060] = {name = "Long Fuse Missiles", additional_info = "100 yd range\nInstant\n[q]Torque fires his new patented Long Fuse Missiles, which explode when walked over or after 10 sec. Lackey's caught stepping on Long Fuse Missiles will also detonate them, stunning them and increasing their damage taken by 100%."}
 MultiLanguageSpellData['en'][1215062] = {name = "Long Fuse Missiles", additional_info = "100 yd range\nInstant\n[q]Torque fires his new patented Long Fuse Missiles, which explode when walked over or after 10 sec. Lackey's caught stepping on Long Fuse Missiles will also detonate them, stunning them and increasing their damage taken by 100%."}
 MultiLanguageSpellData['en'][1215065] = {name = "Platinum Pummel", additional_info = "100 yd range\n3 sec cast\n[q]Pummels the target, inflicts 10316503 Physical damage to all enemies within 6 yards of impact."}
-MultiLanguageSpellData['en'][1215066] = {name = "LifeLink Emergency Activator", additional_info = "Unlimited range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1215066] = {name = "LifeLink Emergency Activator", additional_info = "Unlimited range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
 MultiLanguageSpellData['en'][1215071] = {name = "Electrified Water", additional_info = "Unlimited range\nInstant\n[q]The electrified water inflicts 10 Nature damage every 1 sec to players standing within and periodically stuns players for 2 sec.\n(5s cooldown)"}
 MultiLanguageSpellData['en'][1215072] = {name = "B.4.T.T.L.3. Mine", additional_info = "Unlimited range\nInstant\n[q]Inflicts 35 Physical damage and knocks the target back."}
 MultiLanguageSpellData['en'][1215073] = {name = "Boost", additional_info = "33 ALTERNATE\n{Instant} {5 sec cooldown}\n[q]Gain a huge burst of speed for a short time."}
@@ -6342,6 +6420,7 @@ MultiLanguageSpellData['en'][1215078] = {name = "Boost", additional_info = "{Ins
 MultiLanguageSpellData['en'][1215079] = {name = "<DNT> Small Selected", additional_info = nil}
 MultiLanguageSpellData['en'][1215080] = {name = "Pacifistic Rocket", additional_info = "Unlimited range\nInstant\n[q]Deals 1 Fire damage."}
 MultiLanguageSpellData['en'][1215081] = {name = "<DNT> Medium Selected", additional_info = nil}
+MultiLanguageSpellData['en'][1215082] = {name = "Experimental Destabilization", additional_info = "Instant\n[q]Damage done increased by 50%"}
 MultiLanguageSpellData['en'][1215083] = {name = "<DNT> Large Selected", additional_info = nil}
 MultiLanguageSpellData['en'][1215084] = {name = "Darkfuse Cocktail", additional_info = "2.5 sec cast\n[q]Sprok imbibes a quality Darkfuse Cocktail, increasing his attack speed by 50%, and his movement speed by 20%."}
 MultiLanguageSpellData['en'][1215085] = {name = "Star Bomb", additional_info = nil}
@@ -6360,6 +6439,7 @@ MultiLanguageSpellData['en'][1215109] = {name = "Reverse Engineered Goblin Death
 MultiLanguageSpellData['en'][1215110] = {name = "Reverse Engineered Goblin Death Bomb", additional_info = "Unlimited range\nInstant\n[q]When any player's health falls below 50% during combat, Brann throws a giant bomb that explodes on impact.\n\n The explosion knocks back and slows surrounding enemies by 90% for 5 sec and heals nearby party members for 80% of their maximum health. Can only occur every 1.5 min."}
 MultiLanguageSpellData['en'][1215111] = {name = "Reverse Engineered Goblin Death Bomb", additional_info = "Instant\n[q]When any player's health falls below 50% during combat, Brann throws a giant bomb that explodes on impact.\n\n The explosion knocks back and slows surrounding enemies by 60% for 5 sec and heals nearby party members for 50% of their maximum health. Can only occur every 1.5 min."}
 MultiLanguageSpellData['en'][1215112] = {name = "Reverse Engineered Goblin Death Bomb", additional_info = "Instant\n[q]When any player's health falls below 50% during combat, Brann throws a giant bomb that explodes on impact.\n\n The explosion knocks back and slows surrounding enemies by 75% for 5 sec and heals nearby party members for 65% of their maximum health. Can only occur every 1.5 min."}
+MultiLanguageSpellData['en'][1215113] = {name = "Steeled Mind - Stormwind", additional_info = "Instant\n[q]Reduces sanity drain in Horrific Visions by 0%."}
 MultiLanguageSpellData['en'][1215114] = {name = "Reverse Engineered Goblin Death Bomb", additional_info = "Instant\n[q]When any player's health falls below 50% during combat, Brann throws a giant bomb that explodes on impact.\n\n The explosion knocks back and slows surrounding enemies by 90% for 5 sec and heals nearby party members for 80% of their maximum health. Can only occur every 1.5 min."}
 MultiLanguageSpellData['en'][1215115] = {name = "Reverse Engineered Goblin Death Bomb", additional_info = "Unlimited range\nInstant\n[q]When any player's health falls below 50% during combat, Brann throws a giant bomb that explodes on impact.\n\n The explosion knocks back and slows surrounding enemies by 60% for 5 sec and heals nearby party members for 50% of their maximum health. Can only occur every 1.5 min."}
 MultiLanguageSpellData['en'][1215116] = {name = "Reverse Engineered Goblin Death Bomb", additional_info = "Unlimited range\nInstant\n[q]When any player's health falls below 50% during combat, Brann throws a giant bomb that explodes on impact.\n\n The explosion knocks back and slows surrounding enemies by 75% for 5 sec and heals nearby party members for 65% of their maximum health. Can only occur every 1.5 min."}
@@ -6371,18 +6451,20 @@ MultiLanguageSpellData['en'][1215124] = {name = "Electrified Water", additional_
 MultiLanguageSpellData['en'][1215125] = {name = "Noire Royal", additional_info = nil}
 MultiLanguageSpellData['en'][1215127] = {name = "Silencing Potion", additional_info = "40 yd range\n{Instant} {25 sec cooldown}\n[q]Brann throws healing potions near injured players that restores a moderate amount of health upon walking through them."}
 MultiLanguageSpellData['en'][1215128] = {name = "Lightning Link", additional_info = "[q]Brann generates an electro link that transfers damage done to nearby allies to himself."}
-MultiLanguageSpellData['en'][1215129] = {name = "Pacifist Landing", additional_info = "Unlimited range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1215129] = {name = "Pacifist Landing", additional_info = "Unlimited range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
 MultiLanguageSpellData['en'][1215132] = {name = "Mage Fire 11.1 Class Set 2pc", additional_info = "Approximately 3 procs per minute\n[q]Your spells and abilities have a chance to hit a Jackpot! reducing the cooldown of Combustion by 2 sec. Casting Combustion always hits a Jackpot! at 200% increased effectiveness."}
 MultiLanguageSpellData['en'][1215133] = {name = "Mage Frost 11.1 Class Set 2pc", additional_info = "Approximately 1 procs per minute\n[q]Your spells and abilities have a chance to hit a Jackpot! that fires a Frostbolt Volley dealing [(124.74% of Spell power) * 5] damage to your primary target and (124.74% of Spell power) damage to up to 8 additional targets. Casting Icy Veins always hits a Jackpot!"}
 MultiLanguageSpellData['en'][1215134] = {name = "Silencing Potion", additional_info = "Unlimited range\nInstant\n[q]Brann throws healing potions near injured players that restores a moderate amount of health upon walking through them."}
 MultiLanguageSpellData['en'][1215135] = {name = "Silencing Potion", additional_info = "100 yd range\nInstant\n[q]Brann throws healing potions near injured players that restores a moderate amount of health upon walking through them."}
 MultiLanguageSpellData['en'][1215136] = {name = "Mage Arcane 11.1 Class Set 2pc", additional_info = "Approximately 2 procs per minute\n[q]Your spells and abilities have a small chance to hit a Jackpot! granting you Clearcasting and 5% increased spell damage for 12 sec. Casting Touch of the Magi always hits a Jackpot!"}
 MultiLanguageSpellData['en'][1215137] = {name = "Electrified Water", additional_info = nil}
-MultiLanguageSpellData['en'][1215139] = {name = "Pacifire-Spitter", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies.\n(20s cooldown)"}
+MultiLanguageSpellData['en'][1215138] = {name = "Steeled Mind - Orgrimmar", additional_info = "Instant\n[q]Reduces sanity drain in Horrific Visions by 0%."}
+MultiLanguageSpellData['en'][1215139] = {name = "Pacifire-Spitter", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies.\n(20s cooldown)"}
 MultiLanguageSpellData['en'][1215140] = {name = "Golden Parachute", additional_info = "2 sec cast\n[q]Nikki calls down unstable Black Blood containers to attack players, inflicting Physical damage and knocking back players within 4 yards when they land."}
 MultiLanguageSpellData['en'][1215144] = {name = "Golden Parachute", additional_info = "100 yd range\nInstant\n[q]Nikki calls down unstable Black Blood containers to attack players, inflicting Physical damage and knocking back players within 4 yards when they land."}
 MultiLanguageSpellData['en'][1215147] = {name = "Noire Royal", additional_info = nil}
 MultiLanguageSpellData['en'][1215149] = {name = "Golden Parachute", additional_info = "100 yd range\nInstant\n[q]Nikki calls down unstable Black Blood containers to attack players, inflicting Physical damage and knocking back players within 4 yards when they land."}
+MultiLanguageSpellData['en'][1215152] = {name = "Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1215156] = {name = "Volatile Burst", additional_info = "Instant\n[q]The payload from Golden Parachute bursts, inflicting Shadow damage to players within 100 yards."}
 MultiLanguageSpellData['en'][1215159] = {name = "Inertia", additional_info = "100 yd range\nInstant\n[q]The Hunt and Vengeful Retreat cause your next Fel Rush or Felblade to empower you, increasing damage by 18% for 5 sec."}
 MultiLanguageSpellData['en'][1215165] = {name = "Black Blood Parasite", additional_info = nil}
@@ -6411,6 +6493,7 @@ MultiLanguageSpellData['en'][1215224] = {name = "Hover Cosmetic", additional_inf
 MultiLanguageSpellData['en'][1215226] = {name = "Disintegration Ray", additional_info = "100 yd range\nInstant\n[q]Nikki unleashes a lethal ray at her target, disintegrating the first thing in it's path."}
 MultiLanguageSpellData['en'][1215228] = {name = "Disintegration Ray", additional_info = "300 yd range\nInstant\n[q]Nikki unleashes a lethal ray at her target, disintegrating the first thing in it's path."}
 MultiLanguageSpellData['en'][1215232] = {name = "Three Dimensional Bioprinter", additional_info = nil}
+MultiLanguageSpellData['en'][1215233] = {name = "Repeatable Event - Dastardly Duos - Player - Triggers and No Dur Loss", additional_info = nil}
 MultiLanguageSpellData['en'][1215238] = {name = "Papa's Prized Putter", additional_info = "Approximately 3 procs per minute\n[q]Your melee attacks have a chance to putt a bomb toward your enemy, dealing ( 1 * 421 ) Fire damage on impact.\n\n When you exit combat, gain a burst of speed for 10 sec if your score is a Hole-in-One, Birdie, or Par."}
 MultiLanguageSpellData['en'][1215239] = {name = "Ride Vehicle", additional_info = nil}
 MultiLanguageSpellData['en'][1215240] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]Brann leaps into battle with concussive force, dealing damage and taunting enemies nearby."}
@@ -6435,14 +6518,16 @@ MultiLanguageSpellData['en'][1215263] = {name = "Ensemble: Twilight Acolyte's Re
 MultiLanguageSpellData['en'][1215265] = {name = "Dispersing Light", additional_info = "[q]5% of healing done with Heal, Flash Heal, and Power Word: Life is replicated to 4 injured allies within 40 yards."}
 MultiLanguageSpellData['en'][1215266] = {name = "Dispersing Light", additional_info = "100 yd range\nInstant\n[q]5% of healing done with Heal, Flash Heal, and Power Word: Life is replicated to 4 injured allies within 40 yards."}
 MultiLanguageSpellData['en'][1215268] = {name = "Comically Large Magnet", additional_info = "Unlimited range\nInstant\n[q]When Brann uses Gathering Tools , there is a 100% chance to magnetize Discarded Plating to party members granting them 5% of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures."}
-MultiLanguageSpellData['en'][1215272] = {name = "Silencing Potion", additional_info = "Unlimited range\nInstant\n[q]Heals (100% of Spell power) every 3 sec."}
+MultiLanguageSpellData['en'][1215272] = {name = "Silencing Potion", additional_info = "Unlimited range\nInstant\n[q]Heals 4 every 3 sec."}
 MultiLanguageSpellData['en'][1215273] = {name = "Comically Large Magnet", additional_info = "Instant\n[q]Recharging shield."}
 MultiLanguageSpellData['en'][1215274] = {name = "Discarded Plating", additional_info = "Unlimited range\nInstant\n[q]When Brann uses Gathering Tools , there is a 100% chance to magnetize Discarded Plating to party members granting them 5% of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures."}
 MultiLanguageSpellData['en'][1215275] = {name = "Holy Celerity", additional_info = "[q]Reduces the cooldown of your Holy Words by 15 sec."}
 MultiLanguageSpellData['en'][1215276] = {name = "Silencing Potion", additional_info = "Melee Range\nInstant\n[q]Silences an enemy, preventing them from using any spells for 3 sec."}
 MultiLanguageSpellData['en'][1215277] = {name = "Comically Large Shield", additional_info = "Unlimited range\nInstant\n[q]Increases <Primary Stat> by 0%."}
 MultiLanguageSpellData['en'][1215279] = {name = "G-99 Breakneck", additional_info = "Instant\n[q]Only available within Undermine."}
+MultiLanguageSpellData['en'][1215280] = {name = "Repeatable Event - Dastardly Duos - Open Gate", additional_info = nil}
 MultiLanguageSpellData['en'][1215281] = {name = "G-99 Breakneck", additional_info = "Instant\n[q]Access the G-99 Breakneck."}
+MultiLanguageSpellData['en'][1215282] = {name = "Repeatable Event - Dastardly Duos - Close Gate", additional_info = nil}
 MultiLanguageSpellData['en'][1215286] = {name = "Locate Too-Safe Equipment", additional_info = "20 yd range\n1.5 sec cast\n[q]Point out the too-safe equipment for Inspector Dugg."}
 MultiLanguageSpellData['en'][1215287] = {name = "[q4]Silencing Potion", additional_info = "[q0]Anima Power\nInstant\n[q]Brann can throw out a Silencing Potion.\n\n Running over it heals you and silences nearby enemies for 3 sec."}
 MultiLanguageSpellData['en'][1215304] = {name = "Impact Conversion Matrix", additional_info = "Unlimited range\nInstant\n[q]Upon entering combat, Brann activates the conversion matrix for 10 sec. A small percent of all party damage dealt during this time is converted to primary stat and split between party members.\n\n After the conversion matrix powers down, the primary stat buff persists for 10 sec. This effect cannot occur more than once every 2 min."}
@@ -6453,8 +6538,9 @@ MultiLanguageSpellData['en'][1215310] = {name = "Ensemble: Shattrath Artificer's
 MultiLanguageSpellData['en'][1215311] = {name = "Ensemble: Gorgrond Cragstalker's Hunting Gear", additional_info = "Instant\n[q]Acquire the Gorgrond Cragstalker's Hunting Gear."}
 MultiLanguageSpellData['en'][1215314] = {name = "Ensemble: Shadowmoon Anchorite's Guardplate", additional_info = "Instant\n[q]Acquire the Shadowmoon Anchorite's Guardplate."}
 MultiLanguageSpellData['en'][1215317] = {name = "Mech-Friend Maya", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1215318] = {name = "Repeatable Event - Dastardly Duos - Time Remaining Widget", additional_info = nil}
 MultiLanguageSpellData['en'][1215319] = {name = "Priest Holy 11.1 Class Set 2pc", additional_info = "Approximately 5 procs per minute\n[q]Your healing spells have a chance to apply Insurance! to their targets that heals them for (1023.68% of Spell power) over 15 sec. Insurance! is consumed if an ally drops below 40% health to heal them for (614.25% of Spell power)."}
-MultiLanguageSpellData['en'][1215320] = {name = "[q4]Prototype Heroism Cannister", additional_info = "[q0]Anima Power\nInstant\n[q]In combat, Brann can break open a cannister that increases Haste by 8% for all party members. Lasts 15 sec."}
+MultiLanguageSpellData['en'][1215320] = {name = "[q4]Prototype Heroism Cannister", additional_info = "[q0]Anima Power\nInstant\n[q]In combat, Brann can break open a cannister that increases Haste by 8 % for all party members. Lasts 15 sec."}
 MultiLanguageSpellData['en'][1215321] = {name = "Papa's Prized Putter", additional_info = "Unlimited range\nInstant\n[q]Your melee attacks have a chance to putt a bomb toward your enemy, dealing ( 1 * 421 ) Fire damage on impact.\n\n When you exit combat, gain a burst of speed for 10 sec if your score is a Hole-in-One, Birdie, or Par."}
 MultiLanguageSpellData['en'][1215327] = {name = "[q4]Shield Alert Version 0.76", additional_info = "[q0]Anima Power\n100 yd range\nInstant\n[q]Gain a shield when you fall beneath 50% health, reducing all damage taken by 90 % for 5 sec.\n\n Can only happen once every 2 min."}
 MultiLanguageSpellData['en'][1215328] = {name = "Shield Alert Version 0.76", additional_info = "Instant\n[q]When any player falls below 30% health, Brann will instantly heal them for 25% of their maximum health. Can only occur every 3 min."}
@@ -6464,7 +6550,7 @@ MultiLanguageSpellData['en'][1215333] = {name = "<DNT> Unlock Hotrod", additiona
 MultiLanguageSpellData['en'][1215334] = {name = "Shield Alert Version 0.76", additional_info = "100 yd range\nInstant\n[q]When any player falls below 30% health, Brann will instantly heal them for 25% of their maximum health. Can only occur every 3 min."}
 MultiLanguageSpellData['en'][1215335] = {name = "Electro-Charged Gadgets", additional_info = "100 yd range\nInstant\n[q]Knocks down the target, stunning them for 1.5 sec."}
 MultiLanguageSpellData['en'][1215336] = {name = "Papa Would Be Proud", additional_info = "Instant\n[q]Your melee attacks have a chance to putt a bomb toward your enemy, dealing ( 1 * 421 ) Fire damage on impact.\n\n When you exit combat, gain a burst of speed for 10 sec if your score is a Hole-in-One, Birdie, or Par."}
-MultiLanguageSpellData['en'][1215337] = {name = "Clanker Bomb", additional_info = "20 yd range\n2 sec cast\n[q]Vindle arms and places a Clanker Bomb to pursue his aggressors. Remote Ticktocks explode when within 5 yards inflicting 10 Fire damage to players within 5 yards."}
+MultiLanguageSpellData['en'][1215337] = {name = "Clanker Bomb", additional_info = "20 yd range\n2 sec cast\n[q]Vindle arms and places a Clanker Bomb to pursue his aggressors. Remote Ticktocks explode when within 5 yards inflicting 348533 Fire damage to players within 5 yards."}
 MultiLanguageSpellData['en'][1215339] = {name = "Mechasaur EZ-Build Kit", additional_info = "Instant\n[q]Brann's Epic Egg now houses 1 mechasaurs that taunt enemies for (4000 / 1000) sec while within the egg.\n\n Mechasaurs will periodically stomp in addition to their usual abilities, dealing moderate Fire damage split between nearby enemies. Affected enemies explode after 5 sec, taking moderate Fire damage.\n\nBrann's Epic Egg\nBrann summons a devilsaur egg. Hopefully it hatches."}
 MultiLanguageSpellData['en'][1215340] = {name = "Ensemble: Invasion Stalker's Guise", additional_info = "Instant\n[q]Acquire the Invasion Stalker's Guise."}
 MultiLanguageSpellData['en'][1215341] = {name = "Impact Conversion Matrix", additional_info = "40 yd range\nInstant\n[q]Lightning Turret launches lightning that arcs to up to 0 players, inflicting 0 Nature damage."}
@@ -6478,8 +6564,8 @@ MultiLanguageSpellData['en'][1215351] = {name = "Pay-Line", additional_info = ni
 MultiLanguageSpellData['en'][1215352] = {name = "Pay-Line", additional_info = nil}
 MultiLanguageSpellData['en'][1215353] = {name = "Pay-Line", additional_info = nil}
 MultiLanguageSpellData['en'][1215354] = {name = "Insurance!", additional_info = "100 yd range\nInstant\n[q]Your healing spells have a chance to apply Insurance! to their targets that heals them for (1023.68% of Spell power) over 15 sec. Insurance! is consumed if an ally drops below 40% health to heal them for (614.25% of Spell power)."}
-MultiLanguageSpellData['en'][1215356] = {name = "Seek and Destroy", additional_info = "100 yd range\n2.5 sec cast\n[q]Clanker pursues their target. when within 5 yards of their target, the Clanker explodes inflicting 10 Fire Damage to players within 5 yards."}
-MultiLanguageSpellData['en'][1215357] = {name = "Seek and Destroy", additional_info = "10 yd range\nInstant\n[q]Clanker pursues their target. when within 5 yards of their target, the Clanker explodes inflicting 10 Fire Damage to players within 5 yards."}
+MultiLanguageSpellData['en'][1215356] = {name = "Seek and Destroy", additional_info = "100 yd range\n2.5 sec cast\n[q]Clanker pursues their target. when within 5 yards of their target, the Clanker explodes inflicting 348533 Fire Damage to players within 5 yards."}
+MultiLanguageSpellData['en'][1215357] = {name = "Seek and Destroy", additional_info = "10 yd range\nInstant\n[q]Clanker pursues their target. when within 5 yards of their target, the Clanker explodes inflicting 348533 Fire Damage to players within 5 yards."}
 MultiLanguageSpellData['en'][1215359] = {name = "Impact Conversion Matrix", additional_info = nil}
 MultiLanguageSpellData['en'][1215362] = {name = "Atomic Regoblinator", additional_info = "15 yd range1.5 sec cast 12 hrs cooldown\n[q]Deploy a device that will temporarily goblinate anyone you convince to step onto it."}
 MultiLanguageSpellData['en'][1215363] = {name = "Atomically Regoblinated", additional_info = "{Instant} {3 sec cooldown}\n[q]Experiencing the world from a goblin's perspective."}
@@ -6501,10 +6587,10 @@ MultiLanguageSpellData['en'][1215403] = {name = "Mecha Stomp", additional_info =
 MultiLanguageSpellData['en'][1215406] = {name = "Hatch", additional_info = "100 yd range\n{Instant} {1.65 min cooldown}\n[q]Brann summons a devilsaur egg. Hopefully it hatches."}
 MultiLanguageSpellData['en'][1215407] = {name = "Ensemble: Awakened Earthen Regalia", additional_info = "Instant\n[q]Acquire the Awakened variant of the Earthen civilian and military armor sets."}
 MultiLanguageSpellData['en'][1215408] = {name = "Ensemble: Stonebound Earthen Regalia", additional_info = "Instant\n[q]Acquire the Stonebound variant of the Earthen civilian and military armor sets."}
-MultiLanguageSpellData['en'][1215409] = {name = "Mega Drill", additional_info = "{2.5 sec cast} {10 sec cooldown}\n[q]Drills the earth for 5 sec, inflicts 4 Nature damage to all players every 1 sec."}
-MultiLanguageSpellData['en'][1215410] = {name = "Mega Drill", additional_info = "100 yd range\nInstant\n[q]Drills the earth for 5 sec, inflicts 4 Nature damage to all players every 1 sec."}
-MultiLanguageSpellData['en'][1215411] = {name = "Puncture", additional_info = "100 yd range\n2.5 sec cast\n[q]Inflicts 40 Physical damage to target enemy and bleed them for 4 Physical damage every 1 sec for 6 sec."}
-MultiLanguageSpellData['en'][1215412] = {name = "Corrosive Gunk", additional_info = "60 yd range\n3.5 sec cast\n[q]Unleashes Corrosive Gunk onto players within 60 yds, inflicting 3 Nature damage and absorbing 40 incoming healing."}
+MultiLanguageSpellData['en'][1215409] = {name = "Mega Drill", additional_info = "{2.5 sec cast} {10 sec cooldown}\n[q]Drills the earth for 5 sec, inflicts 589514 Nature damage to all players every 1 sec."}
+MultiLanguageSpellData['en'][1215410] = {name = "Mega Drill", additional_info = "100 yd range\nInstant\n[q]Drills the earth for 5 sec, inflicts 589514 Nature damage to all players every 1 sec."}
+MultiLanguageSpellData['en'][1215411] = {name = "Puncture", additional_info = "100 yd range\n2.5 sec cast\n[q]Inflicts 5895145 Physical damage to target enemy and bleed them for 589514 Physical damage every 1 sec for 6 sec."}
+MultiLanguageSpellData['en'][1215412] = {name = "Corrosive Gunk", additional_info = "60 yd range\n3.5 sec cast\n[q]Unleashes Corrosive Gunk onto players within 60 yds, inflicting 442136 Nature damage and absorbing 2139993 incoming healing."}
 MultiLanguageSpellData['en'][1215413] = {name = "Corrosive Gunk", additional_info = nil}
 MultiLanguageSpellData['en'][1215414] = {name = "Gunk Bolt", additional_info = "60 yd range\n2 sec cast\n[q]Inflicts 12 Nature damage to an enemy."}
 MultiLanguageSpellData['en'][1215415] = {name = "Sticky Sludge", additional_info = "60 yd range\nInstant\n[q]Sticky sludge that reduce target enemy's Haste by 10%."}
@@ -6513,7 +6599,7 @@ MultiLanguageSpellData['en'][1215418] = {name = "Climb", additional_info = nil}
 MultiLanguageSpellData['en'][1215419] = {name = "Zeppelin Rope", additional_info = "50 yd range\nInstant\n[q]Climb rope."}
 MultiLanguageSpellData['en'][1215422] = {name = "Archivist's Chassis", additional_info = "20 yd range\nInstant\n[q]Give your Teeny Titan Orb a near chassis!"}
 MultiLanguageSpellData['en'][1215423] = {name = "Brainstorm", additional_info = nil}
-MultiLanguageSpellData['en'][1215424] = {name = "Brainstorm", additional_info = "100 yd range\nInstant\n[q]Caster unleashes its amazing brain power in a psychic storm, inflicting 3 Arcane damage to all players and manifesting psychic tempests at each player's location, inflicting 10 Arcane damage to any players hit and silencing them for until canceled."}
+MultiLanguageSpellData['en'][1215424] = {name = "Brainstorm", additional_info = "100 yd range\nInstant\n[q]Caster unleashes its amazing brain power in a psychic storm, inflicting 442136 Arcane damage to all players and manifesting psychic tempests at each player's location, inflicting 1473786 Arcane damage to any players hit and silencing them for until canceled."}
 MultiLanguageSpellData['en'][1215426] = {name = "Impact Conversion Matrix", additional_info = nil}
 MultiLanguageSpellData['en'][1215458] = {name = "Machinist's Lantern", additional_info = "{Instant} {5 sec cooldown}\n[q]Rummage through the crate to find your lantern."}
 MultiLanguageSpellData['en'][1215459] = {name = "Glittering Gemstone", additional_info = "{Instant} {5 sec cooldown}\n[q]Rummage through the crate to find a glittering gemstone."}
@@ -6613,12 +6699,14 @@ MultiLanguageSpellData['en'][1215633] = {name = "Hunter Marksmanship 11.1 Class 
 MultiLanguageSpellData['en'][1215634] = {name = "Hunter Beast Mastery 11.1 Class Set 2pc", additional_info = "Approximately 1 procs per minute\n[q]Your spells and abilities have a chance to hit a Jackpot! that fires a Barbed Shot at 100% effectiveness. Casting Bestial Wrath always hits a Jackpot!"}
 MultiLanguageSpellData['en'][1215636] = {name = "Noxious Spores", additional_info = nil}
 MultiLanguageSpellData['en'][1215637] = {name = "Mister Lock-N-Stalk", additional_info = "Instant\n[q]Your spells and abilities have a high chance to lase your target for Precision Blasting , calling in Mister Lock-N-Stalk to deal ( 4266 * 1 ) Physical damage to your target."}
+MultiLanguageSpellData['en'][1215638] = {name = "Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1215641] = {name = "Door!", additional_info = nil}
 MultiLanguageSpellData['en'][1215642] = {name = "Door!", additional_info = nil}
 MultiLanguageSpellData['en'][1215643] = {name = "Door!", additional_info = "200 yd range\nInstant\n[q]Knocked back and stunned."}
 MultiLanguageSpellData['en'][1215644] = {name = "Hunter Beast Mastery 11.1 Class Set 4pc", additional_info = "Approximately 1 procs per minute\n[q]Hitting a Jackpot! infuses your pet with a mutagen, causing its auto-attacks to deal (18.1407% of Attack power) Nature damage to its target and up to 5 enemies within 10 yds for 8 sec. Mutagenic attacks reduce the cooldown of Bestial Wrath by 0.5 sec."}
 MultiLanguageSpellData['en'][1215645] = {name = "Hunter Marksmanship 11.1 Class Set 4pc", additional_info = "Approximately 1 procs per minute\n[q]Consuming Lock and Load also fires an Explosive Shot at 300% effectiveness."}
-MultiLanguageSpellData['en'][1215647] = {name = "Shoot", additional_info = "Unlimited range\n2 sec cast\n[q]Croney fires his lava blaster at a player inflicting 2 Fire damage."}
+MultiLanguageSpellData['en'][1215647] = {name = "Shoot", additional_info = "Unlimited range\n2 sec cast\n[q]Croney fires his lava blaster at a player inflicting 52280 Fire damage."}
+MultiLanguageSpellData['en'][1215649] = {name = "Repeatable Event - Dastardly Duos - Powerup - Time Bomb (UNUSED)", additional_info = nil}
 MultiLanguageSpellData['en'][1215659] = {name = "Goblomagnetic Bouncing Grenade", additional_info = "100 yd range\nInstant\n[q]Brann has a chance during combat to toss a GMB grenade at an enemy target dealing moderate Nature damage with a 20% chance to stun for 1.5 sec. This has a 25% chance to bounce to a new target.\n\n The grenade can safely bounce on party members."}
 MultiLanguageSpellData['en'][1215660] = {name = "Toxic Bolt", additional_info = "40 yd range\n2 sec cast\n[q]The caster inflicts Nature damage to its target."}
 MultiLanguageSpellData['en'][1215672] = {name = "Target Designator", additional_info = "100 yd range\nInstant\n[q]Your spells and abilities have a high chance to lase your target for Precision Blasting , calling in Mister Lock-N-Stalk to deal ( 4266 * 1 ) Physical damage to your target."}
@@ -6669,7 +6757,7 @@ MultiLanguageSpellData['en'][1215730] = {name = "Hunter Survival 11.1 Class Set 
 MultiLanguageSpellData['en'][1215731] = {name = "Demon Hunter Havoc 11.1 Class Set 2pc", additional_info = "Approximately 15 procs per minute\n[q]Your spells and abilities have a chance to activate a Winning Streak! increasing the damage of your Blade Dance and Chaos Strike by 3% stacking up to 10 times. Blade Dance and Chaos Strike have a 15% chance to remove Winning Streak!"}
 MultiLanguageSpellData['en'][1215732] = {name = "Necessary Sacrifice", additional_info = "[q]Winning Streak! persists for 8 sec after being removed by Blade Dance or Chaos Strike.\n\n Entering demon form sacrifices all Winning Streak! stacks to gain 2% critical strike chance per stack consumed. Lasts 15 sec."}
 MultiLanguageSpellData['en'][1215733] = {name = "Mass Destruction", additional_info = "100 yd range\nInstant\n[q]Your spells and abilities have a high chance to lase enemies for Mass Destruction , calling in Mister Lock-N-Stalk to deal ( 2489 * 1 ) Fire damage split between your target and nearby enemies."}
-MultiLanguageSpellData['en'][1215734] = {name = "Druid Feral 11.1 Class Set 2pc", additional_info = "Approximately 10 procs per minute\n[q]Your spells and abilities have a chance to activate a Winning Streak! increasing the damage of your Ferocious Bite, Rip, and Primal Wrath by 3% stacking up to 10 times. Ferocious Bite, Rip, and Primal Wrath have a 15% chance to remove Winning Streak! . Free Ferocious Bites are exempt from this chance."}
+MultiLanguageSpellData['en'][1215734] = {name = "Druid Feral 11.1 Class Set 2pc", additional_info = "Approximately 10 procs per minute\n[q]Your spells and abilities have a chance to activate a Winning Streak! , increasing the damage of your Ferocious Bite, Rip, and Primal Wrath by 3%, stacking up to 10 times. Ferocious Bite, Rip, and Primal Wrath have a 15% chance to remove Winning Streak! . Free Ferocious Bites are exempt from this chance."}
 MultiLanguageSpellData['en'][1215735] = {name = "Druid Feral 11.1 Class Set 4pc", additional_info = "[q]When you consume Apex Predator's Craving, become a Big Winner, dealing (1100% of Attack power) Physical damage to Apex Predator's primary target and increasing the damage of your periodic effects by 16% for 6 sec."}
 MultiLanguageSpellData['en'][1215738] = {name = "Decaying Breath", additional_info = "50 yd range\n4 sec cast\n[q]Unleashes decaying breath at enemies in front of the caster, inflicting 5895145 Plague damage to all players impacted."}
 MultiLanguageSpellData['en'][1215741] = {name = "Mighty Smash", additional_info = "100 yd range\n4 sec cast\n[q]Upon reaching 100 energy, Dessia unleashes a mighty smash that inflicts 2358058 Nature damage to all players and reduces their movement speed by 30% for 10 sec."}
@@ -6684,13 +6772,18 @@ MultiLanguageSpellData['en'][1215770] = {name = "Charge Accumulated", additional
 MultiLanguageSpellData['en'][1215773] = {name = "Shock Maintenance", additional_info = "100 yd range\nInstant\n[q]Vindle \"refurbishes\" his broken clankers, bringing them back to pursue their enemies once more!"}
 MultiLanguageSpellData['en'][1215774] = {name = "Accumulated Charge", additional_info = "100 yd range\nInstant\nReagents:\nPartially-Drained Battery"}
 MultiLanguageSpellData['en'][1215775] = {name = "Carrying Batteries", additional_info = nil}
+MultiLanguageSpellData['en'][1215776] = {name = "Pyrotechnics", additional_info = nil}
+MultiLanguageSpellData['en'][1215782] = {name = "Elite Extermination", additional_info = "Instant\n[q]In Horrific Visions, defeating an Elite enemy restores 100 Sanity."}
+MultiLanguageSpellData['en'][1215783] = {name = "Elite Extermination", additional_info = "Instant\n[q]In Horrific Visions, defeating an Elite enemy restores 150 Sanity."}
 MultiLanguageSpellData['en'][1215785] = {name = "Head Honcho", additional_info = nil}
-MultiLanguageSpellData['en'][1215787] = {name = "Death Spiral", additional_info = "2 sec cast\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 20 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1215787] = {name = "Death Spiral", additional_info = "2 sec cast\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 2947572 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1215788] = {name = "Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1215789] = {name = "Goblin Refurbishment", additional_info = nil}
-MultiLanguageSpellData['en'][1215790] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 20 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1215790] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 2947572 Shadow damage every 1 sec to the player who touches the phantasm."}
 MultiLanguageSpellData['en'][1215791] = {name = "Shock Maintenance", additional_info = "Instant\n[q]Vindle \"refurbishes\" his broken clankers, bringing them back to pursue their enemies once more!"}
 MultiLanguageSpellData['en'][1215792] = {name = "Shock Maintenance", additional_info = "100 yd range\nInstant\n[q]Vindle \"refurbishes\" his broken clankers, bringing them back to pursue their enemies once more!"}
-MultiLanguageSpellData['en'][1215793] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 20 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1215793] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 2947572 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1215794] = {name = "Repeatable Event - Dastardly Duos - Pyrotechnics Aura", additional_info = nil}
 MultiLanguageSpellData['en'][1215795] = {name = "Goblomagnetic Bouncing Grenade", additional_info = "100 yd range\nInstant\nApproximately 3 procs per minute\n[q]Brann has a chance during combat to toss a GMB grenade at an enemy target dealing moderate Nature damage with a 20% chance to stun for 1.5 sec. This has a 25% chance to bounce to a new target.\n\n The grenade can safely bounce on party members."}
 MultiLanguageSpellData['en'][1215796] = {name = "Goblomagnetic Bouncing Grenade", additional_info = "[q]Brann has a chance during combat to toss a GMB grenade at an enemy target dealing moderate Nature damage with a 25% chance to stun for 1.5 sec. This has a 30% chance to bounce to a new target.\n\n The grenade can safely bounce on party members."}
 MultiLanguageSpellData['en'][1215797] = {name = "Goblomagnetic Bouncing Grenade", additional_info = "100 yd range\nInstant\nApproximately 3 procs per minute\n[q]Brann has a chance during combat to toss a GMB grenade at an enemy target dealing moderate Nature damage with a 20% chance to stun for 1.5 sec. This has a 25% chance to bounce to a new target.\n\n The grenade can safely bounce on party members."}
@@ -6701,11 +6794,11 @@ MultiLanguageSpellData['en'][1215801] = {name = "Busted Open!", additional_info 
 MultiLanguageSpellData['en'][1215806] = {name = "Really Rowdy Rocket", additional_info = nil}
 MultiLanguageSpellData['en'][1215807] = {name = "Overdrive Pylon", additional_info = "[q]After 30 sec of combat, party members and Brann deal 10% more damage and healing for 30 sec. Can only occur once per combat."}
 MultiLanguageSpellData['en'][1215809] = {name = "Really Rowdy Rocket", additional_info = nil}
-MultiLanguageSpellData['en'][1215810] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 20 Shadow damage every 1 sec to the player who touches the phantasm."}
-MultiLanguageSpellData['en'][1215814] = {name = "Overdrive", additional_info = "Unlimited range\nInstant\n[q]After 30 sec of combat, party members and Brann deal 10% more damage and healing for 30 sec. Can only occur once per combat."}
+MultiLanguageSpellData['en'][1215810] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 2947572 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1215814] = {name = "Overdrive", additional_info = "Unlimited range\nInstant\n[q]After 30 sec of combat, party members and Brann deal 10 % more damage and healing for 30 sec. Can only occur once per combat."}
 MultiLanguageSpellData['en'][1215815] = {name = "Hero of the People", additional_info = "Unlimited range\nInstant\n[q]Undermine's citizens thank you, urging you forward and increasing your haste by 2% for 1 min. This effect stacks."}
-MultiLanguageSpellData['en'][1215816] = {name = "Overdrive", additional_info = "Unlimited range\nInstant\n[q]After 30 sec of combat, party members and Brann deal 20% more damage and healing for 40 sec. Can only occur once per combat."}
-MultiLanguageSpellData['en'][1215817] = {name = "Overdrive", additional_info = "Unlimited range\nInstant\n[q]After 30 sec of combat, party members and Brann deal 15% more damage and healing for 30 sec. Can only occur once per combat."}
+MultiLanguageSpellData['en'][1215816] = {name = "Overdrive", additional_info = "Unlimited range\nInstant\n[q]After 30 sec of combat, party members and Brann deal 20 % more damage and healing for 40 sec. Can only occur once per combat."}
+MultiLanguageSpellData['en'][1215817] = {name = "Overdrive", additional_info = "Unlimited range\nInstant\n[q]After 30 sec of combat, party members and Brann deal 15 % more damage and healing for 30 sec. Can only occur once per combat."}
 MultiLanguageSpellData['en'][1215819] = {name = "Overdrive Pylon", additional_info = "[q]After 30 sec of combat, party members and Brann deal 15% more damage and healing for 30 sec. Can only occur once per combat."}
 MultiLanguageSpellData['en'][1215820] = {name = "Overdrive Pylon", additional_info = "[q]After 30 sec of combat, party members and Brann deal 20% more damage and healing for 40 sec. Can only occur once per combat."}
 MultiLanguageSpellData['en'][1215821] = {name = "Hero of the People", additional_info = nil}
@@ -6714,10 +6807,12 @@ MultiLanguageSpellData['en'][1215823] = {name = "Overdrive Pylon", additional_in
 MultiLanguageSpellData['en'][1215824] = {name = "Overdrive Pylon", additional_info = "100 yd range\nInstant\n[q]After 30 sec of combat, party members and Brann deal 10% more damage and healing for 30 sec. Can only occur once per combat."}
 MultiLanguageSpellData['en'][1215825] = {name = "Throw Bottle", additional_info = nil}
 MultiLanguageSpellData['en'][1215826] = {name = "Throw Bottle", additional_info = nil}
+MultiLanguageSpellData['en'][1215827] = {name = "Repeatable Event - Dastardly Duos - Camera", additional_info = nil}
 MultiLanguageSpellData['en'][1215828] = {name = "Throw Bottle", additional_info = nil}
 MultiLanguageSpellData['en'][1215829] = {name = "Throw Bottle", additional_info = "100 yd range\nInstant\n[q]Showered with energizing crystal dust. Movement speed increased by 10%."}
 MultiLanguageSpellData['en'][1215830] = {name = "Disintegration Ray", additional_info = "100 yd range\nInstant\n[q]Nikki unleashes a lethal ray at her target, disintegrating the first thing in it's path."}
-MultiLanguageSpellData['en'][1215850] = {name = "Earthcrusher", additional_info = "100 yd range\n1 sec cast\n[q]Inflicts 15 Physical damage to all players and causes earth to erupt in nearby locations, inflicting 30 Nature damage to players within 4 yards of impact."}
+MultiLanguageSpellData['en'][1215850] = {name = "Earthcrusher", additional_info = "100 yd range\n1 sec cast\n[q]Inflicts 2210679 Physical damage to all players and causes earth to erupt in nearby locations, inflicting 4421358 Nature damage to players within 4 yards of impact."}
+MultiLanguageSpellData['en'][1215851] = {name = "Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1215852] = {name = "Earthcrusher", additional_info = nil}
 MultiLanguageSpellData['en'][1215857] = {name = "Ride", additional_info = nil}
 MultiLanguageSpellData['en'][1215858] = {name = "Mega Magnetize", additional_info = "Unlimited range\n1.5 sec cast\n[q]The Invention pulls players towards itself for 6.5 sec. Upon contact with the magnet, players become stunned for 6 sec."}
@@ -6727,15 +6822,18 @@ MultiLanguageSpellData['en'][1215862] = {name = "Cancel", additional_info = nil}
 MultiLanguageSpellData['en'][1215863] = {name = "Impact Conversion Matrix", additional_info = "[q]Upon entering combat, Brann activates the conversion matrix for 15 sec. A small percent of all party damage dealt during this time is converted to primary stat and split between party members.\n\n After the conversion matrix powers down, the primary stat buff persists for 15 sec. This effect cannot occur more than once every 2 min."}
 MultiLanguageSpellData['en'][1215864] = {name = "Impact Conversion Matrix", additional_info = "[q]Upon entering combat, Brann activates the conversion matrix for 20 sec. A small percent of all party damage dealt during this time is converted to primary stat and split between party members.\n\n After the conversion matrix powers down, the primary stat buff persists for 20 sec. This effect cannot occur more than once every 2 min."}
 MultiLanguageSpellData['en'][1215869] = {name = "Tiny Tussle", additional_info = nil}
-MultiLanguageSpellData['en'][1215870] = {name = "Sprocket Smash", additional_info = "40 yd range\n2 sec cast\n[q]Knocks an enemy back.\n Inflicts 9 Physical damage to an enemy."}
+MultiLanguageSpellData['en'][1215870] = {name = "Sprocket Smash", additional_info = "40 yd range\n2 sec cast\n[q]Knocks an enemy back.\n Inflicts 313680 Physical damage to an enemy."}
+MultiLanguageSpellData['en'][1215873] = {name = "Repeatable Event - Dastardly Duos - Camera Bunny - Approach Me", additional_info = nil}
 MultiLanguageSpellData['en'][1215875] = {name = "Shouting at Ground", additional_info = nil}
 MultiLanguageSpellData['en'][1215877] = {name = "Crystalline Slice", additional_info = "100 yd range\n{2 sec cast} {3 sec cooldown}\n[q]The caster slices their target inflicting Nature damage and causing them to bleed Nature damage every 1 sec for 14 sec."}
 MultiLanguageSpellData['en'][1215878] = {name = "Signal Flare", additional_info = "Instant\n[q]Fire a signal flare to summon a fixer bot to the location, ready to tackle repairs with goblin-engineered flair (and maybe a few sparks)."}
-MultiLanguageSpellData['en'][1215881] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 20 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1215881] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 2947572 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1215882] = {name = "Repeatable Event - Dastardly Duos - Animatronic", additional_info = "Instant\n(1s cooldown)"}
 MultiLanguageSpellData['en'][1215883] = {name = "Floatie", additional_info = "Instant\n[q]Enjoying a warm cup of Hochenblume tea."}
-MultiLanguageSpellData['en'][1215884] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 20 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1215884] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 2947572 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1215886] = {name = "Repeatable Event - Dastardly Duos - Animatronic - steam vent", additional_info = nil}
 MultiLanguageSpellData['en'][1215887] = {name = "Pocket Deth Lazor", additional_info = nil}
-MultiLanguageSpellData['en'][1215889] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 20 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1215889] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 2947572 Shadow damage every 1 sec to the player who touches the phantasm."}
 MultiLanguageSpellData['en'][1215892] = {name = "<DNT> Unlock Car Parts", additional_info = nil}
 MultiLanguageSpellData['en'][1215894] = {name = "<DNT> Unlock Parts", additional_info = nil}
 MultiLanguageSpellData['en'][1215898] = {name = "Static Charge", additional_info = "300 yd range\nInstant\n[q]Mug'Zee harnesses electricity around him and charges, inflicting 6708070 Physical damage to players in his path, destroying all Earthshaker Gaol s and Unstable Crawler Mines .\n\n Upon reaching his target, Mug'Zee unleashes a Bulletstorm ."}
@@ -6743,13 +6841,15 @@ MultiLanguageSpellData['en'][1215899] = {name = "Static Charge", additional_info
 MultiLanguageSpellData['en'][1215901] = {name = "Static Charge", additional_info = nil}
 MultiLanguageSpellData['en'][1215902] = {name = "Static Charge", additional_info = "300 yd range\nInstant\n[q]Mug'Zee harnesses electricity around him and charges, inflicting 6708070 Physical damage to players in his path, destroying all Earthshaker Gaol s and Unstable Crawler Mines .\n\n Upon reaching his target, Mug'Zee unleashes a Bulletstorm ."}
 MultiLanguageSpellData['en'][1215903] = {name = "Storming Impact", additional_info = "300 yd range\nInstant\n[q]Mug'Zee releases his static charge, inflicting 100 Nature damage to all players and knocking them back. These effects are reduced by the number of players struck by Static Charge ."}
-MultiLanguageSpellData['en'][1215905] = {name = "Carnage Cannon", additional_info = "100 yd range\n3 sec cast\n[q]Geargrave unleashes his Carnage Cannon, fires a missile of \"refined\" Black Blood into the air, inflicting 15 Shadow damage and absorbing 30 healing to players within 6 yards of the impact, and leaving behind a pool of Black Blood."}
+MultiLanguageSpellData['en'][1215905] = {name = "Carnage Cannon", additional_info = "100 yd range\n3 sec cast\n[q]Geargrave unleashes his Carnage Cannon, fires a missile of \"refined\" Black Blood into the air, inflicting 522799 Shadow damage and absorbing 1045599 healing to players within 6 yards of the impact, and leaving behind a pool of Black Blood."}
 MultiLanguageSpellData['en'][1215906] = {name = "Splash!", additional_info = nil}
-MultiLanguageSpellData['en'][1215907] = {name = "Carnage Cannon", additional_info = "100 yd range\nInstant\n[q]Geargrave unleashes his Carnage Cannon, fires a missile of \"refined\" Black Blood into the air, inflicting 15 Shadow damage and absorbing 30 healing to players within 6 yards of the impact, and leaving behind a pool of Black Blood."}
+MultiLanguageSpellData['en'][1215907] = {name = "Carnage Cannon", additional_info = "100 yd range\nInstant\n[q]Geargrave unleashes his Carnage Cannon, fires a missile of \"refined\" Black Blood into the air, inflicting 522799 Shadow damage and absorbing 1045599 healing to players within 6 yards of the impact, and leaving behind a pool of Black Blood."}
 MultiLanguageSpellData['en'][1215908] = {name = "Splash!", additional_info = nil}
-MultiLanguageSpellData['en'][1215909] = {name = "Carnage Cannon", additional_info = "100 yd range\nInstant\n[q]Geargrave unleashes his Carnage Cannon, fires a missile of \"refined\" Black Blood into the air, inflicting 15 Shadow damage and absorbing 30 healing to players within 6 yards of the impact, and leaving behind a pool of Black Blood."}
+MultiLanguageSpellData['en'][1215909] = {name = "Carnage Cannon", additional_info = "100 yd range\nInstant\n[q]Geargrave unleashes his Carnage Cannon, fires a missile of \"refined\" Black Blood into the air, inflicting 522799 Shadow damage and absorbing 1045599 healing to players within 6 yards of the impact, and leaving behind a pool of Black Blood."}
 MultiLanguageSpellData['en'][1215910] = {name = "Freezing Trap", additional_info = "100 yd range\n1.5 sec cast\n[q]The caster hurls a trap at their target's location. Stepping into it stuns you for 6 sec."}
-MultiLanguageSpellData['en'][1215912] = {name = "Black Blood", additional_info = "100 yd range\nInstant\n[q]Black Blood lingers from the Carnage Cannon, inflicting 10 Shadow damage every 2 sec."}
+MultiLanguageSpellData['en'][1215912] = {name = "Black Blood", additional_info = "100 yd range\nInstant\n[q]Black Blood lingers from the Carnage Cannon, inflicting 348533 Shadow damage every 2 sec."}
+MultiLanguageSpellData['en'][1215913] = {name = "Repeatable Event - Dastardly Duos - Animatronic - create gear", additional_info = nil}
+MultiLanguageSpellData['en'][1215914] = {name = "Repeatable Event - Dastardly Duos - Animatronic - lose gear", additional_info = nil}
 MultiLanguageSpellData['en'][1215915] = {name = "Freezing Trap", additional_info = "100 yd range\nInstant\n[q]The caster hurls a trap at their target's location. Stepping into it stuns you for 6 sec."}
 MultiLanguageSpellData['en'][1215916] = {name = "Mind Lash", additional_info = "100 yd range\nInstant\n[q]Lashes at target player with psychic energy, inflicting 4 Arcane damage every 1 sec."}
 MultiLanguageSpellData['en'][1215917] = {name = "Pocket Deth Lazor", additional_info = nil}
@@ -6759,30 +6859,30 @@ MultiLanguageSpellData['en'][1215920] = {name = "Freezing Trap", additional_info
 MultiLanguageSpellData['en'][1215921] = {name = "Impact Conversion Matrix", additional_info = "Unlimited range\nInstant\n[q]Upon entering combat, Brann activates the conversion matrix for 15 sec. A small percent of all party damage dealt during this time is converted to primary stat and split between party members.\n\n After the conversion matrix powers down, the primary stat buff persists for 15 sec. This effect cannot occur more than once every 2 min."}
 MultiLanguageSpellData['en'][1215928] = {name = "Impact Conversion Matrix", additional_info = "Unlimited range\nInstant\n[q]Upon entering combat, Brann activates the conversion matrix for 20 sec. A small percent of all party damage dealt during this time is converted to primary stat and split between party members.\n\n After the conversion matrix powers down, the primary stat buff persists for 20 sec. This effect cannot occur more than once every 2 min."}
 MultiLanguageSpellData['en'][1215933] = {name = "Tiny Tussle", additional_info = "Instant\n[q]Fans periodically throw toys resembling Flarendo and Torq into the arena. Toys charge towards a rival toy within 15 yards, destroying both in the process and inflicting 419254 Fire and 419254 Nature damage to all players every 1 sec for 3 sec . This effect stacks. During Colossal Clash, all toys charge their closest rival regardless of range, inflicting 500% increased damage.\n\n Toys can be kicked by running into them."}
-MultiLanguageSpellData['en'][1215934] = {name = "Rock Lance", additional_info = "45 yd range\nInstant\n[q]Blasts a player with a magical stone lance, inflicting 1768544 Nature damage instantly and 442136 Nature damage every 1 sec for until canceled."}
+MultiLanguageSpellData['en'][1215934] = {name = "Rock Lance", additional_info = "45 yd range\nInstant\n[q]Blasts a player with a magical stone lance, inflicting 1768544 Nature damage instantly and 442136 Nature damage every 1 sec for 3 sec."}
 MultiLanguageSpellData['en'][1215936] = {name = "<DNT> Create Trait Config", additional_info = nil}
 MultiLanguageSpellData['en'][1215938] = {name = "Tiny Tussle", additional_info = nil}
-MultiLanguageSpellData['en'][1215942] = {name = "Comically Large Magnet", additional_info = "Unlimited range\nInstant\n[q]When Brann uses Gathering Tools , there is a 100 % chance to magnetize Discarded Plating to party members granting them 10 % of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures."}
+MultiLanguageSpellData['en'][1215942] = {name = "Comically Large Magnet", additional_info = "Unlimited range\nInstant\n[q]When Brann uses Gathering Tools , there is a 100% chance to magnetize Discarded Plating to party members granting them 10% of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures."}
 MultiLanguageSpellData['en'][1215943] = {name = "Rock Lance", additional_info = nil}
 MultiLanguageSpellData['en'][1215944] = {name = "Tiny Tussle", additional_info = nil}
 MultiLanguageSpellData['en'][1215945] = {name = "Tiny Tussle", additional_info = nil}
 MultiLanguageSpellData['en'][1215946] = {name = "Comically Large Magnet", additional_info = "[q]When Brann uses Gathering Tools , there is a 100% chance to magnetize Discarded Plating to party members granting them 10% of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures."}
-MultiLanguageSpellData['en'][1215947] = {name = "Comically Large Magnet", additional_info = "Instant\n[q]When Brann uses Gathering Tools , there is a 100 % chance to magnetize Discarded Plating to party members granting them 15 % of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures."}
+MultiLanguageSpellData['en'][1215947] = {name = "Comically Large Magnet", additional_info = "Instant\n[q]When Brann uses Gathering Tools , there is a 100% chance to magnetize Discarded Plating to party members granting them 15% of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures."}
 MultiLanguageSpellData['en'][1215948] = {name = "Comically Large Magnet", additional_info = "[q]When Brann uses Gathering Tools , there is a 100% chance to magnetize Discarded Plating to party members granting them 15% of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures."}
-MultiLanguageSpellData['en'][1215950] = {name = "Comically Large Magnet", additional_info = "Unlimited range\nInstant\n[q]When Brann uses Gathering Tools , there is a 100 % chance to magnetize Discarded Plating to party members granting them 20 % of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures."}
+MultiLanguageSpellData['en'][1215950] = {name = "Comically Large Magnet", additional_info = "Unlimited range\nInstant\n[q]When Brann uses Gathering Tools , there is a 100% chance to magnetize Discarded Plating to party members granting them 20% of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures."}
 MultiLanguageSpellData['en'][1215951] = {name = "Comically Large Magnet", additional_info = "[q]When Brann uses Gathering Tools , there is a 100% chance to magnetize Discarded Plating to party members granting them 20% of their maximum health as a shield that regenerates out of combat.\n\n Gathering Tools\nBrann uses his gathering tools to help players find additional gold, ore, herbs, fish, leathers, and treasures."}
 MultiLanguageSpellData['en'][1215952] = {name = "Tiny Tussle", additional_info = nil}
 MultiLanguageSpellData['en'][1215953] = {name = "Static Charge", additional_info = "300 yd range\n3 sec cast\n[q]Mug'Zee harnesses electricity around him and charges, inflicting 6708070 Physical damage to players in his path, destroying all Earthshaker Gaol s and Unstable Crawler Mines .\n\n Upon reaching his target, Mug'Zee unleashes a Bulletstorm ."}
-MultiLanguageSpellData['en'][1215957] = {name = "Tremor Claw", additional_info = "100 yd range\n2.5 sec cast\n[q]Knocks all enemies within 100 yards of the caster back.\n Reduces the movement speed of all enemies within 60 yards by 40% for 3 sec.\n Inflicts 7 Physical damage to enemies within 60 yards."}
-MultiLanguageSpellData['en'][1215958] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\nApproximately 1 procs per minute\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-3 at their location, equipping them with it for 10 sec, and knocking back nearby enemies.\n(30s cooldown)"}
-MultiLanguageSpellData['en'][1215959] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\nApproximately 1 procs per minute\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-4 at their location, equipping them with it for 10 sec, and knocking back nearby enemies.\n(30s cooldown)"}
-MultiLanguageSpellData['en'][1215960] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\nApproximately 1 procs per minute\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-2 at their location, equipping them with it for 10 sec, and knocking back nearby enemies.\n(30s cooldown)"}
-MultiLanguageSpellData['en'][1215962] = {name = "Pacifist Rig", additional_info = "[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-4 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
-MultiLanguageSpellData['en'][1215963] = {name = "Pacifist Rig", additional_info = "[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-3 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
-MultiLanguageSpellData['en'][1215964] = {name = "Pacifist Rig", additional_info = "[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-2 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1215957] = {name = "Tremor Claw", additional_info = "100 yd range\n2.5 sec cast\n[q]Knocks all enemies within 100 yards of the caster back.\n Reduces the movement speed of all enemies within 60 yards by 40% for 3 sec.\n Inflicts 243973 Physical damage to enemies within 60 yards."}
+MultiLanguageSpellData['en'][1215958] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\nApproximately 1 procs per minute\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-3 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies.\n(30s cooldown)"}
+MultiLanguageSpellData['en'][1215959] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\nApproximately 1 procs per minute\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-4 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies.\n(30s cooldown)"}
+MultiLanguageSpellData['en'][1215960] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\nApproximately 1 procs per minute\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-2 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies.\n(30s cooldown)"}
+MultiLanguageSpellData['en'][1215962] = {name = "Pacifist Rig", additional_info = "[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-4 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1215963] = {name = "Pacifist Rig", additional_info = "[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-3 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1215964] = {name = "Pacifist Rig", additional_info = "[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-2 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
 MultiLanguageSpellData['en'][1215965] = {name = "Voltaic Image", additional_info = nil}
-MultiLanguageSpellData['en'][1215970] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies.\n(20s cooldown)"}
-MultiLanguageSpellData['en'][1215975] = {name = "Juice It Up!", additional_info = "2.5 sec cast\n[q]Geargrave fully activates his mech, causing him to gain a shield absorbing 30 damage, and inflict 30% more damage to players."}
+MultiLanguageSpellData['en'][1215970] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies.\n(20s cooldown)"}
+MultiLanguageSpellData['en'][1215975] = {name = "Juice It Up!", additional_info = "2.5 sec cast\n[q]Geargrave fully activates his mech, causing him to gain a shield absorbing 1045599 damage, and inflict 30% more damage to players."}
 MultiLanguageSpellData['en'][1215979] = {name = "Juice It Up!", additional_info = nil}
 MultiLanguageSpellData['en'][1215981] = {name = "Static Charge", additional_info = nil}
 MultiLanguageSpellData['en'][1215982] = {name = "Pacifire", additional_info = "Unlimited range\nInstant\n[q]Damages enemies in a cone in front of you for 1 Fire damage."}
@@ -6806,6 +6906,7 @@ MultiLanguageSpellData['en'][1216039] = {name = "R.P.G.G.", additional_info = "U
 MultiLanguageSpellData['en'][1216040] = {name = "R.P.G.G.", additional_info = "Unlimited range\nInstant\n[q]The caster launches a volley of rockets from their R.P.G.G., inflicting 5895145 Fire damage to players within 8 yards of impact.\n\n After firing, the R.P.G.G. must be reloaded."}
 MultiLanguageSpellData['en'][1216056] = {name = "Talon Shred", additional_info = "8 yd range\n{2 sec cast} {3 sec cooldown}\n[q]The eagle sinks its claws into its target, inflicting Physical damage. The wound continues to bleed, inflicting Physical damage every 1 sec for 8 sec."}
 MultiLanguageSpellData['en'][1216059] = {name = "Featherstorm", additional_info = "100 yd range\n{3 sec cast} {9 sec cooldown}\n[q]The caster sends a barrage of feathers at their target every 2 sec for 6 sec, inflicting Nature damage and knocking back all enemies in a cone in front of the caster."}
+MultiLanguageSpellData['en'][1216060] = {name = "Repeatable Event - Dastardly Duos - Score - After Fight", additional_info = nil}
 MultiLanguageSpellData['en'][1216063] = {name = "Featherstorm", additional_info = "100 yd range\nInstant\n[q]The caster sends a barrage of feathers at their target every 2 sec for 6 sec, inflicting Nature damage and knocking back all enemies in a cone in front of the caster."}
 MultiLanguageSpellData['en'][1216064] = {name = "Hunter Survival 11.1 Class Set 4pc", additional_info = "[q]When your Winning Streak! ends, your next [ Mongoose Bite / Raptor Strike] deals 400% increased damage and reduces the cooldown of Wildfire Bomb by 10 sec."}
 MultiLanguageSpellData['en'][1216066] = {name = "Signal Flare", additional_info = "Instant\n[q]Fire a signal flare to summon a fixer bot to the location, ready to tackle repairs with goblin-engineered flair (and maybe a few sparks)."}
@@ -6822,6 +6923,7 @@ MultiLanguageSpellData['en'][1216095] = {name = "Return from the Chrome King", a
 MultiLanguageSpellData['en'][1216096] = {name = "Lunar Storm", additional_info = "100 yd range\nInstant\n[q]Every 30 sec your next [ Marksmanship : Rapid Fire /\n\nSurvival\nWildfire Bomb ] launches a celestial arrow that conjures a 12 yd radius Lunar Storm at the target's location dealing (100% of Attack power) Arcane damage.\n\nFor the next 12 sec, a random enemy affected by Sentinel within your Lunar Storm gets struck for (93.75% of Attack power) Arcane damage every 0.4 sec. Any target struck by this effect takes 10% increased damage from you and your pet for 8 sec."}
 MultiLanguageSpellData['en'][1216097] = {name = "Ornaments of the Pearlescent Butterfly", additional_info = "Instant\n[q]Collect the appearances of the Ornaments of the Pearlescent Butterfly."}
 MultiLanguageSpellData['en'][1216099] = {name = "Fireworks Hat", additional_info = "{Instant} {10 min cooldown}\n[q]Don a hat loaded with fireworks for 15 sec. Releases fireworks when you jump."}
+MultiLanguageSpellData['en'][1216101] = {name = "Repeatable Event - Dastardly Duos - Spotlight", additional_info = nil}
 MultiLanguageSpellData['en'][1216102] = {name = "Fireworks Hat", additional_info = nil}
 MultiLanguageSpellData['en'][1216105] = {name = "Summon Drone", additional_info = nil}
 MultiLanguageSpellData['en'][1216108] = {name = "Green Spray", additional_info = nil}
@@ -6829,11 +6931,13 @@ MultiLanguageSpellData['en'][1216110] = {name = "Purple Spray", additional_info 
 MultiLanguageSpellData['en'][1216111] = {name = "Amplification!", additional_info = nil}
 MultiLanguageSpellData['en'][1216112] = {name = "Particularly Bright Lightbulb", additional_info = "{2 sec cast} {5 min cooldown}\n[q]Convince those around you into believing you have an idea.\n\n Your idea is particularly brilliant if used in Undermine, thus increasing your Intellect by 8% for 1 hour."}
 MultiLanguageSpellData['en'][1216113] = {name = "Rocket Barrage", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1216115] = {name = "Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1216116] = {name = "Fountain Spray", additional_info = nil}
 MultiLanguageSpellData['en'][1216122] = {name = "Amplification!", additional_info = nil}
 MultiLanguageSpellData['en'][1216123] = {name = "Automatic Footbomb Dispenser", additional_info = "Unlimited range\nInstant\nApproximately 1.5 procs per minute\n[q]Brann's spells and abilities have a chance to drop 3 footbombs on the field for 10 sec.\n\n Running into a footbomb kicks it at your enemy target dealing significant Fire damage to all enemies in a 6-yard radius.\n(30s cooldown)"}
 MultiLanguageSpellData['en'][1216125] = {name = "Ride", additional_info = nil}
 MultiLanguageSpellData['en'][1216127] = {name = "Ride", additional_info = nil}
+MultiLanguageSpellData['en'][1216128] = {name = "Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1216129] = {name = "Automatic Footbomb Dispenser", additional_info = "Unlimited range\nInstant\nApproximately 1.5 procs per minute\n[q]Brann's spells and abilities have a chance to drop 3 footbombs on the field for 10 sec.\n\n Running into a footbomb kicks it at your enemy target dealing tremendous Fire damage to all enemies in a 6-yard radius.\n(30s cooldown)"}
 MultiLanguageSpellData['en'][1216130] = {name = "Automatic Footbomb Dispenser", additional_info = "Unlimited range\nInstant\nApproximately 1.5 procs per minute\n[q]Brann's spells and abilities have a chance to drop 4 footbombs on the field for 10 sec.\n\n Running into a footbomb kicks it at your enemy target dealing tremendous Fire damage to all enemies in a 6-yard radius.\n(30s cooldown)"}
 MultiLanguageSpellData['en'][1216136] = {name = "Drop Stink Bomb", additional_info = "100 yd range\n{Instant} {2 sec cooldown}\n[q]Drop a large stink bomb."}
@@ -6844,6 +6948,7 @@ MultiLanguageSpellData['en'][1216148] = {name = "Ornaments of the Spring Butterf
 MultiLanguageSpellData['en'][1216150] = {name = "Ornaments of the Blood Monarch", additional_info = "Instant\n[q]Collect the appearances of the Ornaments of the Blood Monarch."}
 MultiLanguageSpellData['en'][1216151] = {name = "Deth Lazor'd", additional_info = nil}
 MultiLanguageSpellData['en'][1216152] = {name = "Ornaments of the Midnight Butterfly", additional_info = "Instant\n[q]Collect the appearances of the Ornaments of the Midnight Butterfly."}
+MultiLanguageSpellData['en'][1216153] = {name = "Steeled Mind", additional_info = nil}
 MultiLanguageSpellData['en'][1216154] = {name = "Blocker Aura", additional_info = nil}
 MultiLanguageSpellData['en'][1216157] = {name = "Exit Storm", additional_info = nil}
 MultiLanguageSpellData['en'][1216158] = {name = "Impotent Potable", additional_info = "{Instant} {5 min cooldown}\n[q]Drink to quench your thirst and show off your cool.\n\n If you spend 10 seconds drinking in Undermine, you will become Well Hydrated which increases your movement speed by 10% for 1 hour."}
@@ -6873,15 +6978,28 @@ MultiLanguageSpellData['en'][1216198] = {name = "Throw Dice", additional_info = 
 MultiLanguageSpellData['en'][1216199] = {name = "Throw Dice", additional_info = nil}
 MultiLanguageSpellData['en'][1216200] = {name = "Throw Dice", additional_info = nil}
 MultiLanguageSpellData['en'][1216202] = {name = "Rocket Jump", additional_info = "300 yd range\nInstant\n[q]The goblin activates their rocket belt to jump to a player."}
+MultiLanguageSpellData['en'][1216207] = {name = "Echo of N'Zoth", additional_info = nil}
 MultiLanguageSpellData['en'][1216209] = {name = "Lucky", additional_info = "Instant\n[q]Roll 2d6 and hope for the best!\n\n If rolled in Undermine, your Agility will be increased by X%, where X is the total of your roll. A roll of Snake Eyes may result in a terrible fate."}
 MultiLanguageSpellData['en'][1216210] = {name = "Pocket Factory", additional_info = "Instant\nApproximately 3 procs per minute\n[q]Brann's spells and abilities have a chance to commission the Pocket Factory to build 2 turrets to assist for 20 sec.\n(30s cooldown)"}
 MultiLanguageSpellData['en'][1216211] = {name = "Gilded Stash", additional_info = "Instant\n[q]Upon delve completion with lives remaining, a Gilded Stash will appear in the treasure room, containing 7 Gilded Crests.\n\nGilded Stash looted: [1]3/3\n Resets weekly."}
 MultiLanguageSpellData['en'][1216212] = {name = "Hyped", additional_info = "Instant\n[q]Your spells and abilities have a high chance to Hype you up, granting 13 Haste up to 5 times. Upon reaching maximum Hype, amp it up by 100 % for 15 sec before starting again."}
+MultiLanguageSpellData['en'][1216213] = {name = "Echo of N'Zoth", additional_info = nil}
+MultiLanguageSpellData['en'][1216214] = {name = "Echo of N'Zoth", additional_info = nil}
+MultiLanguageSpellData['en'][1216215] = {name = "Echo of N'Zoth", additional_info = nil}
 MultiLanguageSpellData['en'][1216216] = {name = "Unlucky", additional_info = "Instant\n[q]Roll 2d6 and hope for the best!\n\n If rolled in Undermine, your Agility will be increased by X%, where X is the total of your roll. A roll of Snake Eyes may result in a terrible fate."}
+MultiLanguageSpellData['en'][1216217] = {name = "Echo of N'Zoth", additional_info = nil}
+MultiLanguageSpellData['en'][1216218] = {name = "Echo of N'Zoth", additional_info = nil}
+MultiLanguageSpellData['en'][1216219] = {name = "Echo of N'Zoth", additional_info = nil}
+MultiLanguageSpellData['en'][1216221] = {name = "Echo of N'Zoth", additional_info = nil}
+MultiLanguageSpellData['en'][1216222] = {name = "Echo of N'Zoth", additional_info = nil}
+MultiLanguageSpellData['en'][1216223] = {name = "Echo of N'Zoth", additional_info = nil}
+MultiLanguageSpellData['en'][1216224] = {name = "Echo of N'Zoth", additional_info = nil}
+MultiLanguageSpellData['en'][1216225] = {name = "Echo of N'Zoth", additional_info = nil}
+MultiLanguageSpellData['en'][1216226] = {name = "Echo of N'Zoth", additional_info = nil}
 MultiLanguageSpellData['en'][1216229] = {name = "Tol Dagor Departure", additional_info = nil}
 MultiLanguageSpellData['en'][1216230] = {name = "Amplification!", additional_info = nil}
 MultiLanguageSpellData['en'][1216234] = {name = "Player Detection Pulse", additional_info = nil}
-MultiLanguageSpellData['en'][1216235] = {name = "Plundered Artifacts", additional_info = nil}
+MultiLanguageSpellData['en'][1216235] = {name = "Plundered Artifacts", additional_info = "100 yd range\nInstant\n[q]Nerubian knickknacks to be sold to the highest bidder... until you came along."}
 MultiLanguageSpellData['en'][1216242] = {name = "Necrotic Eruption", additional_info = nil}
 MultiLanguageSpellData['en'][1216244] = {name = "Molten Cannon", additional_info = "300 yd range\nInstant\n[q]Underpin's Croney powers up his Molten Cannon and fires a powerful orb of molten lava at a player's location which inflicts 30 Fire damage and knocks back all players caught in its path."}
 MultiLanguageSpellData['en'][1216251] = {name = "Pocket Deth Lazor", additional_info = nil}
@@ -6917,7 +7035,7 @@ MultiLanguageSpellData['en'][1216339] = {name = "Tar Turret", additional_info = 
 MultiLanguageSpellData['en'][1216344] = {name = "Tar Turret", additional_info = nil}
 MultiLanguageSpellData['en'][1216351] = {name = "Pocket Factory", additional_info = "Instant\nApproximately 3 procs per minute\n[q]Brann's spells and abilities have a chance to commission the Pocket Factory to build 2 turrets to assist for 10 sec.\n(30s cooldown)"}
 MultiLanguageSpellData['en'][1216352] = {name = "Pocket Factory", additional_info = "Instant\nApproximately 3 procs per minute\n[q]Brann's spells and abilities have the chance to commission the pocket factory to build 3 turrets to assist for 20 sec.\n(30s cooldown)"}
-MultiLanguageSpellData['en'][1216391] = {name = "Mechmastermind's Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix's experiment covers afflicted enemies absorbing healing for 30 sec. Each target contributes 170 healing to this pool and all linked players share this burden.\n\n Upon expiration or consuming this healing implodes the canister incurring Mastermind's Detonation ."}
+MultiLanguageSpellData['en'][1216391] = {name = "Mechmastermind's Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix's experiment covers afflicted enemies absorbing healing for 30 sec. Each target contributes 153 healing to this pool and all linked players share this burden.\n\n Upon expiration or consuming this healing implodes the canister incurring Mastermind's Detonation ."}
 MultiLanguageSpellData['en'][1216393] = {name = "A Light Touch", additional_info = nil}
 MultiLanguageSpellData['en'][1216394] = {name = "A Light Touch", additional_info = "Melee Range\n3.5 sec cast\n[q]Mortally wound an enemy of trivial difficulty."}
 MultiLanguageSpellData['en'][1216397] = {name = "Vent Jets", additional_info = nil}
@@ -6925,8 +7043,10 @@ MultiLanguageSpellData['en'][1216398] = {name = "Bashful Book", additional_info 
 MultiLanguageSpellData['en'][1216399] = {name = "Three Dimensional Bioprinter", additional_info = nil}
 MultiLanguageSpellData['en'][1216401] = {name = "Three Dimensional Bioprinter", additional_info = nil}
 MultiLanguageSpellData['en'][1216402] = {name = "Vent Jets", additional_info = "100 yd range\nInstant\n[q]Creates wave of fire through its blazing vents, inflicting 25 Fire damage to all players hit."}
+MultiLanguageSpellData['en'][1216403] = {name = "Score Bonus Area Trigger", additional_info = nil}
 MultiLanguageSpellData['en'][1216404] = {name = "Unstable Prototype", additional_info = nil}
-MultiLanguageSpellData['en'][1216406] = {name = "Unstable Explosion", additional_info = "300 yd range\nInstant\n[q]When a Foot-Blaster is detonated, it explodes inflicting 2767079 Fire damage to all players and causes them to take 450% increased damage from Unstable Explosion for 2 sec."}
+MultiLanguageSpellData['en'][1216405] = {name = "Score Bonus", additional_info = nil}
+MultiLanguageSpellData['en'][1216406] = {name = "Unstable Explosion", additional_info = "300 yd range\nInstant\n[q]When a Foot-Blaster is detonated, it explodes inflicting 2490371 Fire damage to all players and causes them to take 450% increased damage from Unstable Explosion for 2 sec."}
 MultiLanguageSpellData['en'][1216407] = {name = "Prototype Volunteer", additional_info = "[UNUSED] Prototype Volunteer\n300 yd range\nInstant\n[q]The Sprocketmonger selects players as pilot users for his explosive new tech, inflicting 10 Fire damage to them every 1 sec.\n\n An Unstable Prototype is dropped at the target's location upon expiration."}
 MultiLanguageSpellData['en'][1216408] = {name = "Prototype Volunteer", additional_info = "[UNUSED] Prototype Volunteer\nUnlimited range\n2 sec cast\n[q]The Sprocketmonger selects players as pilot users for his explosive new tech, inflicting 10 Fire damage to them every 1 sec.\n\n An Unstable Prototype is dropped at the target's location upon expiration."}
 MultiLanguageSpellData['en'][1216409] = {name = "Prototype Volunteer", additional_info = "[UNUSED] Prototype Volunteer\nUnlimited range\nInstant\n[q]The Sprocketmonger selects players as pilot users for his explosive new tech, inflicting 10 Fire damage to them every 1 sec.\n\n An Unstable Prototype is dropped at the target's location upon expiration."}
@@ -7010,7 +7130,7 @@ MultiLanguageSpellData['en'][1216565] = {name = "Double Down", additional_info =
 MultiLanguageSpellData['en'][1216567] = {name = "Bloodthirst Reset", additional_info = nil}
 MultiLanguageSpellData['en'][1216568] = {name = "Raging Blow Reset", additional_info = nil}
 MultiLanguageSpellData['en'][1216569] = {name = "Double Down", additional_info = "Instant\n[q]When you gain a stack of Winning Streak! you have an even chance to either cause your next Bloodthirst to deal 15% increased damage and have 25% increased chance to critically strike or cause your next Raging Blow to deal 15% increased damage and generate 2 additional Rage.\n(500ms cooldown)"}
-MultiLanguageSpellData['en'][1216574] = {name = "Bomb Voyage", additional_info = "Instant\n[q]The Primed Boomcrawler detonates, inflicting 1219866 Fire damage and knocking back players within 5 yards."}
+MultiLanguageSpellData['en'][1216574] = {name = "Bomb Voyage", additional_info = "Instant\n[q]The Primed Boomcrawler detonates, inflicting 35 Fire damage and knocking back players within 5 yards."}
 MultiLanguageSpellData['en'][1216575] = {name = "Gorilla Fan Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1216577] = {name = "Bomb Voyage", additional_info = "100 yd range\nInstant\n[q]The Primed Boomcrawler detonates, inflicting 1219866 Fire damage and knocking back players within 5 yards."}
 MultiLanguageSpellData['en'][1216593] = {name = "Wrath of Kezan", additional_info = "100 yd range\nInstant\n[q]Your spells and abilities have a high chance to empower the Eye and grant you 3 <Primary Stat> up to 20 times, decaying rapidly upon leaving combat. While fully empowered, the Eye instead deals ( 210 * 1 ) Fire damage to enemies or heals allies for 316 ."}
@@ -7038,7 +7158,7 @@ MultiLanguageSpellData['en'][1216636] = {name = "<DNT> Arrow Renderer", addition
 MultiLanguageSpellData['en'][1216646] = {name = "Dominating Beats", additional_info = "Instant\n[q]Controlled by the rhythm, the victim continues to dance until they die."}
 MultiLanguageSpellData['en'][1216648] = {name = "Set Up Camp", additional_info = nil}
 MultiLanguageSpellData['en'][1216650] = {name = "Suspicious Energy Drink", additional_info = nil}
-MultiLanguageSpellData['en'][1216652] = {name = "Excessive Pollutants", additional_info = "Instant\n[q]The Gobfather releases hazardous chemicals into the air, inflicting 69707 Nature damage every 2 sec."}
+MultiLanguageSpellData['en'][1216652] = {name = "Excessive Pollutants", additional_info = "Instant\n[q]The Gobfather releases hazardous chemicals into the air, inflicting 2 Nature damage every 2 sec."}
 MultiLanguageSpellData['en'][1216654] = {name = "Reveal Intruders", additional_info = "20 yd range\n{2 sec cast} {3 sec cooldown}\n[q]The hyena howls, alerting nearby Darkfuse to intruders and removing Venture Co. disguises."}
 MultiLanguageSpellData['en'][1216655] = {name = "Shocking Field", additional_info = nil}
 MultiLanguageSpellData['en'][1216656] = {name = "Excessive Pollutants", additional_info = "300 yd range\nInstant\n[q]The Gobfather releases hazardous chemicals into the air, inflicting 69707 Nature damage every 2 sec."}
@@ -7070,6 +7190,7 @@ MultiLanguageSpellData['en'][1216698] = {name = "Snowglobe", additional_info = n
 MultiLanguageSpellData['en'][1216699] = {name = "Void Barrage", additional_info = "1.5 sec cast\n[q]The Invention launches a void projectile every 2.5 sec for 6 sec. Touching a projectile inflicts 6708070 Shadow damage and triggers a Voidsplash ."}
 MultiLanguageSpellData['en'][1216700] = {name = "Near the Fishes", additional_info = nil}
 MultiLanguageSpellData['en'][1216702] = {name = "Void Barrage", additional_info = "Instant\n[q]The Invention launches a void projectile every 2.5 sec for 6 sec. Touching a projectile inflicts 6708070 Shadow damage and triggers a Voidsplash ."}
+MultiLanguageSpellData['en'][1216704] = {name = "Repeatable Event - Dastardly Duos - Glubtok Teleport (50% Health)", additional_info = nil}
 MultiLanguageSpellData['en'][1216705] = {name = "Void Barrage", additional_info = "Unlimited range\nInstant\n[q]The Invention launches a void projectile every 2.5 sec for 6 sec . Touching a projectile inflicts 6708070 Shadow damage and triggers a Voidsplash ."}
 MultiLanguageSpellData['en'][1216706] = {name = "Void Barrage", additional_info = "Unlimited range\nInstant\n[q]The Invention launches a void projectile every 2.5 sec for 6 sec . Touching a projectile inflicts 6708070 Shadow damage and triggers a Voidsplash ."}
 MultiLanguageSpellData['en'][1216709] = {name = "Death From Above", additional_info = "3 sec cast\n[q]The Gobfather spews a barrage of missiles from its rocket launchers, inflicting 1568398 Fire damage to players within 5 yards of each impact."}
@@ -7087,17 +7208,19 @@ MultiLanguageSpellData['en'][1216738] = {name = "Oil Canister", additional_info 
 MultiLanguageSpellData['en'][1216739] = {name = "Oil Canister", additional_info = "150 yd range\nInstant\n[q]Upon defeat, the bike explodes and sends canisters of oil flying through the air. A player can catch the oil canister, suffering 1257763 Nature damage and becoming Soaked in Oil for 1 min.\n\n Each canister that fails to hit a player explodes, leaving an Oil Slick behind."}
 MultiLanguageSpellData['en'][1216740] = {name = "Oil Canister", additional_info = "150 yd range\nInstant\n[q]Upon defeat, the bike explodes and sends canisters of oil flying through the air. A player can catch the oil canister, suffering 1257763 Nature damage and becoming Soaked in Oil for 1 min.\n\n Each canister that fails to hit a player explodes, leaving an Oil Slick behind."}
 MultiLanguageSpellData['en'][1216743] = {name = "Death From Above", additional_info = "300 yd range\nInstant\n[q]The Gobfather spews a barrage of missiles from its rocket launchers, inflicting 1568398 Fire damage to players within 5 yards of each impact."}
-MultiLanguageSpellData['en'][1216745] = {name = "Death Spiral", additional_info = "Channeled (50 sec cast)\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 20 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1216745] = {name = "Death Spiral", additional_info = "Channeled (50 sec cast)\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 2947572 Shadow damage every 1 sec to the player who touches the phantasm."}
 MultiLanguageSpellData['en'][1216746] = {name = "Landro's Loot Box Surprise", additional_info = nil}
 MultiLanguageSpellData['en'][1216747] = {name = "Death From Above", additional_info = "300 yd range\nInstant\n[q]The Gobfather spews a barrage of missiles from its rocket launchers, inflicting 1568398 Fire damage to players within 5 yards of each impact."}
-MultiLanguageSpellData['en'][1216748] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 20 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1216748] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 2947572 Shadow damage every 1 sec to the player who touches the phantasm."}
+MultiLanguageSpellData['en'][1216749] = {name = "Burner Clock", additional_info = "{4 sec cast} {3 min cooldown}\n[q]Add 30 seconds back to the Dastardly Duos clock."}
+MultiLanguageSpellData['en'][1216761] = {name = "BIG Burner Clock", additional_info = "{Instant} {3 min cooldown}\n[q]Add 60 seconds back to the Dastardly Duos clock."}
 MultiLanguageSpellData['en'][1216769] = {name = "Cooking", additional_info = "Channeled (0 sec cast)\n[q]Open the Classic Cooking menu."}
 MultiLanguageSpellData['en'][1216770] = {name = "Abyssal Volt", additional_info = nil}
-MultiLanguageSpellData['en'][1216771] = {name = "Slimediver Goggles", additional_info = nil}
+MultiLanguageSpellData['en'][1216771] = {name = "Slimediver Goggles", additional_info = "Instant\n[q]Wearing goggles."}
 MultiLanguageSpellData['en'][1216772] = {name = "Abyssal Volt", additional_info = nil}
 MultiLanguageSpellData['en'][1216773] = {name = "Abyssal Volt", additional_info = nil}
 MultiLanguageSpellData['en'][1216774] = {name = "Abyssal Volt", additional_info = nil}
-MultiLanguageSpellData['en'][1216775] = {name = "Venting Heat", additional_info = "Unlimited range\nInstant\n[q]Gallywix's machines dump excessive heat over 4 sec inflicting 1844719 Fire damage to all players plus an additional 276708 Fire damage every 1 sec."}
+MultiLanguageSpellData['en'][1216775] = {name = "Venting Heat", additional_info = "Unlimited range\nInstant\n[q]Gallywix's machines dump excessive heat over 4 sec inflicting 27 Fire damage to all players plus an additional 5 Fire damage every 1 sec."}
 MultiLanguageSpellData['en'][1216776] = {name = "Achivement Credit", additional_info = nil}
 MultiLanguageSpellData['en'][1216778] = {name = "A New Paint-Job", additional_info = "1.15 sec cast\n[q]Purchase this paint to permanently unlock this color palette for your G-99 Breakneck."}
 MultiLanguageSpellData['en'][1216779] = {name = "A New Paint-Job", additional_info = "1.15 sec cast\n[q]Purchase this paint to permanently unlock this color palette for your G-99 Breakneck."}
@@ -7116,7 +7239,7 @@ MultiLanguageSpellData['en'][1216791] = {name = "Forward Charge", additional_inf
 MultiLanguageSpellData['en'][1216792] = {name = "Forward Charge", additional_info = nil}
 MultiLanguageSpellData['en'][1216793] = {name = "Forward Charge", additional_info = "10 yd range\nInstant\n[q]Charges at a random enemy's location, knocking back and inflicting 15 Physical damage to any enemy in the way."}
 MultiLanguageSpellData['en'][1216794] = {name = "Alpha Cannon", additional_info = "25 yd range\n{2 sec cast} {2 sec cooldown}\n[q]"}
-MultiLanguageSpellData['en'][1216795] = {name = "Alpha Cannon", additional_info = "100 yd range\nInstant\n[q]Inflicts 10 Fire damage on impact."}
+MultiLanguageSpellData['en'][1216795] = {name = "Alpha Cannon", additional_info = "100 yd range\nInstant\n[q]Inflicts 348533 Fire damage on impact."}
 MultiLanguageSpellData['en'][1216796] = {name = "Red Aura", additional_info = nil}
 MultiLanguageSpellData['en'][1216797] = {name = "Blue Aura", additional_info = nil}
 MultiLanguageSpellData['en'][1216798] = {name = "Gold Aura", additional_info = nil}
@@ -7144,11 +7267,17 @@ MultiLanguageSpellData['en'][1216853] = {name = "Void Pulsar", additional_info =
 MultiLanguageSpellData['en'][1216856] = {name = "Flamethrower", additional_info = nil}
 MultiLanguageSpellData['en'][1216858] = {name = "Void Pulsar", additional_info = "Unlimited range\nInstant\n[q]Xal'atath summons void pulsars that orbit players. After 15 sec the void pulsar releases its energy to grant creatures Xal'atath's Gift , increasing damage done by 10% and reducing damage taken by 20% for 20 sec sec. This effect stacks.\n\n Players that come into contact with a void pulsar empower players, granting them 4% Mastery and 2% Leech for 30 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1216859] = {name = "Winning Streak!", additional_info = "Instant\n[q]Casting Dark Transformation grants up to 10 stacks of Winning Streak! and while Dark Transformation is active, the effectiveness of Winning Streak! is increased by 100% and it no longer has a chance to reset."}
+MultiLanguageSpellData['en'][1216867] = {name = "Cheery Bomb", additional_info = nil}
 MultiLanguageSpellData['en'][1216870] = {name = "Bomb Voyage", additional_info = "300 yd range\nInstant\n[q]The Primed Boomcrawler detonates, inflicting 1219866 Fire damage and knocking back players within 5 yards."}
 MultiLanguageSpellData['en'][1216874] = {name = "Winning Streak!", additional_info = "Instant\n[q]Your spells and abilities have a chance to activate a Winning Streak! increasing the damage of your Wildfire Bomb by 3% stacking up to 6 times.\n Wildfire Bomb has a 15% chance to end your Winning Streak!\n(Proc chance: 15%)"}
+MultiLanguageSpellData['en'][1216877] = {name = "Faceless Mask of Multitudes", additional_info = nil}
+MultiLanguageSpellData['en'][1216878] = {name = "Faceless Mask of Multitudes", additional_info = nil}
 MultiLanguageSpellData['en'][1216879] = {name = "Strike it Rich", additional_info = "Instant\n[q]When your Winning Streak! ends, your next [ Mongoose Bite / Raptor Strike] deals 400% increased damage and reduces the cooldown of Wildfire Bomb by 10 sec."}
+MultiLanguageSpellData['en'][1216880] = {name = "Faceless Mask of Multitudes", additional_info = nil}
 MultiLanguageSpellData['en'][1216884] = {name = "Kaja'Cola Mega-Lite", additional_info = "40 yd range\nInstant\n[q]Become the pinnacle of Gallagio service excellence and dole out Kaja'Cola Mega-Lite to injured allies 10 times over 4 sec, healing them for 4263 and increasing their Speed by 8 for 5 sec. The number of servings is increased by your Haste."}
 MultiLanguageSpellData['en'][1216887] = {name = "Polarization Generator", additional_info = "Unlimited range\nInstant\n[q]Lockenstock polarizes all players, inflicting 586956 Nature damage every 0.5 sec and afflicting them with either Posi-Polarization or Nega-Polarization ."}
+MultiLanguageSpellData['en'][1216888] = {name = "Cosmetic", additional_info = nil}
+MultiLanguageSpellData['en'][1216889] = {name = "Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1216891] = {name = "Rock Reviver", additional_info = "{Instant} {12 sec cooldown}\n[q]Unleash the residual energy of nearby restless pebbles and stones, allowing them to assist you in combat for a short time."}
 MultiLanguageSpellData['en'][1216893] = {name = "Polarization Generator", additional_info = "Unlimited range\nInstant\n[q]Lockenstock polarizes all players, inflicting 586956 Nature damage every 0.5 sec and afflicting them with either Posi-Polarization or Nega-Polarization ."}
 MultiLanguageSpellData['en'][1216894] = {name = "\"Remodeling\"", additional_info = nil}
@@ -7186,6 +7315,7 @@ MultiLanguageSpellData['en'][1217011] = {name = "Winning Streak!", additional_in
 MultiLanguageSpellData['en'][1217012] = {name = "Leave", additional_info = nil}
 MultiLanguageSpellData['en'][1217013] = {name = "Insurance!", additional_info = "100 yd range\nInstant\n[q]Your healing spells have a chance to apply Insurance! to their targets that heals them for (1023.68% of Spell power) over 15 sec. Insurance! is consumed if an ally drops below 40% health to heal them for (614.25% of Spell power)."}
 MultiLanguageSpellData['en'][1217015] = {name = "Xal'atath's Bargain: Pulsar", additional_info = nil}
+MultiLanguageSpellData['en'][1217016] = {name = "Summon Orb", additional_info = nil}
 MultiLanguageSpellData['en'][1217017] = {name = "Thorns", additional_info = "40 yd range\n[q]Casting Barkskin[ Restoration : or Ironbark ] sprouts thorns on [its target][you] for 12 sec. When victim to melee attacks, thorns deals (120% of Spell power) Nature damage back to the attacker.\n\n Attackers also have their movement speed reduced by 50% for 4 sec."}
 MultiLanguageSpellData['en'][1217019] = {name = "Xal'atath's Bargain: Pulsar", additional_info = nil}
 MultiLanguageSpellData['en'][1217020] = {name = "Khaz Algar Enchanting Specialization Reset", additional_info = nil}
@@ -7242,7 +7372,7 @@ MultiLanguageSpellData['en'][1217119] = {name = "Mass Teleport", additional_info
 MultiLanguageSpellData['en'][1217120] = {name = "Lingering Voltage", additional_info = "1000 yd range\nInstant\n[q]The amplifier loses power when activated by a player, inflicting 419254 Nature damage to them every 1 sec."}
 MultiLanguageSpellData['en'][1217122] = {name = "Lingering Voltage", additional_info = "100 yd range\nInstant\n[q]The amplifier loses power when activated by a player, inflicting 419254 Nature damage to them every 1 sec."}
 MultiLanguageSpellData['en'][1217126] = {name = "Lingering Voltage", additional_info = "200 yd range\nInstant\n[q]The amplifier loses power when activated by a player, inflicting 419254 Nature damage to them every 1 sec."}
-MultiLanguageSpellData['en'][1217138] = {name = "Necrotic Bolt", additional_info = "65 yd range\n{3 sec cast} {2 sec cooldown}\n[q]Sathel blasts the target, inflicts 15 Shadow damage to the target and absorbs the next 15 healing received by the target."}
+MultiLanguageSpellData['en'][1217138] = {name = "Necrotic Bolt", additional_info = "65 yd range\n{3 sec cast} {2 sec cooldown}\n[q]Sathel blasts the target, inflicts 2210679 Shadow damage to the target and absorbs the next 802497 healing received by the target."}
 MultiLanguageSpellData['en'][1217163] = {name = "Explorers' League Rope", additional_info = nil}
 MultiLanguageSpellData['en'][1217166] = {name = "Prized Legend's Pennant", additional_info = "Instant\n[q]Represent your seasonal achievement with a pennant."}
 MultiLanguageSpellData['en'][1217173] = {name = "Energy Gain", additional_info = nil}
@@ -7266,13 +7396,13 @@ MultiLanguageSpellData['en'][1217228] = {name = "Cosmetic - Loot Sparkles (Base,
 MultiLanguageSpellData['en'][1217231] = {name = "Foot-Blasters", additional_info = "Unlimited range\n1.5 sec cast\n[q]Lockenstock launches several land mines into the room. Stepping on a Foot-Blaster triggers an Unstable Explosion and embeds Unstable Shrapnel into the triggering player. In addition, these reactive mines detonate on contact with other Inventions or Wire Transfer , triggering an Unstable Explosion ."}
 MultiLanguageSpellData['en'][1217233] = {name = "Kick Can", additional_info = nil}
 MultiLanguageSpellData['en'][1217235] = {name = "Crimson Shreddertank", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Experimental shredder designed for killing rather than harvesting.\"\nAchievement:\nThe War Within Keystone Master: Season Two\nCategory:\nDungeons"}
-MultiLanguageSpellData['en'][1217236] = {name = "Winning Streak!", additional_info = "Instant\n[q]Your spells and abilities have a chance to activate a Winning Streak! increasing the damage of your Ferocious Bite, Rip, and Primal Wrath by 3% stacking up to 10 times. Ferocious Bite, Rip, and Primal Wrath have a 15% chance to remove Winning Streak! . Free Ferocious Bites are exempt from this chance.\n(Proc chance: 15%)"}
+MultiLanguageSpellData['en'][1217236] = {name = "Winning Streak!", additional_info = "Instant\n[q]Your spells and abilities have a chance to activate a Winning Streak! , increasing the damage of your Ferocious Bite, Rip, and Primal Wrath by 3%, stacking up to 10 times. Ferocious Bite, Rip, and Primal Wrath have a 15% chance to remove Winning Streak! . Free Ferocious Bites are exempt from this chance.\n(Proc chance: 15%)"}
 MultiLanguageSpellData['en'][1217242] = {name = "Enlightened", additional_info = "Instant\n[q]Arcane damage dealt is increased based on your current mana, up to 6% at full mana.\n\n Mana Regen is increased based on your current mana, up to 20% when out of mana."}
 MultiLanguageSpellData['en'][1217243] = {name = "Picking up Keeza's B.B.B.F.G.", additional_info = "10 yd range\n2 sec cast"}
 MultiLanguageSpellData['en'][1217245] = {name = "Big Winner!!!", additional_info = "100 yd range\nInstant\n[q]When you consume Apex Predator's Craving, become a Big Winner, dealing (1100% of Attack power) Physical damage to Apex Predator's primary target and increasing the damage of your periodic effects by 16% for 6 sec."}
 MultiLanguageSpellData['en'][1217246] = {name = "Keeza's B.B.B.F.G.", additional_info = nil}
 MultiLanguageSpellData['en'][1217248] = {name = "Recalibrating...", additional_info = "4 sec cast\n[q]Recalibrates Keeza's B.B.B.F.G. to maximum output."}
-MultiLanguageSpellData['en'][1217249] = {name = "Empty Pockets", additional_info = "100 yd range\n1.5 sec cast\n[q]The drone grabs a player and inflicts 1 Physical damage every 0.5 sec and stuns for 6 sec."}
+MultiLanguageSpellData['en'][1217249] = {name = "Empty Pockets", additional_info = "100 yd range\n1.5 sec cast\n[q]The drone grabs a player and inflicts 41925 Physical damage every 0.5 sec and stuns for 6 sec."}
 MultiLanguageSpellData['en'][1217250] = {name = "Keeza's B.B.B.F.G.", additional_info = nil}
 MultiLanguageSpellData['en'][1217251] = {name = "Locking On...", additional_info = "Unlimited range\nChanneled (1 min cast)\n[q]Locks on to a suitable target."}
 MultiLanguageSpellData['en'][1217253] = {name = "Keeza's B.B.B.F.G.", additional_info = nil}
@@ -7282,10 +7412,10 @@ MultiLanguageSpellData['en'][1217261] = {name = "Screwed!", additional_info = "U
 MultiLanguageSpellData['en'][1217275] = {name = "Resonance", additional_info = "Unlimited range\nInstant\n[q]Amplifiers gain additional power while within 0 yards of Rik Reverb."}
 MultiLanguageSpellData['en'][1217276] = {name = "Kill Credit: Delivery Goblin 4", additional_info = nil}
 MultiLanguageSpellData['en'][1217279] = {name = "Uppercut", additional_info = nil}
-MultiLanguageSpellData['en'][1217280] = {name = "Uppercut", additional_info = "100 yd range\nInstant\n[q]Charges to target player unleashes a devastating uppercut, inflicting 20 Physical damage and knocking all enemies within 4 yards of impact into the air."}
+MultiLanguageSpellData['en'][1217280] = {name = "Uppercut", additional_info = "100 yd range\nInstant\n[q]Charges to target player unleashes a devastating uppercut, inflicting 2947572 Physical damage and knocking all enemies within 4 yards of impact into the air."}
 MultiLanguageSpellData['en'][1217281] = {name = "Redeployment Module", additional_info = "{10 sec cast} {30 min cooldown}\n1 Charge\n[q]Returns you to <Hearthstone Location>. Speak to an Innkeeper in a different place to change your home location."}
-MultiLanguageSpellData['en'][1217282] = {name = "Tear Gas", additional_info = "100 yd range\nInstant\n[q]Launches a tear gas canister at an enemy location, inflicts 15 Nature damage every 1 sec. and disorients targets caught within for 2 sec. Also leaves behind a pool of tear gas for 10 sec. Inflicting 20 Nature damage every 1 sec to players inside."}
-MultiLanguageSpellData['en'][1217283] = {name = "Tear Gas", additional_info = "100 yd range\nInstant\n[q]Launches a tear gas canister at an enemy location, inflicts 15 Nature damage every 1 sec. and disorients targets caught within for 2 sec. Also leaves behind a pool of tear gas for 10 sec. Inflicting 20 Nature damage every 1 sec to players inside."}
+MultiLanguageSpellData['en'][1217282] = {name = "Tear Gas", additional_info = "100 yd range\nInstant\n[q]Launches a tear gas canister at an enemy location, inflicts 2210679 Nature damage every 1 sec. and disorients targets caught within for 2 sec. Also leaves behind a pool of tear gas for 10 sec. Inflicting 2947572 Nature damage every 1 sec to players inside."}
+MultiLanguageSpellData['en'][1217283] = {name = "Tear Gas", additional_info = "100 yd range\nInstant\n[q]Launches a tear gas canister at an enemy location, inflicts 2210679 Nature damage every 1 sec. and disorients targets caught within for 2 sec. Also leaves behind a pool of tear gas for 10 sec. Inflicting 2947572 Nature damage every 1 sec to players inside."}
 MultiLanguageSpellData['en'][1217284] = {name = "Canister", additional_info = nil}
 MultiLanguageSpellData['en'][1217285] = {name = "Canister", additional_info = nil}
 MultiLanguageSpellData['en'][1217286] = {name = "Throw Coins", additional_info = "Unlimited range\nInstant\n[q]The crowd throws piles of coins into the arena around the Coin-Operated Crowd Pummeler, inflicting 2210679 Physical damage to players within 2 yards of impact."}
@@ -7298,13 +7428,13 @@ MultiLanguageSpellData['en'][1217294] = {name = "Shocking Claw", additional_info
 MultiLanguageSpellData['en'][1217295] = {name = "Shocking Claw", additional_info = nil}
 MultiLanguageSpellData['en'][1217296] = {name = "Shocking Claw", additional_info = "100 yd range\nInstant\n[q]Unleashes a massive wave of electricity in front of the caster, inflicting 2947572 Nature damage to enemies hit and stunning them for 3 sec."}
 MultiLanguageSpellData['en'][1217298] = {name = "Hold Clipboard and Quill", additional_info = nil}
-MultiLanguageSpellData['en'][1217300] = {name = "Heedless Charge", additional_info = "20 yd range\n{Instant} {3 sec cooldown}\n[q]The Hobgoblin barrels onward in a direction knocking back targets and inflicting 9 Nature damage. Becomes Dizzy when stopped becoming stunned and taking 50% increased damage for 5 sec."}
-MultiLanguageSpellData['en'][1217301] = {name = "Heedless Charge", additional_info = "Unlimited range\n4 sec cast\n[q]The Hobgoblin barrels onward in a direction knocking back targets and inflicting 9 Nature damage. Becomes Dizzy when stopped becoming stunned and taking 50% increased damage for 5 sec."}
-MultiLanguageSpellData['en'][1217302] = {name = "Heedless Charge", additional_info = "Unlimited range\nInstant\n[q]The Hobgoblin barrels onward in a direction knocking back targets and inflicting 9 Nature damage. Becomes Dizzy when stopped becoming stunned and taking 50% increased damage for 5 sec."}
-MultiLanguageSpellData['en'][1217303] = {name = "Heedless Charge", additional_info = "Unlimited range\nInstant\n[q]The Hobgoblin barrels onward in a direction knocking back targets and inflicting 9 Nature damage. Becomes Dizzy when stopped becoming stunned and taking 50% increased damage for 5 sec."}
-MultiLanguageSpellData['en'][1217304] = {name = "Dizzy", additional_info = "Unlimited range\nInstant\n[q]The Hobgoblin barrels onward in a direction knocking back targets and inflicting 9 Nature damage. Becomes Dizzy when stopped becoming stunned and taking 50% increased damage for 5 sec."}
+MultiLanguageSpellData['en'][1217300] = {name = "Heedless Charge", additional_info = "20 yd range\n{Instant} {3 sec cooldown}\n[q]The Hobgoblin barrels onward in a direction knocking back targets and inflicting 9 Nature damage. Becomes Dizzy when stopped becoming stunned and taking 50 % increased damage for 5 sec."}
+MultiLanguageSpellData['en'][1217301] = {name = "Heedless Charge", additional_info = "Unlimited range\n4 sec cast\n[q]The Hobgoblin barrels onward in a direction knocking back targets and inflicting 296253 Nature damage. Becomes Dizzy when stopped becoming stunned and taking 50% increased damage for 5 sec."}
+MultiLanguageSpellData['en'][1217302] = {name = "Heedless Charge", additional_info = "Unlimited range\nInstant\n[q]The Hobgoblin barrels onward in a direction knocking back targets and inflicting 296253 Nature damage. Becomes Dizzy when stopped becoming stunned and taking 50% increased damage for 5 sec."}
+MultiLanguageSpellData['en'][1217303] = {name = "Heedless Charge", additional_info = "Unlimited range\nInstant\n[q]The Hobgoblin barrels onward in a direction knocking back targets and inflicting 296253 Nature damage. Becomes Dizzy when stopped becoming stunned and taking 50% increased damage for 5 sec."}
+MultiLanguageSpellData['en'][1217304] = {name = "Dizzy", additional_info = "Unlimited range\nInstant\n[q]The Hobgoblin barrels onward in a direction knocking back targets and inflicting 296253 Nature damage. Becomes Dizzy when stopped becoming stunned and taking 50% increased damage for 5 sec."}
 MultiLanguageSpellData['en'][1217307] = {name = "Memoric Awakening", additional_info = "30 yd range\nInstant\n[q]Unit enters a dormant state."}
-MultiLanguageSpellData['en'][1217311] = {name = "Kick to the Shins", additional_info = "8 yd range\n{1 sec cast} {3 sec cooldown}\n[q]The Hobgoblin fights dirty kicking their enemies in the knees inflicting 10 Physical damage and reducing movement speed by 10% for 4 sec."}
+MultiLanguageSpellData['en'][1217311] = {name = "Kick to the Shins", additional_info = "8 yd range\n{1 sec cast} {3 sec cooldown}\n[q]The Hobgoblin fights dirty kicking their enemies in the knees inflicting 348533 Physical damage and reducing movement speed by 10% for 4 sec."}
 MultiLanguageSpellData['en'][1217312] = {name = "Keeza's B.B.B.F.G.", additional_info = nil}
 MultiLanguageSpellData['en'][1217326] = {name = "Take a Selfie!", additional_info = "15 yd range\n3.5 sec cast\n[q]The fan whips out their S.E.L.F.I.E. camera to line up that perfect shot.\n\n Successfully capturing that shot triggers Picking Filter ."}
 MultiLanguageSpellData['en'][1217336] = {name = "Toxic Chomp", additional_info = "Melee Range\n{1.5 sec cast} {4.5 sec cooldown}\n[q]The caster chops down with toxic fangs inflicting Nature damage, and additional Nature damage every 1 sec for 15 sec. This effect stacks."}
@@ -7315,18 +7445,18 @@ MultiLanguageSpellData['en'][1217343] = {name = "Snowy Darkmoon Charger", additi
 MultiLanguageSpellData['en'][1217344] = {name = "Ankle Bite", additional_info = "8 yd range\n1.5 sec cast\n[q]The caster bites at their targets ankles, inflicting Physical damage and reducing their movement speed by 50% for 8 sec."}
 MultiLanguageSpellData['en'][1217351] = {name = "Blazing Impact", additional_info = nil}
 MultiLanguageSpellData['en'][1217352] = {name = "Poison Snail", additional_info = nil}
-MultiLanguageSpellData['en'][1217354] = {name = "Picking Filter", additional_info = "100 yd range\nChanneled (30 sec cast)\n[q]Once you get that snap you gotta pick the right filter. This process takes forever inflicting 3 Arcane damage every 1.5 sec."}
+MultiLanguageSpellData['en'][1217354] = {name = "Picking Filter", additional_info = "100 yd range\nChanneled (30 sec cast)\n[q]Once you get that snap you gotta pick the right filter. This process takes forever inflicting 104560 Arcane damage every 1.5 sec."}
 MultiLanguageSpellData['en'][1217355] = {name = "Polarization Generator", additional_info = nil}
 MultiLanguageSpellData['en'][1217356] = {name = "Zee's Thug Hotline", additional_info = "Approximately 2.5 procs per minute\n[q]Your abilities have a chance to call a member of the Goon Squad to attack your target for 10 sec. Gaining Bloodlust or a similar effect summons the whole crew."}
 MultiLanguageSpellData['en'][1217357] = {name = "Polarization Generator", additional_info = "Unlimited range\nInstant\n[q]Lockenstock polarizes all players, inflicting 586956 Nature damage every 0.5 sec and afflicting them with either Posi-Polarization or Nega-Polarization ."}
 MultiLanguageSpellData['en'][1217358] = {name = "Polarization Generator", additional_info = "Unlimited range\nInstant\n[q]Lockenstock polarizes all players, inflicting 586956 Nature damage every 0.5 sec and afflicting them with either Posi-Polarization or Nega-Polarization ."}
 MultiLanguageSpellData['en'][1217359] = {name = "Ignition Burst", additional_info = "[q]Heat Shimmer now additionally causes your next Scorch to become instant cast and cast at 100% effectiveness."}
-MultiLanguageSpellData['en'][1217361] = {name = "Worthless Adorations", additional_info = "20 yd range\n1.5 sec cast\n[q]Who doesn't love being showered in gifts? Tosses 12 presents about. These are gifts from a goblin, so they likely explode inflicting 30 Fire damage to players within 3 yards."}
-MultiLanguageSpellData['en'][1217362] = {name = "Worthless Adorations", additional_info = "100 yd range\nInstant\n[q]Who doesn't love being showered in gifts? Tosses 12 presents about. These are gifts from a goblin, so they likely explode inflicting 30 Fire damage to players within 3 yards."}
-MultiLanguageSpellData['en'][1217368] = {name = "Worthless Adorations", additional_info = "100 yd range\nInstant\n[q]Who doesn't love being showered in gifts? Tosses 12 presents about. These are gifts from a goblin, so they likely explode inflicting 30 Fire damage to players within 3 yards."}
-MultiLanguageSpellData['en'][1217369] = {name = "Worthless Adorations", additional_info = "100 yd range\nInstant\n[q]Who doesn't love being showered in gifts? Tosses 12 presents about. These are gifts from a goblin, so they likely explode inflicting 30 Fire damage to players within 3 yards."}
+MultiLanguageSpellData['en'][1217361] = {name = "Worthless Adorations", additional_info = "20 yd range\n1.5 sec cast\n[q]Who doesn't love being showered in gifts? Tosses 12 presents about. These are gifts from a goblin, so they likely explode inflicting 1045599 Fire damage to players within 3 yards."}
+MultiLanguageSpellData['en'][1217362] = {name = "Worthless Adorations", additional_info = "100 yd range\nInstant\n[q]Who doesn't love being showered in gifts? Tosses 12 presents about. These are gifts from a goblin, so they likely explode inflicting 1045599 Fire damage to players within 3 yards."}
+MultiLanguageSpellData['en'][1217368] = {name = "Worthless Adorations", additional_info = "100 yd range\nInstant\n[q]Who doesn't love being showered in gifts? Tosses 12 presents about. These are gifts from a goblin, so they likely explode inflicting 1045599 Fire damage to players within 3 yards."}
+MultiLanguageSpellData['en'][1217369] = {name = "Worthless Adorations", additional_info = "100 yd range\nInstant\n[q]Who doesn't love being showered in gifts? Tosses 12 presents about. These are gifts from a goblin, so they likely explode inflicting 1045599 Fire damage to players within 3 yards."}
 MultiLanguageSpellData['en'][1217370] = {name = "Flamethrower", additional_info = "Instant"}
-MultiLanguageSpellData['en'][1217371] = {name = "Flamethrower", additional_info = "Unlimited range\n2.5 sec cast\n[q]Inflicts 20 Fire damage to all players in a 40 yd cone in front of the Underpin and causes all players in the area to burn for an additional 3 Fire damage every 0.5 sec for 5 sec."}
+MultiLanguageSpellData['en'][1217371] = {name = "Flamethrower", additional_info = "Unlimited range\n2.5 sec cast\n[q]Inflicts 697066 Fire damage to all players in a 40 yd cone in front of the Underpin and causes all players in the area to burn for an additional 87133 Fire damage every 0.5 sec for 5 sec."}
 MultiLanguageSpellData['en'][1217375] = {name = "Merciless Blow", additional_info = "100 yd range\nInstant\n[q]Enemies damaged by Flanking Strike bleed for an additional (480% of Attack power) damage over 8 sec.\n\n Up to 5 enemies damaged by Butchery bleed for an additional (240% of Attack power) damage over 8 sec."}
 MultiLanguageSpellData['en'][1217377] = {name = "Frenzy Strikes", additional_info = "Instant\n[q]Flanking Strike damage increased by 40% and Flanking Strike now increases your attack speed by 25% for 12 sec.\n\n Butchery reduces the remaining cooldown on Wildfire Bomb by 3.0 sec for each target hit, up to 5 targets."}
 MultiLanguageSpellData['en'][1217378] = {name = "Stockpile Protection Coil", additional_info = nil}
@@ -7341,6 +7471,11 @@ MultiLanguageSpellData['en'][1217413] = {name = "Slicing Winds", additional_info
 MultiLanguageSpellData['en'][1217414] = {name = "Teleport Players Out of Dungeon", additional_info = nil}
 MultiLanguageSpellData['en'][1217418] = {name = "Call My Agent", additional_info = "20 yd range\n{3 sec cast} {8 sec cooldown}\n[q]Summons their agent for 2 min to fight by their side. I mean they're being paid, so they show up!"}
 MultiLanguageSpellData['en'][1217419] = {name = "Unlocking", additional_info = "5 yd range\n{1.5 sec cast} {1.5 sec cooldown}\n[q]Opens a Hidden Trove in a Delve Treasure Room."}
+MultiLanguageSpellData['en'][1217421] = {name = "Summon Worgen Spirit", additional_info = "Unlimited range\n2 sec cast\n[q]Baron Silverlaine summons an ancient Worgen Spirit to his aid!"}
+MultiLanguageSpellData['en'][1217422] = {name = "Summon Spirit of Rethilgore", additional_info = nil}
+MultiLanguageSpellData['en'][1217423] = {name = "Summon Spirit of Odo the Blindwatcher", additional_info = nil}
+MultiLanguageSpellData['en'][1217425] = {name = "Summon Spirit of Rethilgore", additional_info = nil}
+MultiLanguageSpellData['en'][1217426] = {name = "Summon Spirit of Odo the Blindwatcher", additional_info = nil}
 MultiLanguageSpellData['en'][1217427] = {name = "Call Thwack Jack", additional_info = nil}
 MultiLanguageSpellData['en'][1217428] = {name = "Summon Treasure", additional_info = nil}
 MultiLanguageSpellData['en'][1217429] = {name = "Cull the Herd", additional_info = "[q]Kill Shot increases the damage enemies receive from you and your pet's Bleed effects by 25% for 6 sec."}
@@ -7351,6 +7486,10 @@ MultiLanguageSpellData['en'][1217433] = {name = "Call My Agent", additional_info
 MultiLanguageSpellData['en'][1217434] = {name = "Born to Kill", additional_info = "[q]Your chance to gain Deathblow is increased by 5% and the duration of Cull the Herd is increased by 2.0 sec.\n\n Cull the Herd now additionally increases the damage taken from your Kill Shot by 25%."}
 MultiLanguageSpellData['en'][1217435] = {name = "Call My Broker", additional_info = "Instant\n[q]$spelldesc"}
 MultiLanguageSpellData['en'][1217437] = {name = "Call My Mother", additional_info = "Instant\n[q]$spelldesc"}
+MultiLanguageSpellData['en'][1217440] = {name = "Summon Spirit of Rethilgore", additional_info = nil}
+MultiLanguageSpellData['en'][1217442] = {name = "Summon Spirit of Odo the Blindwatcher", additional_info = nil}
+MultiLanguageSpellData['en'][1217443] = {name = "Summon Spirit of Rethilgore", additional_info = nil}
+MultiLanguageSpellData['en'][1217444] = {name = "Summon Spirit of Odo the Blindwatcher", additional_info = nil}
 MultiLanguageSpellData['en'][1217445] = {name = "Call Fel Lord", additional_info = "40 yd range\n{Instant} {2 min cooldown}\n[q]Summon a fel portal for 1 min that lies in wait for an enemy to come within 6 yds to activate, summoning a fel lord to guard the location for 15 sec. Any enemy that comes within 6 yards will suffer [1 * (Spell power * 2) * 1 * 1 * (1 + Versatility)] Physical damage, and players struck will be stunned for 1 sec."}
 MultiLanguageSpellData['en'][1217447] = {name = "Stand Anim Replacement", additional_info = nil}
 MultiLanguageSpellData['en'][1217449] = {name = "Call My Broker", additional_info = "20 yd range\n{3 sec cast} {8 sec cooldown}\n[q]Summons their broker for 2 min to fight by their side. Those percent of total wealth fees should pay off, right?"}
@@ -7358,6 +7497,7 @@ MultiLanguageSpellData['en'][1217450] = {name = "Focus Fire", additional_info = 
 MultiLanguageSpellData['en'][1217451] = {name = "Focus Fire", additional_info = "100 yd range\nInstant\n[q]The caster focuses a barrage of bullets at its target, inflicting Physical damage with each hit."}
 MultiLanguageSpellData['en'][1217452] = {name = "Call My Mother", additional_info = "20 yd range\n{3 sec cast} {8 sec cooldown}\n[q]Summons their mother for 2 min to fight by their side. I mean, she already gave them 18 years of upbringing, what's another 2 min."}
 MultiLanguageSpellData['en'][1217453] = {name = "Bubble", additional_info = "300 yd range\n1.5 sec cast\n[q]Inflicts Frost damage to an enemy."}
+MultiLanguageSpellData['en'][1217455] = {name = "Golden Ghost Visual", additional_info = nil}
 MultiLanguageSpellData['en'][1217456] = {name = "Jettison Kelp", additional_info = "Unlimited range\nInstant\n[q]Flings globs of rancid kelp from the caster's body every 0.5 sec for 5 sec, inflicting 589514 Nature damage to players struck."}
 MultiLanguageSpellData['en'][1217459] = {name = "Lunar Storm", additional_info = "100 yd range\nInstant\n[q]Every 30 sec your next [ Marksmanship : Rapid Fire /\n\nSurvival\nWildfire Bomb ] launches a celestial arrow that conjures a 12 yd radius Lunar Storm at the target's location dealing (100% of Attack power) Arcane damage.\n\nFor the next 12 sec, a random enemy affected by Sentinel within your Lunar Storm gets struck for (93.75% of Attack power) Arcane damage every 0.4 sec. Any target struck by this effect takes 10% increased damage from you and your pet for 8 sec."}
 MultiLanguageSpellData['en'][1217460] = {name = "Resonance", additional_info = "Unlimited range\nInstant\n[q]Amplifiers gain additional power while within 0 yards of Rik Reverb."}
@@ -7399,9 +7539,10 @@ MultiLanguageSpellData['en'][1217591] = {name = "Forest Dweller's Butterfly Atti
 MultiLanguageSpellData['en'][1217592] = {name = "Forest Dweller's Blooming Attire", additional_info = "Instant\n[q]Collect the appearances of the Forest Dweller's Blooming Attire armor set."}
 MultiLanguageSpellData['en'][1217593] = {name = "Forest Dweller's Rooted Attire", additional_info = "Instant\n[q]Collect the appearances of the Forest Dweller's Rooted Attire armor set."}
 MultiLanguageSpellData['en'][1217598] = {name = "Whispering Waves", additional_info = "[q]15% of Healing Wave's healing from you and your ancestors is duplicated onto each of your targets with Riptide."}
-MultiLanguageSpellData['en'][1217600] = {name = "Whispering Waves", additional_info = "100 yd range\nInstant\n[q]0% of Healing Wave's healing is duplicated onto each of your targets with Riptide."}
+MultiLanguageSpellData['en'][1217600] = {name = "Whispering Waves", additional_info = "100 yd range\nInstant\n[q]15% of Healing Wave's healing from you and your ancestors is duplicated onto each of your targets with Riptide."}
 MultiLanguageSpellData['en'][1217603] = {name = "Earthsplitter", additional_info = "100 yd range\nInstant\n[q]The caster ejects stone from under player locations, inflicting 20 Nature damage and knocking players upward."}
 MultiLanguageSpellData['en'][1217608] = {name = "Ejecting Tremor", additional_info = "100 yd range\n{3 sec cast} {2 sec cooldown}\n[q]The caster slams the ground sending a tremor out inflicting Nature damage to all players, slowing them by 30% for 10 sec and knocking them back."}
+MultiLanguageSpellData['en'][1217613] = {name = "Dastardly Duos", additional_info = nil}
 MultiLanguageSpellData['en'][1217614] = {name = "Refinery Fast Mover", additional_info = nil}
 MultiLanguageSpellData['en'][1217615] = {name = "Call Greater Dreadstalker", additional_info = "100 yd range\nInstant\n[q]Your spells and abilities have a chance to hit a Jackpot! that summons a Greater Dreadstalker at 265% effectiveness. Casting Summon Demonic Tyrant always hits a Jackpot!"}
 MultiLanguageSpellData['en'][1217617] = {name = "Demonic Hunger", additional_info = "Instant Approximately 1 procs per minute\n[q]Your spells and abilities have a chance to hit a Jackpot! that summons a Greater Dreadstalker at 265% effectiveness. Casting Summon Demonic Tyrant always hits a Jackpot!"}
@@ -7409,6 +7550,7 @@ MultiLanguageSpellData['en'][1217622] = {name = "Therazane's Resilience", additi
 MultiLanguageSpellData['en'][1217627] = {name = "Knockback", additional_info = nil}
 MultiLanguageSpellData['en'][1217628] = {name = "RP Scene Tribute Convo", additional_info = nil}
 MultiLanguageSpellData['en'][1217635] = {name = "Flesh Feast", additional_info = "8 yd range\n{Channeled (5 sec cast)} {5 sec cooldown}\n[q]The caster feasts on it's target flesh, rooting them in place and inflicting Physical damage and healing itself for 0% of that amount with every bite."}
+MultiLanguageSpellData['en'][1217637] = {name = "Repeatable Event - Dastardly Duos - Animatronic - Gear Grabbed", additional_info = nil}
 MultiLanguageSpellData['en'][1217638] = {name = "Thwack!", additional_info = "Melee Range\nInstant\n[q]Your abilities have a chance to call a member of the Goon Squad to attack your target for 10 sec. Gaining Bloodlust or a similar effect summons the whole crew."}
 MultiLanguageSpellData['en'][1217639] = {name = "Charge", additional_info = nil}
 MultiLanguageSpellData['en'][1217640] = {name = "Shadowlands Intro", additional_info = nil}
@@ -7449,6 +7591,8 @@ MultiLanguageSpellData['en'][1217695] = {name = "Thwackin' Time", additional_inf
 MultiLanguageSpellData['en'][1217696] = {name = "Shadowstep", additional_info = nil}
 MultiLanguageSpellData['en'][1217698] = {name = "Stabbin' Time", additional_info = nil}
 MultiLanguageSpellData['en'][1217699] = {name = "Advert", additional_info = nil}
+MultiLanguageSpellData['en'][1217702] = {name = "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger", additional_info = nil}
+MultiLanguageSpellData['en'][1217705] = {name = "Burst of Experience", additional_info = "Instant\n[q]Provides a significant increase to player experience. Does not work for players over level 49."}
 MultiLanguageSpellData['en'][1217707] = {name = "Pick Up", additional_info = "100 yd range\nInstant\n[q]Carry an enchanted candle."}
 MultiLanguageSpellData['en'][1217708] = {name = "Pick Up Bundle of Candles", additional_info = "20 yd range\n{Instant} {2 sec cooldown}\n[q]Place an enchanted candle nearby, dispersing any nearby darkness."}
 MultiLanguageSpellData['en'][1217719] = {name = "Snipe", additional_info = "50 yd range\n{Instant} {0.5 sec cooldown}\n[q]Inflicts 0 Physical damage to an enemy."}
@@ -7457,6 +7601,7 @@ MultiLanguageSpellData['en'][1217723] = {name = "Trick Shot", additional_info = 
 MultiLanguageSpellData['en'][1217725] = {name = "Water Cannon", additional_info = "20 yd range\n{Instant} {1.5 sec cooldown}\n[q]A powerful water gun for use in emergencies only. Or for fun."}
 MultiLanguageSpellData['en'][1217727] = {name = "Water Cannon", additional_info = nil}
 MultiLanguageSpellData['en'][1217731] = {name = "Demonfire Flurry", additional_info = "Instant\n[q]Your spells and abilities have a chance to hit a Jackpot! that fires a flurry of 6 Demonfire bolts at 100% effectiveness. Casting Summon Infernal always hits a Jackpot!"}
+MultiLanguageSpellData['en'][1217732] = {name = "Hawk Bazooka", additional_info = nil}
 MultiLanguageSpellData['en'][1217740] = {name = "Birth", additional_info = nil}
 MultiLanguageSpellData['en'][1217743] = {name = "B.B.B.F.G.", additional_info = "Unlimited range\nInstant\n[q]Keeza unleashes her Blazing Ballistic Blunt Force Gun, inflicting 4421358 Fire damage to players caught in the blast and knocking them back."}
 MultiLanguageSpellData['en'][1217744] = {name = "Fungal Trail", additional_info = "Instant\n[q]Leaves behind a Slime Trail that inflicts Nature damage to enemies every sec."}
@@ -7479,6 +7624,7 @@ MultiLanguageSpellData['en'][1217772] = {name = "Play Movie", additional_info = 
 MultiLanguageSpellData['en'][1217773] = {name = "Scrapbomb", additional_info = nil}
 MultiLanguageSpellData['en'][1217774] = {name = "Play Movie", additional_info = nil}
 MultiLanguageSpellData['en'][1217776] = {name = "Cancel Movie", additional_info = nil}
+MultiLanguageSpellData['en'][1217777] = {name = "{DNT} Arcaneform", additional_info = nil}
 MultiLanguageSpellData['en'][1217778] = {name = "Play Movie", additional_info = nil}
 MultiLanguageSpellData['en'][1217779] = {name = "Candlelight", additional_info = "Instant\n[q]Radiating against the darklight, preventing Smothering Shadows from applying on players while energized."}
 MultiLanguageSpellData['en'][1217780] = {name = "Opening", additional_info = nil}
@@ -7487,19 +7633,24 @@ MultiLanguageSpellData['en'][1217784] = {name = "Haunted", additional_info = "Un
 MultiLanguageSpellData['en'][1217786] = {name = "Channel Demonfire", additional_info = "100 yd range\nInstant\n[q]Launches 15 bolts of felfire over 3 sec at random targets afflicted by your Immolate within 40 yds. Each bolt deals (39.355% of Spell power) Fire damage to the target and (19.5657% of Spell power) Fire damage to nearby enemies."}
 MultiLanguageSpellData['en'][1217787] = {name = "Channel Demonfire", additional_info = "100 yd range\nInstant\n[q]Launches 15 bolts of felfire over 3 sec at random targets afflicted by your Immolate within 40 yds. Each bolt deals (39.355% of Spell power) Fire damage to the target and (19.5657% of Spell power) Fire damage to nearby enemies."}
 MultiLanguageSpellData['en'][1217788] = {name = "Manhunter", additional_info = "[q]Damaging a player with Aimed Shot applies Grevious Injury, reducing the healing the unit receives by 25% for 10 sec."}
-MultiLanguageSpellData['en'][1217789] = {name = "Grevious Injury", additional_info = "100 yd range\nInstant\n[q]Grievously wounds the target, reducing the effectiveness of any healing received for 10 sec."}
+MultiLanguageSpellData['en'][1217789] = {name = "Grievous Injury", additional_info = "100 yd range\nInstant\n[q]Grievously wounds the target, reducing the effectiveness of any healing received for 10 sec."}
 MultiLanguageSpellData['en'][1217791] = {name = "Electrocution Matrix", additional_info = nil}
 MultiLanguageSpellData['en'][1217793] = {name = "Electrocution Matrix", additional_info = nil}
 MultiLanguageSpellData['en'][1217797] = {name = "Juiced!", additional_info = nil}
 MultiLanguageSpellData['en'][1217798] = {name = "Jackpot!", additional_info = "Instant\n[q]Hitting a Jackpot! increases your Mastery by (1 * $mas)% and your spells gain maximum benefit from Mastery: Chaotic Energies for 10 sec."}
 MultiLanguageSpellData['en'][1217802] = {name = "Mudslide", additional_info = nil}
+MultiLanguageSpellData['en'][1217804] = {name = "Summon Molten Slag", additional_info = nil}
+MultiLanguageSpellData['en'][1217805] = {name = "Summon Molten Slag", additional_info = nil}
+MultiLanguageSpellData['en'][1217806] = {name = "Summon Molten Slag", additional_info = nil}
 MultiLanguageSpellData['en'][1217807] = {name = "Holding Totems", additional_info = "Instant\n[q]Hold an air totem to place later."}
+MultiLanguageSpellData['en'][1217811] = {name = "Molten Shield", additional_info = "Instant\n[q]Molten steel protects the caster from magical attacks and deals Fire damage to all nearby enemies. Magical damage taken reduced by 50%."}
 MultiLanguageSpellData['en'][1217812] = {name = "Purified Air", additional_info = "Instant\n[q]Purifying the air, preventing Suffocating Fumes from applying on players."}
+MultiLanguageSpellData['en'][1217813] = {name = "Molten Shield", additional_info = "Unlimited range\nInstant\n[q]Deals Fire damage to nearby enemies."}
 MultiLanguageSpellData['en'][1217815] = {name = "Place Air Totem", additional_info = "40 yd range\n{Instant} {1 sec cooldown}\n[q]Place an air totem nearby, dispelling any nearby poison."}
-MultiLanguageSpellData['en'][1217817] = {name = "Fiery Jaws", additional_info = "40 yd range\n2 sec cast\n[q]Leaps at a player and bites them with its Fiery Jaws inflicting 8 Fire damage and an additional 4 Fire damage every 1 sec for 10 sec."}
-MultiLanguageSpellData['en'][1217819] = {name = "Fiery Jaws", additional_info = "40 yd range\nInstant\n[q]Leaps at a player and bites them with its Fiery Jaws inflicting 8 Fire damage and an additional 4 Fire damage every 1 sec for 10 sec."}
+MultiLanguageSpellData['en'][1217817] = {name = "Fiery Jaws", additional_info = "40 yd range\n2 sec cast\n[q]Leaps at a player and bites them with its Fiery Jaws inflicting 1179029 Fire damage and an additional 589514 Fire damage every 1 sec for 10 sec."}
+MultiLanguageSpellData['en'][1217819] = {name = "Fiery Jaws", additional_info = "40 yd range\nInstant\n[q]Leaps at a player and bites them with its Fiery Jaws inflicting 1179029 Fire damage and an additional 589514 Fire damage every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][1217820] = {name = "Pick Up", additional_info = "100 yd range\nInstant\n[q]Carry an enchanted candle."}
-MultiLanguageSpellData['en'][1217821] = {name = "Fiery Jaws", additional_info = "40 yd range\nInstant\n[q]Leaps at a player and bites them with its Fiery Jaws inflicting 8 Fire damage and an additional 4 Fire damage every 1 sec for 10 sec."}
+MultiLanguageSpellData['en'][1217821] = {name = "Fiery Jaws", additional_info = "40 yd range\nInstant\n[q]Leaps at a player and bites them with its Fiery Jaws inflicting 1179029 Fire damage and an additional 589514 Fire damage every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][1217823] = {name = "Goon Squad, Roll Out!", additional_info = nil}
 MultiLanguageSpellData['en'][1217829] = {name = "Zee's Thug Hotline", additional_info = nil}
 MultiLanguageSpellData['en'][1217831] = {name = "Picking Lock", additional_info = nil}
@@ -7510,10 +7661,11 @@ MultiLanguageSpellData['en'][1217841] = {name = "Create Parts", additional_info 
 MultiLanguageSpellData['en'][1217842] = {name = "Create Totem", additional_info = nil}
 MultiLanguageSpellData['en'][1217843] = {name = "Advert", additional_info = nil}
 MultiLanguageSpellData['en'][1217846] = {name = "Advert", additional_info = nil}
-MultiLanguageSpellData['en'][1217853] = {name = "Hot Wheels", additional_info = "150 yd range\n5 sec cast\n[q]The Geargrinder Biker charges towards a player's location, inflicting 30 Fire damage to players in their path and knocking them back."}
-MultiLanguageSpellData['en'][1217855] = {name = "Hot Wheels", additional_info = "150 yd range\nInstant\n[q]The Geargrinder Biker charges towards a player's location, inflicting 30 Fire damage to players in their path and knocking them back."}
+MultiLanguageSpellData['en'][1217853] = {name = "Hot Wheels", additional_info = "150 yd range\n5 sec cast\n[q]The Geargrinder Biker charges towards a player's location, inflicting 2515526 Fire damage to players in their path and knocking them back."}
+MultiLanguageSpellData['en'][1217855] = {name = "Hot Wheels", additional_info = "150 yd range\nInstant\n[q]The Geargrinder Biker charges towards a player's location, inflicting 2515526 Fire damage to players in their path and knocking them back."}
 MultiLanguageSpellData['en'][1217856] = {name = "Land", additional_info = nil}
-MultiLanguageSpellData['en'][1217858] = {name = "Hot Wheels", additional_info = "150 yd range\nInstant\n[q]The Geargrinder Biker charges towards a player's location, inflicting 30 Fire damage to players in their path and knocking them back."}
+MultiLanguageSpellData['en'][1217857] = {name = "Shield Smash", additional_info = "Melee Range\n{Instant} {6 sec cooldown}\n[q]Smashes the target with your shield, causing 3 Physical damage."}
+MultiLanguageSpellData['en'][1217858] = {name = "Hot Wheels", additional_info = "150 yd range\nInstant\n[q]The Geargrinder Biker charges towards a player's location, inflicting 2515526 Fire damage to players in their path and knocking them back."}
 MultiLanguageSpellData['en'][1217859] = {name = "Land", additional_info = nil}
 MultiLanguageSpellData['en'][1217860] = {name = "Create Totem", additional_info = nil}
 MultiLanguageSpellData['en'][1217861] = {name = "Create Parts", additional_info = nil}
@@ -7524,15 +7676,23 @@ MultiLanguageSpellData['en'][1217869] = {name = "Explosive Trickshot", additiona
 MultiLanguageSpellData['en'][1217871] = {name = "Anchor Here", additional_info = nil}
 MultiLanguageSpellData['en'][1217873] = {name = "Explosive Trickshot", additional_info = "50 yd range\nInstant\n[q]Inflicts 12 Fire damage to enemies within 6 yards of the impact."}
 MultiLanguageSpellData['en'][1217874] = {name = "Special Delivery", additional_info = nil}
+MultiLanguageSpellData['en'][1217875] = {name = "Whirlwind", additional_info = "100 yd range\n{Instant} {6 sec cooldown}\nRequires Melee Weapon\n[q]Unleashes a whirlwind of steel, striking all nearby targets for [3 * (31.498% of Attack power)] Physical damage. Deals reduced damage beyond 0 targets."}
+MultiLanguageSpellData['en'][1217876] = {name = "Whirlwind", additional_info = "Instant\nRequires Melee Weapon\n[q]Unleashes a whirlwind of steel, [ Fervor of Battle : hitting your primary target with Slam and ]striking all nearby targets for [3 * (31.498% of Attack power)] Physical damage. Deals reduced damage beyond 5 targets."}
+MultiLanguageSpellData['en'][1217877] = {name = "Whirlwind", additional_info = "Instant\nRequires Melee Weapon\n[q]Unleashes a whirlwind of steel, [ Fervor of Battle : hitting your primary target with Slam and ]striking all nearby targets for [3 * (31.498% of Attack power)] Physical damage. Deals reduced damage beyond 5 targets."}
+MultiLanguageSpellData['en'][1217878] = {name = "Whirlwind", additional_info = "Instant\nRequires Melee Weapon\n[q]Unleashes a whirlwind of steel, [ Fervor of Battle : hitting your primary target with Slam and ]striking all nearby targets for [3 * (31.498% of Attack power)] Physical damage. Deals reduced damage beyond 5 targets."}
 MultiLanguageSpellData['en'][1217879] = {name = "Reposition", additional_info = nil}
+MultiLanguageSpellData['en'][1217880] = {name = "Impending Victory", additional_info = "Melee Range\nInstant\n[q]Instantly attack the target, causing 1 damage and healing you for 30% of your maximum health.\n\n Killing an enemy that yields experience or honor resets the cooldown of Impending Victory and makes it cost no Rage."}
 MultiLanguageSpellData['en'][1217885] = {name = "Time Bomb Launcher", additional_info = "300 yd range\nInstant\n[q]The Underpin launches several Puntable Time Bombs nearby."}
 MultiLanguageSpellData['en'][1217891] = {name = "Experimental Goblin-FUEL Supplement", additional_info = "{Instant} {5 min cooldown}\n[q]Reduces maximum health by 50% and provides a random combat benefit.\n\n Only usable in Undermine. Enemies drop additional Market Research for the caster while active."}
 MultiLanguageSpellData['en'][1217895] = {name = "Tol Dagor Departure", additional_info = nil}
 MultiLanguageSpellData['en'][1217896] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1217897] = {name = "Winning Streak!", additional_info = "Instant\n[q]Your spells and abilities have a chance to activate a Winning Streak! increasing the damage of your Frost Strike and Glacial Advance by 4% stacking up to 6 times. Frost Strike and Glacial Advance have a 7% chance to remove Winning Streak!"}
-MultiLanguageSpellData['en'][1217903] = {name = "Firebolt", additional_info = "30 yd range\n{2.5 sec cast} {4 sec cooldown}\n[q]Hurls a glob of wax at an enemy, inflicting Physical damage and reducing their movement speed by 12% for until canceled."}
+MultiLanguageSpellData['en'][1217903] = {name = "Firebolt", additional_info = "30 yd range\n{2.5 sec cast} {4 sec cooldown}\n[q]Hurls a glob of wax at an enemy, inflicting Physical damage and reducing their movement speed by 418240% for until canceled."}
 MultiLanguageSpellData['en'][1217905] = {name = "Call Mole Machine", additional_info = "45 yd range\n{1 sec cast} {15 sec cooldown}\n[q]Calls a mole machine to knockback and deal damage to all units in an area.\n\n The mole machine will also destroy any webbing in the area."}
-MultiLanguageSpellData['en'][1217906] = {name = "Call Mole Machine", additional_info = "80 yd range\nInstant\n[q]Knocks all enemies within 10 yards of the impact back.\n Inflicts 20 Physical damage to enemies within 10 yards of the impact."}
+MultiLanguageSpellData['en'][1217906] = {name = "Call Mole Machine", additional_info = "80 yd range\nInstant\n[q]Knocks all enemies within 10 yards of the impact back.\n Inflicts 697066 Physical damage to enemies within 10 yards of the impact."}
+MultiLanguageSpellData['en'][1217907] = {name = "Restore", additional_info = "40 yd range\nInstant\n[q]Expends a large amount of mana to quickly heal a friendly target for 5."}
+MultiLanguageSpellData['en'][1217908] = {name = "Repeatable Event - Dastardly Duos - Powerup - Cheery Bomb onInteract", additional_info = nil}
+MultiLanguageSpellData['en'][1217911] = {name = "Open Mysterious Satchel", additional_info = "3 sec cast\nReagents:\nWeathered Mysterious Satchel\n[q]Unpack the mysterious satchel and see what you got!"}
 MultiLanguageSpellData['en'][1217913] = {name = "Dark Burn", additional_info = "{1.5 sec cast} {8 sec cooldown}\n[q]Burns away enemies, inflicting Fire damage every 0.5 sec for 2 sec."}
 MultiLanguageSpellData['en'][1217915] = {name = "Dark Burn", additional_info = "Instant\n[q]Burns away enemies, inflicting Fire damage every 1 sec for 4 sec."}
 MultiLanguageSpellData['en'][1217917] = {name = "Large Webbing", additional_info = nil}
@@ -7541,16 +7701,17 @@ MultiLanguageSpellData['en'][1217919] = {name = "Large Webbing", additional_info
 MultiLanguageSpellData['en'][1217920] = {name = "Large Webbing", additional_info = nil}
 MultiLanguageSpellData['en'][1217921] = {name = "Large Webbing", additional_info = nil}
 MultiLanguageSpellData['en'][1217922] = {name = "Large Webbing", additional_info = nil}
+MultiLanguageSpellData['en'][1217924] = {name = "Score Stats", additional_info = nil}
 MultiLanguageSpellData['en'][1217928] = {name = "Blaring Drop", additional_info = nil}
 MultiLanguageSpellData['en'][1217929] = {name = "Explosive Trickshot", additional_info = "Channeled (2.5 sec cast)\n[q]"}
 MultiLanguageSpellData['en'][1217931] = {name = "Task Complete!", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1217932] = {name = "Advert", additional_info = nil}
 MultiLanguageSpellData['en'][1217933] = {name = "Lightning Bash", additional_info = "Unlimited range\nInstant\n[q]Torq smashes his current target, inflicting 25993769 Physical damage. Additionally, 100% of unmitigated damage is inflicted as Nature damage."}
 MultiLanguageSpellData['en'][1217935] = {name = "Task Complete!", additional_info = "Instant"}
-MultiLanguageSpellData['en'][1217936] = {name = "Hot Wheels", additional_info = "150 yd range\nInstant\n[q]The Geargrinder Biker charges towards a player's location, inflicting 30 Fire damage to players in their path and knocking them back."}
+MultiLanguageSpellData['en'][1217936] = {name = "Hot Wheels", additional_info = "150 yd range\nInstant\n[q]The Geargrinder Biker charges towards a player's location, inflicting 2515526 Fire damage to players in their path and knocking them back."}
 MultiLanguageSpellData['en'][1217938] = {name = "Light Infused", additional_info = nil}
-MultiLanguageSpellData['en'][1217939] = {name = "Hot Wheels", additional_info = "150 yd range\nInstant\n[q]The Geargrinder Biker charges towards a player's location, inflicting 30 Fire damage to players in their path and knocking them back."}
-MultiLanguageSpellData['en'][1217940] = {name = "Hot Wheels", additional_info = "Unlimited range\nInstant\n[q]The Geargrinder Biker charges towards a player's location, inflicting 30 Fire damage to players in their path and knocking them back."}
+MultiLanguageSpellData['en'][1217939] = {name = "Hot Wheels", additional_info = "150 yd range\nInstant\n[q]The Geargrinder Biker charges towards a player's location, inflicting 2515526 Fire damage to players in their path and knocking them back."}
+MultiLanguageSpellData['en'][1217940] = {name = "Hot Wheels", additional_info = "Unlimited range\nInstant\n[q]The Geargrinder Biker charges towards a player's location, inflicting 2515526 Fire damage to players in their path and knocking them back."}
 MultiLanguageSpellData['en'][1217944] = {name = "Task Complete!", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1217945] = {name = "Task Complete!", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1217946] = {name = "Task Complete!", additional_info = "Instant"}
@@ -7576,26 +7737,27 @@ MultiLanguageSpellData['en'][1218003] = {name = "Potent Mutagen", additional_inf
 MultiLanguageSpellData['en'][1218004] = {name = "Potent Mutagen", additional_info = "100 yd range\nInstant\n[q]Beast Mastery ( Beast Mastery Hunter )\nHitting a Jackpot! infuses your pet with a mutagen, causing its auto-attacks to deal (18.1407% of Attack power) Nature damage to its target and up to 5 enemies within 10 yds for 8 sec. Mutagenic attacks reduce the cooldown of Bestial Wrath by 0.5 sec.\n\n Marksmanship, Survival\nHitting a Jackpot! infuses your pet with a mutagen, causing its auto-attacks to deal (18.1407% of Attack power) Nature damage to its target and up to 5 enemies within 10 yds for 8 sec. Mutagenic attacks reduce the cooldown of Bestial Wrath by 0.5 sec."}
 MultiLanguageSpellData['en'][1218005] = {name = "Heretic Detector", additional_info = nil}
 MultiLanguageSpellData['en'][1218007] = {name = "Update Player Phase/Auras", additional_info = nil}
-MultiLanguageSpellData['en'][1218008] = {name = "Crab-a-bomb Barrage", additional_info = "50 yd range\n{Instant} {6 sec cooldown}\n[q]Summons a Crab-a-bomb, then rides the Crab-a-bomb, then throws a barrage of Crab-a-bomb bombs for 30 sec. Every 3 sec a Crab-a-bomb barrages inflicting 25 Fire damage to targets within 5 yards.\n\n Hmmm, a Lit Fuse..."}
+MultiLanguageSpellData['en'][1218008] = {name = "Crab-a-bomb Barrage", additional_info = "50 yd range\n{Instant} {6 sec cooldown}\n[q]Summons a Crab-a-bomb, then rides the Crab-a-bomb, then throws a barrage of Crab-a-bomb bombs for 30 sec. Every 3 sec a Crab-a-bomb barrages inflicting 871332 Fire damage to targets within 5 yards.\n\n Hmmm, a Lit Fuse..."}
 MultiLanguageSpellData['en'][1218010] = {name = "Lit Fuse", additional_info = nil}
+MultiLanguageSpellData['en'][1218011] = {name = "Repeatable Event - Dastardly Duos - Spotlight, Large", additional_info = nil}
 MultiLanguageSpellData['en'][1218012] = {name = "Ruby Butterfly", additional_info = "1.5 sec cast\n[q]Summons and dismisses the Ruby Butterfly mount.\n[q]\"The elusive Ruby Butterfly is highly sought after by Twilight Witches.\"\nTrading Post"}
 MultiLanguageSpellData['en'][1218013] = {name = "Spring Butterfly", additional_info = "1.5 sec cast\n[q]Summons and dismisses the Spring Butterfly mount.\n[q]\"PH\"\nTrading Post"}
 MultiLanguageSpellData['en'][1218014] = {name = "Midnight Butterfly", additional_info = "1.5 sec cast\n[q]Summons and dismisses the Midnight Butterfly mount.\n[q]\"PH\"\nTrading Post"}
-MultiLanguageSpellData['en'][1218017] = {name = "Crab-a-bomb Barrage", additional_info = "50 yd range\nChanneled (1 sec cast)\n[q]Summons a Crab-a-bomb, then rides the Crab-a-bomb, then throws a barrage of Crab-a-bomb bombs for 30 sec. Every 3 sec a Crab-a-bomb barrages inflicting 25 Fire damage to targets within 5 yards.\n\n Hmmm, a Lit Fuse..."}
+MultiLanguageSpellData['en'][1218017] = {name = "Crab-a-bomb Barrage", additional_info = "50 yd range\nChanneled (1 sec cast)\n[q]Summons a Crab-a-bomb, then rides the Crab-a-bomb, then throws a barrage of Crab-a-bomb bombs for 30 sec. Every 3 sec a Crab-a-bomb barrages inflicting 871332 Fire damage to targets within 5 yards.\n\n Hmmm, a Lit Fuse..."}
 MultiLanguageSpellData['en'][1218018] = {name = "Purge Shadows", additional_info = "60 yd range\n{Instant} {8 sec cooldown}\n[q]Throw a signal flare at a location, luring away the attention of flying bombardiers."}
 MultiLanguageSpellData['en'][1218019] = {name = "Purge Shadows", additional_info = "40 yd range\n{Instant} {8 sec cooldown}\n[q]Hurl a ball of light at an area, temporarily dispelling shadows."}
-MultiLanguageSpellData['en'][1218021] = {name = "Crab-a-bomb Barrage", additional_info = "100 yd range\nInstant\n[q]Summons a Crab-a-bomb, then rides the Crab-a-bomb, then throws a barrage of Crab-a-bomb bombs for 30 sec. Every 3 sec a Crab-a-bomb barrages inflicting 25 Fire damage to targets within 5 yards.\n\n Hmmm, a Lit Fuse..."}
-MultiLanguageSpellData['en'][1218024] = {name = "Crab-a-bomb Barrage", additional_info = "100 yd range\nInstant\n[q]Summons a Crab-a-bomb, then rides the Crab-a-bomb, then throws a barrage of Crab-a-bomb bombs for 30 sec. Every 3 sec a Crab-a-bomb barrages inflicting 25 Fire damage to targets within 5 yards.\n\n Hmmm, a Lit Fuse..."}
-MultiLanguageSpellData['en'][1218029] = {name = "Crab-a-bomb Barrage", additional_info = "100 yd range\nInstant\n[q]Summons a Crab-a-bomb, then rides the Crab-a-bomb, then throws a barrage of Crab-a-bomb bombs for 30 sec. Every 3 sec a Crab-a-bomb barrages inflicting 25 Fire damage to targets within 5 yards.\n\n Hmmm, a Lit Fuse..."}
+MultiLanguageSpellData['en'][1218021] = {name = "Crab-a-bomb Barrage", additional_info = "100 yd range\nInstant\n[q]Summons a Crab-a-bomb, then rides the Crab-a-bomb, then throws a barrage of Crab-a-bomb bombs for 30 sec. Every 3 sec a Crab-a-bomb barrages inflicting 871332 Fire damage to targets within 5 yards.\n\n Hmmm, a Lit Fuse..."}
+MultiLanguageSpellData['en'][1218024] = {name = "Crab-a-bomb Barrage", additional_info = "100 yd range\nInstant\n[q]Summons a Crab-a-bomb, then rides the Crab-a-bomb, then throws a barrage of Crab-a-bomb bombs for 30 sec. Every 3 sec a Crab-a-bomb barrages inflicting 871332 Fire damage to targets within 5 yards.\n\n Hmmm, a Lit Fuse..."}
+MultiLanguageSpellData['en'][1218029] = {name = "Crab-a-bomb Barrage", additional_info = "100 yd range\nInstant\n[q]Summons a Crab-a-bomb, then rides the Crab-a-bomb, then throws a barrage of Crab-a-bomb bombs for 30 sec. Every 3 sec a Crab-a-bomb barrages inflicting 871332 Fire damage to targets within 5 yards.\n\n Hmmm, a Lit Fuse..."}
 MultiLanguageSpellData['en'][1218030] = {name = "Swabbie's Lockbox", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1218033] = {name = "Jackpot!", additional_info = "Instant\n[q]Your spells and abilities have a chance to hit a Jackpot! that increases your auto shot damage by 200% and reduces the time between auto shots by 0.5 sec for 10 sec. Casting Trueshot always hits a Jackpot!"}
 MultiLanguageSpellData['en'][1218034] = {name = "Pay 2 Air", additional_info = "20 yd range\n{Instant} {30 sec cooldown}\n[q]Activate your Pay 2 Air device, creating a pocket of air around you.\n\n The air pocket will remain until you move away from it."}
 MultiLanguageSpellData['en'][1218036] = {name = "Crab-a-bomb Backfire!", additional_info = "Instant\n[q]Maybe riding a bomb while you throw bombs isn't a success story? Stunned for 4 sec."}
 MultiLanguageSpellData['en'][1218037] = {name = "Pay 2 Air", additional_info = nil}
-MultiLanguageSpellData['en'][1218039] = {name = "Woven-in Grenades", additional_info = "Instant\n[q]No matter what this one's taking something out upon death with between 3 and 21 grenades ready-to-go. Each inflicts 15 Fire damage to players within 3 yards upon detonation."}
-MultiLanguageSpellData['en'][1218041] = {name = "Woven-in Grenades", additional_info = "100 yd range\nInstant\n[q]No matter what this one's taking something out upon death with between 3 and 21 grenades ready-to-go. Each inflicts 15 Fire damage to players within 3 yards upon detonation."}
-MultiLanguageSpellData['en'][1218042] = {name = "Woven-in Grenades", additional_info = "100 yd range\nInstant\n[q]No matter what this one's taking something out upon death with between 3 and 21 grenades ready-to-go. Each inflicts 15 Fire damage to players within 3 yards upon detonation."}
-MultiLanguageSpellData['en'][1218043] = {name = "Woven-in Grenades", additional_info = "100 yd range\nInstant\n[q]No matter what this one's taking something out upon death with between 3 and 21 grenades ready-to-go. Each inflicts 15 Fire damage to players within 3 yards upon detonation."}
+MultiLanguageSpellData['en'][1218039] = {name = "Woven-in Grenades", additional_info = "Instant\n[q]No matter what this one's taking something out upon death with between 3 and 21 grenades ready-to-go. Each inflicts 522799 Fire damage to players within 3 yards upon detonation."}
+MultiLanguageSpellData['en'][1218041] = {name = "Woven-in Grenades", additional_info = "100 yd range\nInstant\n[q]No matter what this one's taking something out upon death with between 3 and 21 grenades ready-to-go. Each inflicts 522799 Fire damage to players within 3 yards upon detonation."}
+MultiLanguageSpellData['en'][1218042] = {name = "Woven-in Grenades", additional_info = "100 yd range\nInstant\n[q]No matter what this one's taking something out upon death with between 3 and 21 grenades ready-to-go. Each inflicts 522799 Fire damage to players within 3 yards upon detonation."}
+MultiLanguageSpellData['en'][1218043] = {name = "Woven-in Grenades", additional_info = "100 yd range\nInstant\n[q]No matter what this one's taking something out upon death with between 3 and 21 grenades ready-to-go. Each inflicts 522799 Fire damage to players within 3 yards upon detonation."}
 MultiLanguageSpellData['en'][1218045] = {name = "Too Much Hype...", additional_info = nil}
 MultiLanguageSpellData['en'][1218046] = {name = "Time to Go", additional_info = nil}
 MultiLanguageSpellData['en'][1218047] = {name = "Primordial Storm", additional_info = "[q]Primordial Wave transforms into a single use Primordial Storm for 15 sec after it is cast.\n\nPrimordial Storm\n Devastate nearby enemies with a Primordial Storm dealing (90% of Attack power) Flamestrike, (90% of Attack power) Froststrike, (90% of Attack power) Stormstrike damage, and unleashing a Lightning Bolt or a Chain Lightning at 150% effectiveness. Deals reduced damage beyond 5 targets.\n\nConsumes Maelstrom Weapon for increased damage."}
@@ -7607,8 +7769,8 @@ MultiLanguageSpellData['en'][1218055] = {name = "Demolish", additional_info = "I
 MultiLanguageSpellData['en'][1218056] = {name = "Demolish", additional_info = "20 yd range\n4 sec cast\n[q]Strike the ground with devastating force, inflicting 30 Nature damage to players within 12 yards and knocking them back."}
 MultiLanguageSpellData['en'][1218057] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1218060] = {name = "Hype Fever!", additional_info = "Instant\n[q]The third Hype Hustle has no end! Rik consumes his Sound Cloud to increase all damage he inflicts by 300% and continues to cast Blaring Drop s endlessly."}
-MultiLanguageSpellData['en'][1218061] = {name = "Gold Fuse", additional_info = "10 yd range\n1 sec cast\n[q]Tosses a lit willow diadem fuse at a target inflicting 10 Fire damage plus an additional 1 Fire damage every 1 sec for 15 sec."}
-MultiLanguageSpellData['en'][1218064] = {name = "Smelly", additional_info = "Instant\n[q]The caster's overpowering stench inflicts 10 Nature damage to players within 60 yards every 2 sec."}
+MultiLanguageSpellData['en'][1218061] = {name = "Gold Fuse", additional_info = "10 yd range\n1 sec cast\n[q]Tosses a lit willow diadem fuse at a target inflicting 348533 Fire damage plus an additional 34853 Fire damage every 1 sec for 15 sec."}
+MultiLanguageSpellData['en'][1218064] = {name = "Smelly", additional_info = "Instant\n[q]The caster's overpowering stench inflicts 838509 Nature damage to players within 60 yards every 2 sec."}
 MultiLanguageSpellData['en'][1218069] = {name = "Emerald Snail", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"This snail protects its treasures with the ferocity of a dragon, but perhaps not the speed.\"\nTrading Post"}
 MultiLanguageSpellData['en'][1218076] = {name = "Bullet", additional_info = nil}
 MultiLanguageSpellData['en'][1218077] = {name = "Bullet", additional_info = "300 yd range\nInstant\n[q]Zee fires his gun, inflicting 90 Physical damage every 0.3 sec for 8 sec."}
@@ -7636,11 +7798,11 @@ MultiLanguageSpellData['en'][1218115] = {name = "Luck of the Draw!", additional_
 MultiLanguageSpellData['en'][1218116] = {name = "Primordial Frost", additional_info = "Instant\n[q]Primordial Wave transforms into a single use Primordial Storm for 15 sec after it is cast.\n\nPrimordial Storm\n Devastate nearby enemies with a Primordial Storm dealing (90% of Attack power) Flamestrike, (90% of Attack power) Froststrike, (90% of Attack power) Stormstrike damage, and unleashing a Lightning Bolt or a Chain Lightning at 150% effectiveness. Deals reduced damage beyond 5 targets.\n\nConsumes Maelstrom Weapon for increased damage."}
 MultiLanguageSpellData['en'][1218117] = {name = "Massive Stomp", additional_info = "30 yd range\n3 sec cast\n[q]Inflicts 2358058 Nature damage and knocks back all players within 50 yds."}
 MultiLanguageSpellData['en'][1218118] = {name = "Primordial Lightning", additional_info = "Instant\n[q]Primordial Wave transforms into a single use Primordial Storm for 15 sec after it is cast.\n\nPrimordial Storm\n Devastate nearby enemies with a Primordial Storm dealing (90% of Attack power) Flamestrike, (90% of Attack power) Froststrike, (90% of Attack power) Stormstrike damage, and unleashing a Lightning Bolt or a Chain Lightning at 150% effectiveness. Deals reduced damage beyond 5 targets.\n\nConsumes Maelstrom Weapon for increased damage."}
-MultiLanguageSpellData['en'][1218120] = {name = "Incinerate", additional_info = "{2 sec cast} {2 sec cooldown}\n[q]The caster inflicts 40 Fire damage to all players, and an additional 3 Fire damage every 1 sec for 10 sec.\n\n Balls of flame land nearby, inflicting 35 Fire damage to players within 4.5 yards of the impact locations."}
+MultiLanguageSpellData['en'][1218120] = {name = "Incinerate", additional_info = "{2 sec cast} {2 sec cooldown}\n[q]The caster inflicts 5031052 Fire damage to all players, and an additional 335403 Fire damage every 1 sec for 10 sec.\n\n Balls of flame land nearby, inflicting 2934780 Fire damage to players within 4.5 yards of the impact locations."}
 MultiLanguageSpellData['en'][1218123] = {name = "Incinerate", additional_info = nil}
-MultiLanguageSpellData['en'][1218124] = {name = "Incinerate", additional_info = "Unlimited range\nInstant\n[q]The caster inflicts 40 Fire damage to all players, and an additional 3 Fire damage every 1 sec for 10 sec.\n\n Balls of flame land nearby, inflicting 35 Fire damage to players within 4.5 yards of the impact locations."}
+MultiLanguageSpellData['en'][1218124] = {name = "Incinerate", additional_info = "Unlimited range\nInstant\n[q]The caster inflicts 5031052 Fire damage to all players, and an additional 335403 Fire damage every 1 sec for 10 sec.\n\n Balls of flame land nearby, inflicting 2934780 Fire damage to players within 4.5 yards of the impact locations."}
 MultiLanguageSpellData['en'][1218125] = {name = "Primordial Storm", additional_info = "Instant\n[q]Primordial Wave transforms into a single use Primordial Storm for 15 sec after it is cast.\n\nPrimordial Storm\n Devastate nearby enemies with a Primordial Storm dealing (90% of Attack power) Flamestrike, (90% of Attack power) Froststrike, (90% of Attack power) Stormstrike damage, and unleashing a Lightning Bolt or a Chain Lightning at 150% effectiveness. Deals reduced damage beyond 5 targets.\n\nConsumes Maelstrom Weapon for increased damage."}
-MultiLanguageSpellData['en'][1218127] = {name = "Junksaws", additional_info = "{3.5 sec cast} {2 sec cooldown}\n[q]The caster flings junksaws in four directions, inflicting 40 Physical damage and knocking players away.\n\n The victim bleeds for an additional 10 Physical damage every 1 sec for 10 sec."}
+MultiLanguageSpellData['en'][1218127] = {name = "Junksaws", additional_info = "{3.5 sec cast} {2 sec cooldown}\n[q]The caster flings junksaws in four directions, inflicting 5869561 Physical damage and knocking players away.\n\n The victim bleeds for an additional 1006210 Physical damage every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][1218128] = {name = "Bloodstone", additional_info = "{Instant} {1 min cooldown}\n[q]Instantly increases your haste by 20% for 12 sec [ Empowered Healthstone : plus heals 30% over 6 sec / .]"}
 MultiLanguageSpellData['en'][1218130] = {name = "Burning Candles", additional_info = "100 yd range\nInstant\n[q]The heat of the candle inflicts 5 Fire damage every 0.5 sec to nearby players."}
 MultiLanguageSpellData['en'][1218131] = {name = "Burning Candles", additional_info = "100 yd range\nInstant\n[q]The heat of the candle inflicts 736893 Fire damage every 0.5 sec to nearby players."}
@@ -7650,7 +7812,7 @@ MultiLanguageSpellData['en'][1218135] = {name = "Burning Candles", additional_in
 MultiLanguageSpellData['en'][1218137] = {name = "Kick Can", additional_info = nil}
 MultiLanguageSpellData['en'][1218138] = {name = "Kick Can", additional_info = nil}
 MultiLanguageSpellData['en'][1218139] = {name = "Kick Can", additional_info = nil}
-MultiLanguageSpellData['en'][1218140] = {name = "Junksaws", additional_info = "Unlimited range\nInstant\n[q]The caster flings junksaws in four directions, inflicting 40 Physical damage and knocking players away.\n\n The victim bleeds for an additional 10 Physical damage every 1 sec for 10 sec."}
+MultiLanguageSpellData['en'][1218140] = {name = "Junksaws", additional_info = "Unlimited range\nInstant\n[q]The caster flings junksaws in four directions, inflicting 5869561 Physical damage and knocking players away.\n\n The victim bleeds for an additional 1006210 Physical damage every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][1218143] = {name = "Winning Streak!", additional_info = "Instant\n[q]Your spells and abilities have a chance to activate a Winning Streak! increasing the damage of your Eviscerate, Secret Technique, and Black Powder by 2% stacking up to 8 times. Eviscerate, Secret Technique, and Black Powder have a 15% chance to remove Winning Streak!\n(Proc chance: 15%, 400ms cooldown)"}
 MultiLanguageSpellData['en'][1218144] = {name = "Kick Can", additional_info = nil}
 MultiLanguageSpellData['en'][1218145] = {name = "Kick Can", additional_info = nil}
@@ -7660,7 +7822,7 @@ MultiLanguageSpellData['en'][1218149] = {name = "Sacrificial Pyre", additional_i
 MultiLanguageSpellData['en'][1218150] = {name = "Explosive Powder", additional_info = "[q]Bursting Shot now also knocks you back and snares enemies by an additional 20%."}
 MultiLanguageSpellData['en'][1218151] = {name = "Explosive Powder", additional_info = "Unlimited range\nInstant\n[q]Bursting Shot now also knocks you back and snares enemies by an additional 20%."}
 MultiLanguageSpellData['en'][1218152] = {name = "Liquid Gold", additional_info = "300 yd range\n{2 sec cast} {3 sec cooldown}\n[q]The caster covers players in Liquid Gold , inflicting Fire damage every 2 sec for 12 sec.\n\n When removed, creates a pile of Molten Gold at the player's location."}
-MultiLanguageSpellData['en'][1218153] = {name = "Flaming Wreckage", additional_info = "100 yd range\nInstant\n[q]Crony's mech suit bursts into Flaming Wreckage inflicting 4 Fire damage every 0.5 sec to nearby players."}
+MultiLanguageSpellData['en'][1218153] = {name = "Flaming Wreckage", additional_info = "100 yd range\nInstant\n[q]Crony's mech suit bursts into Flaming Wreckage inflicting 139413 Fire damage every 0.5 sec to nearby players."}
 MultiLanguageSpellData['en'][1218155] = {name = "Liquid Gold", additional_info = "300 yd range\nInstant\n[q]The caster covers players in Liquid Gold , inflicting Fire damage every 2 sec for 12 sec.\n\n When removed, creates a pile of Molten Gold at the player's location."}
 MultiLanguageSpellData['en'][1218156] = {name = "Liquid Gold", additional_info = "300 yd range\nInstant\n[q]The caster covers players in Liquid Gold , inflicting Fire damage every 2 sec for 12 sec.\n\n When removed, creates a pile of Molten Gold at the player's location."}
 MultiLanguageSpellData['en'][1218157] = {name = "Molten Gold", additional_info = nil}
@@ -7688,6 +7850,7 @@ MultiLanguageSpellData['en'][1218222] = {name = "Cannister Channel", additional_
 MultiLanguageSpellData['en'][1218223] = {name = "Dire Beast: Basilisk", additional_info = "40 yd range\n2 min cooldown\n[q]Call of the Wild additionally summons a slow moving basilisk near your target for 30 sec that attacks the target for heavy damage."}
 MultiLanguageSpellData['en'][1218224] = {name = "Magnetic Rampage", additional_info = "Instant\n[q]The caster magnetizes its body, attracting all players towards them and inflicting Physical damage every 1 sec to those that get too close."}
 MultiLanguageSpellData['en'][1218227] = {name = "Magnetic Rampage", additional_info = "3 sec cast\n[q]The caster magnetizes its body, attracting all players towards them and inflicting Physical damage every 1 sec to those that get too close."}
+MultiLanguageSpellData['en'][1218229] = {name = "Void-Scarred Gryphon", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Abandoned by its trainers the Void-Scarred Gryphon scrounged on any scrap of food that remained, most corrupted by the void. With the void now sustaining them, they only land when their fickle tastes are satisfied by untainted food that they just remember enjoying.\"\nDrop:\nZone:\nVision of Stormwind (Revisited)"}
 MultiLanguageSpellData['en'][1218231] = {name = "Magnetic Rampage", additional_info = "100 yd range\nInstant\n[q]The caster magnetizes its body, attracting all players towards them and inflicting Physical damage every 1 sec to those that get too close."}
 MultiLanguageSpellData['en'][1218233] = {name = "Juiced!", additional_info = nil}
 MultiLanguageSpellData['en'][1218235] = {name = "Tiny Tussle", additional_info = nil}
@@ -7698,6 +7861,7 @@ MultiLanguageSpellData['en'][1218250] = {name = "Haywire Wattage", additional_in
 MultiLanguageSpellData['en'][1218252] = {name = "Nasty Sneeze", additional_info = "{2 sec cast} {3 sec cooldown}\n[q]The caster sneezes out some of the concoction, creating tiny versions of himself."}
 MultiLanguageSpellData['en'][1218257] = {name = "Fiery Toy Bolt", additional_info = "Unlimited range\nInstant\n[q]Shoots a tiny bolt of flame that applies Blistering Spite ."}
 MultiLanguageSpellData['en'][1218258] = {name = "Giant Punch", additional_info = "8 yd range\n{2 sec cast} {3 sec cooldown}\n[q]The caster throws a massive punch, inflicting Physical damage to their target."}
+MultiLanguageSpellData['en'][1218259] = {name = "Deploy Mecha-Scrapper", additional_info = "Instant\nReagents:\nDecaying Mecha-Scrapper Construction Kit\n[q]Creates a mechanical scrapbot that repairs equipment and buys nearly anything. The scrapbot leaves after 5 min."}
 MultiLanguageSpellData['en'][1218260] = {name = "Sparky Toy Bolt", additional_info = "Unlimited range\nInstant\n[q]Shoots a tiny bolt of sparks that applies Galvanized Spite ."}
 MultiLanguageSpellData['en'][1218261] = {name = "Nasty Sneeze", additional_info = "100 yd range\nInstant\n[q]The caster sneezes out some of the concoction, creating tiny versions of himself."}
 MultiLanguageSpellData['en'][1218263] = {name = "Nasty Sneeze", additional_info = "100 yd range\nInstant\n[q]The caster sneezes out some of the concoction, creating tiny versions of himself."}
@@ -7710,18 +7874,24 @@ MultiLanguageSpellData['en'][1218270] = {name = "Experimental Goblin-FUEL Supple
 MultiLanguageSpellData['en'][1218272] = {name = "Experimental Goblin-FUEL Supplement", additional_info = nil}
 MultiLanguageSpellData['en'][1218273] = {name = "Tiny Punch", additional_info = "8 yd range\n2 sec cast\n[q]The caster throws a tiny punch, inflicting Physical damage to their target."}
 MultiLanguageSpellData['en'][1218293] = {name = "Bugbrain", additional_info = "Instant\n[q]Eat me."}
-MultiLanguageSpellData['en'][1218294] = {name = "Not Feeling Quite Right", additional_info = "Instant\n[q]A side effect of drinking too many Noggenfoggers, Giovante occasionally stops breathing, causing his attacks to bleed Physical damage to is target.\n(Proc chance: 25%, 14s cooldown)"}
+MultiLanguageSpellData['en'][1218294] = {name = "Not Feeling Quite Right", additional_info = "Instant\n[q]A side effect of drinking too many Noggenfoggers, Giovante occasionally stops breathing causing his attacks to bleed Physical damage to his target.\n(Proc chance: 25%, 14s cooldown)"}
 MultiLanguageSpellData['en'][1218295] = {name = "Emergency Repairs", additional_info = nil}
 MultiLanguageSpellData['en'][1218297] = {name = "Noggenfogger Select UP", additional_info = "{Instant} {0.5 sec cooldown}\n[q]Become slightly larger. Stacks up to ten times."}
-MultiLanguageSpellData['en'][1218298] = {name = "Not Feeling Quite Right", additional_info = nil}
+MultiLanguageSpellData['en'][1218298] = {name = "Not Feeling Quite Right", additional_info = "Instant\n[q]A side effect of drinking too many Noggenfoggers, Giovante occasionally stops breathing causing his attacks to bleed Physical damage to his target."}
 MultiLanguageSpellData['en'][1218299] = {name = "Lightning Turret", additional_info = nil}
 MultiLanguageSpellData['en'][1218300] = {name = "Noggenfogger Select DOWN", additional_info = "{Instant} {0.5 sec cooldown}\n[q]Become slightly smaller. Stacks up to ten times."}
 MultiLanguageSpellData['en'][1218301] = {name = "Prototype Auto-Advertiser", additional_info = "8 yd range\n{Instant} {5 min cooldown}\n[q]Place the auto-advertiser, causing all nearby creatures to become extremely annoyed and inflict 50% increased damage to you for 3 min.\n\n Only usable in Undermine. Enemies drop additional Market Research for the caster while active."}
 MultiLanguageSpellData['en'][1218302] = {name = "Punctured", additional_info = "100 yd range\nInstant\n[q]Giovante's spiky body punctures you, bleeding Physical damage every 2 sec for 12 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1218303] = {name = "Shield Generator", additional_info = nil}
 MultiLanguageSpellData['en'][1218304] = {name = "Prototype Auto-Advertiser", additional_info = "100 yd range\nInstant\n[q]Place the auto-advertiser, causing all nearby creatures to become extremely annoyed and inflict 50% increased damage to you for 3 min.\n\n Only usable in Undermine. Enemies drop additional Market Research for the caster while active."}
+MultiLanguageSpellData['en'][1218305] = {name = "Void-Forged Stallion", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Forged just as their shoes once were, these beasts are less horses now and void energy in their likeness.\"\nDrop:\nZone:\nVision of Stormwind (Revisited)"}
+MultiLanguageSpellData['en'][1218306] = {name = "Void-Scarred Pack Mother", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Fighting her corrupted handlers this pack mother freed herself and her pups. However, freedom from their handlers did not free them from the void in this lost place. She taught her pups to be even more dangerous beasts, and they now stalk throughout Orgrimmar fetching her food as all compete to survive.\"\nDrop:\nZone:\nVision of Orgrimmar (Revisited)"}
+MultiLanguageSpellData['en'][1218307] = {name = "Void-Scarred Windrider", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"When the void energies were released, it drove most windriders feral. They killed each other and their trainers. The gates to their roost were locked by the survivors. Some surviving windrider's can still be seen gliding above, but none dare return to their new deadly domain to see what remains.\"\nDrop:\nZone:\nVision of Orgrimmar (Revisited)"}
 MultiLanguageSpellData['en'][1218308] = {name = "Enkindling Inferno", additional_info = "Instant\n[q]Blazikon unleashes a fiery burst towards each extinguished candle, reigniting that candle and inflicting 5159652 Fire damage to all players in its path.\n\n The inferno sears all players, inflicting 147379 Fire damage every 1 sec for 8 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1218311] = {name = "Noggenfogger Select FRESH", additional_info = "{Instant} {0.5 sec cooldown}\n[q]Temporarily become cool."}
+MultiLanguageSpellData['en'][1218314] = {name = "Ny'alothan Shadow Worm", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Ny'alothan Shadow Worm.\n[q]\"A remnant of the Black Empire's past, these precursors of the abyss worms are once again resurging with the rise of Ny'alotha.\"\nAchievement:\nMastering the VisionsCategory:\nVisions of N'Zoth Revisited"}
+MultiLanguageSpellData['en'][1218316] = {name = "Corruption of the Aspects", additional_info = "1.5 sec cast\n[q]Summons and dismisses the Corruption of the Aspects. This mount changes depending on your Riding skill and location.\n[q]\"With N'zoth's triumph what started with Galakrond comes to fruition and with the aspects gone the corruption of their species is complete.\"\nVendor:\nTorie\nZone:\nDornogal\nCost:\n40000"}
+MultiLanguageSpellData['en'][1218317] = {name = "Void-Crystal Panther", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable Void-Crystal Panther.\n[q]\"Although many precious gems have been corrupted by void energies in horrific visions, Master Jewelcrafters can still utilize them to craft mighty panther steeds.\"\nProfession:\nJewelcrafting"}
 MultiLanguageSpellData['en'][1218318] = {name = "Bleeding Edge", additional_info = nil}
 MultiLanguageSpellData['en'][1218319] = {name = "Voidsplosion", additional_info = "300 yd range\nInstant\n[q]Lockenstock teems with unstable black blood unleashing waves of void energy that inflict 1677017 Shadow damage to all players and cause the next 2859365 healing to be absorbed."}
 MultiLanguageSpellData['en'][1218321] = {name = "Extinguishing Gust", additional_info = "Instant"}
@@ -7738,10 +7908,10 @@ MultiLanguageSpellData['en'][1218337] = {name = "Thunderous Outrage", additional
 MultiLanguageSpellData['en'][1218338] = {name = "Sparkblast Ignition", additional_info = nil}
 MultiLanguageSpellData['en'][1218341] = {name = "Toxic Fumes", additional_info = nil}
 MultiLanguageSpellData['en'][1218342] = {name = "Unstable Shrapnel", additional_info = "300 yd range\nInstant\n[q]Touching the Foot-Blaster causes fragments to embed themselves in the target, inflicting 2347824 Fire damage and increasing damage taken from Unstable Shrapnel by 1000% for 2 min."}
-MultiLanguageSpellData['en'][1218343] = {name = "Toxic Fumes", additional_info = "Unlimited range\nInstant\n[q]Deadly fumes released by burning garbage inflict 125776 Nature damage to all players every 2 sec. This effect stacks."}
+MultiLanguageSpellData['en'][1218343] = {name = "Toxic Fumes", additional_info = "Unlimited range\nInstant\n[q]Deadly fumes released by burning garbage inflict 104814 Nature damage to all players every 2 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1218344] = {name = "Upgraded Bloodtech", additional_info = "Instant\n[q]Lockenstock becomes empowered by the black blood infusion, increasing his damage done by 15%. This effect stacks."}
 MultiLanguageSpellData['en'][1218351] = {name = "Entranced!", additional_info = "Unlimited range\nInstant\n[q]Beams of ultra death lightning emit from Geezle, inflicting 5158251 Nature damage and stunning any players hit for 1 sec."}
-MultiLanguageSpellData['en'][1218353] = {name = "Crowd Divider", additional_info = "50 yd range\n3 sec cast\n[q]The caster launches rockets in the direction of a player, inflicting 75 Fire damage to the first player it impacts."}
+MultiLanguageSpellData['en'][1218353] = {name = "Crowd Divider", additional_info = "50 yd range\n3 sec cast\n[q]The caster launches rockets in the direction of a player, inflicting 6288815 Fire damage to the first player it impacts."}
 MultiLanguageSpellData['en'][1218354] = {name = "Crowd Divider", additional_info = nil}
 MultiLanguageSpellData['en'][1218355] = {name = "Crowd Divider", additional_info = "Unlimited range\nInstant\n[q]The caster expels a swirling saw blade in the direction of a player, inflicting 40 Arcane damage to players hit."}
 MultiLanguageSpellData['en'][1218356] = {name = "Crowd Divider", additional_info = "Unlimited range\nInstant\n[q]The caster expels a swirling saw blade in the direction of a player, inflicting 40 Arcane damage to players hit."}
@@ -7753,10 +7923,15 @@ MultiLanguageSpellData['en'][1218373] = {name = "G-99 Breakneck", additional_inf
 MultiLanguageSpellData['en'][1218374] = {name = "Monitor", additional_info = nil}
 MultiLanguageSpellData['en'][1218376] = {name = "G-99 Breakneck", additional_info = "Instant\n[q]Access the G-99 Breakneck."}
 MultiLanguageSpellData['en'][1218377] = {name = "Haywire Workshop", additional_info = "Unlimited range\nInstant\n[q]The House of Chrome is on the fritz emitting electricity throughout inflicting 100 Nature damage every 1 sec upon contact."}
+MultiLanguageSpellData['en'][1218378] = {name = "Eye of Chaos", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1218379] = {name = "Void-Scarred Parrot", additional_info = "Instant\n[q]Right Click to summon and dismiss your bird."}
 MultiLanguageSpellData['en'][1218380] = {name = "Keeza's B.B.B.F.G.", additional_info = nil}
+MultiLanguageSpellData['en'][1218381] = {name = "Void-Scarred Scorpid", additional_info = "Instant\n[q]Right Click to summon and dismiss this pet."}
 MultiLanguageSpellData['en'][1218382] = {name = "Haywire Workshop", additional_info = "Unlimited range\nInstant\n[q]The House of Chrome is on the fritz emitting electricity throughout inflicting 100 Nature damage every 1 sec upon contact."}
+MultiLanguageSpellData['en'][1218383] = {name = "Void-Scarred Tallstrider Chick", additional_info = "Instant\n[q]Right Click to summon and dismiss your Bloodgazer Hatchling."}
 MultiLanguageSpellData['en'][1218385] = {name = "Haywire Workshop", additional_info = "Unlimited range\nInstant\n[q]The House of Chrome is on the fritz emitting electricity throughout inflicting 100 Nature damage every 1 sec upon contact."}
 MultiLanguageSpellData['en'][1218386] = {name = "Haywire Workshop", additional_info = "Unlimited range\nInstant\n[q]The House of Chrome is on the fritz emitting electricity throughout inflicting 100 Nature damage every 1 sec upon contact."}
+MultiLanguageSpellData['en'][1218388] = {name = "[q0]Mysterious Celerity", additional_info = "Instant\nReagents:\nPotion of Mysterious Celerity\n[q]On Looted: Increases your movement speed by 10%.\n\n Lasts 30 min and persists through death.\n\nThis item is consumed immediately."}
 MultiLanguageSpellData['en'][1218390] = {name = "Keeza's B.B.B.F.G.", additional_info = nil}
 MultiLanguageSpellData['en'][1218391] = {name = "Choosing Weapon", additional_info = "{2 sec cast} {5 min cooldown}\n[q]Grab a random weapon from the box, granting access to a powerful ability for up to 3 min."}
 MultiLanguageSpellData['en'][1218392] = {name = "Darkfuse Bazooka", additional_info = "Instant\n[q]Choose the Darkfuse Bazooka."}
@@ -7770,6 +7945,7 @@ MultiLanguageSpellData['en'][1218400] = {name = "Darkfuse Firecrackers", additio
 MultiLanguageSpellData['en'][1218401] = {name = "Darkfuse Powershot", additional_info = nil}
 MultiLanguageSpellData['en'][1218402] = {name = "Darkfuse Neckslicer", additional_info = nil}
 MultiLanguageSpellData['en'][1218403] = {name = "B.B.B.F.G.", additional_info = nil}
+MultiLanguageSpellData['en'][1218408] = {name = "Repeatable Event - Dastardly Duos - Score - Kill Score, Bonus (after the fight)", additional_info = nil}
 MultiLanguageSpellData['en'][1218412] = {name = "Throwin' Sawblade", additional_info = "40 yd range\n{Instant} {5 sec cooldown}\n[q]Throw the sawblade to a friendly player. If possible, they will automatically return it."}
 MultiLanguageSpellData['en'][1218413] = {name = "Throwin' Sawblade", additional_info = "40 yd range\nInstant\n[q]Return the sawblade."}
 MultiLanguageSpellData['en'][1218414] = {name = "Authentic Undermine Clam Chowder", additional_info = "2 sec cast 2\nReagents:\nUndermine Clam Meat (2), Granulated Spices (5), Twined Herbs (5), Crunchy Peppers (2)\nOptional Reagents:\nSecret Ingredient (#318)\n[q]Recipe for 3 servings. Actual number of servings will vary based on cooking skill.\nDiscovery:\nAn Authentic Cookbook\n\n[q2]Use: Restores ( 1350000 / 5 * 20) health over 20 sec. Must remain seated while eating.\n\n Well Fed\n If you spend at least 10 seconds eating you will become Well Fed and gain 470 of your highest secondary stat for 1 hour.\n68\n[q]\"The real deal. The genuine article. The clam's shell. Perfection in a cup!\""}
@@ -7793,6 +7969,7 @@ MultiLanguageSpellData['en'][1218442] = {name = "Machine Gob's Iron Grin", addit
 MultiLanguageSpellData['en'][1218446] = {name = "D.I.S.C.O.", additional_info = nil}
 MultiLanguageSpellData['en'][1218447] = {name = "Fulminous Roar", additional_info = "[q]Preservation\n Fire Breath and Dream Breath deal their damage and healing in 20% less time.\n\nDevastation\n Fire Breath deals its damage in 20% less time."}
 MultiLanguageSpellData['en'][1218448] = {name = "Scrap Shot", additional_info = "55 yd range\n1.25 sec cast\n[q]Spits corrosive scrap at its target when not in melee range, inflicting 150 Nature damage and increasing their damage taken by 20% for 20 sec."}
+MultiLanguageSpellData['en'][1218454] = {name = "[q0]Mysterious Swiftstrike", additional_info = "Instant\nReagents:\nPotion of Mysterious Swiftstrike\n[q]On Looted: Increases melee, ranged, and spell haste by 10%.\n\n Lasts 30 min and persists through death.\n\nThis item is consumed immediately."}
 MultiLanguageSpellData['en'][1218459] = {name = "Jot Notes", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1218461] = {name = "Trash Heap Volley", additional_info = "100 yd range\nInstant\n[q]The caster spews garbage at players, inflicting Nature damage and causing their damage taken to be increased by 20% for 20 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1218462] = {name = "Trash Heap Volley", additional_info = "{3 sec cast} {3 sec cooldown}\n[q]The caster spews garbage at players, inflicting Nature damage and causing their damage taken to be increased by 20% for 20 sec. This effect stacks."}
@@ -7808,37 +7985,54 @@ MultiLanguageSpellData['en'][1218487] = {name = "Tremor", additional_info = nil}
 MultiLanguageSpellData['en'][1218488] = {name = "Scatterbomb Canisters", additional_info = "Unlimited range\n3.5 sec cast\n[q]Gallywix cannons his current target inflicting 200 Physical damage. This attack cannot be dodged or parried.\n\n This additionally blasts players in a frontal cone inflicting 500 Fire damage and increases Scatterbomb Canister damage taken by 400 % for 1.1 min. This damage splits evenly among effected players, then radiates to other players within 5 yards.\n\n This creates Mechmastermind's Canisters , linking all effected players.\n\n If this fails to hit at least 5 targets all players suffer the full effect."}
 MultiLanguageSpellData['en'][1218489] = {name = "Scatterbomb Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix cannons his current target inflicting 200 Physical damage. This attack cannot be dodged or parried.\n\n This additionally blasts players in a frontal cone inflicting 500 Fire damage and increases Scatterbomb Canister damage taken by 400 % for 1.1 min. This damage splits evenly among effected players, then radiates to other players within 5 yards.\n\n This creates Mechmastermind's Canisters , linking all effected players.\n\n If this fails to hit at least 5 targets all players suffer the full effect."}
 MultiLanguageSpellData['en'][1218490] = {name = "Scatterbomb Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix cannons his current target inflicting 200 Physical damage. This attack cannot be dodged or parried.\n\n This additionally blasts players in a frontal cone inflicting 500 Fire damage and increases Scatterbomb Canister damage taken by 400 % for 1.1 min. This damage splits evenly among effected players, then radiates to other players within 5 yards.\n\n This creates Mechmastermind's Canisters , linking all effected players.\n\n If this fails to hit at least 5 targets all players suffer the full effect."}
-MultiLanguageSpellData['en'][1218491] = {name = "Scatterbomb Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix cannons his current target inflicting 20950056 Physical damage. This attack cannot be dodged or parried.\n\n This additionally blasts players in a frontal cone inflicting 46083683 Fire damage and increases Scatterblast Canisters damage taken by 100% for until canceled . This damage splits evenly among effected players.\n\n All targets become afflicted with Mechengineer's Canisters .\n\n If this fails to hit at least 3 targets all players suffer the full effect."}
+MultiLanguageSpellData['en'][1218491] = {name = "Scatterbomb Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix cannons his current target inflicting 20950056 Physical damage. This attack cannot be dodged or parried.\n\n This additionally blasts players in a frontal cone inflicting 46083683 Fire damage and increases Scatterblast Canisters damage taken by 100% for . This damage splits evenly among effected players.\n\n All targets become afflicted with Mechengineer's Canisters .\n\n If this fails to hit at least 3 targets all players suffer the full effect."}
 MultiLanguageSpellData['en'][1218492] = {name = "Scatterbomb Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix cannons his current target inflicting 200 Physical damage. This attack cannot be dodged or parried.\n\n This additionally blasts players in a frontal cone inflicting 500 Fire damage and increases Scatterbomb Canister damage taken by 400 % for 1.1 min. This damage splits evenly among effected players, then radiates to other players within 5 yards.\n\n This creates Mechmastermind's Canisters , linking all effected players.\n\n If this fails to hit at least 5 targets all players suffer the full effect."}
 MultiLanguageSpellData['en'][1218493] = {name = "Scatterbomb Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix cannons his current target inflicting 200 Physical damage. This attack cannot be dodged or parried.\n\n This additionally blasts players in a frontal cone inflicting 500 Fire damage and increases Scatterbomb Canister damage taken by 400 % for 1.1 min. This damage splits evenly among effected players, then radiates to other players within 5 yards.\n\n This creates Mechmastermind's Canisters , linking all effected players.\n\n If this fails to hit at least 5 targets all players suffer the full effect."}
 MultiLanguageSpellData['en'][1218494] = {name = "Discharged Giga Bomb", additional_info = "Unlimited range\nInstant\n[q]Upon death drops a Discharged Giga Bomb."}
+MultiLanguageSpellData['en'][1218497] = {name = "[q0]Mysterious Tenacity", additional_info = "Instant\nReagents:\nPotion of Mysterious Tenacity\n[q]On Looted: Increases your maximum health by 10%.\n\n Lasts 30 min and persists through death.\n\nThis item is consumed immediately."}
 MultiLanguageSpellData['en'][1218500] = {name = "Charged Giga Bomb", additional_info = "Unlimited range\nInstant\n[q]Inflicts 168000 Nature damage every 1 sec to players within 0 yards.\n\n Upon interaction gain Charged Giga Bomb, instead suffering 168000 Nature damage every 0.5 sec."}
 MultiLanguageSpellData['en'][1218504] = {name = "Giga Blast Residue", additional_info = "Unlimited range\nInstant\n[q]Charged ions remain after a Giga Blast for 21 sec. Upon contact charges a Discharged Giga Bomb, or inflicts 1677017 Nature damage and stuns for 8 sec when one is not present. This consumes the residue."}
 MultiLanguageSpellData['en'][1218505] = {name = "Blastburn Roarcannon", additional_info = "Unlimited range\nInstant\n[q]Flarendo tracks a target while charging, then locks in place and prepares to fire. Once ready, it fires a beam over the next 3 sec. The beam inflicts 66606435 Fire damage every 0.1 sec to players on contact, obliterating them."}
 MultiLanguageSpellData['en'][1218513] = {name = "Giga Blast Residue", additional_info = "Unlimited range\nInstant\n[q]Charged ions remain after a Giga Blast for 21 sec. Upon contact charges a Discharged Giga Bomb, or inflicts 1677017 Nature damage and stuns for 8 sec when one is not present. This consumes the residue."}
 MultiLanguageSpellData['en'][1218516] = {name = "Oil Spill", additional_info = "100 yd range\nInstant\n[q]A pool of oil forms at the targets feet, causing players within to slide around."}
 MultiLanguageSpellData['en'][1218519] = {name = "Giga Charge", additional_info = nil}
+MultiLanguageSpellData['en'][1218521] = {name = "Eligible for the Daily Bonus", additional_info = nil}
 MultiLanguageSpellData['en'][1218527] = {name = "Slime Bolt", additional_info = "60 yd range\n{1.5 sec cast} {2 sec cooldown}\n[q]Reduces the movement speed of the target by 30% for 8 sec.\n Inflicts Nature damage to an enemy."}
 MultiLanguageSpellData['en'][1218533] = {name = "Slime Bolt", additional_info = "60 yd range\n1.5 sec cast\n[q]Reduces the movement speed of the target by 30% for 8 sec.\n Inflicts Nature damage to an enemy."}
+MultiLanguageSpellData['en'][1218536] = {name = "Score Stats, Bonus", additional_info = nil}
 MultiLanguageSpellData['en'][1218537] = {name = "Stacked Deck", additional_info = "Instant\n[q]After you gain Luck of the Draw! your next 10 Druid abilities cast another Druid ability at 125% effectiveness.\n(750ms cooldown)"}
+MultiLanguageSpellData['en'][1218540] = {name = "Bowl", additional_info = nil}
+MultiLanguageSpellData['en'][1218542] = {name = "Ineligible for Daily Mysterious Bonus", additional_info = nil}
 MultiLanguageSpellData['en'][1218546] = {name = "Biggest Baddest Bomb Barrage", additional_info = "Unlimited range\n3 sec cast\n[q]Gallywix shells multiple players inflicting 70 Fire damage to players within 17 yards of each target, applying Blast Burns . These munitions (mostly) detonate on impact.\n\n However, some of the fuze within the bunch scatters about the arena."}
 MultiLanguageSpellData['en'][1218550] = {name = "Biggest Baddest Bomb Barrage", additional_info = "Unlimited range\nInstant\n[q]Gallywix shells multiple players inflicting 70 Fire damage to players within 17 yards of each target, applying Blast Burns . These munitions (mostly) detonate on impact.\n\n However, some of the fuze within the bunch scatters about the arena."}
 MultiLanguageSpellData['en'][1218553] = {name = "Luck of the Draw!", additional_info = "Instant\n[q]Each time you take damage you have a chance to activate Luck of the Draw! causing you to cast Survival Instincts for 4.0 sec. Your damage done is increased by 15% for 8 sec after Luck of the Draw! activates."}
 MultiLanguageSpellData['en'][1218554] = {name = "Biggest Baddest Bomb Barrage", additional_info = "Unlimited range\nInstant\n[q]Gallywix shells multiple players inflicting 70 Fire damage to players within 17 yards of each target, applying Blast Burns . These munitions (mostly) detonate on impact.\n\n However, some of the fuze within the bunch scatters about the arena."}
 MultiLanguageSpellData['en'][1218556] = {name = "Biggest Baddest Bomb Barrage", additional_info = "Unlimited range\nInstant\n[q]Gallywix shells multiple players inflicting 70 Fire damage to players within 17 yards of each target, applying Blast Burns . These munitions (mostly) detonate on impact.\n\n However, some of the fuze within the bunch scatters about the arena."}
 MultiLanguageSpellData['en'][1218558] = {name = "Bomb Voyage", additional_info = nil}
+MultiLanguageSpellData['en'][1218559] = {name = "Food Bowl", additional_info = "Instant\nReagents:\nChopped Mycobloom"}
+MultiLanguageSpellData['en'][1218561] = {name = "Sureki Ballista Impact", additional_info = nil}
 MultiLanguageSpellData['en'][1218567] = {name = "Undermine Clam", additional_info = "Instant\n[q]Open the clam!"}
+MultiLanguageSpellData['en'][1218571] = {name = "Food Bowl", additional_info = "Instant\nReagents:\nFresh Fillet"}
+MultiLanguageSpellData['en'][1218572] = {name = "Food Bowl", additional_info = "Instant\nReagents:\nPortioned Steak"}
+MultiLanguageSpellData['en'][1218580] = {name = "Food Bowl", additional_info = "Instant\nReagents:\nSpiced Meat Stock"}
 MultiLanguageSpellData['en'][1218598] = {name = "Leaping Spark", additional_info = "Unlimited range\nInstant\n[q]Geezle consumes 40 Electricity to galvanize several Leaping Sparks that fixate players.\n\n Upon contact, the spark inflicts 5895145 Nature damage and stuns for 8 sec."}
 MultiLanguageSpellData['en'][1218600] = {name = "Prototype Powercoil", additional_info = nil}
 MultiLanguageSpellData['en'][1218601] = {name = "Luck of the Draw!", additional_info = "Instant\n[q]Each time you take damage you have a chance to cast Icebound Fortitude for 4 sec and gain Luck of the Draw! which increases your damage dealt by 15% for 10 sec."}
 MultiLanguageSpellData['en'][1218603] = {name = "Death's Cold Embrace", additional_info = "[q]Pillar of Frost grants you Remorseless Winter and increases its damage by 400% and its radius by 150%, but your movement speed is heavily reduced for its duration.\n\n Pillar of Frost's cooldown is increased by 15 sec."}
 MultiLanguageSpellData['en'][1218606] = {name = "Goblin Glider", additional_info = nil}
+MultiLanguageSpellData['en'][1218611] = {name = "Food Bowl", additional_info = "Instant\nReagents:\nRoasted Mycobloom"}
 MultiLanguageSpellData['en'][1218612] = {name = "Jackpot!", additional_info = "Instant\n[q]When you summon or extend your [ Storm Elemental : Storm / Fire] Elemental, your Lightning Bolt, Chain Lightning, [ Tempest : Tempest ]and Lava Burst deal 30% increased damage for 8 sec."}
 MultiLanguageSpellData['en'][1218613] = {name = "Voltaic Image", additional_info = nil}
 MultiLanguageSpellData['en'][1218616] = {name = "Winning Streak!", additional_info = "Instant\n[q]Your spells and abilities have a chance to activate a Winning Streak! increasing the damage of your Stormstrike, Lava Lash and Doom Winds by 5%, up to 25%. Maelstrom Weapon spenders have a 1.0% chance to remove Winning Streak! per Maelstrom Weapon spent."}
+MultiLanguageSpellData['en'][1218628] = {name = "Food Bowl", additional_info = "Instant\nReagents:\nSimple Stew"}
+MultiLanguageSpellData['en'][1218629] = {name = "Food Bowl", additional_info = "Instant\nReagents:\nSkewered Fillet"}
+MultiLanguageSpellData['en'][1218630] = {name = "Food Bowl", additional_info = "Instant\nReagents:\nUnseasoned Field Steak"}
 MultiLanguageSpellData['en'][1218631] = {name = "Mayhem Rockets", additional_info = "Unlimited range\nInstant\n[q]Ejected but not emasculated Gallywix locks in raining missiles from above for 1 sec inflicting 150 Fire damage to players within 8 yards of each impact."}
+MultiLanguageSpellData['en'][1218634] = {name = "Food Bowl", additional_info = nil}
 MultiLanguageSpellData['en'][1218635] = {name = "Ensnaring Shot", additional_info = "30 yd range\n{3 sec cast} {13 sec cooldown}\n[q]Reduces the movement speed of the target by 30% for 12 sec.\n Inflicts Physical damage to an enemy."}
 MultiLanguageSpellData['en'][1218636] = {name = "Backtrace the Signal", additional_info = nil}
+MultiLanguageSpellData['en'][1218637] = {name = "Food Bowl", additional_info = nil}
+MultiLanguageSpellData['en'][1218638] = {name = "Discard", additional_info = nil}
 MultiLanguageSpellData['en'][1218692] = {name = "Bloodstones", additional_info = "[q]Your Healthstones are replaced with Bloodstones which increase their user's haste by 20% for 12 sec instead of healing."}
 MultiLanguageSpellData['en'][1218694] = {name = "Resonant Echoes", additional_info = "0.25 sec cast\n[q]An echoing wave of sound overwhelms players in its path inflicting 670807 Sonic damage every 0.5 sec for 6 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1218696] = {name = "Mayhem Rockets", additional_info = "Unlimited range\n5 sec cast\n[q]Ejected but not emasculated Gallywix locks in raining missiles from above for 1 sec inflicting 150 Fire damage to players within 8 yards of each impact."}
@@ -7875,6 +8069,8 @@ MultiLanguageSpellData['en'][1219012] = {name = "Luck of the Draw!", additional_
 MultiLanguageSpellData['en'][1219017] = {name = "G-99 Breakneck Passenger", additional_info = nil}
 MultiLanguageSpellData['en'][1219018] = {name = "Goblomagnetic Bouncing Grenade", additional_info = "100 yd range\nInstant\n[q]Brann has a chance during combat to toss a GMB grenade at an enemy target dealing moderate Nature damage with a 20% chance to stun for 1.5 sec. This has a 25% chance to bounce to a new target.\n\n The grenade can safely bounce on party members."}
 MultiLanguageSpellData['en'][1219022] = {name = "Lingering Voltage", additional_info = nil}
+MultiLanguageSpellData['en'][1219026] = {name = "Destroying", additional_info = nil}
+MultiLanguageSpellData['en'][1219030] = {name = "Open Mysterious Satchel", additional_info = "3 sec cast\nReagents:\nWeathered Mysterious Satchel\n[q]Unpack the mysterious satchel and see what you got!"}
 MultiLanguageSpellData['en'][1219034] = {name = "Jackpot!", additional_info = "Instant\n[q]Your spells and abilities have a chance to hit a Jackpot! that increases your haste by 12% for 12 sec. Casting Summon Darkglare always hits a Jackpot!"}
 MultiLanguageSpellData['en'][1219035] = {name = "Rollin' Hot", additional_info = "100 yd range\nInstant\n[q]When you hit a Jackpot! your damage is increased by 15% for 7 sec. If you would gain Jackpot! from Combustion the duration is increased by 100%."}
 MultiLanguageSpellData['en'][1219036] = {name = "Warlock Affliction 11.1 Class Set 4pc", additional_info = "Instant\n[q]Hitting a Jackpot! also increases the damage of Unstable Affliction by 50% and causes Unstable Affliction to spread to up to 3 targets within 40 yds for 12 sec."}
@@ -7891,20 +8087,20 @@ MultiLanguageSpellData['en'][1219076] = {name = "Colossal Clash", additional_inf
 MultiLanguageSpellData['en'][1219077] = {name = "C.H.E.T.T. List", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1219079] = {name = "C.H.E.T.T. List", additional_info = "{Instant} {5 sec cooldown}\nReagents:\nCompleted C.H.E.T.T. List"}
 MultiLanguageSpellData['en'][1219081] = {name = "Prototype Powercoil", additional_info = nil}
-MultiLanguageSpellData['en'][1219086] = {name = "Venting Flames", additional_info = "{6 sec cast} {10 sec cooldown}\n[q]The caster vents massive jets of flame from their core, inflicting 20 Fire damage to all players every 1 sec for 5 sec."}
-MultiLanguageSpellData['en'][1219087] = {name = "Venting Flames", additional_info = "300 yd range\nInstant\n[q]The caster vents massive jets of flame from their core, inflicting 20 Fire damage to all players every 1 sec for 5 sec."}
+MultiLanguageSpellData['en'][1219086] = {name = "Venting Flames", additional_info = "{6 sec cast} {10 sec cooldown}\n[q]The caster vents massive jets of flame from their core, inflicting 1677017 Fire damage to all players every 1 sec for 5 sec."}
+MultiLanguageSpellData['en'][1219087] = {name = "Venting Flames", additional_info = "300 yd range\nInstant\n[q]The caster vents massive jets of flame from their core, inflicting 1677017 Fire damage to all players every 1 sec for 5 sec."}
 MultiLanguageSpellData['en'][1219088] = {name = "Searing Bite", additional_info = "100 yd range\nInstant\n[q]A fiery bite inflicts 75 Fire damage and an additional 4 Fire damage every 1 sec for 10 sec. This effect stacks.\n\n The burning wound explodes when removed, inflicting 20 Fire damage to all players."}
-MultiLanguageSpellData['en'][1219089] = {name = "Searing Bite", additional_info = "12 yd range\nInstant\n[q]A fiery bite inflicts 75 Fire damage and an additional 4 Fire damage every 1 sec for 10 sec. This effect stacks.\n\n The burning wound explodes when removed, inflicting 20 Fire damage to all players."}
+MultiLanguageSpellData['en'][1219089] = {name = "Searing Bite", additional_info = "12 yd range\nInstant\n[q]A fiery bite inflicts 6288815 Fire damage and an additional 335403 Fire damage every 1 sec for 10 sec. This effect stacks.\n\n The burning wound explodes when removed, inflicting 1677017 Fire damage to all players."}
 MultiLanguageSpellData['en'][1219094] = {name = "Throw Dumpster", additional_info = nil}
-MultiLanguageSpellData['en'][1219096] = {name = "Throw Dumpster", additional_info = "Unlimited range\n{3 sec cast} {1.5 sec cooldown}\n[q]Blazedump tosses a dumpster, inflicting 70 Physical damage to players within 8 yards of the impact.\n\n The dumpster's impact ejects discarded trash, inflicting 30 Nature damage to players within 3 yards of the impact."}
-MultiLanguageSpellData['en'][1219097] = {name = "Throw Dumpster", additional_info = "Unlimited range\nInstant\n[q]Blazedump tosses a dumpster, inflicting 70 Physical damage to players within 8 yards of the impact.\n\n The dumpster's impact ejects discarded trash, inflicting 30 Nature damage to players within 3 yards of the impact."}
+MultiLanguageSpellData['en'][1219096] = {name = "Throw Dumpster", additional_info = "Unlimited range\n{3 sec cast} {1.5 sec cooldown}\n[q]Blazedump tosses a dumpster, inflicting 5869561 Physical damage to players within 8 yards of the impact.\n\n The dumpster's impact ejects discarded trash, inflicting 2515526 Nature damage to players within 3 yards of the impact."}
+MultiLanguageSpellData['en'][1219097] = {name = "Throw Dumpster", additional_info = "Unlimited range\nInstant\n[q]Blazedump tosses a dumpster, inflicting 5869561 Physical damage to players within 8 yards of the impact.\n\n The dumpster's impact ejects discarded trash, inflicting 2515526 Nature damage to players within 3 yards of the impact."}
 MultiLanguageSpellData['en'][1219100] = {name = "Giga Coils", additional_info = nil}
 MultiLanguageSpellData['en'][1219102] = {name = "Mudborne", additional_info = "{Instant} {2 min cooldown}\n[q]Become Mudborne, absorbing 33535 damage and pulsing ( 331 * 10 / 2) Nature damage split between nearby enemies over 10 sec.\n\n Periodic damage you take coalesces into pungent mud to feed the ritual, reducing this cooldown by [( 20 / 10)][( 20 / 10)] sec."}
 MultiLanguageSpellData['en'][1219103] = {name = "Gigazap's Zap-Cap", additional_info = "[q]Every 6 sec, Zap your target and 1 nearby enemy for ( 78 * 1 ) Nature damage.\n\n Casting 30 spells Turbo-Charges you for 15 sec, doubling the frequency of your Zaps and upgrading them into Giga-Zaps, dealing ( 78 * 3 * 1 ) Nature Damage instead.\n(750ms cooldown)"}
 MultiLanguageSpellData['en'][1219104] = {name = "Darkfuse Medichopper", additional_info = "45 yd range\nInstant\n[q]Command the Medichopper to attach to your target, absorbing 420 damage and granting them 48 versatility for 15 sec.\n\n While attached, your healing spells have a chance to refuel the chopper, granting these bonuses to their host again."}
 MultiLanguageSpellData['en'][1219113] = {name = "Gallywix", additional_info = nil}
 MultiLanguageSpellData['en'][1219116] = {name = "Throw Dumpster", additional_info = nil}
-MultiLanguageSpellData['en'][1219117] = {name = "Throw Dumpster", additional_info = "Unlimited range\nInstant\n[q]Blazedump tosses a dumpster, inflicting 70 Physical damage to players within 8 yards of the impact.\n\n The dumpster's impact ejects discarded trash, inflicting 30 Nature damage to players within 3 yards of the impact."}
+MultiLanguageSpellData['en'][1219117] = {name = "Throw Dumpster", additional_info = "Unlimited range\nInstant\n[q]Blazedump tosses a dumpster, inflicting 5869561 Physical damage to players within 8 yards of the impact.\n\n The dumpster's impact ejects discarded trash, inflicting 2515526 Nature damage to players within 3 yards of the impact."}
 MultiLanguageSpellData['en'][1219118] = {name = "Sweeping", additional_info = nil}
 MultiLanguageSpellData['en'][1219120] = {name = "Advert", additional_info = nil}
 MultiLanguageSpellData['en'][1219122] = {name = "Preemptive Maneuver", additional_info = "[q]Outlaw ( Outlaw Rogue )\n Feint decreases your damage taken by an additional 15% while stunned and its energy cost is reduced by 10%.\n\n Assassination, Subtlety\n Feint decreases your damage taken by an additional 40% while stunned and its energy cost is reduced by 30%."}
@@ -7940,10 +8136,11 @@ MultiLanguageSpellData['en'][1219165] = {name = "Sharpen Blade", additional_info
 MultiLanguageSpellData['en'][1219172] = {name = "Jetpack Flames", additional_info = nil}
 MultiLanguageSpellData['en'][1219177] = {name = "<DNT> area trigger summon maintain", additional_info = nil}
 MultiLanguageSpellData['en'][1219190] = {name = "Sonic Burst", additional_info = "Instant\n[q]Throws a grenade at a random player, inflicting 95 Physical damage and disorienting players within 4 yards."}
-MultiLanguageSpellData['en'][1219192] = {name = "Sonic Burst", additional_info = "50 yd range\n2 sec cast\n[q]Throws a grenade at a random player, inflicting 95 Physical damage and disorienting players within 4 yards."}
-MultiLanguageSpellData['en'][1219199] = {name = "Sonic Burst", additional_info = "50 yd range\nInstant\n[q]Throws a grenade at a random player, inflicting 95 Physical damage and disorienting players within 4 yards."}
-MultiLanguageSpellData['en'][1219201] = {name = "Berserker Roar", additional_info = "[q]Replaces Berserker Shout\n{Instant} {1 min cooldown}\n[q]Go berserk, removing and granting immunity to Fear, Sap, and Incapacitate effects for 6 sec.\n\n Also reduces the duration of the next crowd control effect within 10 sec by 50% on group members within 40 yds."}
+MultiLanguageSpellData['en'][1219192] = {name = "Sonic Burst", additional_info = "50 yd range\n2 sec cast\n[q]Throws a grenade at a random player, inflicting 7965833 Physical damage and disorienting players within 4 yards."}
+MultiLanguageSpellData['en'][1219199] = {name = "Sonic Burst", additional_info = "50 yd range\nInstant\n[q]Throws a grenade at a random player, inflicting 7965833 Physical damage and disorienting players within 4 yards."}
+MultiLanguageSpellData['en'][1219201] = {name = "Berserker Roar", additional_info = "{Instant} {1 min cooldown}\n[q]Go berserk, removing and granting immunity to Fear, Sap, and Incapacitate effects for 6 sec.\n\n Also reduces the duration of the next crowd control effect within 10 sec by 50% on group members within 40 yds."}
 MultiLanguageSpellData['en'][1219209] = {name = "Berserker Roar", additional_info = "Instant\n[q]Go berserk, removing and granting immunity to Fear, Sap, and Incapacitate effects for 6 sec.\n\n Also reduces the duration of the next crowd control effect within 10 sec by 50% on group members within 40 yds."}
+MultiLanguageSpellData['en'][1219211] = {name = "Unlocking", additional_info = nil}
 MultiLanguageSpellData['en'][1219220] = {name = "Venture Acts Up Timeline Scene", additional_info = nil}
 MultiLanguageSpellData['en'][1219236] = {name = "Rockfall", additional_info = "[q]Upheaval reaches maximum empower level 20% faster and has a 60% chance to grant Essence Burst."}
 MultiLanguageSpellData['en'][1219240] = {name = "Carrying Sign", additional_info = "Instant\n[q]Carry a sign. It's heavy."}
@@ -7960,6 +8157,7 @@ MultiLanguageSpellData['en'][1219257] = {name = "Upheaval", additional_info = "1
 MultiLanguageSpellData['en'][1219258] = {name = "Task Complete!", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1219262] = {name = "Task Complete!", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1219264] = {name = "Cashout!", additional_info = "Instant\n[q]When you would lose Winning Streak! , you have a chance to instead gain maximum stacks of Winning Streak! for 4s. These cannot be removed and have 50% additional effect while immune to removal."}
+MultiLanguageSpellData['en'][1219265] = {name = "Scourge of the Aspects", additional_info = "Instant\n[q]Right Click to summon or dismiss this companion."}
 MultiLanguageSpellData['en'][1219268] = {name = "Soundwave Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1219271] = {name = "Destroy Amp", additional_info = "300 yd range\n2 sec cast\n[q]Sabotaging the amplifier!"}
 MultiLanguageSpellData['en'][1219272] = {name = "Amp Destroyed", additional_info = nil}
@@ -7991,6 +8189,7 @@ MultiLanguageSpellData['en'][1219318] = {name = "Radiant Electricity", additiona
 MultiLanguageSpellData['en'][1219319] = {name = "Radiant Electricity", additional_info = "Unlimited range\nInstant\n[q]Energy surges around Gallywix inflicting 3354035 Nature damage every 0.5 sec and stunning those caught by the beam of raw lightning."}
 MultiLanguageSpellData['en'][1219322] = {name = "Radiant Electricity", additional_info = "Unlimited range\nInstant\n[q]Energy surges around Gallywix inflicting 3354035 Nature damage every 0.5 sec and stunning those caught by the beam of raw lightning."}
 MultiLanguageSpellData['en'][1219323] = {name = "Fate Reversal", additional_info = "Instant\n[q]When you cast [ Surging Totem / Healing Rain], [ Surging Totem : 2 / 1] ally in the radius [ Surging Totem : have / has] Insurance! applied to them. When Insurance! is consumed, your next Chain Heal, Healing Surge, or Healing Wave is increased by [ Surging Totem : 10 / 10]%."}
+MultiLanguageSpellData['en'][1219326] = {name = "Dummy", additional_info = nil}
 MultiLanguageSpellData['en'][1219331] = {name = "Gallybux Finale Blast", additional_info = "Unlimited range\nInstant\n[q]Gallywix finishes this Suppression with pizzaz firing a massive shock at a targeted location inflicting 25200037 Nature damage to all players, decreasing in damage as distance increases."}
 MultiLanguageSpellData['en'][1219333] = {name = "Gallybux Finale Blast", additional_info = "Unlimited range\n1.5 sec cast\n[q]Gallywix finishes this Suppression with pizzaz firing a massive shock at a targeted location inflicting 25200037 Nature damage to all players, decreasing in damage as distance increases."}
 MultiLanguageSpellData['en'][1219339] = {name = "Commercialist Disguise", additional_info = "Instant\n[q]Dress in the clothes of a Commercialist of Dirigible Delivery, Inc."}
@@ -8011,11 +8210,11 @@ MultiLanguageSpellData['en'][1219400] = {name = "Cement Shoes", additional_info 
 MultiLanguageSpellData['en'][1219401] = {name = "Snitch Disposal Unit", additional_info = nil}
 MultiLanguageSpellData['en'][1219402] = {name = "Fish Stix", additional_info = nil}
 MultiLanguageSpellData['en'][1219406] = {name = "Brutal Club", additional_info = nil}
-MultiLanguageSpellData['en'][1219407] = {name = "Brutal Club", additional_info = "Unlimited range\n4 sec cast\n[q]The caster slams their club into the ground, erupting shockwaves that inflict 50 Nature damage to players and knock them upwards."}
+MultiLanguageSpellData['en'][1219407] = {name = "Brutal Club", additional_info = "Unlimited range\n4 sec cast\n[q]The caster slams their club into the ground, erupting shockwaves that inflict 4192543 Nature damage to players and knock them upwards."}
 MultiLanguageSpellData['en'][1219410] = {name = "K.U.-J.O.'s Flame Vents", additional_info = nil}
 MultiLanguageSpellData['en'][1219411] = {name = "Superheated", additional_info = "40 yd range\nInstant\n[q]Channel to vent flames for 2 sec, dealing ( 1973 * 3) Fire damage split between all nearby enemies.\n\n Mechanical enemies become Superheated, taking 281 additional Fire damage when struck by your next harmful ability.\n(2s cooldown)"}
 MultiLanguageSpellData['en'][1219412] = {name = "Superheated", additional_info = "100 yd range\nInstant\n[q]Channel to vent flames for 2 sec, dealing ( 1973 * 3) Fire damage split between all nearby enemies.\n\n Mechanical enemies become Superheated, taking 281 additional Fire damage when struck by your next harmful ability."}
-MultiLanguageSpellData['en'][1219418] = {name = "Brutal Club", additional_info = "Unlimited range\nInstant\n[q]The caster slams their club into the ground, erupting shockwaves that inflict 50 Nature damage to players and knock them upwards."}
+MultiLanguageSpellData['en'][1219418] = {name = "Brutal Club", additional_info = "Unlimited range\nInstant\n[q]The caster slams their club into the ground, erupting shockwaves that inflict 4192543 Nature damage to players and knock them upwards."}
 MultiLanguageSpellData['en'][1219419] = {name = "Brutal Club", additional_info = nil}
 MultiLanguageSpellData['en'][1219422] = {name = "Fate Weaver", additional_info = "5 sec cast\n[q]Perform a weaving ritual, spinning the webs of fate and fashioning them into a Fateweaved Weapon."}
 MultiLanguageSpellData['en'][1219424] = {name = "Teleport", additional_info = "300 yd range\nInstant\n[q]The caster teleports."}
@@ -8023,18 +8222,19 @@ MultiLanguageSpellData['en'][1219427] = {name = "Teleport", additional_info = "3
 MultiLanguageSpellData['en'][1219430] = {name = "Low-Entropy Alloys", additional_info = "Unlimited range\nInstant\n[q]Gallywix's machines radiate heat faster increasing the frequency of Venting Heat periodic ticks. This effect stacks."}
 MultiLanguageSpellData['en'][1219432] = {name = "Teleport", additional_info = "300 yd range\nInstant\n[q]The caster teleports."}
 MultiLanguageSpellData['en'][1219434] = {name = "Teleport", additional_info = "300 yd range\nInstant\n[q]The caster teleports."}
-MultiLanguageSpellData['en'][1219438] = {name = "Fire Starters", additional_info = "1 sec cast\n[q]The caster jettisons homing missiles which inflict 15 Fire damage to players.\n\n The impact creates an area of flame which inflicts 10 Fire damage every 1.5 sec to players standing within."}
+MultiLanguageSpellData['en'][1219438] = {name = "Fire Starters", additional_info = "1 sec cast\n[q]The caster jettisons homing missiles which inflict 1257763 Fire damage to players.\n\n The impact creates an area of flame which inflicts 838509 Fire damage every 1.5 sec to players standing within."}
 MultiLanguageSpellData['en'][1219440] = {name = "Maelstrom Weapon", additional_info = "Instant\n[q]When you deal damage with a melee weapon, you have a chance to gain Maelstrom Weapon, stacking up to 5 times. Each stack of Maelstrom Weapon reduces the cast time of your next damage or healing spell by 20%[ Improved Maelstrom Weapon : and increase its damage by 0% or its healing by 0% ].\n\n A maximum of 5 stacks of Maelstrom Weapon can be consumed at a time."}
 MultiLanguageSpellData['en'][1219442] = {name = "Fire Starters", additional_info = nil}
 MultiLanguageSpellData['en'][1219443] = {name = "Steal Armor", additional_info = "Instant\n[q]The thief steals your armor and temporarily equips it themselves, reducing their damage taken by 20% for 10 sec."}
 MultiLanguageSpellData['en'][1219445] = {name = "Fire Starters", additional_info = nil}
-MultiLanguageSpellData['en'][1219446] = {name = "Fire Starters", additional_info = "Unlimited range\nInstant\n[q]The caster jettisons homing missiles which inflict 15 Fire damage to players.\n\n The impact creates an area of flame which inflicts 10 Fire damage every 1.5 sec to players standing within."}
+MultiLanguageSpellData['en'][1219446] = {name = "Fire Starters", additional_info = "Unlimited range\nInstant\n[q]The caster jettisons homing missiles which inflict 1257763 Fire damage to players.\n\n The impact creates an area of flame which inflicts 838509 Fire damage every 1.5 sec to players standing within."}
 MultiLanguageSpellData['en'][1219447] = {name = "Fire Starters", additional_info = nil}
-MultiLanguageSpellData['en'][1219448] = {name = "Fire Starters", additional_info = "Unlimited range\nInstant\n[q]The caster jettisons homing missiles which inflict 15 Fire damage to players.\n\n The impact creates an area of flame which inflicts 10 Fire damage every 1.5 sec to players standing within."}
+MultiLanguageSpellData['en'][1219448] = {name = "Fire Starters", additional_info = "Unlimited range\nInstant\n[q]The caster jettisons homing missiles which inflict 1257763 Fire damage to players.\n\n The impact creates an area of flame which inflicts 838509 Fire damage every 1.5 sec to players standing within."}
 MultiLanguageSpellData['en'][1219452] = {name = "Get Outta Here!", additional_info = "40 yd range\nInstant\n[q]Knocks the target back."}
 MultiLanguageSpellData['en'][1219458] = {name = "Chef's Special", additional_info = "8 yd range\n{1.5 sec cast} {3 sec cooldown}\n[q]Inflicts Physical damage to an enemy.\n Inflicts Physical damage to an enemy every 1.5 sec for 6 sec."}
 MultiLanguageSpellData['en'][1219461] = {name = "Thorim's Invocation", additional_info = "Instant\n[q]When you deal damage with a melee weapon, you have a chance to gain Maelstrom Weapon, stacking up to 5 times. Each stack of Maelstrom Weapon reduces the cast time of your next damage or healing spell by 20%[ Improved Maelstrom Weapon : and increase its damage by 0% or its healing by 0% ].\n\n A maximum of 5 stacks of Maelstrom Weapon can be consumed at a time."}
 MultiLanguageSpellData['en'][1219463] = {name = "Cosmetic - Sleep Zzz (Breath)", additional_info = nil}
+MultiLanguageSpellData['en'][1219464] = {name = "Repeatable Event - Dastardly Duos - Zeppelin Sign", additional_info = nil}
 MultiLanguageSpellData['en'][1219467] = {name = "Restored Coffer Key", additional_info = "1 sec cast\nReagents:\nCoffer Key Shard (100)\n[q]Turn 100 Coffer Key Shards into a Restored Coffer Key to be used to obtain loot at the end of bountiful delves."}
 MultiLanguageSpellData['en'][1219470] = {name = "Flaming Wreckage", additional_info = nil}
 MultiLanguageSpellData['en'][1219477] = {name = "\"Knowledge\" Bomb", additional_info = "100 yd range\n2 sec cast\n[q]The caster hurls a canister of Black Blood, inflicting Shadow damage to its target."}
@@ -8048,16 +8248,17 @@ MultiLanguageSpellData['en'][1219502] = {name = "Cancel Tour Conversation", addi
 MultiLanguageSpellData['en'][1219504] = {name = "Static Discharge", additional_info = nil}
 MultiLanguageSpellData['en'][1219508] = {name = "Darkfuse Rider", additional_info = nil}
 MultiLanguageSpellData['en'][1219509] = {name = "Darkfuse Rider", additional_info = nil}
-MultiLanguageSpellData['en'][1219526] = {name = "Seek and Destroy", additional_info = "100 yd range\n1.5 sec cast\n[q]The caster fixates a player, exploding and inflicting 50 Fire damage to players within 6 yards upon reaching their target."}
+MultiLanguageSpellData['en'][1219526] = {name = "Seek and Destroy", additional_info = "100 yd range\n1.5 sec cast\n[q]The caster fixates a player, exploding and inflicting 4192543 Fire damage to players within 6 yards upon reaching their target."}
 MultiLanguageSpellData['en'][1219527] = {name = "Impressed", additional_info = "Instant\n[q]You've consistently cleaned up all the garbage!\n\n Even grumpy ol' Stix finds this impressive."}
-MultiLanguageSpellData['en'][1219528] = {name = "Seek and Destroy", additional_info = "Instant\n[q]The caster fixates a player, exploding and inflicting 50 Fire damage to players within 6 yards upon reaching their target."}
+MultiLanguageSpellData['en'][1219528] = {name = "Seek and Destroy", additional_info = "Instant\n[q]The caster fixates a player, exploding and inflicting 4192543 Fire damage to players within 6 yards upon reaching their target."}
 MultiLanguageSpellData['en'][1219529] = {name = "Assist Orweyna", additional_info = nil}
 MultiLanguageSpellData['en'][1219534] = {name = "Hammer & Chisel", additional_info = nil}
 MultiLanguageSpellData['en'][1219538] = {name = "Seek and Destroy", additional_info = nil}
 MultiLanguageSpellData['en'][1219545] = {name = "Alter Time", additional_info = "Instant\n[q]Alters the fabric of time, returning you to your current location and health when cast a second time, or after 10 seconds. Effect negated by long distance or death."}
 MultiLanguageSpellData['en'][1219546] = {name = "ReverseCast: Challenge", additional_info = nil}
 MultiLanguageSpellData['en'][1219555] = {name = "Static Charge", additional_info = nil}
-MultiLanguageSpellData['en'][1219588] = {name = "Bombshell", additional_info = "100 yd range\n1.5 sec cast\n[q]The caster fixates a player, exploding and inflicting 50 Fire damage to players within 6 yards upon reaching their target."}
+MultiLanguageSpellData['en'][1219556] = {name = "Repeatable Event - Dastardly Duos - Spotlight - Bunny", additional_info = nil}
+MultiLanguageSpellData['en'][1219588] = {name = "Bombshell", additional_info = "100 yd range\n1.5 sec cast\n[q]The caster fixates a player, exploding and inflicting 4192543 Fire damage to players within 6 yards upon reaching their target."}
 MultiLanguageSpellData['en'][1219589] = {name = "<DNT> Package", additional_info = nil}
 MultiLanguageSpellData['en'][1219595] = {name = "<DNT> Delay", additional_info = nil}
 MultiLanguageSpellData['en'][1219600] = {name = "Honk", additional_info = nil}
@@ -8073,19 +8274,24 @@ MultiLanguageSpellData['en'][1219620] = {name = "Activating", additional_info = 
 MultiLanguageSpellData['en'][1219621] = {name = "<DNT> Delay", additional_info = nil}
 MultiLanguageSpellData['en'][1219622] = {name = "<DNT> Delay", additional_info = nil}
 MultiLanguageSpellData['en'][1219624] = {name = "<DNT> Delay", additional_info = nil}
-MultiLanguageSpellData['en'][1219627] = {name = "Bombshell", additional_info = "Instant\n[q]The caster fixates a player, exploding and inflicting 50 Fire damage to players within 6 yards upon reaching their target."}
+MultiLanguageSpellData['en'][1219626] = {name = "Frumpy Softpaw", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1219627] = {name = "Bombshell", additional_info = "Instant\n[q]The caster fixates a player, exploding and inflicting 4192543 Fire damage to players within 6 yards upon reaching their target."}
 MultiLanguageSpellData['en'][1219628] = {name = "Bombshell", additional_info = nil}
 MultiLanguageSpellData['en'][1219630] = {name = "Mind Blast", additional_info = "50 yd range\n2 sec cast\n[q]Wreak havoc on an enemy's mind, inflicting Shadow damage and increasing all damage taken by 10% for 8 sec."}
 MultiLanguageSpellData['en'][1219632] = {name = "<DNT> Area Trigger Indicator", additional_info = nil}
 MultiLanguageSpellData['en'][1219637] = {name = "Triangulate the Signal", additional_info = "1.5 sec cast\n[q]Using the X-Plo-Dar 64k to triangulate the bomb's signal to its true source."}
 MultiLanguageSpellData['en'][1219638] = {name = "Triangulate the Signal", additional_info = nil}
 MultiLanguageSpellData['en'][1219639] = {name = "Mind Blast", additional_info = "50 yd range\n2 sec cast\n[q]Wreak havoc on an enemy's mind, inflicting Shadow damage and increasing all damage taken by 10% for 8 sec."}
+MultiLanguageSpellData['en'][1219640] = {name = "Web Bomb", additional_info = "Instant\n[q]Reduces the max health and attack power of all Mechanized Reinforcements caught within the impact radius."}
+MultiLanguageSpellData['en'][1219647] = {name = "Dummy", additional_info = nil}
 MultiLanguageSpellData['en'][1219648] = {name = "Backtrace the Signal", additional_info = nil}
+MultiLanguageSpellData['en'][1219650] = {name = "Dummy", additional_info = nil}
 MultiLanguageSpellData['en'][1219652] = {name = "<DNT> Area Trigger Indicator", additional_info = nil}
 MultiLanguageSpellData['en'][1219656] = {name = "\"Fireproof\" Punch", additional_info = "{Instant} {1 min cooldown}\n[q]See Flarendo up close with this potent fireproofing potion! Reduce Fire damage taken by 5% and increase Nature damage taken by 25%.\n\n Only usable while fighting in the Cauldron of Carnage."}
 MultiLanguageSpellData['en'][1219661] = {name = "Junkmaestro's Mega Magnet", additional_info = "Instant\n[q]Reverse the magnet's polarity to violently recycle buried garbage, dealing ( 234 * 1 ) Plague damage to your target per charge. Lingering virulence deals 10 % of the damage dealt to 5 nearby enemies over 6 sec."}
 MultiLanguageSpellData['en'][1219662] = {name = "Junkmaestro's Mega Magnet", additional_info = nil}
 MultiLanguageSpellData['en'][1219665] = {name = "\"Shockproof\" Soda", additional_info = "{Instant} {1 min cooldown}\n[q]Get close enough to touch Torq with this powerful shockproofing potion! Reduce Nature damage taken by 5% and increase Fire damage taken by 25%.\n\n Only usable while fighting in the Cauldron of Carnage."}
+MultiLanguageSpellData['en'][1219666] = {name = "Port to Camp", additional_info = "Unlimited range\nInstant\n[q]Make a giant leap."}
 MultiLanguageSpellData['en'][1219679] = {name = "Kaja'might", additional_info = "Instant\n[q]Energized by kaja'mite."}
 MultiLanguageSpellData['en'][1219680] = {name = "Energizing", additional_info = nil}
 MultiLanguageSpellData['en'][1219684] = {name = "Hubris", additional_info = "{Instant} {1 min cooldown}\n[q]Increase Fire and Nature damage taken by 25% until the fight is over.\n\n Additionally, every 30 seconds, you vomit slowing your movement by 60% decaying over 5 sec sec."}
@@ -8095,24 +8301,31 @@ MultiLanguageSpellData['en'][1219690] = {name = "Hubris", additional_info = "Ins
 MultiLanguageSpellData['en'][1219694] = {name = "<DNT> Start Task", additional_info = nil}
 MultiLanguageSpellData['en'][1219695] = {name = "<DNT> Delay", additional_info = nil}
 MultiLanguageSpellData['en'][1219698] = {name = "Chilled", additional_info = "Instant\n[q]Slowed from having eaten Chillburst Canisters."}
+MultiLanguageSpellData['en'][1219702] = {name = "Port to Camp (visual on porter)", additional_info = nil}
+MultiLanguageSpellData['en'][1219705] = {name = "Spotted Black Riding Goat", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable Spotted Black Riding Goat.\n[q]\"One time a farmhand walked by without petting this goat. That's all it took for the goat to make it personal.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1219714] = {name = "Repeatable Event - Dastardly Duos - Port to Camp (prompt)", additional_info = "Instant\n[q]Teleport UP to the Dastardly Duos camp?"}
 MultiLanguageSpellData['en'][1219716] = {name = "Hit and Run", additional_info = nil}
 MultiLanguageSpellData['en'][1219717] = {name = "Head-On Collision", additional_info = "300 yd range\nInstant\n[q]The mech reels from the collision and is stunned for 4 sec."}
 MultiLanguageSpellData['en'][1219721] = {name = "Shreddation", additional_info = nil}
 MultiLanguageSpellData['en'][1219723] = {name = "Azure Celerity", additional_info = "[q]Disintegrate ticks 1 additional time, but deals 10% less damage."}
 MultiLanguageSpellData['en'][1219724] = {name = "Turbo Bolt", additional_info = "Unlimited range\nInstant\n[q]Beams of ultra death lightning emit from Geezle, inflicting 5158251 Nature damage and stunning any players hit for 1 sec."}
 MultiLanguageSpellData['en'][1219727] = {name = "Poof", additional_info = nil}
+MultiLanguageSpellData['en'][1219737] = {name = "Visual", additional_info = nil}
 MultiLanguageSpellData['en'][1220290] = {name = "Trick Shots", additional_info = "Instant\n[q]Gallywix gains a stack of Trick Shots every 4 sec.\n\n Upon reaching 10 stacks or when changing primary target all shots release inflicting 3354035 Physical damage and an additional 587001 Fire damage every 1 sec for 9 sec, each. This effect stacks, and cannot be dodged."}
 MultiLanguageSpellData['en'][1220309] = {name = "Trick Shots", additional_info = "Instant\n[q]Gallywix gains a stack of Trick Shots every 4 sec.\n\n Upon reaching 10 stacks or when changing primary target all shots release inflicting 3354035 Physical damage and an additional 587001 Fire damage every 1 sec for 9 sec, each. This effect stacks, and cannot be dodged."}
 MultiLanguageSpellData['en'][1220353] = {name = "Trick Shots", additional_info = "Unlimited range\nInstant\n[q]Gallywix gains a stack of Trick Shots every 4 sec.\n\n Upon reaching 10 stacks or when changing primary target all shots release inflicting 3354035 Physical damage and an additional 587001 Fire damage every 1 sec for 9 sec, each. This effect stacks, and cannot be dodged."}
 MultiLanguageSpellData['en'][1220370] = {name = "Trick Shots", additional_info = "Instant\n[q]Gallywix gains a stack of Trick Shots every 4 sec.\n\n Upon reaching 10 stacks or when changing primary target all shots release inflicting 3354035 Physical damage and an additional 587001 Fire damage every 1 sec for 9 sec, each. This effect stacks, and cannot be dodged."}
+MultiLanguageSpellData['en'][1220372] = {name = "Corrupted Blood", additional_info = nil}
 MultiLanguageSpellData['en'][1220375] = {name = "Trick Shots", additional_info = "Unlimited range\nInstant\n[q]Gallywix gains a stack of Trick Shots every 4 sec.\n\n Upon reaching 10 stacks or when changing primary target all shots release inflicting 3354035 Physical damage and an additional 587001 Fire damage every 1 sec for 9 sec, each. This effect stacks, and cannot be dodged."}
 MultiLanguageSpellData['en'][1220396] = {name = "Screwed!", additional_info = "Unlimited range\nInstant\n[q]Touching a drill punctures players, stunning them and causing them to bleed for 0 Physical damage every 5.2 sec for up to 1 sec."}
 MultiLanguageSpellData['en'][1220398] = {name = "Double Whammy Shot", additional_info = "300 yd range\nInstant\n[q]Zee fires an explosive high caliber round towards a random player, inflicting 26832278 Physical damage to the closest player and applying Perforating Wound . All other targets take up to 26832278 Physical damage, reduced by the closest player's total damage mitigation.\n\nUnstable Crawler Mines hit are detonated and all players hit are stunned for 2 sec. In addition, an Explosive Payload is lodged in the original target."}
 MultiLanguageSpellData['en'][1220399] = {name = "Double Whammy Shot", additional_info = "300 yd range\nInstant\n[q]Zee fires an explosive high caliber round towards a random player, inflicting 26832278 Physical damage to the closest player and applying Perforating Wound . All other targets take up to 26832278 Physical damage, reduced by the closest player's total damage mitigation.\n\nUnstable Crawler Mines hit are detonated and all players hit are stunned for 2 sec. In addition, an Explosive Payload is lodged in the original target."}
+MultiLanguageSpellData['en'][1220409] = {name = "Monitor", additional_info = nil}
 MultiLanguageSpellData['en'][1220413] = {name = "Turbo-Charged", additional_info = "Instant\n[q]Every 6 sec, Zap your target and 1 nearby enemy for ( 78 * 1 ) Nature damage.\n\n Casting 30 spells Turbo-Charges you for 15 sec, doubling the frequency of your Zaps and upgrading them into Giga-Zaps, dealing ( 78 * 3 * 1 ) Nature Damage instead."}
 MultiLanguageSpellData['en'][1220415] = {name = "Turbo-Actuation", additional_info = "Instant\n[q]Every 6 sec, Zap your target and 1 nearby enemy for ( 78 * 1 ) Nature damage.\n\n Casting 30 spells Turbo-Charges you for 15 sec, doubling the frequency of your Zaps and upgrading them into Giga-Zaps, dealing ( 78 * 3 * 1 ) Nature Damage instead."}
 MultiLanguageSpellData['en'][1220419] = {name = "Zap", additional_info = "100 yd range\nInstant\n[q]Every 6 sec, Zap your target and 1 nearby enemy for ( 78 * 1 ) Nature damage.\n\n Casting 30 spells Turbo-Charges you for 15 sec, doubling the frequency of your Zaps and upgrading them into Giga-Zaps, dealing ( 78 * 3 * 1 ) Nature Damage instead."}
 MultiLanguageSpellData['en'][1220433] = {name = "Pow-Arr Wash", additional_info = nil}
+MultiLanguageSpellData['en'][1220444] = {name = "Repeatable Event - Dastardly Duos - Gravestone", additional_info = nil}
 MultiLanguageSpellData['en'][1220445] = {name = "Scatterbomb Canisters", additional_info = nil}
 MultiLanguageSpellData['en'][1220446] = {name = "Scatterbomb Canisters", additional_info = nil}
 MultiLanguageSpellData['en'][1220447] = {name = "Double Whammy Shot", additional_info = nil}
@@ -8139,22 +8352,44 @@ MultiLanguageSpellData['en'][1220588] = {name = "Installing", additional_info = 
 MultiLanguageSpellData['en'][1220590] = {name = "One Too Many", additional_info = nil}
 MultiLanguageSpellData['en'][1220591] = {name = "Installing", additional_info = "1.15 sec cast\n[q]Install this horn into your G99- Breakneck to add some pizzazz to your drive."}
 MultiLanguageSpellData['en'][1220592] = {name = "Darkfuse Medichopper", additional_info = nil}
+MultiLanguageSpellData['en'][1220598] = {name = "Dummy", additional_info = nil}
 MultiLanguageSpellData['en'][1220604] = {name = "Get Outta Here!", additional_info = "40 yd range\nInstant\n[q]Knocks the target back."}
 MultiLanguageSpellData['en'][1220605] = {name = "Darkfuse Medichopper", additional_info = nil}
+MultiLanguageSpellData['en'][1220612] = {name = "Dummy", additional_info = nil}
+MultiLanguageSpellData['en'][1220613] = {name = "Dummy", additional_info = nil}
+MultiLanguageSpellData['en'][1220615] = {name = "Bronze Power", additional_info = nil}
+MultiLanguageSpellData['en'][1220616] = {name = "Took Potion", additional_info = nil}
+MultiLanguageSpellData['en'][1220620] = {name = "Can of Amps", additional_info = "Unlimited range\nInstant\n[q]Increases speed by 65%"}
+MultiLanguageSpellData['en'][1220621] = {name = "Bottle of Invisibility", additional_info = "Unlimited range\nInstant\n[q]Turn invisible!\n(2s cooldown)"}
+MultiLanguageSpellData['en'][1220625] = {name = "Vial of Healing", additional_info = "Unlimited range\nInstant\n[q]Gain 5% Health every 6 seconds"}
 MultiLanguageSpellData['en'][1220626] = {name = "Colossal Clash", additional_info = nil}
 MultiLanguageSpellData['en'][1220627] = {name = "Colossal Clash", additional_info = nil}
 MultiLanguageSpellData['en'][1220628] = {name = "11.1 Raid - Undermine - Boss - Arena - Mechasaur - Sound Crusher", additional_info = nil}
+MultiLanguageSpellData['en'][1220629] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Potion - Goblet", additional_info = nil}
+MultiLanguageSpellData['en'][1220632] = {name = "Golden Ghost Visual", additional_info = nil}
 MultiLanguageSpellData['en'][1220641] = {name = "Darkfuse Medichopper", additional_info = nil}
 MultiLanguageSpellData['en'][1220643] = {name = "Resilient Keystones", additional_info = "Instant\n[q]Failing to clear a level 12 or above Keystone dungeon within the timer will no longer reduce the level of your Keystones below your lowest full Keystone level of in-time completion across all dungeons this season."}
 MultiLanguageSpellData['en'][1220648] = {name = "Marked For \"Recycling\"", additional_info = "300 yd range\nInstant\n[q]A Scrapmaster is about to Recycle you!"}
+MultiLanguageSpellData['en'][1220660] = {name = "Horrific Sand of Time", additional_info = nil}
+MultiLanguageSpellData['en'][1220661] = {name = "Horrific Sands of Time", additional_info = nil}
 MultiLanguageSpellData['en'][1220669] = {name = "Sabotaged Controls", additional_info = "Unlimited range\nInstant\n[q]Damaged Giga Controls spark profusely inflicting 1106832 Nature damage to targeted players every 6 sec. This effect stacks for each Sabotaged Control, and is definitely against regulation."}
 MultiLanguageSpellData['en'][1220677] = {name = "King of Carnage", additional_info = nil}
+MultiLanguageSpellData['en'][1220681] = {name = "Took Ordered Food", additional_info = nil}
+MultiLanguageSpellData['en'][1220682] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Ordered Food - 01", additional_info = nil}
+MultiLanguageSpellData['en'][1220688] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Ordered Food - 02", additional_info = nil}
+MultiLanguageSpellData['en'][1220689] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Ordered Food - 03", additional_info = nil}
+MultiLanguageSpellData['en'][1220690] = {name = "Horrific Sands of Time", additional_info = nil}
+MultiLanguageSpellData['en'][1220692] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Order Food - 01", additional_info = nil}
+MultiLanguageSpellData['en'][1220695] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Order Food - 02", additional_info = nil}
+MultiLanguageSpellData['en'][1220696] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Order Food - 03", additional_info = nil}
 MultiLanguageSpellData['en'][1220706] = {name = "Winning Streak!", additional_info = "Instant\n[q]Your spells and abilities have a chance to activate a Winning Streak! increasing the damage of your Blade Dance and Chaos Strike by 3% stacking up to 10 times. Blade Dance and Chaos Strike have a 15% chance to remove Winning Streak!\n(Proc chance: 15%)"}
+MultiLanguageSpellData['en'][1220716] = {name = "Leap", additional_info = nil}
 MultiLanguageSpellData['en'][1220720] = {name = "Explorers' League Rope", additional_info = "Instant\n[q]Back to the entrance?"}
 MultiLanguageSpellData['en'][1220722] = {name = "Explorers' League Rope", additional_info = "1.5 sec cast\n[q]Escape upward."}
 MultiLanguageSpellData['en'][1220726] = {name = "<DNT> Delay", additional_info = nil}
 MultiLanguageSpellData['en'][1220729] = {name = "Explosive Hearthstone", additional_info = "{10 sec cast} {30 min cooldown}\n1 Charge\n[q]Returns you to <Hearthstone Location>. Speak to an Innkeeper in a different place to change your home location."}
 MultiLanguageSpellData['en'][1220733] = {name = "King of Carnage", additional_info = "Channeled\n[q]The last beast standing becomes the King of Carnage, increasing their damage by 0% every 5.2 sec."}
+MultiLanguageSpellData['en'][1220736] = {name = "[q0]Mysterious Revivification", additional_info = "Instant\nReagents:\nPotion of Mysterious Revivification\n[q]On Looted: This increases your health regeneration by 3%.\n\n Lasts 30 min and persists through death.\n\nThis item is consumed immediately."}
 MultiLanguageSpellData['en'][1220739] = {name = "Overpowered Barrier", additional_info = "[q]Your barriers absorb 100% more damage and have an additional effect, but last 4 sec.[ Frost : Ice Barrier\n If the barrier is fully absorbed, enemies within 10 yds suffer (650% of Spell power) Frost damage and are slowed by 70% for 4 sec / Fire : Blazing Barrier\n Reflects 60% of damage absorbed /\n\nArcane\n Prismatic Barrier\n If the barrier is fully absorbed, your next Blink or Shimmer within 15 sec grants Invisibility and immunity to damage for 3 sec ]"}
 MultiLanguageSpellData['en'][1220752] = {name = "The Recycler", additional_info = "300 yd range\n14 sec cast\n[q]The Scrapmaster locks onto a player for 14 sec, then fires an incredibly destructive rocket that inflicts 33540348 Fire damage on impact."}
 MultiLanguageSpellData['en'][1220753] = {name = "Bear Equipped", additional_info = nil}
@@ -8163,8 +8398,9 @@ MultiLanguageSpellData['en'][1220757] = {name = "The Recycler", additional_info 
 MultiLanguageSpellData['en'][1220758] = {name = "Overpowered Barrier", additional_info = "Instant\n[q]Your barriers absorb 100% more damage and have an additional effect, but last 4 sec.\n\n Blazing Barrier\n If the barrier is fully absorbed, enemies within 10 yds suffer (650% of Spell power) Frost damage and are slowed by 70% for 4 sec."}
 MultiLanguageSpellData['en'][1220759] = {name = "Take-Home Torq", additional_info = "{Instant} {5 min cooldown}\n[q]Strike a pose and snap a picture with Torq!"}
 MultiLanguageSpellData['en'][1220760] = {name = "Take-Home Torq", additional_info = "Instant\n[q]Strike a pose and snap a picture with Torq!"}
-MultiLanguageSpellData['en'][1220761] = {name = "Mechengineer's Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix's experiment covers afflicted enemies absorbing 2859365 healing for 30 sec.\n\n Upon expiration or consuming this healing implodes the canister incurring Canister Detonation ."}
-MultiLanguageSpellData['en'][1220763] = {name = "Mastermind's Detonation", additional_info = "Unlimited range\nInstant\n[q]Explodes inflicting up to 400 Shadow damage to all players based on the remaining healing absorb in the Mechmastermind's Canister."}
+MultiLanguageSpellData['en'][1220761] = {name = "Mechengineer's Canisters", additional_info = "Unlimited range\nInstant\n[q]Gallywix's experiment covers afflicted enemies absorbing 2573428 healing for 30 sec.\n\n Upon expiration or consuming this healing implodes the canister incurring Canister Detonation ."}
+MultiLanguageSpellData['en'][1220763] = {name = "Mastermind's Detonation", additional_info = "Unlimited range\nInstant\n[q]Explodes inflicting up to 360 Shadow damage to all players based on the remaining healing absorb in the Mechmastermind's Canister."}
+MultiLanguageSpellData['en'][1220764] = {name = "Time Portal", additional_info = nil}
 MultiLanguageSpellData['en'][1220765] = {name = "Teleport", additional_info = "{Instant} {1 sec cooldown}\n[q]Return to where you started."}
 MultiLanguageSpellData['en'][1220767] = {name = "Take-Home Flarendo", additional_info = "Instant\n[q]Strike a pose and snap a picture with Flarendo!"}
 MultiLanguageSpellData['en'][1220768] = {name = "Take-Home Flarendo", additional_info = "{Instant} {5 min cooldown}\n[q]Strike a pose and snap a picture with Flarendo!"}
@@ -8175,6 +8411,7 @@ MultiLanguageSpellData['en'][1220784] = {name = "Auto-Locking Cuff Bomb", additi
 MultiLanguageSpellData['en'][1220785] = {name = "<DNT> Valid for Rewards", additional_info = nil}
 MultiLanguageSpellData['en'][1220786] = {name = "Socially Expected Tip Chest", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1220787] = {name = "Generous Tip Chest", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1220788] = {name = "Conflagration", additional_info = "100 yd range\nInstant\n[q]Periodically taking Fire damage."}
 MultiLanguageSpellData['en'][1220789] = {name = "Extravagant Tip Chest", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1220791] = {name = "Auto-Locking Cuff Bomb", additional_info = "Unlimited range\nInstant\n[q]0.5 sec after picking up a Giga Bomb the silver bracelets click, preventing Fling Giga Bomb and picking up additional Giga Bombs.\n\n If for any reason this aura removes the shackles detonate inflicting 12577630 Fire damage to all players."}
 MultiLanguageSpellData['en'][1220794] = {name = "<DNT> Delay Procedural", additional_info = nil}
@@ -8225,14 +8462,18 @@ MultiLanguageSpellData['en'][1220849] = {name = "Purpled", additional_info = nil
 MultiLanguageSpellData['en'][1220851] = {name = "Greened", additional_info = nil}
 MultiLanguageSpellData['en'][1220863] = {name = "RP Chat Bubble on Grimla VAU", additional_info = nil}
 MultiLanguageSpellData['en'][1220867] = {name = "Singed", additional_info = nil}
-MultiLanguageSpellData['en'][1220869] = {name = "Bonebreaker", additional_info = "8 yd range\n{1.5 sec cast} {3 sec cooldown}\n[q]The caster pummels the target, inflicting 15 Physical damage."}
+MultiLanguageSpellData['en'][1220869] = {name = "Bonebreaker", additional_info = "8 yd range\n{1.5 sec cast} {3 sec cooldown}\n[q]The caster pummels the target, inflicting 522800 Physical damage."}
 MultiLanguageSpellData['en'][1220870] = {name = "C.H.E.T.T.", additional_info = nil}
 MultiLanguageSpellData['en'][1220871] = {name = "Turbo-Charged", additional_info = "Unlimited range\nInstant\n[q]Beams of ultra death lightning emit from Geezle, inflicting 5158251 Nature damage and stunning any players hit for 1 sec."}
+MultiLanguageSpellData['en'][1220872] = {name = "[q0]Mysterious Conflagration", additional_info = "Instant\nApproximately 2.5 procs per minute\nReagents:\nPotion of Mysterious Conflagration\n[q]On Looted: Chance to ignite your target as you attack it.\n\n Lasts 20 min and persists through death.\n\nThis item is consumed immediately."}
 MultiLanguageSpellData['en'][1220876] = {name = "Equip Rifle", additional_info = nil}
 MultiLanguageSpellData['en'][1220877] = {name = "Splash", additional_info = "30 yd range\n3 sec cast\n[q]A complimentary splash of water for members of the Gallagio rewards program."}
 MultiLanguageSpellData['en'][1220881] = {name = "Splash", additional_info = nil}
 MultiLanguageSpellData['en'][1220892] = {name = "Permanent Feign Death", additional_info = nil}
 MultiLanguageSpellData['en'][1220894] = {name = "Reinforced Plating", additional_info = "Instant\n[q]Reinforced plating reduces the damage the Primed Boomcrawler receives by 99%."}
+MultiLanguageSpellData['en'][1220895] = {name = "[q0]Mysterious Systemshock", additional_info = "Instant\nApproximately 2.5 procs per minute\nReagents:\nPotion of Mysterious Systemshock\n[q]On Looted: Chance to shock your target as you attack it. Shocked creatures will suffer a periodic stun.\n\n Lasts 20 min and persists through death.\n\nThis item is consumed immediately."}
+MultiLanguageSpellData['en'][1220896] = {name = "Systemshock", additional_info = "100 yd range\nInstant\n[q]Periodically stunned."}
+MultiLanguageSpellData['en'][1220897] = {name = "Stunned", additional_info = "Unlimited range\nInstant\n[q]Stunned."}
 MultiLanguageSpellData['en'][1220967] = {name = "Mr. DELVER Pilot", additional_info = nil}
 MultiLanguageSpellData['en'][1220968] = {name = "Summon Clone", additional_info = nil}
 MultiLanguageSpellData['en'][1220969] = {name = "Mr. DELVER Pilot", additional_info = nil}
@@ -8242,12 +8483,17 @@ MultiLanguageSpellData['en'][1220985] = {name = "High Voltage", additional_info 
 MultiLanguageSpellData['en'][1220988] = {name = "Juiced!", additional_info = nil}
 MultiLanguageSpellData['en'][1220989] = {name = "Gallagio Highroller's Boomstone", additional_info = "2.5 sec cast\n[q]Infuse your armor with a faint echo of the power of a Gallagio highroller, unlocking additional visual effects for certain Liberation of Undermine class set appearances.\n\n This effect is Warband-wide."}
 MultiLanguageSpellData['en'][1220991] = {name = "Tiny Tussle", additional_info = nil}
+MultiLanguageSpellData['en'][1220992] = {name = "[q0]Mysterious Frostbound", additional_info = "Instant\nApproximately 2.5 procs per minute\nReagents:\nPotion of Mysterious Frostbound\n[q]On Looted: Chance to slow your target's movement speed as you attack it.\n\n Lasts 20 min and persists through death.\n\nThis item is consumed immediately."}
+MultiLanguageSpellData['en'][1220993] = {name = "Frostbound", additional_info = "100 yd range\nInstant\n[q]Movement speed reduced by 25%."}
 MultiLanguageSpellData['en'][1220997] = {name = "Tiny Tussle", additional_info = nil}
 MultiLanguageSpellData['en'][1220999] = {name = "Tiny Tussle", additional_info = nil}
 MultiLanguageSpellData['en'][1221000] = {name = "Tiny Tussle", additional_info = nil}
 MultiLanguageSpellData['en'][1221001] = {name = "Posi-Polarization", additional_info = nil}
 MultiLanguageSpellData['en'][1221002] = {name = "Nega-Polarization", additional_info = nil}
 MultiLanguageSpellData['en'][1221006] = {name = "Tiny Tussle", additional_info = nil}
+MultiLanguageSpellData['en'][1221007] = {name = "[q0]Mysterious Tremorshards", additional_info = "Instant\nApproximately 2.5 procs per minute\nReagents:\nPotion of Mysterious Tremorshards\n[q]On Looted: Chance to apply movement-triggered area-damage to your target as you attack it.\n\n Lasts 20 min and persists through death.\n\nThis item is consumed immediately."}
+MultiLanguageSpellData['en'][1221008] = {name = "Tremorshards", additional_info = "100 yd range\nInstant\n[q]Movement causes damage to this target and to other enemies within 10 yards."}
+MultiLanguageSpellData['en'][1221014] = {name = "Tremorshard", additional_info = "100 yd range\nInstant\n[q]Movement causes damage to the enemy target and to other enemies within 10 yards."}
 MultiLanguageSpellData['en'][1221028] = {name = "Firestorm Brand", additional_info = "300 yd range\nInstant\n[q]Mug marks players who cross onto his side of the room, inflicting 3 Fire damage every 1 sec for 6 sec.\n\n Upon expiration or removal, the brand creates a Firestorm that inflicts 3 Fire damage to all players every 1 sec and pulls players towards its center."}
 MultiLanguageSpellData['en'][1221029] = {name = "Firestorm", additional_info = nil}
 MultiLanguageSpellData['en'][1221030] = {name = "Firestorm", additional_info = nil}
@@ -8261,6 +8507,7 @@ MultiLanguageSpellData['en'][1221059] = {name = "Kaja'6 Pack Outage", additional
 MultiLanguageSpellData['en'][1221060] = {name = "Earthshaker Gaol", additional_info = nil}
 MultiLanguageSpellData['en'][1221061] = {name = "Xal'atath's Gift", additional_info = "100 yd range\nInstant\n[q]The Void Emissary casts a dark prayer. When the cast completes, nearby creatures are granted Xal'atath's Gift , increasing their damage done by up to 50% and reducing their damage taken by up to 100% for 20 sec based on the amount of the Void Emissary's shield that remains.\n\n Defeating the Void Emissary empowers players, granting them 20% Versatility and 30% spell and ability cool down rate for 30 sec sec."}
 MultiLanguageSpellData['en'][1221063] = {name = "Xal'atath's Gift", additional_info = "Instant\n[q]Xal'atath rains down orbs of cosmic energy that attempt to grant nearby creatures Xal'atath's Gift , increasing their damage done by 5% and reducing their damage taken by 10% for 20 sec. This effect stacks.\n\n If players disrupt these orbs they claim the power for themselves increasing their Haste and Movement speed by 2% for 30 sec. This effect stacks."}
+MultiLanguageSpellData['en'][1221066] = {name = "11.1.5 Repeatable Events - Dastardly Duos - Send Mailer", additional_info = nil}
 MultiLanguageSpellData['en'][1221072] = {name = "<DNT> Cancel Crate Carrying", additional_info = nil}
 MultiLanguageSpellData['en'][1221077] = {name = "Gossip Confirm Conversation", additional_info = nil}
 MultiLanguageSpellData['en'][1221078] = {name = "X-TREME Transit System", additional_info = nil}
@@ -8277,47 +8524,71 @@ MultiLanguageSpellData['en'][1221105] = {name = "Vine Grip", additional_info = "
 MultiLanguageSpellData['en'][1221106] = {name = "Overpowered Barrier", additional_info = "Instant\n[q]Your barriers absorb 100% more damage and have an additional effect, but last 4 sec.\n\n Prismatic Barrier\n If the barrier is fully absorbed, your next Blink or Shimmer within 15 sec grants Invisibility and immunity to damage for 3 sec."}
 MultiLanguageSpellData['en'][1221107] = {name = "Overpowered Barrier", additional_info = "Instant\n[q]Your barriers absorb 100% more damage and have an additional effect, but last 4 sec.[ Frost : Ice Barrier\n If the barrier is fully absorbed, enemies within 10 yds suffer (650% of Spell power) Frost damage and are slowed by 70% for 4 sec / Fire : Blazing Barrier\n Reflects 60% of damage absorbed /\n\nArcane\n Prismatic Barrier\n If the barrier is fully absorbed, your next Blink or Shimmer within 15 sec grants Invisibility and immunity to damage for 3 sec ]"}
 MultiLanguageSpellData['en'][1221108] = {name = "Lintel Sprocket Cosmetic", additional_info = nil}
+MultiLanguageSpellData['en'][1221111] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Ordered Food 99 (spell)", additional_info = nil}
 MultiLanguageSpellData['en'][1221112] = {name = "Lintel Sprocket Dismount", additional_info = nil}
+MultiLanguageSpellData['en'][1221113] = {name = "Beefy Burger", additional_info = "Instant\n[q]Increase damage done by 15%\n Decrease damage taken by 15%"}
+MultiLanguageSpellData['en'][1221114] = {name = "\"Challenging\" Shrimpy Fish", additional_info = "Instant\n[q]Decrease damage done by 40%\n Increase damage taken by 40%\n Kill and Survival bonus: x2"}
+MultiLanguageSpellData['en'][1221115] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Eat Food 3 (Hot Dog)", additional_info = nil}
+MultiLanguageSpellData['en'][1221116] = {name = "Hearty Haunch", additional_info = "Instant\n[q]Toughen up!\n Physical damage taken reduced by 80%.\n Magical damage taken reduce by 40%.\n Damage done reduced by 40%\n Threat generation increased by 600%"}
+MultiLanguageSpellData['en'][1221117] = {name = "Cake from a Fan", additional_info = "Instant\n[q]Main ingredient: Can of Amps. Increases speed by 65%"}
+MultiLanguageSpellData['en'][1221125] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Ordered Food 98 (spell)", additional_info = nil}
 MultiLanguageSpellData['en'][1221138] = {name = "X-TREME Transit System", additional_info = nil}
 MultiLanguageSpellData['en'][1221145] = {name = "Ringing Ritual Mud", additional_info = "(900ms cooldown)"}
 MultiLanguageSpellData['en'][1221146] = {name = "Mud Echo", additional_info = nil}
 MultiLanguageSpellData['en'][1221147] = {name = "Exit", additional_info = "Instant\n[q]Exit the pipe puzzle."}
 MultiLanguageSpellData['en'][1221151] = {name = "Mud Echo", additional_info = "Instant\n[q]Become Mudborne, absorbing 33535 damage and pulsing ( 331 * 10 / 2) Nature damage split between nearby enemies over 10 sec.\n\n Periodic damage you take coalesces into pungent mud to feed the ritual, reducing this cooldown by [( 20 / 10)][( 20 / 10)] sec."}
+MultiLanguageSpellData['en'][1221153] = {name = "Take Horseshoe", additional_info = nil}
 MultiLanguageSpellData['en'][1221154] = {name = "Vine Grip", additional_info = nil}
 MultiLanguageSpellData['en'][1221155] = {name = "Prototype A.S.M.R.", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Representing the pinnacle of goblin propaganda technology, Gallywix commissioned the Automatic Sonic Machine Resonator to sway his most stubborn critics.\"\nDrop:\nChrome King Gallywix\nZone:\nLiberation of Undermine"}
 MultiLanguageSpellData['en'][1221156] = {name = "Vine Grip", additional_info = nil}
+MultiLanguageSpellData['en'][1221157] = {name = "Take Horseshoe", additional_info = nil}
+MultiLanguageSpellData['en'][1221158] = {name = "Take Horseshoe", additional_info = nil}
+MultiLanguageSpellData['en'][1221159] = {name = "Take Horseshoe", additional_info = nil}
 MultiLanguageSpellData['en'][1221175] = {name = "Lintel Sprocket Callouts", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1221176] = {name = "Cursed Horseshoe", additional_info = nil}
 MultiLanguageSpellData['en'][1221183] = {name = "C.H.E.T.T.", additional_info = nil}
+MultiLanguageSpellData['en'][1221184] = {name = "Surge of Mysterious Wisdom", additional_info = "{Instant} {1.5 sec cooldown}\nReagents:\nBottle of Mysterious Wisdom\n[q]Experience gained from killing monsters and completing quests is increased by 10% for 2 hrs."}
 MultiLanguageSpellData['en'][1221188] = {name = "Seasonal Dungeon", additional_info = nil}
+MultiLanguageSpellData['en'][1221189] = {name = "Repeatable Event - Dastardly Duos - Score - During Fight", additional_info = nil}
 MultiLanguageSpellData['en'][1221194] = {name = "Delves", additional_info = nil}
+MultiLanguageSpellData['en'][1221205] = {name = "Exit", additional_info = "Instant\n[q]Exit the puzzle."}
+MultiLanguageSpellData['en'][1221206] = {name = "Exit", additional_info = "Instant\n[q]Exit Puzzle"}
 MultiLanguageSpellData['en'][1221220] = {name = "Activating Mr. DELVER", additional_info = nil}
 MultiLanguageSpellData['en'][1221224] = {name = "Unstable Cluster Bomb", additional_info = "300 yd range\nInstant\n[q]The mine explodes into a cluster of bombs, inflicting 2263973 Fire damage to players within 4 yards of the impact locations.\n\n Clusters that fail to hit a player inflict 7546578 Fire damage to all players."}
-MultiLanguageSpellData['en'][1221226] = {name = "Noise Pollution", additional_info = "60 yd range\n3 sec cast\n[q]The speakers blare, inflicting 15 Physical damage to random players within 60 yards every 2 sec."}
+MultiLanguageSpellData['en'][1221226] = {name = "Noise Pollution", additional_info = "60 yd range\n3 sec cast\n[q]The speakers blare, inflicting 1257763 Physical damage to random players within 60 yards every 2 sec."}
 MultiLanguageSpellData['en'][1221231] = {name = "Blowout!", additional_info = "Unlimited range\nInstant\n[q]Haywire Amplifiers blow out from the force of the sound, knocking players within 10 yards up into the air, inflicting 503105 Physical damage and granting them immunity to Blaring Drop ."}
 MultiLanguageSpellData['en'][1221232] = {name = "You Monster...", additional_info = "Unlimited range\nInstant\n[q]Reduces haste by 10%"}
 MultiLanguageSpellData['en'][1221233] = {name = "The Weaver", additional_info = "{Instant} {5 sec cooldown}\nReagents:\nSevered Threads Commendation"}
 MultiLanguageSpellData['en'][1221234] = {name = "The General", additional_info = "{Instant} {5 sec cooldown}\nReagents:\nSevered Threads Commendation"}
 MultiLanguageSpellData['en'][1221235] = {name = "The Vizier", additional_info = "{Instant} {5 sec cooldown}\nReagents:\nSevered Threads Commendation"}
-MultiLanguageSpellData['en'][1221236] = {name = "Noise Pollution", additional_info = "300 yd range\nInstant\n[q]The speakers blare, inflicting 15 Physical damage to random players within 60 yards every 2 sec."}
+MultiLanguageSpellData['en'][1221236] = {name = "Noise Pollution", additional_info = "300 yd range\nInstant\n[q]The speakers blare, inflicting 1257763 Physical damage to random players within 60 yards every 2 sec."}
 MultiLanguageSpellData['en'][1221237] = {name = "Severed Threads Commendation", additional_info = "Instant\n[q]Awards 1500 Reputation with the Severed Threads faction of your choice."}
 MultiLanguageSpellData['en'][1221238] = {name = "Destroy", additional_info = nil}
 MultiLanguageSpellData['en'][1221239] = {name = "Undermine World Quest", additional_info = nil}
-MultiLanguageSpellData['en'][1221255] = {name = "Pacifist Rig", additional_info = "Instant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-4 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1221241] = {name = "Storm Lunge", additional_info = "[q]Feral Lunge is replaced with Storm Lunge.\n\nStorm Lunge\n When an enemy is more than 9 yds away and within 15 yds, your Stormstrike transforms you into a lightning wolf, lunging at your target to deliver the strike."}
+MultiLanguageSpellData['en'][1221242] = {name = "Storm Lunge", additional_info = "[q]Feral Lunge is replaced with Storm Lunge.\n\nStorm Lunge\n When an enemy is more than 9 yds away and within 15 yds, your Stormstrike transforms you into a lightning wolf, lunging at your target to deliver the strike."}
+MultiLanguageSpellData['en'][1221246] = {name = "Storm Lunge", additional_info = "Melee Range\nInstant\n[q]Lunge at your enemy as a ghostly wolf, biting them to deal (10.35% of Attack power) Physical damage."}
+MultiLanguageSpellData['en'][1221247] = {name = "Storm Lunge", additional_info = "30 yd range\n{Instant} {7.5 sec cooldown}\n1 Charge\n[q]Lunge at your enemy as a lightning wolf, casting Stormstrike upon reaching your target at 100%."}
+MultiLanguageSpellData['en'][1221255] = {name = "Pacifist Rig", additional_info = "Instant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-4 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
 MultiLanguageSpellData['en'][1221256] = {name = "Galvanized Spite", additional_info = "75 yd range\nInstant\n[q]Torq bristles with electricity, applying Galvanized Spite to all players within 60 yards every 5 seconds. Inflicts 13428 Nature damage every 1 sec for 15 sec. This effect stacks."}
+MultiLanguageSpellData['en'][1221258] = {name = "Storm Lunge", additional_info = "Instant\n[q]Feral Lunge is replaced with Storm Lunge.\n\nStorm Lunge\n When an enemy is more than 9 yds away and within 15 yds, your Stormstrike transforms you into a lightning wolf, lunging at your target to deliver the strike."}
 MultiLanguageSpellData['en'][1221259] = {name = "Blistering Spite", additional_info = "75 yd range\nInstant\n[q]Flarendo radiates flame, applying Blistering Spite to all players within 60 yards every 5 sec. Inflicts 13428 Fire damage every 1 sec for 15 sec. This effect stacks."}
+MultiLanguageSpellData['en'][1221260] = {name = "Storm Lunge", additional_info = "Instant\n[q]Feral Lunge is replaced with Storm Lunge.\n\n When an enemy is more than 1221247 yards away, your Stormstrike transforms you into a lightning wolf, lunging at your target to deliver the strike. This effect can only occur once every 20 sec."}
 MultiLanguageSpellData['en'][1221261] = {name = "Pacifist Rig", additional_info = nil}
-MultiLanguageSpellData['en'][1221264] = {name = "Pacifist Rig", additional_info = "Instant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1221264] = {name = "Pacifist Rig", additional_info = "Instant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
 MultiLanguageSpellData['en'][1221265] = {name = "Undermine Explorer", additional_info = nil}
 MultiLanguageSpellData['en'][1221269] = {name = "World Bosses", additional_info = nil}
+MultiLanguageSpellData['en'][1221275] = {name = "Win", additional_info = nil}
+MultiLanguageSpellData['en'][1221280] = {name = "Repeatable Event - Dastardly Duos - Score - After Fight, Bonus", additional_info = nil}
 MultiLanguageSpellData['en'][1221283] = {name = "Eject", additional_info = nil}
-MultiLanguageSpellData['en'][1221285] = {name = "Pacifist Rig", additional_info = "Instant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-3 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
-MultiLanguageSpellData['en'][1221286] = {name = "Pacifist Rig", additional_info = "Instant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-2 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1221285] = {name = "Pacifist Rig", additional_info = "Instant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-3 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1221286] = {name = "Pacifist Rig", additional_info = "Instant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-2 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
 MultiLanguageSpellData['en'][1221293] = {name = "Team Flarendo", additional_info = "300 yd range\nInstant\n[q]You've joined the ranks of the Flarendo fans!"}
 MultiLanguageSpellData['en'][1221299] = {name = "Spray and Pray", additional_info = "300 yd range\n2.5 sec cast\n[q]Zee unleashes a cone of bullets at a player, inflicting 1257763 Physical damage every 0.3 for 3 sec to players standing within the effect and detonating any hit Unstable Crawler Mines ."}
 MultiLanguageSpellData['en'][1221300] = {name = "Team Torq", additional_info = "300 yd range\nInstant\n[q]You've joined the ranks of the Torq fans!"}
 MultiLanguageSpellData['en'][1221302] = {name = "Stormfury Finger Gun", additional_info = "300 yd range\n1 sec cast\n[q]Mug fulminates lightning outward from his finger, inflicting 2515526 Nature damage in a frontal cone every 0.5 sec for 4 sec.\n\n The excess electricity in the area creates a Stormfury Cloud ."}
 MultiLanguageSpellData['en'][1221313] = {name = "The Recycler", additional_info = nil}
-MultiLanguageSpellData['en'][1221320] = {name = "Activate Inventions!", additional_info = "Unlimited range\nInstant\n[q]Lockenstock overloads the capacitors around the factory causing a section of the floor to become electrified. Standing within these areas inflicts 10 Nature damage to players every 0.2 sec."}
+MultiLanguageSpellData['en'][1221320] = {name = "Activate Inventions!", additional_info = "Unlimited range\nInstant\n[q]Lockenstock overloads the capacitors around the factory causing a section of the floor to become electrified. Standing within these areas inflicts 838509 Nature damage to players every 0.2 sec."}
 MultiLanguageSpellData['en'][1221324] = {name = "Prototype Powercoil", additional_info = nil}
 MultiLanguageSpellData['en'][1221338] = {name = "Kick Foot Ball", additional_info = "40 yd range\n{Instant} {5 sec cooldown}\n[q]Kick the ball to a friendly player. If possible, they will automatically return it."}
 MultiLanguageSpellData['en'][1221347] = {name = "Surging Totem", additional_info = nil}
@@ -8361,8 +8632,10 @@ MultiLanguageSpellData['en'][1221521] = {name = "Gender Fluid", additional_info 
 MultiLanguageSpellData['en'][1221522] = {name = "On Hob", additional_info = "Instant\n[q]Become a hobgoblin temporarily."}
 MultiLanguageSpellData['en'][1221524] = {name = "Rat Mode", additional_info = "Instant\n[q]Become a rat temporarily."}
 MultiLanguageSpellData['en'][1221526] = {name = "Alchemical Runoff", additional_info = "Instant\n[q]Drink Me."}
+MultiLanguageSpellData['en'][1221530] = {name = "Smelt", additional_info = nil}
 MultiLanguageSpellData['en'][1221540] = {name = "Emergency Exit", additional_info = "Instant\n[q]Teleport outside of the Lucky Break Mines."}
 MultiLanguageSpellData['en'][1221543] = {name = "Bad Sludge", additional_info = "Instant\n[q]Become sick temporarily."}
+MultiLanguageSpellData['en'][1221560] = {name = "Threat", additional_info = nil}
 MultiLanguageSpellData['en'][1221643] = {name = "Presenting Evidence", additional_info = nil}
 MultiLanguageSpellData['en'][1221683] = {name = "Present Evidence", additional_info = "3 sec cast\n[q]Be sure to shout \"ENHANCE\" when used."}
 MultiLanguageSpellData['en'][1221687] = {name = "Throw Dynamite", additional_info = "30 yd range\n1.5 sec cast\n[q]Inflicts Fire damage to an enemy."}
@@ -8372,9 +8645,20 @@ MultiLanguageSpellData['en'][1221791] = {name = "Blistering Spite", additional_i
 MultiLanguageSpellData['en'][1221824] = {name = "Tiny Tussle", additional_info = "Unlimited range\nInstant\n[q]Fans periodically throw toys resembling Flarendo and Torq into the arena. Toys charge towards a rival toy within 15 yards, destroying both in the process and inflicting 419254 Fire and 419254 Nature damage to all players every 1 sec for 3 sec . This effect stacks. During Colossal Clash, all toys charge their closest rival regardless of range, inflicting 500% increased damage.\n\n Toys can be kicked by running into them."}
 MultiLanguageSpellData['en'][1221825] = {name = "Tiny Tussle", additional_info = "Unlimited range\nInstant\n[q]Fans periodically throw toys resembling Flarendo and Torq into the arena. Toys charge towards a rival toy within 15 yards, destroying both in the process and inflicting 419254 Fire and 419254 Nature damage to all players every 1 sec for 3 sec . This effect stacks. During Colossal Clash, all toys charge their closest rival regardless of range, inflicting 500% increased damage.\n\n Toys can be kicked by running into them."}
 MultiLanguageSpellData['en'][1221826] = {name = "Tiny Tussle", additional_info = "Unlimited range\nInstant\n[q]Fans periodically throw toys resembling Flarendo and Torq into the arena. Toys charge towards a rival toy within 15 yards, destroying both in the process and inflicting 419254 Fire and 419254 Nature damage to all players every 1 sec for 3 sec . This effect stacks. During Colossal Clash, all toys charge their closest rival regardless of range, inflicting 500% increased damage.\n\n Toys can be kicked by running into them."}
+MultiLanguageSpellData['en'][1221842] = {name = "Repeatable Event - Dastardly Duos - Confirm Start Countdown", additional_info = "Unlimited range\nInstant\n[q]Enter the Dome?"}
+MultiLanguageSpellData['en'][1221846] = {name = "Repeatable Event - Dastardly Duos - Start Countdown", additional_info = nil}
 MultiLanguageSpellData['en'][1221858] = {name = "Head Honcho", additional_info = "Instant\n[q]Mug and Zee take turns being the Head Honcho. Whenever Mug'Zee is on either Mug or Zee's side of the room that head takes charge, removing 10 applications of Moxie and granting Mug'Zee a unique set of abilities.\n\n In addition, when Mug takes control, he unleashes Elemental Carnage . When Zee takes control, he begins his assault with Uncontrolled Destruction ."}
+MultiLanguageSpellData['en'][1221859] = {name = "Take Saddle", additional_info = nil}
+MultiLanguageSpellData['en'][1221879] = {name = "Take Bag", additional_info = nil}
+MultiLanguageSpellData['en'][1221899] = {name = "Tattered Wolf Rider Gear", additional_info = nil}
+MultiLanguageSpellData['en'][1221920] = {name = "Investigate Rug", additional_info = nil}
 MultiLanguageSpellData['en'][1221928] = {name = "Summon Boss", additional_info = nil}
 MultiLanguageSpellData['en'][1221941] = {name = "Mug'Zee", additional_info = nil}
+MultiLanguageSpellData['en'][1222029] = {name = "Dummy", additional_info = nil}
+MultiLanguageSpellData['en'][1222040] = {name = "Attire of the Woodland Racoon", additional_info = "Instant\n[q]Collect the appearances of the Attire of the Woodland Racoon armor set."}
+MultiLanguageSpellData['en'][1222041] = {name = "Woodland Attire of the Grey Wolf", additional_info = "Instant\n[q]Collect the appearances of the Woodland Attire of the Grey Wolf armor set."}
+MultiLanguageSpellData['en'][1222043] = {name = "Attire of the Swift Fox", additional_info = "Instant\n[q]Collect the appearances of the Attire of the Swift Fox armor set."}
+MultiLanguageSpellData['en'][1222045] = {name = "Woodland Attire of the Gilneas Fox", additional_info = "Instant\n[q]Collect the appearances of the Woodland Attire of the Gilneas Fox armor set."}
 MultiLanguageSpellData['en'][1222074] = {name = "Colossal Clash", additional_info = nil}
 MultiLanguageSpellData['en'][1222076] = {name = "Colossal Clash", additional_info = nil}
 MultiLanguageSpellData['en'][1222178] = {name = "Partaking in Free Food", additional_info = "1.5 sec cast\n[q]Checking out the free food and drink."}
@@ -8399,7 +8683,7 @@ MultiLanguageSpellData['en'][1222510] = {name = "Leaking Fluid", additional_info
 MultiLanguageSpellData['en'][1222514] = {name = "Leaking Fluid", additional_info = nil}
 MultiLanguageSpellData['en'][1222515] = {name = "Leaking Fluid", additional_info = "Unlimited range\nInstant\n[q]Being hit has a chance to spatter Black Blood on the floor, inflicting 10 Shadow damage to nearby players every 2."}
 MultiLanguageSpellData['en'][1222534] = {name = "Paint Parry", additional_info = "{Instant} {1 min cooldown}\n[q]Briefly reflect annoying objects. Lasts 3 sec."}
-MultiLanguageSpellData['en'][1222542] = {name = "Ego Check", additional_info = "Unlimited range\n1 sec cast\n[q]Gallywix gives his current target a 4-hit knuckle sandwich, inflicting 13416139 Physical damage each strike. These blows cannot be dodged or parried.\n\n Additionally 75% of unmitigated damage is inflicted as a Checked Ego ."}
+MultiLanguageSpellData['en'][1222542] = {name = "Ego Check", additional_info = "Unlimited range\n1 sec cast\n[q]Gallywix gives his current target a 4 -hit knuckle sandwich, inflicting 80 Physical damage each strike. These blows cannot be dodged or parried.\n\n Additionally 75 % of unmitigated damage is inflicted as a Checked Ego ."}
 MultiLanguageSpellData['en'][1222622] = {name = "[q2]NEW Goblin Hot Potato", additional_info = "40 yd range\nInstant\n[q]Attempt to throw the Goblin Hot Potato to a friendly player. If they have free room in their pack they will catch it... assuming you manage to throw it safely!"}
 MultiLanguageSpellData['en'][1222637] = {name = "NEW Goblin Hot Potato", additional_info = "40 yd range\n1 sec cast\n[q]Attempt to throw the NEW Goblin Hot Potato to a friendly player. If they have free room in their pack they will catch it... assuming you manage to throw it safely!"}
 MultiLanguageSpellData['en'][1222639] = {name = "Backfire!", additional_info = nil}
@@ -8419,15 +8703,15 @@ MultiLanguageSpellData['en'][1222757] = {name = "Add Score Point", additional_in
 MultiLanguageSpellData['en'][1222788] = {name = "Trick Shots", additional_info = nil}
 MultiLanguageSpellData['en'][1222803] = {name = "Bronzebeard's Brown Bear", additional_info = nil}
 MultiLanguageSpellData['en'][1222804] = {name = "Bronzebeard's Brown Bear", additional_info = nil}
-MultiLanguageSpellData['en'][1222831] = {name = "Overloaded Coils", additional_info = "Unlimited range\n10 sec cast\n[q]Gallywix activates and overloads The House of Chrome's Giga Coils inflicting 30 Nature damage to all players every 1 sec. This effect stacks, and increases in periodic frequency with each application."}
+MultiLanguageSpellData['en'][1222831] = {name = "Overloaded Coils", additional_info = "Unlimited range\n10 sec cast\n[q]Gallywix activates and overloads The House of Chrome's Giga Coils inflicting 2515526 Nature damage to all players every 1 sec. This effect stacks, and increases in periodic frequency with each application."}
 MultiLanguageSpellData['en'][1222833] = {name = "Disposable Hotdog", additional_info = "{Instant} {30 sec cooldown}\n[q]Hold a hotdog."}
 MultiLanguageSpellData['en'][1222834] = {name = "Single-Use Grill", additional_info = "{2 sec cast} {5 min cooldown}\n[q]Summon a grill, allowing cooking."}
 MultiLanguageSpellData['en'][1222835] = {name = "Disposable Hamburger", additional_info = "{Instant} {30 sec cooldown}\n[q]Hold a hamburger."}
 MultiLanguageSpellData['en'][1222837] = {name = "Undermine Crate", additional_info = "{Instant} {30 sec cooldown}\n[q]Hold a goblin crate."}
 MultiLanguageSpellData['en'][1222839] = {name = "Collectible Pineappletini Mug", additional_info = "{Instant} {30 sec cooldown}\n[q]Hold a pineapple drink."}
 MultiLanguageSpellData['en'][1222840] = {name = "Half-Eaten Takeout", additional_info = "{Instant} {30 sec cooldown}\n[q]Hold a takeout container."}
-MultiLanguageSpellData['en'][1222842] = {name = "Overloaded Coils", additional_info = "Unlimited range\nChanneled (7 days cast)\n[q]Gallywix activates and overloads The House of Chrome's Giga Coils inflicting 30 Nature damage to all players every 1 sec. This effect stacks, and increases in periodic frequency with each application."}
-MultiLanguageSpellData['en'][1222846] = {name = "Overloaded Coils", additional_info = "Unlimited range\nInstant\n[q]Gallywix activates and overloads The House of Chrome's Giga Coils inflicting 30 Nature damage to all players every 1 sec. This effect stacks, and increases in periodic frequency with each application."}
+MultiLanguageSpellData['en'][1222842] = {name = "Overloaded Coils", additional_info = "Unlimited range\nChanneled (7 days cast)\n[q]Gallywix activates and overloads The House of Chrome's Giga Coils inflicting 2515526 Nature damage to all players every 1 sec. This effect stacks, and increases in periodic frequency with each application."}
+MultiLanguageSpellData['en'][1222846] = {name = "Overloaded Coils", additional_info = "Unlimited range\nInstant\n[q]Gallywix activates and overloads The House of Chrome's Giga Coils inflicting 2515526 Nature damage to all players every 1 sec. This effect stacks, and increases in periodic frequency with each application."}
 MultiLanguageSpellData['en'][1222856] = {name = "<DNT> Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][1222857] = {name = "<DNT> Delay T21", additional_info = nil}
 MultiLanguageSpellData['en'][1222858] = {name = "<DNT> Cancel ALL Arrow to Destination AND Cancel Aura", additional_info = nil}
@@ -8466,20 +8750,38 @@ MultiLanguageSpellData['en'][1222947] = {name = "Aether Fragment", additional_in
 MultiLanguageSpellData['en'][1222948] = {name = "Electro-Charged Shield", additional_info = "Instant\n[q]The MK II Electro Shocker envelopes itself in charged energy, reducing damage taken by 99%.\n\n Removed upon being hit with Stormfury Finger Gun ."}
 MultiLanguageSpellData['en'][1222949] = {name = "Well of Darkness", additional_info = "100 yd range\nInstant\n[q]Kul'tharok attaches Well of Darkness onto target players for 6 sec. The well pulses necrotic energy every 1 sec, inflicting 736893 Shadow damage to players within 4 yard"}
 MultiLanguageSpellData['en'][1222953] = {name = "Gallywix", additional_info = nil}
+MultiLanguageSpellData['en'][1222968] = {name = "Pascal the Wonder Pup", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1222973] = {name = "Set Helm 01", additional_info = nil}
+MultiLanguageSpellData['en'][1222978] = {name = "Green Murloc Disguise", additional_info = nil}
+MultiLanguageSpellData['en'][1222979] = {name = "Grey Fox Disguise", additional_info = nil}
+MultiLanguageSpellData['en'][1222980] = {name = "Grey Shark Disguise", additional_info = nil}
 MultiLanguageSpellData['en'][1222984] = {name = "Portal to Undermine", additional_info = "Instant\n[q]Teleport to Undermine."}
 MultiLanguageSpellData['en'][1222985] = {name = "Overdrive Pylon", additional_info = "Instant\n[q]Accumulating energy."}
 MultiLanguageSpellData['en'][1222986] = {name = "Overdrive Pylon", additional_info = "Instant\n[q]Accumulating energy."}
 MultiLanguageSpellData['en'][1222987] = {name = "Overdrive Pylon", additional_info = "Instant\n[q]Accumulating energy."}
 MultiLanguageSpellData['en'][1223003] = {name = "<DNT> Random Line", additional_info = nil}
 MultiLanguageSpellData['en'][1223004] = {name = "Instakill Vehicle", additional_info = nil}
-MultiLanguageSpellData['en'][1223018] = {name = "Single Charge Seismic Leap Piston", additional_info = "Unlimited range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1223011] = {name = "Port to Camp (from Dome)", additional_info = "Unlimited range\nInstant\n[q]Make a giant leap."}
+MultiLanguageSpellData['en'][1223018] = {name = "Single Charge Seismic Leap Piston", additional_info = "Unlimited range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1223019] = {name = "Ensemble: Stormstout's Collection", additional_info = "Instant\n[q]Collect the appearances of the Stormstout Collection armor set."}
 MultiLanguageSpellData['en'][1223041] = {name = "Gallagio Loyalty Rewards Card", additional_info = "{2.5 sec cast} {30 min cooldown}\n[q]Teleport to the Incontinental. Only usable while inside the Liberation of Undermine."}
 MultiLanguageSpellData['en'][1223054] = {name = "Sit on Crate", additional_info = "{Instant} {5 sec cooldown}\n[q]Take a seat on the supply crate."}
 MultiLanguageSpellData['en'][1223055] = {name = "Detailed Schematics", additional_info = "{Instant} {5 sec cooldown}\n[q]Rummage through the crate to find your detailed schematics."}
 MultiLanguageSpellData['en'][1223058] = {name = "Street Lantern", additional_info = "{Instant} {5 sec cooldown}\n[q]Rummage through the crate to find your street lantern."}
 MultiLanguageSpellData['en'][1223060] = {name = "Boomball Putter", additional_info = "{Instant} {5 sec cooldown}\n[q]Rummage through the crate to find your boomball putter."}
 MultiLanguageSpellData['en'][1223067] = {name = "Clock Out", additional_info = "{Instant} {3 sec cooldown}\n[q]Cancel the job you're currently on and stop doing Shipping and Handling jobs."}
+MultiLanguageSpellData['en'][1223073] = {name = "Poison", additional_info = "Melee Range\nInstant\n[q]Inflicts Nature damage to an enemy every 3 sec. for 15 sec."}
+MultiLanguageSpellData['en'][1223075] = {name = "Master Key", additional_info = "50 yd range\n0.5 sec cast\n[q]Drive a nearby, unoccupied Dastardly Duos vehicle."}
+MultiLanguageSpellData['en'][1223077] = {name = "Rending Whirl", additional_info = "2 sec cast\n[q]Attacks with a whirlwind of sharpened claws, inflicting Physical damage to all enemies within 6 yards."}
+MultiLanguageSpellData['en'][1223078] = {name = "Icy Claw", additional_info = "Melee Range\n1.5 sec cast\n[q]Strikes the target with ice-rimed claws, inflicting Frost damage and reducing movement speed by 25% for 4 sec."}
+MultiLanguageSpellData['en'][1223079] = {name = "Bestial Howl", additional_info = "2 sec cast\n[q]Lets out a guttural howl, increasing damage done by 50% for 8 sec."}
 MultiLanguageSpellData['en'][1223085] = {name = "Double Whammy Shot", additional_info = "300 yd range\n2.5 sec cast\n[q]Zee fires an explosive high caliber round towards a random player, inflicting 26832278 Physical damage to the closest player and applying Perforating Wound . All other targets take up to 26832278 Physical damage, reduced by the closest player's total damage mitigation.\n\nUnstable Crawler Mines hit are detonated and all players hit are stunned for 2 sec. In addition, an Explosive Payload is lodged in the original target."}
+MultiLanguageSpellData['en'][1223092] = {name = "Summon Nemesis", additional_info = nil}
+MultiLanguageSpellData['en'][1223093] = {name = "Bomb Run", additional_info = nil}
+MultiLanguageSpellData['en'][1223094] = {name = "Summon Nemesis", additional_info = nil}
+MultiLanguageSpellData['en'][1223107] = {name = "Summon Nemesis", additional_info = nil}
+MultiLanguageSpellData['en'][1223111] = {name = "Vicious Slice", additional_info = "Melee Range\nInstant\nRequires Melee Weapon\n[q]A vicious slice rips through the enemy target, instantly dealing 100% normal weapon damage. The target is also left bleeding for 5% of maximum health every 2 sec. for 6 sec."}
+MultiLanguageSpellData['en'][1223112] = {name = "Maddening Call", additional_info = "3 sec cast\n[q]A maddening call is unleased, dealing 8 Physical damage to all nearby enemies and leaving their melee attack, ranged attack, and casting speeds all reduced by 30% for 5 sec."}
 MultiLanguageSpellData['en'][1223119] = {name = "Invisibility and Stealth Detection", additional_info = nil}
 MultiLanguageSpellData['en'][1223122] = {name = "Party Rocket", additional_info = nil}
 MultiLanguageSpellData['en'][1223123] = {name = "Party Rocket", additional_info = nil}
@@ -8489,7 +8791,14 @@ MultiLanguageSpellData['en'][1223141] = {name = "Posi-Polarization", additional_
 MultiLanguageSpellData['en'][1223144] = {name = "Nega-Polarization", additional_info = "Unlimited range\nInstant\n[q]Lockenstock infuses the target with a negative charge until the next cast of Polarization Generator .\n\n Contact with players afflicted with Posi-Polarization will trigger a Polarization Blast ."}
 MultiLanguageSpellData['en'][1223147] = {name = "Tempest", additional_info = "40 yd range\nInstant\n[q]Calls down a tremendous lightning strike that deals (310.5% of Spell power) Nature damage to your target and [(310.5% of Spell power) * 65 / 100] Nature damage to enemies within 0 yds of your target. Damage reduced beyond 5 targets.\n\nEnhancement\n[q]Consumes Maelstrom Weapon for increased cast speed."}
 MultiLanguageSpellData['en'][1223170] = {name = "Go Long", additional_info = nil}
+MultiLanguageSpellData['en'][1223175] = {name = "Faceless Mask of the Nemesis", additional_info = nil}
 MultiLanguageSpellData['en'][1223176] = {name = "<DNT> Hide Breakneck Icon (LQM)", additional_info = nil}
+MultiLanguageSpellData['en'][1223181] = {name = "Cosmetic", additional_info = nil}
+MultiLanguageSpellData['en'][1223185] = {name = "Cosmetic", additional_info = nil}
+MultiLanguageSpellData['en'][1223189] = {name = "Faceless Mask of the Nemesis", additional_info = nil}
+MultiLanguageSpellData['en'][1223195] = {name = "Faceless Mask of the Nemesis", additional_info = nil}
+MultiLanguageSpellData['en'][1223207] = {name = "Drop Bomb", additional_info = "4 yd range\nInstant\n[q]Gently place the bomb on the ground..."}
+MultiLanguageSpellData['en'][1223210] = {name = "General Defensive Passive - Plate", additional_info = nil}
 MultiLanguageSpellData['en'][1223213] = {name = "Vacuum Slime", additional_info = "100 yd range\nInstant\n[q]Vacuum up all slime puddles within 10 yards, storing it safely in the slimetanker and restoring 5% health."}
 MultiLanguageSpellData['en'][1223236] = {name = "Frostshatter Boots", additional_info = nil}
 MultiLanguageSpellData['en'][1223240] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok unleashes necrotic energy at all players, inflicting 2947572 Shadow damage every 1 sec for 6 sec sec."}
@@ -8511,6 +8820,10 @@ MultiLanguageSpellData['en'][1223305] = {name = "<DNT> Honk Tracker", additional
 MultiLanguageSpellData['en'][1223307] = {name = "Achievement Credit", additional_info = nil}
 MultiLanguageSpellData['en'][1223323] = {name = "Unbreakable Bond", additional_info = "40 yd range\n[q]Regain access to Call Pet.\n\n While outdoors, your pet deals 15% increased damage and takes 15% reduced damage."}
 MultiLanguageSpellData['en'][1223332] = {name = "Electrostatic Wager", additional_info = "Instant\n[q]When you lose your Winning Streak! the winds shift into Doom Winds for 3 sec. When Doom Winds deal damage, your next Crash Lightning deals 12.0% increased damage, up to 60.0%. This effect can be stored up to 10 stacks. Additionally, Crash Lightning deals 75% more damage to your main target."}
+MultiLanguageSpellData['en'][1223347] = {name = "Punt!", additional_info = "Melee Range\n{Instant} {1 sec cooldown}\n[q]Punt the worm away!"}
+MultiLanguageSpellData['en'][1223358] = {name = "Destroying", additional_info = nil}
+MultiLanguageSpellData['en'][1223359] = {name = "Bot Follow", additional_info = nil}
+MultiLanguageSpellData['en'][1223360] = {name = "Destroying", additional_info = nil}
 MultiLanguageSpellData['en'][1223363] = {name = "Gallywix", additional_info = nil}
 MultiLanguageSpellData['en'][1223366] = {name = "Voltaic Blaze", additional_info = "Instant\n[q]Lightning Bolt and Chain Lightning have a high chance to make your next Flame Shock become Voltaic Blaze.\n\nVoltaic Blaze\n Instantly shocks the target and 5 nearby enemies with blazing thunder, causing (400% of Spell power) Nature damage and applying Flame Shock.\n\n Generates 1 stacks of Maelstrom Weapon."}
 MultiLanguageSpellData['en'][1223391] = {name = "Healing Wave", additional_info = "100 yd range\nInstant\n[q]Heals the target for (289% of Spell power)."}
@@ -8519,30 +8832,44 @@ MultiLanguageSpellData['en'][1223398] = {name = "Voidform", additional_info = ni
 MultiLanguageSpellData['en'][1223399] = {name = "Linked Machines", additional_info = nil}
 MultiLanguageSpellData['en'][1223402] = {name = "Linked Machines", additional_info = nil}
 MultiLanguageSpellData['en'][1223406] = {name = "Gallywix", additional_info = nil}
+MultiLanguageSpellData['en'][1223407] = {name = "Punt!", additional_info = "Melee Range\n{Instant} {1 sec cooldown}\n[q]Punt the grubs away!"}
 MultiLanguageSpellData['en'][1223408] = {name = "Gallywix", additional_info = nil}
 MultiLanguageSpellData['en'][1223410] = {name = "Electrostatic Wager", additional_info = "Instant\n[q]When you lose your Winning Streak! the winds shift into Doom Winds for 3 sec. When Doom Winds deal damage, your next Crash Lightning deals 12.0% increased damage, up to 60.0%. This effect can be stored up to 10 stacks. Additionally, Crash Lightning deals 75% more damage to your main target."}
+MultiLanguageSpellData['en'][1223435] = {name = "Searching Junk", additional_info = nil}
+MultiLanguageSpellData['en'][1223438] = {name = "Searching Junk", additional_info = "5 yd range\n3 sec cast\n[q]Search the pile of junk. What might lie within?"}
 MultiLanguageSpellData['en'][1223508] = {name = "<DNT> Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1223510] = {name = "\"Harmless\" Sniper Dislodger XL", additional_info = "20 - 100 yd range\n{1.5 sec cast} {30 sec cooldown}\n[q]Throw a concussive bomb at an enemy player between 20 and 100 yards, knocking back all enemies within the impact.\n\n Can only be used while within War Mode in Undermine."}
 MultiLanguageSpellData['en'][1223511] = {name = "\"Harmless\" Sniper Dislodger XL", additional_info = "100 yd range\nInstant\n[q]Throw a concussive bomb at an enemy player between 20 and 100 yards, knocking back all enemies within the impact.\n\n Can only be used while within War Mode in Undermine."}
+MultiLanguageSpellData['en'][1223513] = {name = "Junk", additional_info = nil}
+MultiLanguageSpellData['en'][1223514] = {name = "Torchbearer", additional_info = "Instant\n[q]Carrying a torch, the flames invigorate you! Use the flame to destroy Sureki eggs!"}
+MultiLanguageSpellData['en'][1223515] = {name = "Summon", additional_info = nil}
+MultiLanguageSpellData['en'][1223516] = {name = "Summon", additional_info = nil}
+MultiLanguageSpellData['en'][1223518] = {name = "Summon", additional_info = nil}
+MultiLanguageSpellData['en'][1223519] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Order Food - 04", additional_info = nil}
+MultiLanguageSpellData['en'][1223520] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Order Food - 05", additional_info = nil}
 MultiLanguageSpellData['en'][1223522] = {name = "Arcane Soul", additional_info = "Instant\n[q]Arcane Barrage grants Clearcasting and generates 4 Arcane Charges.\n\n Each cast of Arcane Barrage increases the damage of Arcane Barrage by 15%."}
 MultiLanguageSpellData['en'][1223523] = {name = "Music", additional_info = nil}
-MultiLanguageSpellData['en'][1223524] = {name = "Whispering Waves", additional_info = "Instant\n[q]10% of Healing Wave's healing from you and your ancestors is duplicated onto each of your targets with Riptide."}
+MultiLanguageSpellData['en'][1223524] = {name = "Whispering Waves", additional_info = "Instant\n[q]15% of Healing Wave's healing from you and your ancestors is duplicated onto each of your targets with Riptide."}
 MultiLanguageSpellData['en'][1223527] = {name = "<DNT>", additional_info = nil}
 MultiLanguageSpellData['en'][1223529] = {name = "Storm Conduit", additional_info = "Instant\n[q]Casting Lightning Bolt or Chain Lightning reduces the cooldown of Astral Shift, Gust of Wind, Wind Shear, and Nature Totems by 1.0 sec.\n\n Interrupt duration reduced by 65% on Lightning Bolt and Chain Lightning casts."}
+MultiLanguageSpellData['en'][1223557] = {name = "Shhhh!", additional_info = "Instant\n[q]Listen to Skedgit's plan."}
 MultiLanguageSpellData['en'][1223574] = {name = "<DNT>", additional_info = nil}
 MultiLanguageSpellData['en'][1223582] = {name = "Veteran of Ironforge", additional_info = nil}
 MultiLanguageSpellData['en'][1223583] = {name = "Rescuing Judge Landro", additional_info = "Instant\n[q]Be gentle.\n\n He's fragile, and a 'Ya Honor'."}
 MultiLanguageSpellData['en'][1223616] = {name = "Introduce Yourself to Rosebud", additional_info = nil}
+MultiLanguageSpellData['en'][1223622] = {name = "Discard Torch", additional_info = "Instant\n[q]Carefully discard held torch."}
+MultiLanguageSpellData['en'][1223626] = {name = "Drop and Roll", additional_info = "Instant\n[q]Drop and roll to put out the flames!"}
+MultiLanguageSpellData['en'][1223627] = {name = "Call Out", additional_info = "Instant\n[q]Summon more dastardly foes into the Dome."}
 MultiLanguageSpellData['en'][1223629] = {name = "Noggenfogger Elixir", additional_info = "Instant\n[q]You feel smaller..."}
 MultiLanguageSpellData['en'][1223630] = {name = "Noggenfogger Elixir", additional_info = "Instant\n[q]You feel light..."}
 MultiLanguageSpellData['en'][1223631] = {name = "Noggenfogger Elixir", additional_info = "Instant\n[q]You've stopped breathing..."}
-MultiLanguageSpellData['en'][1223658] = {name = "Suppression", additional_info = "Unlimited range\nChanneled (1 sec cast)\n[q]Gallywix shrapnels subordinates for 3 sec inflicting 4192544 Fire damage plus an additional 586956 Fire damage every 0.5 sec to players within 2.5 yards of indicated locations for 9 sec . This effect stacks."}
+MultiLanguageSpellData['en'][1223658] = {name = "Suppression", additional_info = "Unlimited range\nChanneled (1 sec cast)\n[q]Gallywix shrapnels subordinates for 3 sec inflicting 35 Fire damage plus an additional 2 Fire damage every 0.5 sec to players within 2.5 yards of indicated locations for 9 sec . This effect stacks."}
 MultiLanguageSpellData['en'][1223659] = {name = "Gallywix", additional_info = nil}
 MultiLanguageSpellData['en'][1223660] = {name = "Ride Vehicle", additional_info = nil}
 MultiLanguageSpellData['en'][1223672] = {name = "<DNT>", additional_info = nil}
 MultiLanguageSpellData['en'][1223678] = {name = "Strange Creatures", additional_info = "Instant\n[q]Creatures lured by the Black Blood lurk in the area."}
-MultiLanguageSpellData['en'][1223680] = {name = "Tick-Tock Canisters", additional_info = "Unlimited range\nInstant\n[q]After 6 sec these detonate inflicting 10900613 Fire damage to players within 4 yards. This damage splits evenly among effected players ."}
-MultiLanguageSpellData['en'][1223701] = {name = "Wildfire Arsenal", additional_info = "Instant\n[q]Quick Shot and and auto-attacks with a two-handed weapon increase the direct damage of your next Wildfire Bomb by 4%, stacking up to 3 times.\n\n Casting Coordinated Assault grants 3 stacks of Wildfire Arsenal."}
+MultiLanguageSpellData['en'][1223680] = {name = "Tick-Tock Canisters", additional_info = "Unlimited range\nInstant\n[q]After 6 sec these detonate inflicting 30 Fire damage to players within 4 yards. This damage splits evenly among effected players ."}
+MultiLanguageSpellData['en'][1223701] = {name = "Wildfire Arsenal", additional_info = "Instant\n[q]Quick Shot and auto-attacks with a two-handed weapon increase the direct damage of your next Wildfire Bomb by 4%, stacking up to 3 times.\n\n Casting Coordinated Assault grants 3 stacks of Wildfire Arsenal."}
 MultiLanguageSpellData['en'][1223732] = {name = "Clone Me!", additional_info = "Unlimited range\nInstant\n[q]Cause the current target to clone the caster."}
 MultiLanguageSpellData['en'][1223742] = {name = "Mole Machine", additional_info = "Instant\n[q]A mole machine is present to aid you through the delve."}
 MultiLanguageSpellData['en'][1223744] = {name = "Explosive Barrels", additional_info = "Instant\n[q]Explosive barrels are scattered throughout the delve."}
@@ -8559,25 +8886,45 @@ MultiLanguageSpellData['en'][1223804] = {name = "Well of Darkness", additional_i
 MultiLanguageSpellData['en'][1223814] = {name = "Chillburst Toss", additional_info = "20 yd range\n{Instant} {5 sec cooldown}\n[q]Freeze the weakened pipeline in ice."}
 MultiLanguageSpellData['en'][1223862] = {name = "Big Bad Buncha Bombs", additional_info = nil}
 MultiLanguageSpellData['en'][1223872] = {name = "Dissolve In", additional_info = nil}
+MultiLanguageSpellData['en'][1223886] = {name = "Hallowed Tome of the Abbot", additional_info = "Approximately 4 procs per minute\n[q]You are one of the devout. Your spells and abilities have a chance to grant you 76 Haste for 15 sec.\n\n In addition, you grant another devout ally ( 76 * 20 * 0.01) Haste for 15 sec."}
+MultiLanguageSpellData['en'][1223887] = {name = "Hallowed Tome of the Abbot", additional_info = "40 yd range\nInstant\n[q]You are one of the devout. Your spells and abilities have a chance to grant you 76 Haste for 15 sec.\n\n In addition, you grant another devout ally ( 76 * 20 * 0.01) Haste for 15 sec."}
 MultiLanguageSpellData['en'][1223890] = {name = "Aura of Zealotry", additional_info = nil}
 MultiLanguageSpellData['en'][1223891] = {name = "Aura of Zealotry", additional_info = nil}
 MultiLanguageSpellData['en'][1223892] = {name = "Sleeping", additional_info = nil}
 MultiLanguageSpellData['en'][1223893] = {name = "Aura of Zealotry", additional_info = nil}
 MultiLanguageSpellData['en'][1223894] = {name = "Aura of Zealotry", additional_info = nil}
+MultiLanguageSpellData['en'][1223896] = {name = "Traits", additional_info = nil}
+MultiLanguageSpellData['en'][1223898] = {name = "Hallowed Tome of the Zealot", additional_info = "40 yd range\nInstant\n[q]You are one of the devout. Your spells and abilities have a chance to grant you 76 Critical Strike for 15 sec.\n\n In addition, you grant another devout ally ( 76 * 20 * 0.01) Critical Strike for 15 sec."}
+MultiLanguageSpellData['en'][1223899] = {name = "Hallowed Tome of the Zealot", additional_info = "Approximately 4 procs per minute\n[q]You are one of the devout. Your spells and abilities have a chance to grant you 76 Critical Strike for 15 sec.\n\n In addition, you grant another devout ally ( 76 * 20 * 0.01) Critical Strike for 15 sec."}
+MultiLanguageSpellData['en'][1223901] = {name = "Hallowed Tome of the Crusader", additional_info = "40 yd range\nInstant\n[q]You are one of the devout. Your spells and abilities have a chance to grant you 76 Versatility for 15 sec.\n\n In addition, you grant another devout ally ( 76 * 20 * 0.01) Versatility for 15 sec."}
+MultiLanguageSpellData['en'][1223902] = {name = "Hallowed Tome of the Crusader", additional_info = "Approximately 4 procs per minute\n[q]You are one of the devout. Your spells and abilities have a chance to grant you 76 Versatility for 15 sec.\n\n In addition, you grant another devout ally ( 76 * 20 * 0.01) Versatility for 15 sec."}
+MultiLanguageSpellData['en'][1223903] = {name = "Hallowed Tome of the Cleric", additional_info = "40 yd range\nInstant\n[q]You are one of the devout. Your spells and abilities have a chance to grant you 76 Mastery for 15 sec.\n\n In addition, you grant another devout ally ( 76 * 20 * 0.01) Mastery for 15 sec."}
+MultiLanguageSpellData['en'][1223904] = {name = "Hallowed Tome of the Cleric", additional_info = "Approximately 4 procs per minute\n[q]You are one of the devout. Your spells and abilities have a chance to grant you 76 Mastery for 15 sec.\n\n In addition, you grant another devout ally ( 76 * 20 * 0.01) Mastery for 15 sec."}
 MultiLanguageSpellData['en'][1223905] = {name = "Giga BOOM!", additional_info = "Unlimited range\nInstant\n[q]Giga Bombs detonate after 3.5 min or when struck by Giga Blast inflicting 6708070 Nature damage plus an additional 838509 Nature damage every 1 sec to all players for 9 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1223907] = {name = "Aspect of the Fox", additional_info = "Instant\n[q]Aimed Shot may be cast while moving during Aspect of the Cheetah and Aspect of the Cheetah's delayed effect is increased by 4 sec."}
 MultiLanguageSpellData['en'][1223915] = {name = "Update Interactions", additional_info = nil}
 MultiLanguageSpellData['en'][1223933] = {name = "Repairing Battery", additional_info = nil}
+MultiLanguageSpellData['en'][1223938] = {name = "Carrying Radiant Remnants", additional_info = nil}
 MultiLanguageSpellData['en'][1223946] = {name = "Big Bad Buncha Bombs", additional_info = nil}
+MultiLanguageSpellData['en'][1223947] = {name = "Repeatable Event - Dastardly Duos - Vinnie Option - Famous", additional_info = nil}
+MultiLanguageSpellData['en'][1223952] = {name = "Devout", additional_info = nil}
+MultiLanguageSpellData['en'][1223964] = {name = "Drop Radiant Remnants", additional_info = "Instant\n[q]Drop held Radiant Remnants on the ground.\n\n It is better to throw these into a Minor Keyflame!"}
+MultiLanguageSpellData['en'][1223977] = {name = "Repeatable Event - Dastardly Duos - Powerup - Cheery Bomb - Near Famous", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1223995] = {name = "Ego Check", additional_info = nil}
 MultiLanguageSpellData['en'][1223999] = {name = "Traveling Flames", additional_info = "200 yd range\nInstant\n[q]Colliding with Traveling Flames inflicts 80 Fire damage and knocks players back."}
+MultiLanguageSpellData['en'][1224008] = {name = "Repeatable Event - Dastardly Duos - Vinnie Option - Duo Darling", additional_info = nil}
 MultiLanguageSpellData['en'][1224014] = {name = "<DNT>", additional_info = nil}
 MultiLanguageSpellData['en'][1224019] = {name = "Giga Controls", additional_info = nil}
+MultiLanguageSpellData['en'][1224023] = {name = "Repeatable Event - Dastardly Duos - Vinnie Option - Duo Darling, Underdog", additional_info = nil}
 MultiLanguageSpellData['en'][1224051] = {name = "Hammerfall", additional_info = "[q][ Protection : Shield of the Righteous and Word of Glory / Divine Hammer : Templar's Verdict, Divine Storm and Divine Hammer / Templar's Verdict and Divine Storm ] calls down an Empyrean Hammer on a nearby enemy.\n\n While Shake the Heavens is active, this effect calls down an additional Empyrean Hammer.\n(100ms cooldown)"}
+MultiLanguageSpellData['en'][1224063] = {name = "Radiant Rejuvenation", additional_info = "10 yd range\nInstant\n[q]A Minor Keyflame heals you for15% of maximum health."}
+MultiLanguageSpellData['en'][1224066] = {name = "Glyph of the Strix", additional_info = "[q]Your Spotting Eagle becomes a Spotting Owl."}
+MultiLanguageSpellData['en'][1224085] = {name = "Repeatable Event - Dastardly Duos - Achievement Progress - Connections", additional_info = nil}
 MultiLanguageSpellData['en'][1224098] = {name = "Tricks of the Trade", additional_info = "100 yd range\n{Instant} {30 sec cooldown}\n[q][ Thick as Thieves : Increases the target's damage by 15%, and redirects / Redirects] all threat you cause to the targeted party or raid member, beginning with your next damaging attack within the next 30 sec and lasting 6 sec.\n(100ms cooldown)"}
 MultiLanguageSpellData['en'][1224108] = {name = "Hot Streak", additional_info = "Instant\n[q]Grants nearby players 200% increased movement speed for 1 min."}
 MultiLanguageSpellData['en'][1224110] = {name = "Hot Streak", additional_info = "Unlimited range\nInstant\n[q]Grants nearby players 200% increased movement speed for 1 min."}
 MultiLanguageSpellData['en'][1224115] = {name = "Big Bad Buncha Bombs", additional_info = nil}
+MultiLanguageSpellData['en'][1224121] = {name = "Repeatable Event - Dastardly Duos - Prop - Connections Gift", additional_info = nil}
 MultiLanguageSpellData['en'][1224128] = {name = "Tear Down This Garish Statue", additional_info = "50 yd range\n1.5 sec cast\n[q][DNT]Your spell description goes here!"}
 MultiLanguageSpellData['en'][1224131] = {name = "FIRE!!!", additional_info = "Instant\n[q]Fires Keeza's B.B.B.F.G., inflicting catastrophic damage to whatever it is locked on to."}
 MultiLanguageSpellData['en'][1224133] = {name = "Bloodstone", additional_info = "Instant\n[q]Instantly increases your haste by 10% for 12 sec [ Empowered Healthstone : plus heals 30% over 6 sec / .]"}
@@ -8591,21 +8938,46 @@ MultiLanguageSpellData['en'][1224378] = {name = "Giga Coils", additional_info = 
 MultiLanguageSpellData['en'][1224396] = {name = "Cosmetic - Parachute", additional_info = nil}
 MultiLanguageSpellData['en'][1224397] = {name = "Cosmetic - Parachute", additional_info = nil}
 MultiLanguageSpellData['en'][1224398] = {name = "Cosmetic - Parachute", additional_info = nil}
+MultiLanguageSpellData['en'][1224399] = {name = "Pyrotechnics Spray", additional_info = "20 yd range\nInstant\n[q]Deal Fire damage in a forward cone every 0.5 sec."}
 MultiLanguageSpellData['en'][1224408] = {name = "Cooking", additional_info = "Channeled (0 sec cast)\n[q]Open the Classic Cooking menu."}
 MultiLanguageSpellData['en'][1224415] = {name = "Cooking", additional_info = "Instant\n[q]Open the Classic Cooking menu."}
 MultiLanguageSpellData['en'][1224421] = {name = "Cooking", additional_info = "Channeled (0 sec cast)\n[q]Open the Classic Cooking menu."}
 MultiLanguageSpellData['en'][1224427] = {name = "Hold Clipboard and Quill", additional_info = nil}
+MultiLanguageSpellData['en'][1224429] = {name = "Gravity Bomb", additional_info = "100 yd range\nInstant\n[q]Pull enemies to the bomb's destination, and slow movement speed by 80%."}
+MultiLanguageSpellData['en'][1224433] = {name = "Throw Gravity Bomb", additional_info = "100 yd range\n{Instant} {12 sec cooldown}\n[q]Pull enemies to the bomb's destination, and slow movement speed by 80%."}
 MultiLanguageSpellData['en'][1224434] = {name = "Spitzy", additional_info = "Instant\n[q]Bring forth your own little sea slug friend."}
 MultiLanguageSpellData['en'][1224443] = {name = "Shakedown", additional_info = nil}
 MultiLanguageSpellData['en'][1224444] = {name = "Disposable Hamburger", additional_info = "Instant\n[q]Hold a hamburger."}
 MultiLanguageSpellData['en'][1224445] = {name = "Disposable Hamburger", additional_info = "Instant\n[q]Hold a hamburger."}
+MultiLanguageSpellData['en'][1224450] = {name = "Pyrotechnics Spray", additional_info = "100 yd range\n{Instant} {6 sec cooldown}\n[q]Deal Fire damage in a forward cone every 0.5 sec."}
 MultiLanguageSpellData['en'][1224451] = {name = "A Fire Inside", additional_info = "[q]Fire"}
+MultiLanguageSpellData['en'][1224456] = {name = "Cut of the Curseblade", additional_info = "[q]Your autoattacks do an additional 7 Shadow damage."}
+MultiLanguageSpellData['en'][1224457] = {name = "Shadow Quake", additional_info = "[q]Your first melee strike against an enemy slams them and nearby enemies with a quake of shadow magic dealing up to [ 248 * ( 250 / 100)] Shadow damage split between them."}
+MultiLanguageSpellData['en'][1224458] = {name = "Draining Essence", additional_info = "[q]When a nearby enemy or devout ally falls, you siphon a portion of their soul to gain 4 Intellect for 10 min."}
+MultiLanguageSpellData['en'][1224459] = {name = "Shadowalker's Aegis", additional_info = "[q]When an ally falls below 20 % health you shield them in darkness absorbing the next 446 damage taken.\n\n This effect can trigger once every 30 sec and does not target devout allies."}
+MultiLanguageSpellData['en'][1224463] = {name = "One of the Devout", additional_info = "[q]Being one of the devout grants an additional 4 <Primary Stat>."}
 MultiLanguageSpellData['en'][1224465] = {name = "On High Alert", additional_info = "Instant\n[q]Protecting a forbidden area, disguises won't work."}
+MultiLanguageSpellData['en'][1224480] = {name = "Radiant Inspiration", additional_info = "Instant\n[q]Your presence inspires the recruits and soldiers of the Flame's Radiance."}
+MultiLanguageSpellData['en'][1224481] = {name = "Rally", additional_info = "21 yd range\n1.5 sec cast\n[q]Rally the nearby soldiers of the Flame's Radiance with their faith in the Sacred Flame!"}
+MultiLanguageSpellData['en'][1224491] = {name = "Repeatable Event - Dastardly Duos - Sky Dive", additional_info = nil}
 MultiLanguageSpellData['en'][1224492] = {name = "Voltaic Image", additional_info = "Channeled (12 sec cast)\n[q]Torq summons electric images of himself that fixate players for 12 sec. Upon contact, the image explodes, inflicting 4611798 Nature damage to players within 10 yards and creating Lingering Electricity ."}
+MultiLanguageSpellData['en'][1224493] = {name = "Repeatable Event - Dastardly Duos - Sky Dive, Launch", additional_info = nil}
+MultiLanguageSpellData['en'][1224495] = {name = "Sky Dive", additional_info = "10 - 40 yd range\nInstant\n[q]Dive into nearby enemies and inflict 65 Physical damage."}
+MultiLanguageSpellData['en'][1224502] = {name = "Investigating", additional_info = nil}
+MultiLanguageSpellData['en'][1224508] = {name = "Repeatable Event - Dastardly Duos - Sky Dive, Land", additional_info = "Unlimited range\nInstant\n[q]Dive into nearby enemies and inflict 65 Physical damage."}
 MultiLanguageSpellData['en'][1224511] = {name = "<DNT>", additional_info = nil}
 MultiLanguageSpellData['en'][1224526] = {name = "Knocked Out", additional_info = nil}
+MultiLanguageSpellData['en'][1224534] = {name = "Faceless Mask of Vengeance", additional_info = nil}
+MultiLanguageSpellData['en'][1224537] = {name = "Faceless Mask of Vengeance", additional_info = nil}
+MultiLanguageSpellData['en'][1224539] = {name = "Faceless Mask of Vengeance", additional_info = nil}
+MultiLanguageSpellData['en'][1224540] = {name = "Pious Pursuit", additional_info = "Instant\n[q]Charges towards their current target and deals 0 Holy damage to all enemies 0 yards nearby."}
+MultiLanguageSpellData['en'][1224541] = {name = "Pious Pursuit", additional_info = "40 yd range\n{1 sec cast} {15 sec cooldown}\n[q]Charges towards their current target and deals 0 Holy damage to all enemies 0 yards nearby."}
+MultiLanguageSpellData['en'][1224544] = {name = "Void Resonance", additional_info = nil}
+MultiLanguageSpellData['en'][1224551] = {name = "Vengeance", additional_info = "Instant\n[q]Fills allies within 30 yards with vengeance upon death, increasing their damage done by 0% for until canceled. Stacks."}
 MultiLanguageSpellData['en'][1224560] = {name = "Winning Streak!", additional_info = "Instant\n[q]Your spells and abilities have a chance to activate a Winning Streak! increasing the damage of your Templar's Verdict and Divine Storm by 2% stacking up to 10 times. Spending Holy Power on damaging abilities has a 12% chance to remove Winning Streak!"}
 MultiLanguageSpellData['en'][1224561] = {name = "<DNT>", additional_info = nil}
+MultiLanguageSpellData['en'][1224564] = {name = "Cosmetic", additional_info = nil}
+MultiLanguageSpellData['en'][1224566] = {name = "Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1224569] = {name = "Tock the Clocker Spaniel", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][1224581] = {name = "Emote State - Dance", additional_info = nil}
 MultiLanguageSpellData['en'][1224583] = {name = "Immunity", additional_info = nil}
@@ -8636,30 +9008,67 @@ MultiLanguageSpellData['en'][1224672] = {name = "Sleep (bigger Z's)", additional
 MultiLanguageSpellData['en'][1224674] = {name = "Frostshatter Spear", additional_info = "300 yd range\nInstant\n[q]A lethal ice spear launches at the afflicted player, inflicting 41925435 Frost damage. Frostshatter Spear impacts the first player, Earthshaker Gaol wall, or Unstable Crawler Mine hit, freezing them for 30 sec."}
 MultiLanguageSpellData['en'][1224708] = {name = "Create Trait Config", additional_info = nil}
 MultiLanguageSpellData['en'][1224715] = {name = "Set Health 10%", additional_info = nil}
+MultiLanguageSpellData['en'][1224728] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium", additional_info = nil}
 MultiLanguageSpellData['en'][1224752] = {name = "Map", additional_info = nil}
 MultiLanguageSpellData['en'][1224766] = {name = "Web Spreaders", additional_info = "Instant\n[q]Web Spreaders are surrounded by webs. Standing in webs reduces movement speed and periodically spawns ambushers. Attack the Web Spreaders to temporarily retract the webbing."}
+MultiLanguageSpellData['en'][1224775] = {name = "Necklace of the Devout", additional_info = "[q]You are one of the devout. Increases the effectiveness of Sacred Flame's Ward by 100%.\n\nSacred Flame's Ward :\nWhile in Khaz Algar, dealing damage has a high chance of burning the enemy with righteous fire dealing 2 Radiant damage. In addition, you take 5% less damage."}
 MultiLanguageSpellData['en'][1224810] = {name = "Master's Call", additional_info = "40 yd range\nInstant\n[q]Remove all root and movement impairing effects on the target, and cause them to be immune to all such effects for 4 sec."}
 MultiLanguageSpellData['en'][1224866] = {name = "ReadyUnarmed", additional_info = nil}
 MultiLanguageSpellData['en'][1224874] = {name = "Suicide", additional_info = nil}
 MultiLanguageSpellData['en'][1224881] = {name = "Emote State - Dance", additional_info = nil}
+MultiLanguageSpellData['en'][1224902] = {name = "Arathor Minister's Receptacle", additional_info = "[q]You are one of the devout. Up to 5 allies within 30 yd of you gain 16 health every 5 sec."}
 MultiLanguageSpellData['en'][1224915] = {name = "Emote State - Dance", additional_info = nil}
+MultiLanguageSpellData['en'][1225014] = {name = "Lifting", additional_info = nil}
+MultiLanguageSpellData['en'][1225018] = {name = "Heaving Heroics", additional_info = "Instant\n[q]Carry the Injured Recruit to a healer!"}
+MultiLanguageSpellData['en'][1225027] = {name = "Tribute", additional_info = nil}
+MultiLanguageSpellData['en'][1225029] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - Exit", additional_info = nil}
+MultiLanguageSpellData['en'][1225035] = {name = "Tribute", additional_info = nil}
+MultiLanguageSpellData['en'][1225036] = {name = "Tribute", additional_info = nil}
+MultiLanguageSpellData['en'][1225037] = {name = "Tribute", additional_info = nil}
+MultiLanguageSpellData['en'][1225038] = {name = "Twilight Devastation", additional_info = "Instant\nApproximately 1 procs per minute\n[q]Apply Lesser Rune of Twilight Devastation to a helm.\n\n Allows your attacks to have a chance to trigger a beam of Twilight Devastation, dealing up to ( 1 * 845195 * 3) Shadow damage to enemies in front of you.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2.\n(4s cooldown)"}
+MultiLanguageSpellData['en'][1225039] = {name = "Twilight Devastation", additional_info = "Instant\n[q]Apply Lesser Rune of Twilight Devastation to a helm.\n\n Allows your attacks to have a chance to trigger a beam of Twilight Devastation, dealing up to ( 1 * 845195 * 3) Shadow damage to enemies in front of you.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1225040] = {name = "Twilight Devastation", additional_info = "100 yd range\nInstant\n[q]Apply Lesser Rune of Twilight Devastation to a helm.\n\n Allows your attacks to have a chance to trigger a beam of Twilight Devastation, dealing up to ( 1 * 845195 * 3) Shadow damage to enemies in front of you.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1225042] = {name = "Twilight Devastation", additional_info = "[q]Apply Lesser Rune of Twilight Devastation to a helm.\n\n Allows your attacks to have a chance to trigger a beam of Twilight Devastation, dealing up to ( 1 * 845195 * 3) Shadow damage to enemies in front of you.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1225043] = {name = "Twilight Devastation", additional_info = "[q]Apply Lesser Rune of Twilight Devastation to a helm.\n\n Allows your attacks to have a chance to trigger a beam of Twilight Devastation, dealing up to ( 1 * 845195 * 3) Shadow damage to enemies in front of you.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1225045] = {name = "Twilight Devastation", additional_info = "[q]Apply Lesser Rune of Twilight Devastation to a helm.\n\n Allows your attacks to have a chance to trigger a beam of Twilight Devastation, dealing up to ( 1 * 845195 * 3) Shadow damage to enemies in front of you.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1225048] = {name = "Spawn", additional_info = nil}
+MultiLanguageSpellData['en'][1225049] = {name = "Spawn", additional_info = nil}
+MultiLanguageSpellData['en'][1225052] = {name = "Spawn", additional_info = nil}
+MultiLanguageSpellData['en'][1225053] = {name = "Spawn", additional_info = nil}
+MultiLanguageSpellData['en'][1225074] = {name = "Lesser Rune of Twilight Devastation", additional_info = "3.5 sec cast\nRequires Armor\n[q]Apply Lesser Rune of Twilight Devastation to a helm.\n\n Allows your attacks to have a chance to trigger a beam of Twilight Devastation, dealing up to ( 1 * 845195 * 3) Shadow damage to enemies in front of you.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1225111] = {name = "DNT Podium Vehicle Rec", additional_info = nil}
 MultiLanguageSpellData['en'][1225112] = {name = "Poke Boomball", additional_info = nil}
 MultiLanguageSpellData['en'][1225115] = {name = "Gatling Gun", additional_info = nil}
 MultiLanguageSpellData['en'][1225119] = {name = "Poke Boomball", additional_info = nil}
 MultiLanguageSpellData['en'][1225120] = {name = "Poke Boomball", additional_info = nil}
 MultiLanguageSpellData['en'][1225121] = {name = "Poke Boomball", additional_info = nil}
+MultiLanguageSpellData['en'][1225126] = {name = "Malefic Excerpt", additional_info = "{Instant} {1 sec cooldown}\n[q]Flip to the next section."}
+MultiLanguageSpellData['en'][1225138] = {name = "Healing Heave", additional_info = "Instant\n[q]Gently toss the Injured Recruit you're carrying. Aim for an Arathi Priest to revive them!"}
+MultiLanguageSpellData['en'][1225152] = {name = "Stomp on Vial", additional_info = nil}
 MultiLanguageSpellData['en'][1225164] = {name = "Giga Controls", additional_info = nil}
+MultiLanguageSpellData['en'][1225165] = {name = "Repeatable Event - Dastardly Duos - Podium - bunny", additional_info = nil}
+MultiLanguageSpellData['en'][1225168] = {name = "Corrupt the Blood", additional_info = "100 yd range\nInstant\n[q]Rupture deals an additional (2.5% of Attack power) Plague damage each time it deals damage, stacking up to 10 times. Rupture duration increased by 3 sec."}
 MultiLanguageSpellData['en'][1225186] = {name = "<DNT>", additional_info = nil}
 MultiLanguageSpellData['en'][1225198] = {name = "Play Movie", additional_info = nil}
 MultiLanguageSpellData['en'][1225206] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][1225207] = {name = "Electrical Storm", additional_info = nil}
 MultiLanguageSpellData['en'][1225223] = {name = "Bazooka Blast", additional_info = "{Instant} {1 sec cooldown}\n[q]Launch a projectile that destroys balloons."}
+MultiLanguageSpellData['en'][1225232] = {name = "Excerpt on Dark Summons", additional_info = "[q]Every 5 sec spent in combat pulls the shadows closer to you, granting Dark Whispers. After reaching 5 whispers, the shadows manifest and rip a creature out of the Twisting Nether to assist you in combat."}
+MultiLanguageSpellData['en'][1225233] = {name = "Excerpt on Sacrificial Rituals", additional_info = "[q]Every 5 sec spent in combat sacrifices 16 of your health to gain 13 <Primary Stat>. This effect can stack up to 3 times and lasts until combat ends."}
+MultiLanguageSpellData['en'][1225234] = {name = "Excerpt on Prophetic Death", additional_info = "[q]Every 5 sec spent in combat lashes a nearby enemy dealing 444 Shadow damage. This deals up to 100 % additional damage based on the enemy's missing health."}
+MultiLanguageSpellData['en'][1225236] = {name = "Coldflame Battlegear", additional_info = "Instant\n[q]Collect the appearances of the Coldflame Battlegear armor set."}
+MultiLanguageSpellData['en'][1225238] = {name = "Lavaborn Emerald Attire", additional_info = "Instant\n[q]Collect the appearances of the Lavaborn Emerald Attire armor set."}
+MultiLanguageSpellData['en'][1225239] = {name = "Lavaborn Battleplate", additional_info = "Instant\n[q]Collect the appearances of the Lavaborn Battleplate armor set."}
+MultiLanguageSpellData['en'][1225242] = {name = "Lavaborn Citrine Attire", additional_info = "Instant\n[q]Collect the appearances of the Lavaborn Citrine Attire armor set."}
 MultiLanguageSpellData['en'][1225298] = {name = "Loyal Customer", additional_info = "Instant\n[q]The Gallagio staff stacks the deck in your favor, increasing your damage dealt & healing done while inside Liberation of Undermine by 0%."}
 MultiLanguageSpellData['en'][1225299] = {name = "Loyal Customer", additional_info = "Instant\n[q]The Gallagio staff stacks the deck in your favor, increasing your damage dealt & healing done while inside Liberation of Undermine."}
 MultiLanguageSpellData['en'][1225300] = {name = "Loyal Customer", additional_info = "Instant\n[q]The Gallagio staff stacks the deck in your favor, increasing your damage dealt & healing done while inside Liberation of Undermine."}
 MultiLanguageSpellData['en'][1225301] = {name = "Fast Food", additional_info = "Instant\n[q]You eat food MUCH faster while inside the Liberation of Undermine. Take it to go!"}
 MultiLanguageSpellData['en'][1225326] = {name = "Placing", additional_info = nil}
+MultiLanguageSpellData['en'][1225339] = {name = "Web Strand", additional_info = "5 yd range\nInstant\n[q]Holding web wrapped around a Webbed Scout. Pull to free them!"}
+MultiLanguageSpellData['en'][1225375] = {name = "Grabbing Web", additional_info = nil}
 MultiLanguageSpellData['en'][1225377] = {name = "Necrotic Eruption", additional_info = "100 yd range\nChanneled (3.5 sec cast)\n[q]Kul'tharok unleashes necrotic energy at primary target, inflicts 3684465 Shadow damage to all players in front of him."}
+MultiLanguageSpellData['en'][1225380] = {name = "Shadecaster Projection", additional_info = "Instant\n[q]Establish a line of communication with a battlefield Shadecaster."}
 MultiLanguageSpellData['en'][1225537] = {name = "Time is Money", additional_info = "Instant\n[q]Movement Speed inside Liberation of Undermine by 0% while out of combat."}
 MultiLanguageSpellData['en'][1225540] = {name = "Time is Money", additional_info = "Instant\n[q]Movement Speed inside Liberation of Undermine while out of combat."}
 MultiLanguageSpellData['en'][1225542] = {name = "Time is Money", additional_info = "Instant\n[q]The Gallagio staff stacks the deck in your favor, increasing your damage dealt & healing done while inside Liberation of Undermine."}
@@ -8670,6 +9079,8 @@ MultiLanguageSpellData['en'][1225601] = {name = "<DNT>", additional_info = nil}
 MultiLanguageSpellData['en'][1225618] = {name = "G-99 Breakneck", additional_info = "Instant\n[q]Access the G-99 Breakneck."}
 MultiLanguageSpellData['en'][1225637] = {name = "Pyre Visual", additional_info = nil}
 MultiLanguageSpellData['en'][1225661] = {name = "Pyre Visual", additional_info = nil}
+MultiLanguageSpellData['en'][1225675] = {name = "Prohibition", additional_info = "Unlimited range\nInstant\n[q]Increases health."}
+MultiLanguageSpellData['en'][1225694] = {name = "Return", additional_info = nil}
 MultiLanguageSpellData['en'][1225712] = {name = "Gallywix", additional_info = nil}
 MultiLanguageSpellData['en'][1225720] = {name = "Gallywix", additional_info = nil}
 MultiLanguageSpellData['en'][1225721] = {name = "Gallywix", additional_info = nil}
@@ -8679,6 +9090,7 @@ MultiLanguageSpellData['en'][1225746] = {name = "Pyre Visual", additional_info =
 MultiLanguageSpellData['en'][1225747] = {name = "Pyre Visual", additional_info = nil}
 MultiLanguageSpellData['en'][1225749] = {name = "Pyre Visual", additional_info = nil}
 MultiLanguageSpellData['en'][1225753] = {name = "Engine: Controlled Cruiser", additional_info = "[q]For the driver that wants to enjoy the scenery.\n\n Significantly decreases top speed.\n Increases acceleration."}
+MultiLanguageSpellData['en'][1225768] = {name = "Chihuahua Summon - Set Display", additional_info = nil}
 MultiLanguageSpellData['en'][1225788] = {name = "Sacrificial Pyre", additional_info = nil}
 MultiLanguageSpellData['en'][1225790] = {name = "Automatic Footbomb Dispenser", additional_info = "Unlimited range\nInstant\n[q]Empty out the Dragon Games kickballs onto the field. Running into them kicks them at your enemy target, dealing 2709 Physical damage."}
 MultiLanguageSpellData['en'][1225791] = {name = "Automatic Footbomb Dispenser", additional_info = nil}
@@ -8686,20 +9098,34 @@ MultiLanguageSpellData['en'][1225809] = {name = "Cash Back", additional_info = "
 MultiLanguageSpellData['en'][1225816] = {name = "Sacrificial Pyre", additional_info = nil}
 MultiLanguageSpellData['en'][1225828] = {name = "Cosmetic Visual", additional_info = nil}
 MultiLanguageSpellData['en'][1225858] = {name = "Bear Summon", additional_info = nil}
+MultiLanguageSpellData['en'][1225873] = {name = "Greater Rune of the Echoing Void", additional_info = "3.5 sec cast\nRequires Armor\n[q]Apply Greater Rune of the Echoing Void to a helm.\n\n Your damaging abilities build the Echoing Void. Each time it builds, Echoing Void has a chance to collapse, dealing ( 1 * 72445) Shadow damage to all nearby enemies every 1 sec until no stacks remain.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1225877] = {name = "Purple Murloc Disguise", additional_info = nil}
+MultiLanguageSpellData['en'][1225878] = {name = "Echoing Void", additional_info = "[q]Apply Greater Rune of the Echoing Void to a helm.\n\n Your damaging abilities build the Echoing Void. Each time it builds, Echoing Void has a chance to collapse, dealing ( 1 * 72445) Shadow damage to all nearby enemies every 1 sec until no stacks remain.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1225879] = {name = "Echoing Void", additional_info = "[q]Apply Greater Rune of the Echoing Void to a helm.\n\n Your damaging abilities build the Echoing Void. Each time it builds, Echoing Void has a chance to collapse, dealing ( 1 * 72445) Shadow damage to all nearby enemies every 1 sec until no stacks remain.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1225880] = {name = "Echoing Void", additional_info = "[q]Apply Greater Rune of the Echoing Void to a helm.\n\n Your damaging abilities build the Echoing Void. Each time it builds, Echoing Void has a chance to collapse, dealing ( 1 * 72445) Shadow damage to all nearby enemies every 1 sec until no stacks remain.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1225883] = {name = "Echoing Void", additional_info = "Instant\nApproximately 20 procs per minute\n[q]Apply Greater Rune of the Echoing Void to a helm.\n\n Your damaging abilities build the Echoing Void. Each time it builds, Echoing Void has a chance to collapse, dealing ( 1 * 72445) Shadow damage to all nearby enemies every 1 sec until no stacks remain.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1225884] = {name = "Red Fox Disguise", additional_info = nil}
+MultiLanguageSpellData['en'][1225886] = {name = "Echoing Void", additional_info = "Instant\n[q]Apply Greater Rune of the Echoing Void to a helm.\n\n Your damaging abilities build the Echoing Void. Each time it builds, Echoing Void has a chance to collapse, dealing ( 1 * 72445) Shadow damage to all nearby enemies every 1 sec until no stacks remain.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1225887] = {name = "Echoing Void", additional_info = "Instant\n[q]Apply Greater Rune of the Echoing Void to a helm.\n\n Your damaging abilities build the Echoing Void. Each time it builds, Echoing Void has a chance to collapse, dealing ( 1 * 72445) Shadow damage to all nearby enemies every 1 sec until no stacks remain.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1225888] = {name = "Blue Shark Disguise", additional_info = nil}
+MultiLanguageSpellData['en'][1225889] = {name = "Echoing Void", additional_info = "Instant\n[q]Apply Greater Rune of the Echoing Void to a helm.\n\n Your damaging abilities build the Echoing Void. Each time it builds, Echoing Void has a chance to collapse, dealing ( 1 * 72445) Shadow damage to all nearby enemies every 1 sec until no stacks remain.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
 MultiLanguageSpellData['en'][1225919] = {name = "Rally", additional_info = nil}
 MultiLanguageSpellData['en'][1225925] = {name = "Trick Shots", additional_info = "Unlimited range\n1.5 sec cast\n[q]Gallywix gains a stack of Trick Shots every 4 sec.\n\n Upon reaching 10 stacks or when changing primary target all shots release inflicting 3354035 Physical damage and an additional 587001 Fire damage every 1 sec for 9 sec, each. This effect stacks, and cannot be dodged."}
 MultiLanguageSpellData['en'][1225926] = {name = "Ego Check", additional_info = "Instant\n[q]Gallywix gives his current target a 4-hit knuckle sandwich, inflicting 13416139 Physical damage each strike. These blows cannot be dodged or parried.\n\n Additionally 75% of unmitigated damage is inflicted as a Checked Ego ."}
 MultiLanguageSpellData['en'][1225927] = {name = "Experimental Plating", additional_info = nil}
 MultiLanguageSpellData['en'][1225928] = {name = "Experimental Plating", additional_info = "Instant\n[q]The crawler mine is covered in experimental plating, granting immunity to all damage.\n\n Upon reaching 100 energy, the mine becomes immune to crowd control effects and gains 200% movement speed."}
-MultiLanguageSpellData['en'][1225929] = {name = "Lunar Fortune", additional_info = "Instant\n[q]The Luck of the Moon! +5 Health."}
+MultiLanguageSpellData['en'][1225929] = {name = "Lunar Fortune", additional_info = "Instant\n[q]The Luck of the Moon! Maximum health increased by 5%. Only usable outdoors."}
 MultiLanguageSpellData['en'][1225930] = {name = "Spray and Pray", additional_info = "60 yd range\nInstant\n[q]Zee unleashes a cone of bullets at a player, inflicting 1257763 Physical damage every 0.3 for 3 sec to players standing within the effect and detonating any hit Unstable Crawler Mines ."}
 MultiLanguageSpellData['en'][1225931] = {name = "Stormfury Finger Gun", additional_info = "300 yd range\nInstant\n[q]Mug fulminates lightning outward from his finger, inflicting 2515526 Nature damage in a frontal cone every 0.5 sec for 4 sec.\n\n The excess electricity in the area creates a Stormfury Cloud ."}
 MultiLanguageSpellData['en'][1225932] = {name = "Head Honcho: Mug'Zee", additional_info = nil}
 MultiLanguageSpellData['en'][1225933] = {name = "Stormfury Finger Gun", additional_info = "300 yd range\nInstant\n[q]Mug fulminates lightning outward from his finger, inflicting 2515526 Nature damage in a frontal cone every 0.5 sec for 4 sec.\n\n The excess electricity in the area creates a Stormfury Cloud ."}
 MultiLanguageSpellData['en'][1225935] = {name = "Trick Shots", additional_info = "Unlimited range\n1.5 sec cast\n[q]Gallywix gains a stack of Trick Shots every 4 sec.\n\n Upon reaching 10 stacks or when changing primary target all shots release inflicting 3354035 Physical damage and an additional 587001 Fire damage every 1 sec for 9 sec, each. This effect stacks, and cannot be dodged."}
+MultiLanguageSpellData['en'][1225990] = {name = "Protection of the Bronze", additional_info = "40 yd range\nInstant\n[q]Infuses the target with vitality, increasing their Stamina by 5% for 1 hour.\n\n If the target is in your party, all party members will be affected."}
+MultiLanguageSpellData['en'][1225992] = {name = "Stitch", additional_info = "40 yd range\nInstant\n[q]Slowly reverses damage on the target, healing them instantly for 0 and then 2 over 15 sec."}
 MultiLanguageSpellData['en'][1226009] = {name = "Flames", additional_info = "Instant\n[q]Inflicts Fire damage."}
 MultiLanguageSpellData['en'][1226014] = {name = "Fire", additional_info = nil}
 MultiLanguageSpellData['en'][1226017] = {name = "Fire", additional_info = nil}
+MultiLanguageSpellData['en'][1226057] = {name = "Destroying", additional_info = nil}
 MultiLanguageSpellData['en'][1226058] = {name = "Luck of the Draw!", additional_info = "Instant\n[q]When you gain Luck of the Draw! , your next 2 casts of Blackout Kick deal 250% increased damage and incur a 2.0 sec reduced cooldown."}
 MultiLanguageSpellData['en'][1226078] = {name = "<DNT> Play Conversation", additional_info = nil}
 MultiLanguageSpellData['en'][1226254] = {name = "Placing trophy", additional_info = "5 yd range\n2 sec cast\n[q]Issuing your Challenge."}
@@ -8707,17 +9133,30 @@ MultiLanguageSpellData['en'][1226257] = {name = "Placing trophy", additional_inf
 MultiLanguageSpellData['en'][1226258] = {name = "Placing trophy", additional_info = "5 yd range\n2 sec cast\n[q]Issuing your Challenge."}
 MultiLanguageSpellData['en'][1226259] = {name = "Collecting", additional_info = nil}
 MultiLanguageSpellData['en'][1226262] = {name = "Dwarven Medicine", additional_info = "Unlimited range\nInstant\n[q]Brann throws healing potions near injured players that restores a moderate amount of health upon walking through them."}
+MultiLanguageSpellData['en'][1226268] = {name = "Port to Staging Area (visual on self)", additional_info = nil}
 MultiLanguageSpellData['en'][1226270] = {name = "Steel Traps", additional_info = "Unlimited range\nInstant\n[q]Brann hurls steel traps that snaps shut on the first enemy that approaches, wounding them for moderate Physical damage instantly and additional Bleed damage over time."}
+MultiLanguageSpellData['en'][1226272] = {name = "Deteriorate", additional_info = "40 yd range\nInstant\n[q]Causes the target to suffer 3 Arcane damage over 16 sec."}
 MultiLanguageSpellData['en'][1226288] = {name = "Trick Shots", additional_info = "Unlimited range\nInstant\n[q]Gallywix gains a stack of Trick Shots every 4 sec.\n\n Upon reaching 10 stacks or when changing primary target all shots release inflicting 3354035 Physical damage and an additional 587001 Fire damage every 1 sec for 9 sec, each. This effect stacks, and cannot be dodged."}
 MultiLanguageSpellData['en'][1226305] = {name = "Thrrrdgl", additional_info = "Instant\n[q]Right Click to summon and dismiss Thrrrdgl."}
 MultiLanguageSpellData['en'][1226371] = {name = "Tier 11", additional_info = "Instant\n[q][Recommended for adventurers who want an unfathomable challenge.][Recommended for adventurers who want an unfathomable challenge.][Requires completion of a Tier 10 delve with lives remaining.]"}
+MultiLanguageSpellData['en'][1226381] = {name = "General Defensive Passive - Plate", additional_info = nil}
+MultiLanguageSpellData['en'][1226412] = {name = "Ada the Sweetest", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1226421] = {name = "Radiant Imperial Lynx", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The Radiant Imperial Lynx embodies the ongoing strength and courage it takes to chase back the darkness. They hoist us up so that we may hold our torches high for all who seek refuge from the encroaching darkness.\"\nVendor:\nLars Bronsmaelt\nZone:\nHallowfall"}
 MultiLanguageSpellData['en'][1226424] = {name = "AI Cast AoE", additional_info = nil}
+MultiLanguageSpellData['en'][1226426] = {name = "Interpreting", additional_info = "3 sec cast\n[q]Unlocks this customization option for the Delver's Dirigible at the Rostrum of Transformation."}
+MultiLanguageSpellData['en'][1226429] = {name = "Interpreting", additional_info = "3 sec cast\n[q]Unlocks this customization option for the Delver's Dirigible at the Rostrum of Transformation."}
 MultiLanguageSpellData['en'][1226482] = {name = "Path of the Full House", additional_info = "10 sec cast 8 hrs cooldown\n[q]Teleport to the entrance of the Liberation of Undermine."}
 MultiLanguageSpellData['en'][1226483] = {name = "Hero's Path", additional_info = nil}
 MultiLanguageSpellData['en'][1226487] = {name = "Focus Greatstaff", additional_info = "Unlimited range\nInstant\n[q]Incur the ire of Diurna's weapon, consuming one charge of Greatstaff's Wrath. The weapon sends a focused beam of storm energy into the ground which pursues the player, inflicting 20 Nature damage to players within 3 yards every half-second during pursuit."}
 MultiLanguageSpellData['en'][1226488] = {name = "Discharged Giga Bomb", additional_info = "Unlimited range\nInstant\n[q]Inflicts 922360 Nature damage every 3 sec to the nearest 5 players.\n\n Upon interaction gain Discharged Giga Bomb, instead suffering 922360 Nature damage every 1.5 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1226489] = {name = "Overloaded Rockets", additional_info = "Unlimited range\nInstant\n[q]The blast lights the good stuff attaching some OL rockets to unsuspecting fools for 6 sec .\n\n Upon removal these rockets blast out in indicated directions inflicting 2934780 Fire damage every second for 9 sec to impacted players, knocking them back."}
 MultiLanguageSpellData['en'][1226498] = {name = "Inspecting", additional_info = nil}
+MultiLanguageSpellData['en'][1226511] = {name = "Spring Harvesthog", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The Spring Harvesthog is at it's most energetic in the early morning. It will spend most of it's day snuffling for food or bellowing out calls for other harvesthogs.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1226531] = {name = "Summer Harvesthog", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The Summer Harvesthog enjoys laying out in the sun or going for a swim in a clear lake. They are excellent at foraging for food, but need to be coaxed into it.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1226532] = {name = "Winter Harvesthog", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Winter Harvesthogs are primarily nocturnal creatures. They are slightly slower than other harvesthogs, but their endurance is unmatched.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1226533] = {name = "Autumn Harvesthog", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Autumn Harvesthogs excel in snuffling for food in the cooler months. Their keen sense of smell makes them excellent companions for a forrest forage, but difficult to control in aromatic settings.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1226535] = {name = "11.1.5 Repeatable Events - Dastardly Duos - Bots - Enable", additional_info = nil}
+MultiLanguageSpellData['en'][1226536] = {name = "11.1.5 Repeatable Events - Dastardly Duos - Bots - Disable", additional_info = nil}
 MultiLanguageSpellData['en'][1226597] = {name = "Fling Giga Bomb", additional_info = "100 yd range\nInstant\n[q]Ditch the Giga Bomb you are holding."}
 MultiLanguageSpellData['en'][1226609] = {name = "Pacifistic Rocket", additional_info = "Unlimited range\nInstant\n[q]Deals (10% of Attack power) Fire damage."}
 MultiLanguageSpellData['en'][1226611] = {name = "Pacifistic Rocket", additional_info = "Unlimited range\nInstant\n[q]Deals (1000% of Attack power) Fire damage."}
@@ -8730,6 +9169,8 @@ MultiLanguageSpellData['en'][1226627] = {name = "Giga Bomb", additional_info = "
 MultiLanguageSpellData['en'][1226633] = {name = "Fling Giga Bomb", additional_info = "100 yd range\nInstant\n[q]Ditch the Giga Bomb you are holding."}
 MultiLanguageSpellData['en'][1226634] = {name = "Fling Giga Bomb", additional_info = "100 yd range\nInstant\n[q]Ditch the Giga Bomb you are holding."}
 MultiLanguageSpellData['en'][1226645] = {name = "Pacifistic Rocket", additional_info = "Unlimited range\nInstant\n[q]Deals (15.4095% of Attack power) Fire damage."}
+MultiLanguageSpellData['en'][1226650] = {name = "[q3]Void-Crystal Panther", additional_info = "2 sec cast 2\nTools: Jeweler's Tools\nReagents:\nVoid-Bound Orb of Mystery , Unusual Gems , Shadow Infused Onyx (20), Black Blood Infused Bar (4)\nDrop:\nBig Keech\nZone:\nVision of Orgrimmar\n\n[q3]Void-Crystal Panther\n[q7]Binds to Warband\nMount[q0](Account-wide)\n[q2]Use: Teaches you how to summon this mount. This mount will fly or run, depending on your riding skill and location.\n[q2]Summons and dismisses a rideable Void-Crystal Panther.\n1 to 80 ( 80)\nRequires\n[q]\"Although many precious gems have been corrupted by void energies in horrific visions, Master Jewelcrafters can still utilize them to craft mighty panther steeds.\"\nProfession:\nJewelcrafting"}
+MultiLanguageSpellData['en'][1226662] = {name = "Crusading Strikes", additional_info = nil}
 MultiLanguageSpellData['en'][1226665] = {name = "Incontinental Hot Sauce", additional_info = "Instant\nApproximately 1 procs per minute\n[q]Your attacks have a low chance to unleash spicy hot flames upon your enemies, dealing 109750 Fire damage. This is increased by 33% for each Well Fed, Flask, and Potion active."}
 MultiLanguageSpellData['en'][1226666] = {name = "Incontinental Hot Sauce", additional_info = "Unlimited range\nInstant\n[q]Your attacks have a low chance to unleash spicy hot flames upon your enemies, dealing 109750 Fire damage. This is increased by 33% for each Well Fed, Flask, and Potion active."}
 MultiLanguageSpellData['en'][1226667] = {name = "Incontinental Hot Sauce", additional_info = "Instant\n[q]Your attacks have a low chance to unleash spicy hot flames upon your enemies, dealing extra Fire damage. This damage is increased for each Well Fed, Flask, and Potion buff active."}
@@ -8740,15 +9181,94 @@ MultiLanguageSpellData['en'][1226677] = {name = "Cartel Jumper Cables", addition
 MultiLanguageSpellData['en'][1226678] = {name = "Cartel Jumper Cables", additional_info = nil}
 MultiLanguageSpellData['en'][1226679] = {name = "Cartel Jumper Cables", additional_info = "Instant\n[q]The Cartels of Undermine have smuggled you in a pair of Jumper Cables, allowing you to resurrect once every 30 minutes while out of combat."}
 MultiLanguageSpellData['en'][1226680] = {name = "Cutting Beam", additional_info = "100 yd range\nInstant\n[q]Unleashes a beam of lightning, inflicting 3684465 Nature damage every 1.5 sec to anyone under King Mechagon.\n\n In addition, a pulse of lightning is unleashed every 0.5 sec for 6 sec, inflicting 294758 Nature damage to all players."}
+MultiLanguageSpellData['en'][1226727] = {name = "Malefic Excerpt", additional_info = "Instant\n[q]Flip to the next section."}
+MultiLanguageSpellData['en'][1226728] = {name = "Malefic Excerpt", additional_info = "Instant\n[q]Flip to the next section."}
+MultiLanguageSpellData['en'][1226729] = {name = "Malefic Excerpt", additional_info = "Instant\n[q]Flip to the next section."}
+MultiLanguageSpellData['en'][1226740] = {name = "Coldflame Cormaera", additional_info = "1.5 sec cast\n[q]Summons and dismisses a Coldflame Cormaera. This mount changes depending on your Riding skill and location.\n[q]\"During the war of the elemental lords, Cormaera were often used as beasts of burden for the Firelord's most loyal lieutenants.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1226743] = {name = "Weechi", additional_info = "Instant\n[q]Right Click to summon and dismiss this customizable companion."}
+MultiLanguageSpellData['en'][1226749] = {name = "Hallowed Tome", additional_info = "{Instant} {1 sec cooldown}\n[q]Flip to the next section."}
+MultiLanguageSpellData['en'][1226753] = {name = "Flame's Warmth", additional_info = "100 yd range\nInstant\n[q]Arathi Priest is healing you every 1 second for 5 while you stand nearby."}
+MultiLanguageSpellData['en'][1226754] = {name = "Hallowed Tome", additional_info = "Instant\n[q]Flip to the next section."}
+MultiLanguageSpellData['en'][1226755] = {name = "Hallowed Tome", additional_info = "Instant\n[q]Flip to the next section."}
+MultiLanguageSpellData['en'][1226756] = {name = "Hallowed Tome", additional_info = "Instant\n[q]Flip to the next section."}
+MultiLanguageSpellData['en'][1226757] = {name = "Hallowed Tome", additional_info = "Instant\n[q]Flip to the next section."}
+MultiLanguageSpellData['en'][1226759] = {name = "Repeatable Events - Dastardly Duos - Reward Chest - Already Opened", additional_info = nil}
+MultiLanguageSpellData['en'][1226760] = {name = "Prophet's Great Raven", additional_info = "1.5 sec cast\n[q]Summons and dismisses the Prophet's Great Raven.\n[q]\"As the Prophet, Medivh delivered his missives in the form of a black raven. Although not as impressive as shapeshifting, this bird still carries all the prestige of its namesake.\"\nIn-Game Shop"}
+MultiLanguageSpellData['en'][1226767] = {name = "Repeatable Event - Dastardly Duos - Port to Camp - from Dome (prompt)", additional_info = "Instant\n[q]Teleport to the Dastardly Duos camp?"}
+MultiLanguageSpellData['en'][1226774] = {name = "Restore Sanity", additional_info = "Instant\n[q]Within an area too terrifying to withstand."}
 MultiLanguageSpellData['en'][1226805] = {name = "Radiant", additional_info = nil}
 MultiLanguageSpellData['en'][1226806] = {name = "Radiant", additional_info = nil}
+MultiLanguageSpellData['en'][1226847] = {name = "Repeatable Event - Dastardly Duos - Rideable Vehicle - UNUSED", additional_info = "Unlimited range\nInstant\n[q]Ride a vehicle during a Dastardly Duos fight."}
+MultiLanguageSpellData['en'][1226851] = {name = "Felborn Cormaera", additional_info = "1.5 sec cast\n[q]Summons and dismisses a Felborn Cormaera. This mount changes depending on your Riding skill and location.\n[q]\"Cormaera were an early species on Azeroth that were claimed by elemental lords.\"\nPromotion"}
+MultiLanguageSpellData['en'][1226855] = {name = "Molten Cormaera", additional_info = "1.5 sec cast\n[q]Summons and dismisses a Molten Cormaera. This mount changes depending on your Riding skill and location.\n[q]\"In the earliest days of Azeroth, these elemental predators dominated the inferno-choked skies of Ragnaros's domain.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1226856] = {name = "Lavaborn Cormaera", additional_info = "1.5 sec cast\n[q]Summons and dismisses a Lavaborn Cormaera. This mount changes depending on your Riding skill and location.\n[q]\"Under the eye of the elemental lords, many chimaera were twisted by their forces and became loyal mounts and partners.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1226860] = {name = "Repeatable Event - Dastardly Duos - Rideable Vehicle - Drive (Master Key)", additional_info = "50 yd range\nInstant\n[q]Ride a vehicle during a Dastardly Duos fight."}
 MultiLanguageSpellData['en'][1226890] = {name = "Circuit Reboot", additional_info = "Instant\n[q]Stunned."}
 MultiLanguageSpellData['en'][1226891] = {name = "Circuit Reboot", additional_info = "Instant\n[q]Stunned."}
+MultiLanguageSpellData['en'][1226917] = {name = "Shadow Eruption", additional_info = "30 yd range\n{2 sec cast} {12 sec cooldown}\n[q]Darkness erupts beneath an enemy every 1.5 sec for 3 sec inflicting 48 Shadow damage to enemies in the area."}
+MultiLanguageSpellData['en'][1226918] = {name = "Shadow Eruption", additional_info = nil}
+MultiLanguageSpellData['en'][1226919] = {name = "Shadow Eruption", additional_info = "100 yd range\nInstant\n[q]Darkness erupts beneath an enemy every 1.5 sec for 3 sec inflicting 48 Shadow damage to enemies in the area."}
+MultiLanguageSpellData['en'][1226941] = {name = "Fear the Dark", additional_info = "5 yd range\n{3 sec cast} {13 sec cooldown}\n[q]Fears enemies within 5 yards of the impact for 3 sec.\n Inflicts 20 Shadow damage to enemies within 5 yards of the impact."}
+MultiLanguageSpellData['en'][1226942] = {name = "Mister Mans", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1226943] = {name = "Bitter Darkness", additional_info = "30 yd range\n{2 sec cast} {12 sec cooldown}\n[q]Increases an enemy's damage taken for 20 sec."}
+MultiLanguageSpellData['en'][1226945] = {name = "Umbral Slash", additional_info = "15 yd range\n{3 sec cast} {13 sec cooldown}\n[q]Inflicts 22 Shadow damage to all enemies in front of the caster."}
+MultiLanguageSpellData['en'][1226946] = {name = "Blind Madness", additional_info = "{1 sec cast} {22 sec cooldown}\n[q]Increase an ally's attack speed by 100% for 20 sec."}
+MultiLanguageSpellData['en'][1226947] = {name = "Opressive Darkness", additional_info = "10 yd range\n{2 sec cast} {12 sec cooldown}\n[q]Inflict 125 Shadow damage to an enemy and remove 1 beneficial Magic effect."}
+MultiLanguageSpellData['en'][1226948] = {name = "Gloom Shield", additional_info = "{1 sec cast} {14 sec cooldown}\n[q]Deflect all ranged attacks and completely block all attacks for 3 sec. Attackers suffer 20 Shadow damage."}
+MultiLanguageSpellData['en'][1226949] = {name = "Shadow Shot", additional_info = "30 yd range\n{2 sec cast} {2 sec cooldown}\n[q]Inflicts Shadow damage to an enemy."}
+MultiLanguageSpellData['en'][1226969] = {name = "Breath of Sindragosa", additional_info = "Instant\n[q]Continuously deal [(116.49% of Attack power) * [(Attack power * 0.98)][((Attack power + Offhand attack power) * 2 / 3)] -- 2H, DW / Attack power] Frost damage every 1 sec to enemies in a cone in front of you, until your Runic Power is exhausted. Deals reduced damage to secondary targets.\n\nGenerates 2 Rune at the start and end."}
+MultiLanguageSpellData['en'][1226983] = {name = "Archmage's Great Raven", additional_info = "1.5 sec cast\n[q]Summons and dismisses the Archmage's Great Raven.\n[q]\"Perhaps a little older and a bit more gray instead of customary darkened midnight, this raven still represents one of the most powerful arcane masters of Azeroth, the Guardian Khadgar.\"\nIn-Game Shop"}
+MultiLanguageSpellData['en'][1226995] = {name = "Under Cover of Darkness", additional_info = "{Instant} {3 sec cooldown}\n[q]Leap backwards quickly and causes the caster to take 30% reduced damage for 10 sec."}
+MultiLanguageSpellData['en'][1227006] = {name = "Echoing Shade", additional_info = "10 yd range\n{Instant} {13 sec cooldown}\n[q]Inflicts 8 Shadow damage to all enemies in front of the caster."}
+MultiLanguageSpellData['en'][1227010] = {name = "Echoing Shade", additional_info = "30 yd range\n{2 sec cast} {12 sec cooldown}\n[q]Firing darkness forwards every 1 sec for 3 sec inflicting 8 Shadow damage to enemies in the area."}
+MultiLanguageSpellData['en'][1227016] = {name = "Scourge Strike", additional_info = nil}
+MultiLanguageSpellData['en'][1227017] = {name = "Scourge Strike", additional_info = nil}
+MultiLanguageSpellData['en'][1227025] = {name = "Festering Wound", additional_info = nil}
+MultiLanguageSpellData['en'][1227030] = {name = "Dastardly Banner", additional_info = "5 yd range\nInstant\n[q]Plant the Dastardly Banner."}
 MultiLanguageSpellData['en'][1227060] = {name = "Refreshment", additional_info = "40 yd range\nInstant\n[q]Restores ( 630000 / 5 * 15) health over 15 sec. If you spend at least 15 seconds eating you will feel the love and gain a boost in morale for 2 hrs."}
 MultiLanguageSpellData['en'][1227061] = {name = "Crunching", additional_info = "Instant\n[q]Restores ( 630000 / 5 * 15) health over 15 sec."}
 MultiLanguageSpellData['en'][1227062] = {name = "Thrill of the Fight", additional_info = "Instant\n[q]After consuming both enhancements, gain Thrill of the Fight, increasing your attack speed by 15% for 20 sec and your damage and healing by 15% for 10 sec."}
+MultiLanguageSpellData['en'][1227063] = {name = "Winner's Podium", additional_info = "100 yd range\n1 sec cast\n[q]Place a Winner's Podium and show off!"}
+MultiLanguageSpellData['en'][1227066] = {name = "Spicy Mean-Ball", additional_info = "Instant\n[q]Right Click to summon and dismiss Spicy Mean-Ball."}
+MultiLanguageSpellData['en'][1227073] = {name = "Winner's Podium, High Score", additional_info = "100 yd range\nInstant\n[q]Place a Winner's Podium and show off your highest score!"}
+MultiLanguageSpellData['en'][1227074] = {name = "Gain Measure: Average Item Level", additional_info = "100 yd range\n1 sec cast"}
+MultiLanguageSpellData['en'][1227076] = {name = "Tyrannotort", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Vinnie Sweets kept this rare, albino turtle a secret, saving until it was time to help promote Dastardly Duos.\"\nQuest:\nAnother Amazing Week!\nEvent:\nDastardly Duos"}
 MultiLanguageSpellData['en'][1227114] = {name = "Pinged Augment Chip", additional_info = nil}
+MultiLanguageSpellData['en'][1227124] = {name = "Sacred Flame's Ward", additional_info = "Instant\nApproximately 8 procs per minute\n[q]While in Khaz Algar, dealing damage has a high chance of burning the enemy with righteous fire dealing 2 Radiant damage. In addition, you take 5% less damage."}
+MultiLanguageSpellData['en'][1227162] = {name = "Righteous Fire", additional_info = "50 yd range\nInstant\n[q]While in Khaz Algar, dealing damage has a high chance of burning the enemy with righteous fire dealing 2 Radiant damage. In addition, you take 5% less damage."}
+MultiLanguageSpellData['en'][1227206] = {name = "Greater Rune of Infinite Stars", additional_info = "3.5 sec cast\nRequires Armor\n[q]Apply Greater Rune of Infinite Stars to a helm.\n\n Your spells and abilities have a chance to strike a nearby enemy with an Infinite Star, dealing ( 1 * 362226) Arcane damage and increasing their damage taken from your Infinite Stars by ( 1 * 126779), stacking up to 6 times before resetting.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227210] = {name = "Infinite Stars", additional_info = "[q]Apply Greater Rune of Infinite Stars to a helm.\n\n Your spells and abilities have a chance to strike a nearby enemy with an Infinite Star, dealing ( 1 * 362226) Arcane damage and increasing their damage taken from your Infinite Stars by ( 1 * 126779), stacking up to 6 times before resetting.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227211] = {name = "Infinite Stars", additional_info = "[q]Apply Greater Rune of Infinite Stars to a helm.\n\n Your spells and abilities have a chance to strike a nearby enemy with an Infinite Star, dealing ( 1 * 362226) Arcane damage and increasing their damage taken from your Infinite Stars by ( 1 * 126779), stacking up to 6 times before resetting.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227212] = {name = "Infinite Stars", additional_info = "[q]Apply Greater Rune of Infinite Stars to a helm.\n\n Your spells and abilities have a chance to strike a nearby enemy with an Infinite Star, dealing ( 1 * 362226) Arcane damage and increasing their damage taken from your Infinite Stars by ( 1 * 126779), stacking up to 6 times before resetting.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227215] = {name = "Infinite Stars", additional_info = "Instant\nApproximately 2 procs per minute\n[q]Apply Greater Rune of Infinite Stars to a helm.\n\n Your spells and abilities have a chance to strike a nearby enemy with an Infinite Star, dealing ( 1 * 362226) Arcane damage and increasing their damage taken from your Infinite Stars by ( 1 * 126779), stacking up to 6 times before resetting.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227216] = {name = "Infinite Stars", additional_info = "Instant\n[q]Apply Greater Rune of Infinite Stars to a helm.\n\n Your spells and abilities have a chance to strike a nearby enemy with an Infinite Star, dealing ( 1 * 362226) Arcane damage and increasing their damage taken from your Infinite Stars by ( 1 * 126779), stacking up to 6 times before resetting.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227217] = {name = "Infinite Stars", additional_info = "100 yd range\nInstant\n[q]Apply Greater Rune of Infinite Stars to a helm.\n\n Your spells and abilities have a chance to strike a nearby enemy with an Infinite Star, dealing ( 1 * 362226) Arcane damage and increasing their damage taken from your Infinite Stars by ( 1 * 126779), stacking up to 6 times before resetting.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227218] = {name = "Infinite Stars", additional_info = "100 yd range\nInstant\n[q]Apply Greater Rune of Infinite Stars to a helm.\n\n Your spells and abilities have a chance to strike a nearby enemy with an Infinite Star, dealing ( 1 * 362226) Arcane damage and increasing their damage taken from your Infinite Stars by ( 1 * 126779), stacking up to 6 times before resetting.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227246] = {name = "Leader", additional_info = nil}
 MultiLanguageSpellData['en'][1227275] = {name = "Charged Shield", additional_info = "100 yd range\nInstant\n[q]Strikes the primary target with an electrified shield, electricity blasts the target inflicting 5895145 Nature damage and reducing their movement speed by 60% for 8 sec.\n\n Subsequent attacks send out chains of lightning inflicting 1473786 Nature damage to up to 5 targets."}
+MultiLanguageSpellData['en'][1227288] = {name = "Greater Rune of Gushing Wound", additional_info = "3.5 sec cast\nRequires Armor\n[q]Apply Greater Rune of Gushing Wound to a helm.\n\n Your damaging spells and abilities have a chance to cause your target to ooze blood for ( 1 * 64756 * 7 / 1) damage over 7 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227289] = {name = "Gushing Wound", additional_info = "[q]Apply Greater Rune of the Echoing Void to a helm.\n\n Your damaging abilities build the Echoing Void. Each time it builds, Echoing Void has a chance to collapse, dealing ( 1 * 72445) Shadow damage to all nearby enemies every 1 sec until no stacks remain.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227290] = {name = "Gushing Wound", additional_info = "[q]Apply Greater Rune of the Echoing Void to a helm.\n\n Your damaging abilities build the Echoing Void. Each time it builds, Echoing Void has a chance to collapse, dealing ( 1 * 72445) Shadow damage to all nearby enemies every 1 sec until no stacks remain.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227291] = {name = "Gushing Wound", additional_info = "[q]Apply Greater Rune of the Echoing Void to a helm.\n\n Your damaging abilities build the Echoing Void. Each time it builds, Echoing Void has a chance to collapse, dealing ( 1 * 72445) Shadow damage to all nearby enemies every 1 sec until no stacks remain.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227292] = {name = "Gushing Wound", additional_info = "Instant\nApproximately 4 procs per minute\n[q]Apply Greater Rune of Gushing Wound to a helm.\n\n Your damaging spells and abilities have a chance to cause your target to ooze blood for ( 1 * 64756 * 7 / 1) damage over 7 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227293] = {name = "Gushing Wound", additional_info = "100 yd range\nInstant\n[q]Apply Greater Rune of Gushing Wound to a helm.\n\n Your damaging spells and abilities have a chance to cause your target to ooze blood for ( 1 * 64756 * 7 / 1) damage over 7 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227294] = {name = "Greater Rune of the Twisted Appendage", additional_info = "3.5 sec cast\nRequires Armor\n[q]Apply Greater Rune of the Twisted Appendage to a helm.\n\n Your attacks have a chance to spawn a tentacle which Mind Flays your target for ( 1 * 144891) Shadow damage every second for 10 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227295] = {name = "Twisted Appendage", additional_info = "[q]Apply Greater Rune of the Twisted Appendage to a helm.\n\n Your attacks have a chance to spawn a tentacle which Mind Flays your target for ( 1 * 144891) Shadow damage every second for 10 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227296] = {name = "Twisted Appendage", additional_info = "[q]Apply Greater Rune of the Twisted Appendage to a helm.\n\n Your attacks have a chance to spawn a tentacle which Mind Flays your target for ( 1 * 144891) Shadow damage every second for 10 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227297] = {name = "Twisted Appendage", additional_info = "[q]Apply Greater Rune of the Twisted Appendage to a helm.\n\n Your attacks have a chance to spawn a tentacle which Mind Flays your target for ( 1 * 144891) Shadow damage every second for 10 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227300] = {name = "Twisted Appendage", additional_info = "Instant\nApproximately 1 procs per minute\n[q]Apply Greater Rune of the Twisted Appendage to a helm.\n\n Your attacks have a chance to spawn a tentacle which Mind Flays your target for ( 1 * 144891) Shadow damage every second for 10 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227301] = {name = "Twisted Appendage", additional_info = "100 yd range\nInstant\n[q]Apply Greater Rune of the Twisted Appendage to a helm.\n\n Your attacks have a chance to spawn a tentacle which Mind Flays your target for ( 1 * 144891) Shadow damage every second for 10 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227303] = {name = "Mind Flay", additional_info = "100 yd range\n{Channeled (10 sec cast)} {1 sec cooldown}\n[q]Assaults the target's mind with Shadow energy, causing 100 Shadow damage over 10 sec."}
+MultiLanguageSpellData['en'][1227304] = {name = "Call to the Void", additional_info = "100 yd range\nInstant\n[q]Apply Greater Rune of the Twisted Appendage to a helm.\n\n Your attacks have a chance to spawn a tentacle which Mind Flays your target for ( 1 * 144891) Shadow damage every second for 10 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227307] = {name = "Repeatable Event - Dastardly Duos - Spotlight, Angled", additional_info = nil}
+MultiLanguageSpellData['en'][1227311] = {name = "Greater Rune of the Void Ritual", additional_info = "3.5 sec cast\nRequires Armor\n[q]Apply Greater Rune of the Void Ritual to a helm.\n\n Gain Void Ritual, giving your spells and abilities a chance to increase all secondary stats by 103 every sec for 20 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227312] = {name = "Void Ritual", additional_info = "[q]Apply Greater Rune of the Void Ritual to a helm.\n\n Gain Void Ritual, giving your spells and abilities a chance to increase all secondary stats by 103 every sec for 20 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227313] = {name = "Void Ritual", additional_info = "[q]Apply Greater Rune of the Void Ritual to a helm.\n\n Gain Void Ritual, giving your spells and abilities a chance to increase all secondary stats by 103 every sec for 20 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227314] = {name = "Void Ritual", additional_info = "[q]Apply Greater Rune of the Void Ritual to a helm.\n\n Gain Void Ritual, giving your spells and abilities a chance to increase all secondary stats by 103 every sec for 20 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227315] = {name = "Void Ritual", additional_info = "Instant\nApproximately 1.5 procs per minute\n[q]Apply Greater Rune of the Void Ritual to a helm.\n\n Gain Void Ritual, giving your spells and abilities a chance to increase all secondary stats by 103 every sec for 20 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227316] = {name = "The End Is Coming", additional_info = "Instant\n[q]Apply Greater Rune of the Void Ritual to a helm.\n\n Gain Void Ritual, giving your spells and abilities a chance to increase all secondary stats by 103 every sec for 20 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1227346] = {name = "Working", additional_info = nil}
+MultiLanguageSpellData['en'][1227383] = {name = "Flame's Radiance Banner", additional_info = "{Instant} {10 min cooldown}\n[q]Plant a banner for the Flame's Radiance."}
 MultiLanguageSpellData['en'][1227386] = {name = "Azerite Eruption", additional_info = nil}
 MultiLanguageSpellData['en'][1227423] = {name = "Haywire Workshop", additional_info = "Unlimited range\nInstant\n[q]The House of Chrome is on the fritz emitting electricity throughout inflicting 100 Nature damage every 1 sec upon contact."}
 MultiLanguageSpellData['en'][1227436] = {name = "Haywire Workshop", additional_info = "Unlimited range\nInstant\n[q]The House of Chrome is on the fritz emitting electricity throughout inflicting 100 Nature damage every 1 sec upon contact."}
@@ -8767,52 +9287,262 @@ MultiLanguageSpellData['en'][1227454] = {name = "Win Bigger!", additional_info =
 MultiLanguageSpellData['en'][1227455] = {name = "Lose!", additional_info = nil}
 MultiLanguageSpellData['en'][1227456] = {name = "Lose Big!", additional_info = nil}
 MultiLanguageSpellData['en'][1227457] = {name = "Suppression", additional_info = "Instant\n[q]Gallywix shrapnels subordinates for 3 sec inflicting 4192544 Fire damage plus an additional 586956 Fire damage every 0.5 sec to players within 2.5 yards of indicated locations for 9 sec . This effect stacks."}
+MultiLanguageSpellData['en'][1227458] = {name = "Poison Glob", additional_info = nil}
+MultiLanguageSpellData['en'][1227473] = {name = "Repeatable Event - Dastardly Duos - Firework Tank Dismount", additional_info = nil}
+MultiLanguageSpellData['en'][1227484] = {name = "Summon Orphan", additional_info = "10 yd range\nInstant\n[q]Summon and dismiss the orphan you've agreed to look after for Children's Week."}
+MultiLanguageSpellData['en'][1227485] = {name = "Summon Orphan", additional_info = nil}
+MultiLanguageSpellData['en'][1227497] = {name = "Brewing Elixir", additional_info = nil}
+MultiLanguageSpellData['en'][1227498] = {name = "Summon Khaz Algar Orphan", additional_info = "Instant\n[q]Summon and dismiss one of the Khaz Algar orphans you've agreed to look after for Children's Week."}
+MultiLanguageSpellData['en'][1227511] = {name = "Empowering Pheromones", additional_info = "21 yd range\n1.5 sec cast\n[q]Empower nearby nerubians with powerful pheromones."}
+MultiLanguageSpellData['en'][1227551] = {name = "Excerpt on Prophetic Death", additional_info = "50 yd range\nInstant\n[q]Every 5 sec spent in combat lashes a nearby enemy dealing 444 Shadow damage. This deals up to 100 % additional damage based on the enemy's missing health."}
+MultiLanguageSpellData['en'][1227561] = {name = "Repeatable Event - Dastardly Duos - Toy - Banner - In Dome - Threat", additional_info = nil}
+MultiLanguageSpellData['en'][1227564] = {name = "Dark Whispers", additional_info = "50 yd range\nInstant\n[q]Every 5 sec spent in combat pulls the shadows closer to you, granting Dark Whispers. After reaching 5 whispers, the shadows manifest and rip a creature out of the Twisting Nether to assist you in combat."}
+MultiLanguageSpellData['en'][1227565] = {name = "Excerpt on Sacrificial Rituals", additional_info = "50 yd range\nInstant\n[q]Every 5 sec spent in combat sacrifices 16 of your health to gain 13 <Primary Stat>. This effect can stack up to 3 times and lasts until combat ends."}
+MultiLanguageSpellData['en'][1227578] = {name = "Malefic Excerpt", additional_info = nil}
+MultiLanguageSpellData['en'][1227584] = {name = "Malefic Excerpt", additional_info = nil}
+MultiLanguageSpellData['en'][1227585] = {name = "Malefic Excerpt", additional_info = nil}
+MultiLanguageSpellData['en'][1227597] = {name = "Repeatable Event - Dastardly Duos - Mob - Widget - Survival Score (on player)", additional_info = nil}
+MultiLanguageSpellData['en'][1227620] = {name = "Repeatable Event - Dastardly Duos - Grant Credit - Win", additional_info = nil}
+MultiLanguageSpellData['en'][1227624] = {name = "Dark Presence", additional_info = "50 yd range\nInstant\n[q]Every 5 sec spent in combat pulls the shadows closer to you, granting Dark Whispers. After reaching 5 whispers, the shadows manifest and rip a creature out of the Twisting Nether to assist you in combat."}
+MultiLanguageSpellData['en'][1227629] = {name = "Shadow Bolt", additional_info = "40 yd range\n2 sec cast\n[q]Sends a bolt of shadow magic at the target dealing Shadow damage upon arrival."}
+MultiLanguageSpellData['en'][1227686] = {name = "Leap", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1227695] = {name = "Snack Time", additional_info = nil}
+MultiLanguageSpellData['en'][1227740] = {name = "The Flame Calls", additional_info = nil}
+MultiLanguageSpellData['en'][1227751] = {name = "Berserker Roar", additional_info = "[q]Replaces Berserker Shout\n[q]Go berserk, removing and granting immunity to Fear, Sap, and Incapacitate effects for 6 sec.\n\n Also reduces the duration of the next crowd control effect within 10 sec by 50% on group members within 40 yds."}
+MultiLanguageSpellData['en'][1227756] = {name = "Tear Down", additional_info = nil}
+MultiLanguageSpellData['en'][1227771] = {name = "The Flame Calls", additional_info = nil}
+MultiLanguageSpellData['en'][1227781] = {name = "[q3]Reforge Nemesis Mask", additional_info = "1.3 sec cast\nReagents:\nNemesis Shard , Nemesis Shard\n[q]Fuse together two Nemesis Shards to reforge the Mask of the Nemesis."}
+MultiLanguageSpellData['en'][1227803] = {name = "Shadowalker's Aegis", additional_info = "50 yd range\nInstant\n[q]When an ally falls below 20 % health you shield them in darkness absorbing the next 446 damage taken.\n\n This effect can trigger once every 30 sec and does not target devout allies."}
+MultiLanguageSpellData['en'][1227806] = {name = "Lifebloom", additional_info = "40 yd range\nInstant\n[q]Heals the target for 8 over 15 sec. When Lifebloom expires or is dispelled, the target is instantly healed for (179.4% of Spell power).\n\n May be active on [ The Dark Titan's Lesson : two targets / one target] at a time."}
+MultiLanguageSpellData['en'][1227810] = {name = "Shadowalker's Aegis", additional_info = "50 yd range\nInstant\n[q]When an ally falls below 20 % health you shield them in darkness absorbing the next 446 damage taken.\n\n This effect can trigger once every 30 sec and does not target devout allies."}
+MultiLanguageSpellData['en'][1227821] = {name = "Vengeful", additional_info = "Instant\n[q]Will bolster nearby allies upon death."}
 MultiLanguageSpellData['en'][1228003] = {name = "Consumed Void", additional_info = nil}
 MultiLanguageSpellData['en'][1228004] = {name = "Incite Flames", additional_info = nil}
-MultiLanguageSpellData['en'][1228032] = {name = "Venting Heat", additional_info = "Unlimited range\nInstant\n[q]Gallywix's machines dump excessive heat over 4 sec inflicting 1844719 Fire damage to all players plus an additional 276708 Fire damage every 1 sec."}
+MultiLanguageSpellData['en'][1228032] = {name = "Venting Heat", additional_info = "Unlimited range\nInstant\n[q]Gallywix's machines dump excessive heat over 4 sec inflicting 27 Fire damage to all players plus an additional 5 Fire damage every 1 sec."}
+MultiLanguageSpellData['en'][1228037] = {name = "Shoot Rifle", additional_info = "50 yd range\n3 sec cast\nRequires Ranged Weapon\n[q]Shoots at an enemy, inflicting Physical damage."}
+MultiLanguageSpellData['en'][1228038] = {name = "Toxic Spit", additional_info = nil}
+MultiLanguageSpellData['en'][1228057] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - LABEL - High Score", additional_info = nil}
+MultiLanguageSpellData['en'][1228085] = {name = "Draining Essence", additional_info = nil}
+MultiLanguageSpellData['en'][1228086] = {name = "Drained Essence", additional_info = "Instant\n[q]When a nearby enemy or devout ally falls, you siphon a portion of their soul to gain 4 Intellect for 10 min."}
+MultiLanguageSpellData['en'][1228094] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - LABEL - Last Score", additional_info = nil}
+MultiLanguageSpellData['en'][1228096] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - Cap", additional_info = nil}
+MultiLanguageSpellData['en'][1228124] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - Gear", additional_info = nil}
+MultiLanguageSpellData['en'][1228137] = {name = "Repeatable Event - Dastardly Duos - Podium - Choose Metric - High Score", additional_info = nil}
+MultiLanguageSpellData['en'][1228138] = {name = "Repeatable Event - Dastardly Duos - Podium - Choose Metric - Last Score", additional_info = nil}
+MultiLanguageSpellData['en'][1228149] = {name = "Shadow Quake", additional_info = "50 yd range\nInstant\n[q]Your first melee strike against an enemy slams them and nearby enemies with a quake of shadow magic dealing up to [ 248 * ( 250 / 100)] Shadow damage split between them."}
+MultiLanguageSpellData['en'][1228157] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - LABEL - Average iLvl", additional_info = nil}
+MultiLanguageSpellData['en'][1228158] = {name = "Repeatable Event - Dastardly Duos - Podium - Choose Metric - Average iLvl", additional_info = nil}
 MultiLanguageSpellData['en'][1228208] = {name = "Instability", additional_info = "Instant\n[q]Releases void energy upon death, inflicting 20 Shadow damage to enemies within 5 yards of impact."}
+MultiLanguageSpellData['en'][1228226] = {name = "Song of Flame", additional_info = nil}
+MultiLanguageSpellData['en'][1228234] = {name = "Bandaging", additional_info = "Melee Range\n{1.5 sec cast} {6 sec cooldown}\n[q]Bandage an Injured Sentry with annointed bandages."}
+MultiLanguageSpellData['en'][1228249] = {name = "Vanish", additional_info = nil}
 MultiLanguageSpellData['en'][1228266] = {name = "Unstable Cluster Bomb", additional_info = nil}
+MultiLanguageSpellData['en'][1228274] = {name = "Vanish", additional_info = nil}
 MultiLanguageSpellData['en'][1228300] = {name = "<DNT> Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1228307] = {name = "<DNT> Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1228321] = {name = "Invisibility", additional_info = "Instant\n[q]Turns you invisible over 3 sec, reducing threat each second. While invisible, you are untargetable by enemies. Lasts 20 sec. Taking any action cancels the effect."}
+MultiLanguageSpellData['en'][1228329] = {name = "Nightfall Scenario", additional_info = nil}
+MultiLanguageSpellData['en'][1228333] = {name = "Liquid Divination", additional_info = "Instant\n[q]While in Arathi's End your healing, damage, and health are all increased by 30%."}
 MultiLanguageSpellData['en'][1228335] = {name = "Homing Missile", additional_info = nil}
-MultiLanguageSpellData['en'][1228476] = {name = "Will of the Forsaken Cooldown Trigger (WOTF)", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1228350] = {name = "11.1 Character Cleanup Action - Brann Bronzebeard Season 1 -> Season 2 Faction Standing Rollover", additional_info = nil}
+MultiLanguageSpellData['en'][1228455] = {name = "Divine Guidance", additional_info = "100 yd range\nInstant\n[q]For each Holy Power ability cast, your next Consecration deals [ Holy : [(Spell power * 30 / 10) * (1 + Versatility) * 1] /\n\nProtection\n[(Spell power * 30 / 10) * (1 + Versatility) * 1.54] ] damage or healing immediately, split across all enemies and allies."}
+MultiLanguageSpellData['en'][1228476] = {name = "PvP - Racial + PvP Trinket Shared Trigger (Healers)", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1228496] = {name = "Summon Skibbles", additional_info = "10 yd range\nInstant\n[q]Summon and dismiss the Khaz Algar orphan you've agreed to look after for Children's Week."}
+MultiLanguageSpellData['en'][1228497] = {name = "Summon Orphan", additional_info = nil}
+MultiLanguageSpellData['en'][1228505] = {name = "Update Player Phase/Auras", additional_info = nil}
+MultiLanguageSpellData['en'][1228797] = {name = "Repeatable Event - Dastardly Duos - Mob - Widget - Survival Bonus (on player)", additional_info = nil}
+MultiLanguageSpellData['en'][1228865] = {name = "Void-Scarred Lynx", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Taming lynxes is a practice that the Arathi have honed for years. While the Nightfall cultists remain devoted to their cause, they are still ones for passing that tradition along.\"\nDrop:\nConfiscated Cultist's Bag"}
+MultiLanguageSpellData['en'][1229084] = {name = "Umbral Empowerment", additional_info = nil}
+MultiLanguageSpellData['en'][1229166] = {name = "Carrying Crate", additional_info = nil}
+MultiLanguageSpellData['en'][1229230] = {name = "Liquid Divination", additional_info = "Instant\n[q]While in Arathi's End your healing, damage, and health are all increased by 5%."}
+MultiLanguageSpellData['en'][1229246] = {name = "Sacred Charge", additional_info = "Instant\n[q]Sacred Flame's Ward is now 50% more effective.\n\nSacred Flame's Ward :\nWhile in Khaz Algar, dealing damage has a high chance of burning the enemy with righteous fire dealing 2 Radiant damage. In addition, you take 5% less damage."}
+MultiLanguageSpellData['en'][1229247] = {name = "Sacred Charge", additional_info = "Instant\n[q]Sacred Flame's Ward is now 100% more effective, up from 50%.\n\nSacred Flame's Ward :\nWhile in Khaz Algar, dealing damage has a high chance of burning the enemy with righteous fire dealing 2 Radiant damage. In addition, you take 5% less damage."}
+MultiLanguageSpellData['en'][1229295] = {name = "Courier Lynx", additional_info = "Unlimited range\nInstant 3 hrs cooldown\n[q]Whistle for a Courier Lynx to appear. The lynx will deliver and retrieve mail for 10 min, or until it is called elsewhere."}
+MultiLanguageSpellData['en'][1229302] = {name = "Flame's Radiance Reward", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1229303] = {name = "Flame's Radiance Reward", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1229304] = {name = "Flame's Radiance Reward", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1229312] = {name = "Gallywix", additional_info = nil}
 MultiLanguageSpellData['en'][1229324] = {name = "Gallywix", additional_info = nil}
 MultiLanguageSpellData['en'][1229328] = {name = "Tick-Tock Canisters", additional_info = "Unlimited range\nInstant\n[q]After 6 sec these detonate inflicting 10900613 Fire damage to players within 4 yards. This damage splits evenly among effected players ."}
 MultiLanguageSpellData['en'][1229331] = {name = "Gallybux Pest Eliminator", additional_info = "100 yd range\n2 sec cast\n[q]Humane, high-voltage shock. Quickly eliminates pests. Gallywix attaches lightning tethers inflicting 503105 Nature damage every 0.5 sec to targeted players and any additional player between them and Gallywix. This effect increases in damage while tethered targets are further from Gallywix."}
+MultiLanguageSpellData['en'][1229421] = {name = "Center of Attention", additional_info = nil}
+MultiLanguageSpellData['en'][1229422] = {name = "Center of Attention (Tier 2)", additional_info = nil}
+MultiLanguageSpellData['en'][1229424] = {name = "Center of Attention (Tier 3)", additional_info = nil}
+MultiLanguageSpellData['en'][1229445] = {name = "Made For Walking", additional_info = nil}
+MultiLanguageSpellData['en'][1229447] = {name = "Made For Walking (Tier 2)", additional_info = nil}
+MultiLanguageSpellData['en'][1229448] = {name = "Made For Walking (Tier 3)", additional_info = nil}
+MultiLanguageSpellData['en'][1229449] = {name = "Made For Walking (Tier 4)", additional_info = nil}
+MultiLanguageSpellData['en'][1229455] = {name = "Undefeatable", additional_info = nil}
+MultiLanguageSpellData['en'][1229458] = {name = "Undefeatable (2 times)", additional_info = nil}
+MultiLanguageSpellData['en'][1229459] = {name = "Undefeatable (3 times)", additional_info = nil}
+MultiLanguageSpellData['en'][1229477] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - LABEL - Latest - Yards", additional_info = nil}
+MultiLanguageSpellData['en'][1229478] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - LABEL - Highest Yards", additional_info = nil}
+MultiLanguageSpellData['en'][1229479] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - LABEL - Latest - Spotlight Time", additional_info = nil}
+MultiLanguageSpellData['en'][1229480] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - LABEL - Highest Spotlight Time", additional_info = nil}
+MultiLanguageSpellData['en'][1229481] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - LABEL - Highest - Score per ilvl", additional_info = nil}
+MultiLanguageSpellData['en'][1229482] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - LABEL - Latest Survival Run", additional_info = nil}
+MultiLanguageSpellData['en'][1229483] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - LABEL - Highest Survival Run", additional_info = nil}
+MultiLanguageSpellData['en'][1229484] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Winner's Podium - LABEL - Latest Score per ilvl", additional_info = nil}
+MultiLanguageSpellData['en'][1229490] = {name = "Repeatable Event - Dastardly Duos - Podium - Choose Metric - Highest - Score per ilvl", additional_info = nil}
+MultiLanguageSpellData['en'][1229492] = {name = "Repeatable Event - Dastardly Duos - Podium - Choose Metric - Highest Survival Length", additional_info = nil}
+MultiLanguageSpellData['en'][1229493] = {name = "Repeatable Event - Dastardly Duos - Podium - Choose Metric - Highest Time in Spotlight", additional_info = nil}
+MultiLanguageSpellData['en'][1229494] = {name = "Repeatable Event - Dastardly Duos - Podium - Choose Metric - Highest Yards", additional_info = nil}
+MultiLanguageSpellData['en'][1229496] = {name = "Repeatable Event - Dastardly Duos - Podium - Choose Metric - Latest - Time in Spotlight", additional_info = nil}
+MultiLanguageSpellData['en'][1229497] = {name = "Repeatable Event - Dastardly Duos - Podium - Choose Metric - Latest Yards", additional_info = nil}
+MultiLanguageSpellData['en'][1229499] = {name = "Repeatable Event - Dastardly Duos - Podium - Choose Metric - Latest - Survival Length", additional_info = nil}
+MultiLanguageSpellData['en'][1229500] = {name = "Repeatable Event - Dastardly Duos - Podium - Choose Metric - Latest - Score per ilvl", additional_info = nil}
+MultiLanguageSpellData['en'][1229502] = {name = "Accelerated Spawning", additional_info = nil}
+MultiLanguageSpellData['en'][1229507] = {name = "Bursting Spider Egg", additional_info = nil}
+MultiLanguageSpellData['en'][1229679] = {name = "[q3]Voidflame Wheel", additional_info = "2 sec cast\nReagents:\nEntropy Enhancer (6), Voidflame-Resistant Hide , Tentacle Spokes\n[q]Combine Tentacle Spokes, Voidflame-Resistant Hide and 6 of the highest quality Entropy Enhancers to create a set of Voidflame Wheels."}
+MultiLanguageSpellData['en'][1229680] = {name = "[q3]Boarhide Deathcycle Seat", additional_info = "2 sec cast\nReagents:\nWeavercloth Spellthread (5), Void-Scarred Boarhide\n[q]Combine with 5 of the highest quality Weavercloth Spellthread to create a Boarhide Deathcycle Seat."}
+MultiLanguageSpellData['en'][1229682] = {name = "[q3]Skull-Scythe Handlebars", additional_info = "2 sec cast\nReagents:\nIrresistible Red Button , Recalibrated Safety Switch , Whimsical Wiring (3), Storm-Touched Weapon Wrap , Twisted Skull-Scythe Handlebars\n[q]Add 1 Irresistible Red Button, 1 Recalibrated Safety Switch, 3 Whimsical Wiring, and 1 Storm-Touched Weapon Wrap, all of the highest quality, to restore the Skull-Scythe Handlebars."}
+MultiLanguageSpellData['en'][1229690] = {name = "[q3]Pulsing Void Crystal", additional_info = "2 sec cast\nReagents:\nDepleted Void Crystal , Convincingly Realistic Jumper Cables , Refulgent Crystal\n[q]Connect the Depleted Void Crystal and 1 max quality Refulgent Crystal using 1 of the highest quality Convincingly Realistic Jumper Cables you can acquire to recharge the crystal."}
+MultiLanguageSpellData['en'][1229691] = {name = "[q3]Void-Forged Inline Four Engine", additional_info = "2 sec cast\nReagents:\nVoid-Forged Engine Block , Goblin-Machined Piston (4)\n[q]Install 4 Goblin-Machined Pistons into the Void-Forged Engine Block to restore the engine."}
+MultiLanguageSpellData['en'][1229702] = {name = "[q3]Deathcycle Exhaust System", additional_info = "2 sec cast\nReagents:\nMagic-Lined Manifold , Elementium-Plated Exhaust Pipe\n[q]Combine with 1 Elementium-Plated Exhaust Pipe to complete the Deathcycle Exhaust System."}
+MultiLanguageSpellData['en'][1229706] = {name = "Repeatable Event - Dastardly Duos - Podium - Choose Metric - Latest - ilvl", additional_info = nil}
+MultiLanguageSpellData['en'][1230088] = {name = "Accelerated Spawning", additional_info = nil}
+MultiLanguageSpellData['en'][1230094] = {name = "Accelerated Spawning", additional_info = nil}
+MultiLanguageSpellData['en'][1230122] = {name = "Start", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1230131] = {name = "Gain Measure: Scrappiest", additional_info = "Unlimited range\nInstant\n[q]Place a Winner's Podium and show off your best scrappy score!"}
+MultiLanguageSpellData['en'][1230133] = {name = "Gain Measure: Longest Survival Run", additional_info = "Unlimited range\nInstant\n[q]Place a Winner's Podium and show off your longest run length!"}
+MultiLanguageSpellData['en'][1230134] = {name = "Gain Measure: Longest Time in Spotlights", additional_info = "Unlimited range\nInstant\n[q]Place a Winner's Podium and show off your longest time in the spotlights!"}
+MultiLanguageSpellData['en'][1230135] = {name = "Gain Measure: Most Yards Traveled", additional_info = "Unlimited range\nInstant\n[q]Place a Winner's Podium and show off your most yards traveled in match!"}
+MultiLanguageSpellData['en'][1230136] = {name = "Gain Measure: Scrappy", additional_info = "Unlimited range\nInstant\n[q]Place a Winner's Podium and show off how scrappy you are!"}
+MultiLanguageSpellData['en'][1230138] = {name = "Gain Measure: Current Survival Run Length", additional_info = "Unlimited range\nInstant\n[q]Place a Winner's Podium and show off your current survival run length!"}
+MultiLanguageSpellData['en'][1230139] = {name = "Gain Measure: Time in Spotlights", additional_info = "Unlimited range\nInstant\n[q]Place a Winner's Podium and show off your time in the spotlights last match!"}
+MultiLanguageSpellData['en'][1230140] = {name = "Gain Measure: Yards Traveled Last Match", additional_info = "Unlimited range\nInstant\n[q]Place a Winner's Podium and show off your yards traveled last match!"}
+MultiLanguageSpellData['en'][1230149] = {name = "Summon Destien", additional_info = "10 yd range\nInstant\n[q]Summon and dismiss the Khaz Algar orphan you've agreed to look after for Children's Week."}
+MultiLanguageSpellData['en'][1230155] = {name = "Summon Orphan", additional_info = nil}
 MultiLanguageSpellData['en'][1230162] = {name = "Portal to Zuldazar", additional_info = nil}
 MultiLanguageSpellData['en'][1230163] = {name = "Portal to Zuldazar", additional_info = nil}
 MultiLanguageSpellData['en'][1230167] = {name = "Overloaded Bolts", additional_info = "Unlimited range\nInstant\n[q]The Giga Coils furiously eject free ions causing strikes throughout inflicting 5450307 Nature damage to players within 4 yards of each impact."}
+MultiLanguageSpellData['en'][1230175] = {name = "Destien Guardian Aura", additional_info = nil}
+MultiLanguageSpellData['en'][1230176] = {name = "Threadis Guardian Aura", additional_info = nil}
+MultiLanguageSpellData['en'][1230177] = {name = "Skibbles Guardian Aura", additional_info = nil}
+MultiLanguageSpellData['en'][1230178] = {name = "Kitzy Guardian Aura", additional_info = nil}
+MultiLanguageSpellData['en'][1230182] = {name = "Summon Theadis", additional_info = "10 yd range\nInstant\n[q]Summon and dismiss the Khaz Algar orphan you've agreed to look after for Children's Week."}
+MultiLanguageSpellData['en'][1230183] = {name = "Summon Orphan", additional_info = nil}
+MultiLanguageSpellData['en'][1230184] = {name = "Summon Kitzy", additional_info = "10 yd range\nInstant\n[q]Summon and dismiss the Khaz Algar orphan you've agreed to look after for Children's Week."}
+MultiLanguageSpellData['en'][1230185] = {name = "Summon Orphan", additional_info = nil}
 MultiLanguageSpellData['en'][1230209] = {name = "Create Trait Config", additional_info = nil}
 MultiLanguageSpellData['en'][1230210] = {name = "Create Trait Config", additional_info = nil}
+MultiLanguageSpellData['en'][1230227] = {name = "Experimental Sample", additional_info = nil}
+MultiLanguageSpellData['en'][1230286] = {name = "Extract Pheromone", additional_info = nil}
+MultiLanguageSpellData['en'][1230335] = {name = "Post-Haste", additional_info = nil}
 MultiLanguageSpellData['en'][1230346] = {name = "Canisters", additional_info = nil}
-MultiLanguageSpellData['en'][1230347] = {name = "TOTAL DESTRUCTION!!!", additional_info = "Unlimited range\nChanneled\n[q]Gallywix rains rockets inflicting 1257763 Fire damage to all players every 1 sec for 25 sec . Every 1 sec this damage increases by 5%."}
+MultiLanguageSpellData['en'][1230347] = {name = "TOTAL DESTRUCTION!!!", additional_info = "Unlimited range\nChanneled\n[q]Gallywix rains rockets inflicting 1131987 Fire damage to all players every 1 sec for 25 sec . Every 1 sec this damage increases by 5%."}
 MultiLanguageSpellData['en'][1230349] = {name = "Party Rocket", additional_info = nil}
 MultiLanguageSpellData['en'][1230352] = {name = "Airship Fast Mover", additional_info = nil}
 MultiLanguageSpellData['en'][1230353] = {name = "Big Bad Buncha Bombs", additional_info = nil}
+MultiLanguageSpellData['en'][1230514] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Tracking - Boss Defeated - Glubtok", additional_info = nil}
+MultiLanguageSpellData['en'][1230516] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Tracking - Boss Defeated - Walden", additional_info = nil}
+MultiLanguageSpellData['en'][1230518] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Tracking - Boss Defeated - Silverlaine", additional_info = nil}
+MultiLanguageSpellData['en'][1230519] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Tracking - Boss Defeated - Gargolmar", additional_info = nil}
+MultiLanguageSpellData['en'][1230520] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Tracking - Boss Defeated - Thespia", additional_info = nil}
+MultiLanguageSpellData['en'][1230521] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Tracking - Boss Defeated - Steamrigger", additional_info = nil}
+MultiLanguageSpellData['en'][1230522] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Tracking - Boss Defeated - Foe Reaper", additional_info = nil}
+MultiLanguageSpellData['en'][1230523] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Tracking - Boss Defeated - Chrono-Lord", additional_info = nil}
+MultiLanguageSpellData['en'][1230524] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Tracking - Boss Defeated - Broggok", additional_info = nil}
+MultiLanguageSpellData['en'][1230525] = {name = "11.1.5 Repeatable Event - Dastardly Duos - Tracking - Boss Defeated - Rattlegore", additional_info = nil}
+MultiLanguageSpellData['en'][1230544] = {name = "Spore-flecked", additional_info = nil}
+MultiLanguageSpellData['en'][1230570] = {name = "\"Challenging\" Hot Dog", additional_info = "Instant\n[q]x2 Kill and Survival bonus, but sometimes you get gassy..."}
+MultiLanguageSpellData['en'][1230575] = {name = "Gassy", additional_info = "Instant\n[q]Indigestion! Any second now..."}
+MultiLanguageSpellData['en'][1230581] = {name = "Expulsion", additional_info = nil}
+MultiLanguageSpellData['en'][1230592] = {name = "Expulsion", additional_info = nil}
 MultiLanguageSpellData['en'][1230645] = {name = "Signal Cronies", additional_info = "Unlimited range\nInstant\n[q]The Underpin signals for his Cronies to assist him."}
 MultiLanguageSpellData['en'][1230651] = {name = "Signal Cronies", additional_info = "100 yd range\nInstant\n[q]The Underpin signals for his Cronies to assist him."}
 MultiLanguageSpellData['en'][1230657] = {name = "Seal of Flame", additional_info = "100 yd range\nInstant\n[q]Increases all damage done by 50% and causes melee attacks to also inflict 589514 Fire damage and create several Molten Pool nearby."}
 MultiLanguageSpellData['en'][1230658] = {name = "Seal of Flame", additional_info = "100 yd range\nInstant\n[q]Increases all damage done by 0% and causes melee attacks to also inflict 4 Fire damage and create several Molten Pool nearby."}
+MultiLanguageSpellData['en'][1230685] = {name = "Righteous Faith", additional_info = nil}
+MultiLanguageSpellData['en'][1230688] = {name = "Ordered Vigilance", additional_info = nil}
 MultiLanguageSpellData['en'][1230773] = {name = "Pay 2 Air", additional_info = nil}
 MultiLanguageSpellData['en'][1230775] = {name = "Pay 2 Air", additional_info = nil}
 MultiLanguageSpellData['en'][1230798] = {name = "Gallywix", additional_info = nil}
+MultiLanguageSpellData['en'][1230928] = {name = "In Progress State", additional_info = nil}
+MultiLanguageSpellData['en'][1230981] = {name = "Installing Engine", additional_info = "4 sec cast\nReagents:\nVoid-Forged Inline Four Engine"}
+MultiLanguageSpellData['en'][1230982] = {name = "Installing Exhaust", additional_info = "4 sec cast\nReagents:\nDeathcycle Exhaust System"}
+MultiLanguageSpellData['en'][1230983] = {name = "Installing Battery", additional_info = "4 sec cast\nReagents:\nPulsing Void Crystal"}
+MultiLanguageSpellData['en'][1230984] = {name = "Installing Seat", additional_info = "4 sec cast\nReagents:\nBoarhide Deathcycle Seat"}
+MultiLanguageSpellData['en'][1230985] = {name = "Installing Wheels", additional_info = "4 sec cast\nReagents:\nVoidflame Wheel (2)"}
+MultiLanguageSpellData['en'][1230986] = {name = "Installing Handlebars", additional_info = "4 sec cast\nReagents:\nSkull-Scythe Handlebars"}
+MultiLanguageSpellData['en'][1230987] = {name = "Learn Spell: Voidfire Deathcycle", additional_info = nil}
+MultiLanguageSpellData['en'][1231019] = {name = "Learn Spell: Voidfire Deathcycle", additional_info = nil}
+MultiLanguageSpellData['en'][1231030] = {name = "Out of Control", additional_info = "40 yd range\nInstant\n[q]The voidcycle crashes into enemies, inflicting 15 Physical damage to those in its path before exploding for 0 Shadow damage."}
+MultiLanguageSpellData['en'][1231032] = {name = "Crash!", additional_info = "100 yd range\nInstant\n[q]The voidcycle crashes into enemies, inflicting 15 Physical damage to those in its path before exploding for 0 Shadow damage."}
+MultiLanguageSpellData['en'][1231033] = {name = "Void Engine Burst", additional_info = "100 yd range\nInstant\n[q]The voidcycle crashes into enemies, inflicting 15 Physical damage to those in its path before exploding for 0 Shadow damage."}
+MultiLanguageSpellData['en'][1231046] = {name = "Continuous Beatings", additional_info = "1 sec cast\n[q]Damage increased by 50%.\n Attack speed increased by 50%.\n\n Successful melee attacks refresh duration."}
+MultiLanguageSpellData['en'][1231047] = {name = "Improve Morale", additional_info = "30 yd range\n3 sec cast\n[q]Inflict Fire damage to an ally equal to 30% of their maximum health and whip them into a frenzy, increasing their damage and Haste by 30% for 12 sec."}
+MultiLanguageSpellData['en'][1231048] = {name = "Improve Morale", additional_info = nil}
+MultiLanguageSpellData['en'][1231049] = {name = "Heavy Bash", additional_info = "10 yd range\n{2 sec cast} {12 sec cooldown}\n[q]Causes an enemy to inflict 10% decreased Physical damage.\n Inflicts Physical damage to an enemy."}
+MultiLanguageSpellData['en'][1231057] = {name = "Voidfire Deathcycle", additional_info = nil}
+MultiLanguageSpellData['en'][1231063] = {name = "Tagged for Extraction", additional_info = nil}
+MultiLanguageSpellData['en'][1231066] = {name = "Alter Time", additional_info = nil}
+MultiLanguageSpellData['en'][1231084] = {name = "Threat", additional_info = nil}
+MultiLanguageSpellData['en'][1231110] = {name = "Swiftpaw", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][1231112] = {name = "Spellsteal", additional_info = "{21% of base mana} {40 yd range}\nInstant\n[q]Steals [ Kleptomania : all beneficial magic effects from the target. These effects lasts a maximum of 2 min / a beneficial magic effect from the target. This effect lasts a maximum of 2 min.]"}
+MultiLanguageSpellData['en'][1231294] = {name = "Summon Swarmer", additional_info = nil}
+MultiLanguageSpellData['en'][1231320] = {name = "Summon Swarmer", additional_info = nil}
 MultiLanguageSpellData['en'][1231325] = {name = "Quest Generic - Uprooting Creature - Uprooting", additional_info = nil}
+MultiLanguageSpellData['en'][1231362] = {name = "Mask", additional_info = nil}
+MultiLanguageSpellData['en'][1231364] = {name = "Follow Periodic", additional_info = nil}
+MultiLanguageSpellData['en'][1231372] = {name = "Obtain Mask", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1231437] = {name = "Smoldering Devotion", additional_info = nil}
+MultiLanguageSpellData['en'][1231439] = {name = "Aura", additional_info = nil}
+MultiLanguageSpellData['en'][1231499] = {name = "Zapper's Zapper", additional_info = nil}
+MultiLanguageSpellData['en'][1231504] = {name = "Arathi Entertainer's Flame", additional_info = nil}
+MultiLanguageSpellData['en'][1231544] = {name = "Zapped", additional_info = "Unlimited range\nInstant\n[q]Lose 11% of maximum health every 1 second."}
+MultiLanguageSpellData['en'][1231576] = {name = "Marking with Flare", additional_info = nil}
+MultiLanguageSpellData['en'][1231584] = {name = "Storm Toss", additional_info = "100 yd range\nInstant\n[q]Inflict 500 Volcanic damage to a random enemy within 15 yards."}
+MultiLanguageSpellData['en'][1231766] = {name = "Repeatable Event - Dastardly Duos - Achievement Created enough tombstones", additional_info = nil}
 MultiLanguageSpellData['en'][1231772] = {name = "Elemental Shaman", additional_info = "[q]Elemental Shaman baseline passive\n[q]Modifies Damage/Healing Done -17%:\nFrost Shock"}
-MultiLanguageSpellData['en'][1232541] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
-MultiLanguageSpellData['en'][1232542] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1231828] = {name = "Call Out the Baddies", additional_info = nil}
+MultiLanguageSpellData['en'][1231829] = {name = "Call Out the Baddies 2", additional_info = nil}
+MultiLanguageSpellData['en'][1231831] = {name = "Call Out the Baddies 3", additional_info = nil}
+MultiLanguageSpellData['en'][1231907] = {name = "ReadyUnarmed", additional_info = nil}
+MultiLanguageSpellData['en'][1231908] = {name = "Emote State - Dance", additional_info = nil}
+MultiLanguageSpellData['en'][1231928] = {name = "Remove Skibbles Guardian Aura", additional_info = nil}
+MultiLanguageSpellData['en'][1231936] = {name = "Arsenal: Children's Stormwind Guard Weapon Set", additional_info = "Instant\n[q]Collect the appearances of the Children's Stormwind Guard Weapon set."}
+MultiLanguageSpellData['en'][1231938] = {name = "Arsenal: Children's Orgrimmar Guard Weapon Set", additional_info = "Instant\n[q]Collect the appearances of the Children's Orgrimmar Guard Weapon Set."}
+MultiLanguageSpellData['en'][1231943] = {name = "Skibbles's Sword", additional_info = nil}
+MultiLanguageSpellData['en'][1231945] = {name = "Destien's Glasses", additional_info = nil}
+MultiLanguageSpellData['en'][1231965] = {name = "Threadis's Bot", additional_info = nil}
+MultiLanguageSpellData['en'][1231966] = {name = "Threadis's Rocket Drill Picture", additional_info = nil}
+MultiLanguageSpellData['en'][1231967] = {name = "Threadis's Cast Web", additional_info = nil}
+MultiLanguageSpellData['en'][1231968] = {name = "Security's Held Clipboard", additional_info = nil}
+MultiLanguageSpellData['en'][1231970] = {name = "Wrapping up the Food!", additional_info = nil}
+MultiLanguageSpellData['en'][1231971] = {name = "Nerubian Silk Weaving", additional_info = "Instant\n[q]Play an arcane puzzle."}
+MultiLanguageSpellData['en'][1231974] = {name = "Remove Destien Guardian Aura", additional_info = nil}
+MultiLanguageSpellData['en'][1231975] = {name = "Remove Threadis Guardian Aura", additional_info = nil}
+MultiLanguageSpellData['en'][1231976] = {name = "Remove Kitzy Guardian Aura", additional_info = nil}
+MultiLanguageSpellData['en'][1232011] = {name = "Visions", additional_info = nil}
+MultiLanguageSpellData['en'][1232260] = {name = "Pungent Truffle", additional_info = "Instant\n[q]Transform into a sporeling."}
+MultiLanguageSpellData['en'][1232286] = {name = "Wrapped Spool", additional_info = "3 yd range\nInstant\n[q]Unwrapping a rather large spool."}
+MultiLanguageSpellData['en'][1232299] = {name = "Play Nice, Play Fair", additional_info = "Instant\n[q]Your maximum item level is 619 for this match."}
+MultiLanguageSpellData['en'][1232482] = {name = "Bot AI Follow Advert", additional_info = nil}
+MultiLanguageSpellData['en'][1232538] = {name = "Comforting", additional_info = nil}
+MultiLanguageSpellData['en'][1232541] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1232542] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK- 1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1232549] = {name = "Stitch", additional_info = "40 yd range\nInstant\n[q]Slowly reverses damage on the target, healing them instantly for 0 and then 1 over 9 sec."}
 MultiLanguageSpellData['en'][1232556] = {name = "Forbidden Necromancy", additional_info = "40 yd range\nInstant\n[q]Raise the remains of a fallen ally as a skeletal warrior for 30 sec."}
-MultiLanguageSpellData['en'][1232567] = {name = "Penance", additional_info = "40 yd range\nInstant\n[q]Launches a volley of holy light at the target, causing [(79.5% of Spell power) * 1 * 1 * (3 + 0 + 0 )] Holy damage to an enemy or [(342% of Spell power) * 1 * (3 + 0 + 0 )] healing to an ally over 2 sec. Castable while moving.\n\n When you heal with Penance, everyone with your Atonement is healed for (18.72% of Spell power)."}
-MultiLanguageSpellData['en'][1232571] = {name = "Penance", additional_info = "40 yd range\nInstant\n[q]Launches a volley of holy light at the target, causing [(79.5% of Spell power) * 1 * 1 * (3 + 0 + 0 )] Holy damage to an enemy or [(342% of Spell power) * 1 * (3 + 0 + 0 )] healing to an ally over 2 sec. Castable while moving.\n\n When you heal with Penance, everyone with your Atonement is healed for (18.72% of Spell power)."}
-MultiLanguageSpellData['en'][1232592] = {name = "Dark Reprimand", additional_info = "40 yd range\nInstant\n[q]Launches a volley of darkness at the target, causing [(79.5% of Spell power) * 1 * 1 * 1 * (3 + 0 + 0 )] Shadow damage to an enemy or [(342% of Spell power) * 1 * 1 * (3 + 0 + 0 )] healing to an ally over 2 sec. Castable while moving."}
-MultiLanguageSpellData['en'][1232615] = {name = "Dark Reprimand", additional_info = "40 yd range\nInstant\n[q]Launches a volley of darkness at the target, causing [(79.5% of Spell power) * 1 * 1 * 1 * (3 + 0 + 0 )] Shadow damage to an enemy or [(342% of Spell power) * 1 * 1 * (3 + 0 + 0 )] healing to an ally over 2 sec. Castable while moving."}
+MultiLanguageSpellData['en'][1232567] = {name = "Penance", additional_info = "40 yd range\nInstant\n[q]Launches a volley of holy light at the target, causing [(67.575% of Spell power) * 1 * 1 * (3 + 0 + 0 )] Holy damage to an enemy or [(290.7% of Spell power) * 1 * (3 + 0 + 0 )] healing to an ally over 2 sec. Castable while moving.\n\n When you heal with Penance, everyone with your Atonement is healed for (18.72% of Spell power)."}
+MultiLanguageSpellData['en'][1232571] = {name = "Penance", additional_info = "40 yd range\nInstant\n[q]Launches a volley of holy light at the target, causing [(67.575% of Spell power) * 1 * 1 * (3 + 0 + 0 )] Holy damage to an enemy or [(290.7% of Spell power) * 1 * (3 + 0 + 0 )] healing to an ally over 2 sec. Castable while moving.\n\n When you heal with Penance, everyone with your Atonement is healed for (18.72% of Spell power)."}
+MultiLanguageSpellData['en'][1232592] = {name = "Dark Reprimand", additional_info = "40 yd range\nInstant\n[q]Launches a volley of darkness at the target, causing [(67.575% of Spell power) * 1 * 1 * 1 * (3 + 0 + 0 )] Shadow damage to an enemy or [(290.7% of Spell power) * 1 * 1 * (3 + 0 + 0 )] healing to an ally over 2 sec. Castable while moving."}
+MultiLanguageSpellData['en'][1232615] = {name = "Dark Reprimand", additional_info = "40 yd range\nInstant\n[q]Launches a volley of darkness at the target, causing [(67.575% of Spell power) * 1 * 1 * 1 * (3 + 0 + 0 )] Shadow damage to an enemy or [(290.7% of Spell power) * 1 * 1 * (3 + 0 + 0 )] healing to an ally over 2 sec. Castable while moving."}
 MultiLanguageSpellData['en'][1232624] = {name = "Massive", additional_info = "Instant\n[q]Increases your size by 0%, maximum health by 1235 , and <Primary Stat> by 72 ."}
+MultiLanguageSpellData['en'][1232646] = {name = "Shoot Web", additional_info = nil}
 MultiLanguageSpellData['en'][1232684] = {name = "Pacifist Rig", additional_info = nil}
-MultiLanguageSpellData['en'][1232696] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1232696] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1232713] = {name = "AI Regen / Crit", additional_info = "AI Regen / Crit\n(1s cooldown)"}
+MultiLanguageSpellData['en'][1232785] = {name = "Emote - Attack Unarmed", additional_info = nil}
+MultiLanguageSpellData['en'][1232845] = {name = "Brewing Elixir", additional_info = nil}
+MultiLanguageSpellData['en'][1232899] = {name = "Spawn", additional_info = nil}
+MultiLanguageSpellData['en'][1232931] = {name = "Horrific Sands of Time", additional_info = nil}
+MultiLanguageSpellData['en'][1232932] = {name = "Cancel", additional_info = nil}
+MultiLanguageSpellData['en'][1232933] = {name = "Answering the Call", additional_info = nil}
+MultiLanguageSpellData['en'][1232960] = {name = "Warband Purifying", additional_info = "2 sec cast\n[q]Unlock future Veteran items in Horrific Visions Revisited to be Warbound until equipped."}
+MultiLanguageSpellData['en'][1232961] = {name = "Warband Purifying", additional_info = "2 sec cast\n[q]Unlock future Champion items in Horrific Visions Revisited to be Warbound until equipped."}
 MultiLanguageSpellData['en'][1232971] = {name = "Frostshatter Boots", additional_info = nil}
+MultiLanguageSpellData['en'][1233023] = {name = "Emote State - Dance", additional_info = nil}
 MultiLanguageSpellData['en'][1233032] = {name = "<DNT> Cancel All Arrows", additional_info = nil}
 MultiLanguageSpellData['en'][1233033] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][1233034] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
@@ -8846,17 +9576,82 @@ MultiLanguageSpellData['en'][1233061] = {name = "<DNT> Cancel Arrow to Destinati
 MultiLanguageSpellData['en'][1233062] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][1233064] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
 MultiLanguageSpellData['en'][1233065] = {name = "<DNT> Cancel Arrow to Destination", additional_info = nil}
-MultiLanguageSpellData['en'][1233162] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, equipping them with it for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1233082] = {name = "Ride Rook", additional_info = nil}
+MultiLanguageSpellData['en'][1233162] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1233177] = {name = "Destroying", additional_info = nil}
 MultiLanguageSpellData['en'][1233209] = {name = "Bonk!", additional_info = nil}
+MultiLanguageSpellData['en'][1233223] = {name = "Greater Rune of Twilight Devastation", additional_info = "3.5 sec cast\nRequires Armor\n[q]Apply Greater Rune of Twilight Devastation to a helm.\n\n Allows your attacks to have a chance to trigger a beam of Twilight Devastation, dealing up to ( 1 * 1448900 * 3) Shadow damage to enemies in front of you.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1233307] = {name = "Burning", additional_info = nil}
+MultiLanguageSpellData['en'][1233354] = {name = "Burning", additional_info = nil}
+MultiLanguageSpellData['en'][1233355] = {name = "Lesser Rune of the Echoing Void", additional_info = "3.5 sec cast\nRequires Armor\n[q]Apply Lesser Rune of the Echoing Void to a helm.\n\n Your damaging abilities build the Echoing Void. Each time it builds, Echoing Void has a chance to collapse, dealing ( 1 * 42260) Shadow damage to all nearby enemies every 1 sec until no stacks remain.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1233375] = {name = "Lesser Rune of Infinite Stars", additional_info = "3.5 sec cast\nRequires Armor\n[q]Apply Lesser Rune of Infinite Stars to a helm.\n\n Your spells and abilities have a chance to strike a nearby enemy with an Infinite Star, dealing ( 1 * 211298) Arcane damage and increasing their damage taken from your Infinite Stars by ( 1 * 73954), stacking up to 6 times before resetting.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1233382] = {name = "Burning", additional_info = nil}
+MultiLanguageSpellData['en'][1233385] = {name = "Lesser Rune of Gushing Wound", additional_info = "3.5 sec cast\nRequires Armor\n[q]Apply Lesser Rune of Gushing Wound to a helm.\n\n Your damaging spells and abilities have a chance to cause your target to ooze blood for ( 1 * 37774 * 7 / 1) damage over 7 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1233392] = {name = "Lesser Rune of the Twisted Appendage", additional_info = "3.5 sec cast\nRequires Armor\n[q]Apply Lesser Rune of the Twisted Appendage to a helm.\n\n Your attacks have a chance to spawn a tentacle which Mind Flays your target for ( 1 * 84520) Shadow damage every second for 10 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1233394] = {name = "Lesser Rune of the Void Ritual", additional_info = "3.5 sec cast\nRequires Armor\n[q]Apply Lesser Rune of the Void Ritual to a helm.\n\n Gain Void Ritual, giving your spells and abilities a chance to increase all secondary stats by 59 every sec for 20 sec.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
+MultiLanguageSpellData['en'][1233414] = {name = "Placing Bombs", additional_info = nil}
+MultiLanguageSpellData['en'][1233495] = {name = "Kobold Child - Mount Spell", additional_info = nil}
+MultiLanguageSpellData['en'][1233529] = {name = "Faceless Masks", additional_info = nil}
+MultiLanguageSpellData['en'][1233530] = {name = "Nerubian Child - Mount Spell", additional_info = nil}
 MultiLanguageSpellData['en'][1233590] = {name = "Propellant Blast", additional_info = nil}
+MultiLanguageSpellData['en'][1233623] = {name = "Greater Heal", additional_info = "5 yd range\n2.5 sec cast\n[q]Calls upon Holy magic to heal an ally."}
 MultiLanguageSpellData['en'][1233678] = {name = "Avoid", additional_info = nil}
+MultiLanguageSpellData['en'][1233793] = {name = "Lifting", additional_info = nil}
 MultiLanguageSpellData['en'][1233798] = {name = "Avoid", additional_info = nil}
 MultiLanguageSpellData['en'][1233799] = {name = "AI Cast AoE", additional_info = nil}
 MultiLanguageSpellData['en'][1233818] = {name = "AI Cast AoE", additional_info = nil}
 MultiLanguageSpellData['en'][1233820] = {name = "AI Cast AoE", additional_info = nil}
+MultiLanguageSpellData['en'][1233838] = {name = "Repeatable Event - Dastardly Duos - Toy - Banner - In Dome - Threat", additional_info = nil}
+MultiLanguageSpellData['en'][1233855] = {name = "Shoot Rifle", additional_info = "100 yd range\n3 sec cast\nRequires Ranged Weapon\n[q]Shoots at an enemy, inflicting Physical damage."}
 MultiLanguageSpellData['en'][1233878] = {name = "AI Cast AoE", additional_info = nil}
+MultiLanguageSpellData['en'][1233888] = {name = "DNT 11.1.5 Repeatable Event - Dastardly Duos - Area POI - Set Widget", additional_info = nil}
+MultiLanguageSpellData['en'][1233918] = {name = "Saber Slash", additional_info = "Melee Range\nInstant\nRequires Melee Weapon\n[q]Viciously slash an enemy, causing Physical damage."}
+MultiLanguageSpellData['en'][1233920] = {name = "Destroying", additional_info = nil}
+MultiLanguageSpellData['en'][1233951] = {name = "Emote State - Dance", additional_info = nil}
 MultiLanguageSpellData['en'][1233980] = {name = "Blackwater Swing", additional_info = nil}
+MultiLanguageSpellData['en'][1233996] = {name = "Follow", additional_info = nil}
+MultiLanguageSpellData['en'][1234016] = {name = "Play Nice, Play Fair", additional_info = "Instant\n[q]Your maximum item level is 619 for this match."}
+MultiLanguageSpellData['en'][1234028] = {name = "Destien's Glasses", additional_info = nil}
+MultiLanguageSpellData['en'][1234043] = {name = "DNT Repeatable Event - Dastardly Duos - Firework Tank (Pyro Machine) Death", additional_info = nil}
+MultiLanguageSpellData['en'][1234058] = {name = "Bottle of Invisibility", additional_info = "Unlimited range\nInstant\n[q]Turn invisible!"}
+MultiLanguageSpellData['en'][1234113] = {name = "Installing", additional_info = nil}
+MultiLanguageSpellData['en'][1234135] = {name = "Set Self to All Phases", additional_info = nil}
+MultiLanguageSpellData['en'][1234189] = {name = "Execution Sentence", additional_info = "30 yd range\nInstant\n[q]A hammer slowly falls from the sky upon the target, after 8 sec, they suffer 0% of the damage taken from your abilities as Holy damage during that time.\n\n [ Divine Auxiliary : Generates 3 Holy Power. ]"}
+MultiLanguageSpellData['en'][1234211] = {name = "One of the Devout", additional_info = "[q]Being one of the devout grants an additional 3 <Primary Stat>."}
+MultiLanguageSpellData['en'][1234212] = {name = "One of the Devout", additional_info = "[q]Being one of the devout grants an additional 2 <Primary Stat>."}
+MultiLanguageSpellData['en'][1234225] = {name = "Installing", additional_info = nil}
+MultiLanguageSpellData['en'][1234226] = {name = "Installing", additional_info = nil}
+MultiLanguageSpellData['en'][1234227] = {name = "Installing", additional_info = nil}
+MultiLanguageSpellData['en'][1234228] = {name = "Installing", additional_info = nil}
+MultiLanguageSpellData['en'][1234229] = {name = "Installing", additional_info = nil}
+MultiLanguageSpellData['en'][1234241] = {name = "Remove Kitzy Guardian Aura", additional_info = nil}
+MultiLanguageSpellData['en'][1234245] = {name = "Repeatable Event - Dastardly Duos - Animatronic - Gear Grabbed", additional_info = nil}
+MultiLanguageSpellData['en'][1234246] = {name = "Repeatable Event - Dastardly Duos - Animatronic - create gear", additional_info = nil}
+MultiLanguageSpellData['en'][1234247] = {name = "Repeatable Event - Dastardly Duos - Animatronic - lose gear", additional_info = nil}
+MultiLanguageSpellData['en'][1234250] = {name = "Multi-Boss Bonus", additional_info = nil}
+MultiLanguageSpellData['en'][1234356] = {name = "Faceless Masks", additional_info = nil}
+MultiLanguageSpellData['en'][1234437] = {name = "Reset", additional_info = "Instant\n[q]The race has been reset."}
+MultiLanguageSpellData['en'][1234581] = {name = "Nerubian Child - Mount Spell", additional_info = nil}
+MultiLanguageSpellData['en'][1234721] = {name = "No Stealth", additional_info = nil}
 MultiLanguageSpellData['en'][1234963] = {name = "Inescapable Consequences", additional_info = nil}
+MultiLanguageSpellData['en'][1235115] = {name = "Hearthstone", additional_info = nil}
+MultiLanguageSpellData['en'][1235231] = {name = "Exit Vision", additional_info = nil}
+MultiLanguageSpellData['en'][1235241] = {name = "Portal", additional_info = "Instant\n[q]Teleports the caster to Thrall's Room"}
+MultiLanguageSpellData['en'][1235242] = {name = "Portal", additional_info = nil}
+MultiLanguageSpellData['en'][1235243] = {name = "Khaz Algar Adventurer Pack Surprise", additional_info = nil}
+MultiLanguageSpellData['en'][1235251] = {name = "Teleport", additional_info = nil}
+MultiLanguageSpellData['en'][1235252] = {name = "Teleport", additional_info = nil}
+MultiLanguageSpellData['en'][1235382] = {name = "Impending Victory", additional_info = "Melee Range\nInstant\n[q]Instantly attack the target, causing 1 damage and healing you for 30% of your maximum health.\n\n Killing an enemy that yields experience or honor resets the cooldown of Impending Victory and makes it cost no Rage."}
+MultiLanguageSpellData['en'][1235383] = {name = "Slam", additional_info = "{20 Energy} {Melee Range}\nInstant\nRequires Melee Weapon\n[q]Slams an opponent, causing 1 Physical damage."}
+MultiLanguageSpellData['en'][1235386] = {name = "Execute", additional_info = "{20 Energy} {Melee Range}\n{Instant} {3.5 sec cooldown}\nRequires Melee Weapon\n[q]Attempts to finish off a foe, causing 6 Physical damage."}
+MultiLanguageSpellData['en'][1235391] = {name = "Dark Transformation", additional_info = "100 yd range\nInstant\n[q]Unholy\n Your deals (44.73% of Attack power) Shadow damage to 5 nearby enemies and transforms into a powerful undead monstrosity for 15 sec. The 's abilities are empowered and take on new functions while the transformation is active.\n\nBlood, Frost\n Your deals (44.73% of Attack power) Shadow damage to 5 nearby enemies and transforms into a powerful undead monstrosity for 15 sec. The 's abilities are empowered and take on new functions while the transformation is active."}
 MultiLanguageSpellData['en'][1235399] = {name = "Cartel Jumper Cables", additional_info = "Instant\n[q]Ready to use the Cartel Jumper Cables in case of an untimely demise. Only usable out of combat."}
 MultiLanguageSpellData['en'][1235400] = {name = "Cartel Jumper Cables", additional_info = "Instant\n[q]Ready to use the Cartel Jumper Cables in case of an untimely demise. Only usable out of combat."}
 MultiLanguageSpellData['en'][1235583] = {name = "Void Bolt", additional_info = "30 yd range\n2 sec cast\n[q]Inflicts Shadow damage to an enemy."}
+MultiLanguageSpellData['en'][1235620] = {name = "Vengeance", additional_info = "Instant\n[q]Fills allies within 0 yards with vengeance upon death, increasing their damage done by 15% for 20 sec. Stacks."}
+MultiLanguageSpellData['en'][1235693] = {name = "Ensemble: Feathered Collection of the Archmage", additional_info = "Instant\n[q]Collect the appearances of the Feathered Collection of the Archmage."}
+MultiLanguageSpellData['en'][1235696] = {name = "Ensemble: Feathered Collection of the Prophet", additional_info = "Instant\n[q]Collect the appearances of the Feathered Collection of the Prophet."}
+MultiLanguageSpellData['en'][1236942] = {name = "Divine Hammer", additional_info = "Unlimited range\nInstant\n[q]Divine Hammers spin around you, striking enemies nearby for [ Burning Crusade : [(35.7% of Attack power)% * 1.05] Radiant / (35.7% of Attack power)% Holy] damage every 2 sec for 8 sec.\n\n While active, each Holy Power spent increases the duration of Divine Hammer by 0.5 sec. Deals reduced damage beyond 8 targets."}
+MultiLanguageSpellData['en'][1238052] = {name = "Holy Priest", additional_info = "[q]Holy Priest core passive\n[q]Modifies Damage/Healing Done +3%:\nAscended Nova , Evangelism , Flash Heal , Greater Heal , Heal , Holy Word: Sanctify , Holy Word: Serenity , Insurance! , Insurance! , Insurance! , Insurance! , Inversion Prism , Power Word: Life , Power Word: Radiance , Prayer of Healing , Renew , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova\n\nModifies Periodic Damage/Healing Done +3%:\nAscended Nova , Evangelism , Flash Heal , Greater Heal , Heal , Holy Word: Sanctify , Holy Word: Serenity , Insurance! , Insurance! , Insurance! , Insurance! , Inversion Prism , Power Word: Life , Power Word: Radiance , Prayer of Healing , Renew , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova\n\nModifies Spell Power +3%:\nPower Word: Shield"}
+MultiLanguageSpellData['en'][1238804] = {name = "BIG Burner Clock", additional_info = "1.5 sec cast\n[q]Add 60 seconds back to the Dastardly Duos clock."}
+MultiLanguageSpellData['en'][1238850] = {name = "DNT 11.1.5 Repeatable Event - Dastardly Duos - FIXUP Reset Stats and Scores", additional_info = nil}

@@ -39824,7 +39824,7 @@ MultiLanguageNpcData['en'][166019] = {name = "Shimmermoth", subname = nil}
 MultiLanguageNpcData['en'][166020] = {name = "Invisible Stalker", subname = nil}
 MultiLanguageNpcData['en'][166021] = {name = "Path Marker", subname = nil}
 MultiLanguageNpcData['en'][166022] = {name = "Wary Vulpin", subname = nil}
-MultiLanguageNpcData['en'][166023] = {name = "Maze Monkey Guide", subname = nil}
+MultiLanguageNpcData['en'][166023] = {name = "Maze Monkey Guide", subname = "I will be removed"}
 MultiLanguageNpcData['en'][166024] = {name = "Skittish Runefoal", subname = nil}
 MultiLanguageNpcData['en'][166025] = {name = "Stage Hand", subname = "Starlight Theater Company"}
 MultiLanguageNpcData['en'][166026] = {name = "Mueh'zala's Servant", subname = nil}
@@ -39872,7 +39872,7 @@ MultiLanguageNpcData['en'][166069] = {name = "Tithelord's Reserve", subname = ni
 MultiLanguageNpcData['en'][166070] = {name = "Roller", subname = "Innkeeper"}
 MultiLanguageNpcData['en'][166071] = {name = "Boggart", subname = nil}
 MultiLanguageNpcData['en'][166073] = {name = "Greater Ardenmoth", subname = nil}
-MultiLanguageNpcData['en'][166074] = {name = "Psuedo Trash", subname = nil}
+MultiLanguageNpcData['en'][166074] = {name = "Psuedo Trash", subname = "I will be replaced with Trash"}
 MultiLanguageNpcData['en'][166075] = {name = "Greatwing Ardenmoth", subname = nil}
 MultiLanguageNpcData['en'][166076] = {name = "Mats", subname = "Scavenged Goods & Repairs"}
 MultiLanguageNpcData['en'][166077] = {name = "Reliquary of Souls", subname = nil}

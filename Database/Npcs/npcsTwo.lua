@@ -41067,7 +41067,6 @@ MultiLanguageNpcData['en'][112441] = {name = "Robert Newhearth", subname = "Head
 MultiLanguageNpcData['en'][112442] = {name = "Nightborne Fox Hunter", subname = nil}
 MultiLanguageNpcData['en'][112443] = {name = "Volpin", subname = "Fox"}
 MultiLanguageNpcData['en'][112444] = {name = "Highland Skyraptor", subname = nil}
-MultiLanguageNpcData['en'][112445] = {name = "Johnny Awesome", subname = "Uber Town"}
 MultiLanguageNpcData['en'][112446] = {name = "1% Credit", subname = nil}
 MultiLanguageNpcData['en'][112447] = {name = "3% Credit", subname = nil}
 MultiLanguageNpcData['en'][112448] = {name = "5% Credit", subname = nil}

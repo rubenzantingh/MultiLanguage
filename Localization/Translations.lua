@@ -21,6 +21,7 @@ local function addonLoaded(self, event, addonLoadedName)
                 spellOptionsTitle = "Spell options",
                 npcOptionsTitle = "Npc options",
                 enableText = "Enable",
+                onlyDisplayNameText = "Only display name",
                 languages = {
                     en = "English",
                     es = "Spanish",
@@ -60,6 +61,7 @@ local function addonLoaded(self, event, addonLoadedName)
                 spellOptionsTitle = "Opciones de hechizo",
                 npcOptionsTitle = "Opciones de NPC",
                 enableText = "Habilitar",
+                onlyDisplayNameText = "Mostrar solo el nombre",
                 languages = {
                     en = "Inglés",
                     es = "Español",
@@ -100,6 +102,7 @@ local function addonLoaded(self, event, addonLoadedName)
                 spellOptionsTitle = "Zauberoptionen",
                 npcOptionsTitle = "NPC-Optionen",
                 enableText = "Aktivieren",
+                onlyDisplayNameText = "Nur Anzeigename",
                 languages = {
                     en = "Englisch",
                     es = "Spanisch",
@@ -139,6 +142,7 @@ local function addonLoaded(self, event, addonLoadedName)
                 spellOptionsTitle = "Options des sorts",
                 npcOptionsTitle = "Options des PNJ",
                 enableText = "Activer",
+                onlyDisplayNameText = "Afficher uniquement le nom",
                 languages = {
                     en = "Anglais",
                     es = "Espagnol",
@@ -178,6 +182,7 @@ local function addonLoaded(self, event, addonLoadedName)
                 spellOptionsTitle = "Opções de feitiço",
                 npcOptionsTitle = "Opções de NPC",
                 enableText = "Habilitar",
+                onlyDisplayNameText = "Exibir apenas o nome",
                 languages = {
                     en = "Inglês",
                     es = "Espanhol",
@@ -217,6 +222,7 @@ local function addonLoaded(self, event, addonLoadedName)
                 spellOptionsTitle = "Настройки заклинаний",
                 npcOptionsTitle = "Настройки NPC",
                 enableText = "Включить",
+                onlyDisplayNameText = "Показывать только имя",
                 languages = {
                     en = "Английский",
                     es = "Испанский",
@@ -256,6 +262,7 @@ local function addonLoaded(self, event, addonLoadedName)
                 spellOptionsTitle = "法术选项",
                 npcOptionsTitle = "NPC 选项",
                 enableText = "启用",
+                onlyDisplayNameText = "仅显示名称",
                 languages = {
                     en = "英语",
                     es = "西班牙语",
@@ -295,6 +302,7 @@ local function addonLoaded(self, event, addonLoadedName)
                 spellOptionsTitle = "주문 옵션",
                 npcOptionsTitle = "NPC 옵션",
                 enableText = "활성화",
+                onlyDisplayNameText = "이름만 표시",
                 languages = {
                     en = "영어",
                     es = "스페인어",
@@ -334,6 +342,7 @@ local function addonLoaded(self, event, addonLoadedName)
                 spellOptionsTitle = "Opciones de hechizo",
                 npcOptionsTitle = "Opciones de NPC",
                 enableText = "Habilitar",
+                onlyDisplayNameText = "Mostrar solo el nombre",
                 languages = {
                     en = "Inglés",
                     es = "Español",
@@ -373,6 +382,7 @@ local function addonLoaded(self, event, addonLoadedName)
                 spellOptionsTitle = "法術選項",
                 npcOptionsTitle = "NPC選項",
                 enableText = "啟用",
+                onlyDisplayNameText = "僅顯示名稱",
                 languages = {
                     en = "英文",
                     es = "西班牙文",

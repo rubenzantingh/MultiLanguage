@@ -130,8 +130,11 @@ local function getDefaultOptions(optionsTranslations)
            {value = 'replace', text = optionsTranslations["questDisplayModes"]["replace"]}
         },
         ITEM_TRANSLATIONS = true,
+        ITEM_TRANSLATIONS_ONLY_DISPLAY_NAME = false,
         SPELL_TRANSLATIONS = true,
+        SPELL_TRANSLATIONS_ONLY_DISPLAY_NAME = false,
         NPC_TRANSLATIONS = true,
+        NPC_TRANSLATIONS_ONLY_DISPLAY_NAME = false,
         SELECTED_LANGUAGE = 'en',
         AVAILABLE_LANGUAGES = {
             {value = 'en', text = optionsTranslations["languages"]["en"]},
@@ -227,11 +230,11 @@ local function InitializeOptions()
     )
 
     -- General options: Hotkey
-    local hotkeyDescription = optionsPanel:CreateFontString(nil, "ARTWORK", "GameFontnormalSmall")
+    local hotkeyDescription = optionsContainer:CreateFontString(nil, "ARTWORK", "GameFontnormalSmall")
     hotkeyDescription:SetPoint("TOPLEFT", interactionDropdown, "BOTTOMLEFT", 16, fieldOffsetY)
     hotkeyDescription:SetText(optionsTranslations["registerHotkeyDescriptionText"])
 
-    local registerHotkeyButton = CreateFrame("Button", "MultiLanguageRegisterHotkeyButton", optionsPanel, "UIPanelButtonTemplate")
+    local registerHotkeyButton = CreateFrame("Button", "MultiLanguageRegisterHotkeyButton", optionsContainer, "UIPanelButtonTemplate")
     registerHotkeyButton:SetWidth(120)
     registerHotkeyButton:SetHeight(25)
     registerHotkeyButton:SetPoint("TOPLEFT", hotkeyDescription, "TOPLEFT", 0, -12)
@@ -304,9 +307,15 @@ local function InitializeOptions()
     end)
     itemTranslationsEnabledCheckbox:SetPoint("TOPLEFT", itemOptionsTitle, fieldOffsetX - 5, subTitleOffsetY + fieldOffsetY)
 
+    local itemTranslationsDisplayOnlyNameCheckbox = CreateCheckBox(optionsContainer, optionsTranslations["onlyDisplayNameText"], "ITEM_TRANSLATIONS_ONLY_DISPLAY_NAME", function(self)
+        local checked = self:GetChecked()
+        MultiLanguageOptions["ITEM_TRANSLATIONS_ONLY_DISPLAY_NAME"] = checked
+    end)
+    itemTranslationsDisplayOnlyNameCheckbox:SetPoint("TOPLEFT", itemTranslationsEnabledCheckbox, 0, subTitleOffsetY + fieldOffsetY)
+
     -- Spell options
     local spellOptionsTitle = optionsContainer:CreateFontString(nil, "ARTWORK", "GameFontHighlightLarge")
-    spellOptionsTitle:SetPoint("TOPLEFT", itemTranslationsEnabledCheckbox, -fieldOffsetX + 5, -itemTranslationsEnabledCheckbox:GetHeight() + subTitleOffsetY - fieldOffsetY)
+    spellOptionsTitle:SetPoint("TOPLEFT", itemTranslationsDisplayOnlyNameCheckbox, -fieldOffsetX + 5, -itemTranslationsDisplayOnlyNameCheckbox:GetHeight() + subTitleOffsetY - fieldOffsetY)
     spellOptionsTitle:SetText(optionsTranslations["spellOptionsTitle"])
     spellOptionsTitle:SetTextColor(1, 1, 1)
 
@@ -316,9 +325,15 @@ local function InitializeOptions()
     end)
     spellTranslationsEnabledCheckbox:SetPoint("TOPLEFT", spellOptionsTitle, fieldOffsetX - 5, subTitleOffsetY + fieldOffsetY)
 
+    local spellTranslationsDisplayOnlyNameCheckbox = CreateCheckBox(optionsContainer, optionsTranslations["onlyDisplayNameText"], "SPELL_TRANSLATIONS_ONLY_DISPLAY_NAME", function(self)
+        local checked = self:GetChecked()
+        MultiLanguageOptions["SPELL_TRANSLATIONS_ONLY_DISPLAY_NAME"] = checked
+    end)
+    spellTranslationsDisplayOnlyNameCheckbox:SetPoint("TOPLEFT", spellTranslationsEnabledCheckbox, 0, subTitleOffsetY + fieldOffsetY)
+
     -- Npc options
     local npcOptionsTitle = optionsContainer:CreateFontString(nil, "ARTWORK", "GameFontHighlightLarge")
-    npcOptionsTitle:SetPoint("TOPLEFT", spellTranslationsEnabledCheckbox, -fieldOffsetX + 5, -spellTranslationsEnabledCheckbox:GetHeight() + subTitleOffsetY - fieldOffsetY)
+    npcOptionsTitle:SetPoint("TOPLEFT", spellTranslationsDisplayOnlyNameCheckbox, -fieldOffsetX + 5, -spellTranslationsEnabledCheckbox:GetHeight() + subTitleOffsetY - fieldOffsetY)
     npcOptionsTitle:SetText(optionsTranslations["npcOptionsTitle"])
     npcOptionsTitle:SetTextColor(1, 1, 1)
 
@@ -327,6 +342,12 @@ local function InitializeOptions()
         MultiLanguageOptions["NPC_TRANSLATIONS"] = checked
     end)
     npcTranslationsEnabledCheckbox:SetPoint("TOPLEFT", npcOptionsTitle, fieldOffsetX - 5, subTitleOffsetY + fieldOffsetY)
+
+    local npcTranslationsDisplayOnlyNameCheckbox = CreateCheckBox(optionsContainer, optionsTranslations["onlyDisplayNameText"], "NPC_TRANSLATIONS_ONLY_DISPLAY_NAME", function(self)
+        local checked = self:GetChecked()
+        MultiLanguageOptions["NPC_TRANSLATIONS_ONLY_DISPLAY_NAME"] = checked
+    end)
+    npcTranslationsDisplayOnlyNameCheckbox:SetPoint("TOPLEFT", npcTranslationsEnabledCheckbox, 0, subTitleOffsetY + fieldOffsetY)
 
     if InterfaceOptions_AddCategory then
         InterfaceOptions_AddCategory(optionsPanel)

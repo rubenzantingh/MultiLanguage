@@ -242,6 +242,15 @@ local function SetQuestHoverScripts(frame, children)
 end
 
 -- Item, spell and unit functions
+local function ShowOnlyTitleTranslation(type)
+    return MultiLanguageOptions[type:upper() .. "_TRANSLATIONS_ONLY_DISPLAY_NAME"]
+end
+
+local function SetTranslationFrameHeightAndPosition(height, gameToolTipHeight)
+    TranslationTooltipFrame:SetHeight(height)
+    TranslationTooltipFrame:SetPoint("TOPLEFT", 0, elementWillBeAboveTop(TranslationTooltipFrame, GameTooltip) and -gameToolTipHeight - 5 or TranslationTooltipFrame:GetHeight() + 5)
+end
+
 local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
     local gameToolTipWidth = GameTooltip:GetWidth()
     local gameToolTipHeight = GameTooltip:GetHeight()
@@ -286,6 +295,21 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
     local totalFrameHeight = TranslationTooltipFrameHeader:GetHeight()
     local newLines = 0
     local frameAdditionalHeight = 0
+
+    if ShowOnlyTitleTranslation(type) then
+        SetTranslationFrameHeightAndPosition(totalFrameHeight + 20, gameToolTipHeight)
+
+        if existingLines > 0 then
+            for _, frame in ipairs(activeItemSpellOrUnitLines) do
+                frame:Hide()
+            end
+            activeItemSpellOrUnitLines = {}
+        end
+
+        activeItemSpellOrUnitId = id
+
+        return
+    end
 
     if id ~= activeItemSpellOrUnitId then
         -- A new entity is hovered
@@ -386,8 +410,6 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
             end
         end
 
-        TranslationTooltipFrame:SetHeight(totalFrameHeight + 20)
-        TranslationTooltipFrame:SetPoint("TOPLEFT", 0, elementWillBeAboveTop(TranslationTooltipFrame, GameTooltip) and -gameToolTipHeight - 5 or TranslationTooltipFrame:GetHeight() + 5)
         activeItemSpellOrUnitId = id
     else
         -- The same entity is hovered
@@ -428,10 +450,9 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
 
             totalFrameHeight = totalFrameHeight + lineFontStringHeight + 2.5
         end
-
-        TranslationTooltipFrame:SetHeight(totalFrameHeight + 20)
-        TranslationTooltipFrame:SetPoint("TOPLEFT", 0, elementWillBeAboveTop(TranslationTooltipFrame, GameTooltip) and -gameToolTipHeight - 5 or TranslationTooltipFrame:GetHeight() + 5)
     end
+
+    SetTranslationFrameHeightAndPosition(totalFrameHeight + 20, gameToolTipHeight)
 end
 
 -- General functions

@@ -1,155 +1,236 @@
-local defaultOptions = {
-    QUEST_TRANSLATIONS = true,
-    ITEM_TRANSLATIONS = true,
-    SPELL_TRANSLATIONS = true,
-    NPC_TRANSLATIONS = true,
-    SELECTED_LANGUAGE = 'en',
-    SELECTED_INTERACTION = 'hover',
-    SELECTED_HOTKEY = nil,
-    AVAILABLE_LANGUAGES = {
-        {value = 'en', text = 'English'}
-    }
-}
-
 local addonName = ...
 local optionsFrame = CreateFrame("Frame")
+local gameLocale = GetLocale()
+local gameLanguage = string.sub(gameLocale, 1, 2)
+local defaultOptions = nil
+local optionsTranslations = nil
 
-local function CreateCheckBox(parent, optionsPanel, text, onClick)
-    local checkbox = CreateFrame("CheckButton", nil, optionsPanel, "InterfaceOptionsCheckButtonTemplate")
+-- General functions
+local function CreateOptionDropdown(parent, relativeFrame, offsetX, offsetY, label, defaultValueLabel, optionKey, selectedKey, translationKey)
+    local dropdownLabel = parent:CreateFontString(nil, "ARTWORK", "GameFontNormal")
+    dropdownLabel:SetText(label)
+    dropdownLabel:SetPoint("TOPLEFT", relativeFrame, "TOPLEFT", offsetX, offsetY - 10)
+
+    local dropdown = CreateFrame("Frame", nil, parent, "UIDropDownMenuTemplate")
+    dropdown:SetPoint("TOPLEFT", dropdownLabel, "BOTTOMLEFT", -20, -4)
+
+    local selectedOptionLabel = defaultValueLabel
+
+    local function InitializeDropdownOptions()
+        local info = UIDropDownMenu_CreateInfo()
+
+        local function OnDropdownValueChanged(self, arg1, arg2, checked)
+            MultiLanguageOptions[selectedKey] = arg1
+            UIDropDownMenu_SetText(dropdown, arg2)
+        end
+
+        for index, value in ipairs(MultiLanguageOptions[optionKey]) do
+            info.text = optionsTranslations[translationKey][value.value]
+            info.value = value.value
+            info.arg1 = info.value
+            info.arg2 = info.text
+            info.checked = MultiLanguageOptions[selectedKey] == value.value
+            info.func = OnDropdownValueChanged
+            info.minWidth = 150
+
+            if info.checked then
+                selectedOptionLabel = optionsTranslations[translationKey][value.value]
+            end
+
+            UIDropDownMenu_AddButton(info)
+        end
+    end
+
+    UIDropDownMenu_Initialize(dropdown, InitializeDropdownOptions)
+    UIDropDownMenu_SetWidth(dropdown, 150)
+    UIDropDownMenu_SetText(dropdown, selectedOptionLabel)
+    UIDropDownMenu_SetAnchor(dropdown, 0, 0, "TOPLEFT", dropdown)
+
+    return {
+        frame = dropdown,
+        reinitialize = function()
+            UIDropDownMenu_Initialize(dropdown, InitializeDropdownOptions)
+        end
+    }
+end
+
+local function CreateCheckBox(parent, text, optionKey, onClick)
+    local checkbox = CreateFrame("CheckButton", nil, parent, "InterfaceOptionsCheckButtonTemplate")
     checkbox.Text:SetText(text)
-    checkbox:SetScript("OnClick", onClick)
 
+    if gameLanguage == "ru" then
+        checkbox.Text:SetFont("Fonts\\Arial__.TTF", 12, "OUTLINE")
+    elseif gameLanguage == "cn" then
+        checkbox.Text:SetFont("Fonts\\ARKai_T.TTF", 12, "OUTLINE")
+    elseif gameLanguage == "ko" then
+        checkbox.Text:SetFont("Fonts\\2002.TTF", 12, "OUTLINE")
+    else
+        checkbox.Text:SetFont("Fonts\\FRIZQT__.TTF", 12, "OUTLINE")
+    end
+
+    checkbox.Text:SetPoint("LEFT", 30, 0)
+    checkbox:SetScript("OnClick", onClick)
+    checkbox:SetChecked(MultiLanguageOptions[optionKey])
     return checkbox
 end
 
-local function createOptionCheckbox(parent, optionsPanel, text, optionKey)
-    local checkbox = CreateCheckBox(parent, optionsPanel, text, function(self)
-        local checked = self:GetChecked()
-        MultiLanguageOptions[optionKey] = checked
+local function CreateTextInput(parent, relativeFrame, offsetX, offsetY, label, defaultValue, maxLetters, optionKey)
+    local inputLabel = parent:CreateFontString(nil, "ARTWORK", "GameFontNormal")
+    inputLabel:SetText(label)
+    inputLabel:SetPoint("TOPLEFT", relativeFrame, "TOPLEFT", offsetX, offsetY)
+
+    local scrollFrame = CreateFrame("ScrollFrame", nil, parent, "UIPanelScrollFrameTemplate")
+    scrollFrame:SetPoint("TOPLEFT", inputLabel, "BOTTOMLEFT", 0, -10)
+    scrollFrame:SetSize(300, 80)
+
+    local bg = scrollFrame:CreateTexture(nil, "BACKGROUND")
+    bg:SetAllPoints(scrollFrame)
+    bg:SetColorTexture(0, 0, 0, 0.5)
+
+    local border = CreateFrame("Frame", nil, scrollFrame, BackdropTemplateMixin and "BackdropTemplate")
+    border:SetPoint("TOPLEFT", scrollFrame, "TOPLEFT", -5, 5)
+    border:SetPoint("BOTTOMRIGHT", scrollFrame, "BOTTOMRIGHT", 5, -5)
+    border:SetBackdrop({
+        edgeFile = "Interface/Tooltips/UI-Tooltip-Border",
+        edgeSize = 16,
+    })
+    border:SetBackdropBorderColor(0.8, 0.8, 0.8, 1)
+
+    local editBox = CreateFrame("EditBox", nil, scrollFrame)
+    editBox:SetMultiLine(true)
+    editBox:SetAutoFocus(false)
+    editBox:SetText(MultiLanguageOptions[optionKey] or defaultValue)
+    editBox:SetFont("Fonts\\FRIZQT__.TTF", 12, "OUTLINE")
+    editBox:SetTextInsets(5, 5, 5, 5)
+    editBox:SetCursorPosition(0)
+    editBox:SetSize(300, 200)
+    editBox:SetPoint("TOPLEFT")
+    editBox:SetPoint("TOPRIGHT")
+    editBox:SetHeight(80)
+    editBox:SetMaxLetters(maxLetters)
+
+    scrollFrame:SetScrollChild(editBox)
+    scrollFrame:SetVerticalScroll(0)
+    scrollFrame:EnableMouse(true)
+    scrollFrame:SetScript("OnMouseDown", function(self)
+        editBox:SetFocus()
     end)
 
-    checkbox:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -8)
-    checkbox:SetChecked(MultiLanguageOptions[optionKey])
-    return checkbox
+    editBox:SetScript("OnTextChanged", function(self)
+        MultiLanguageOptions[optionKey] = self:GetText()
+    end)
+
+    editBox:SetScript("OnEnterPressed", function(self)
+        self:Insert("\n")
+    end)
+
+    return scrollFrame
+end
+
+local function getDefaultOptions(optionsTranslations)
+    return {
+        QUEST_TRANSLATIONS = true,
+        ITEM_TRANSLATIONS = true,
+        ITEM_TRANSLATIONS_ONLY_DISPLAY_NAME = false,
+        SPELL_TRANSLATIONS = true,
+        SPELL_TRANSLATIONS_ONLY_DISPLAY_NAME = false,
+        NPC_TRANSLATIONS = true,
+        NPC_TRANSLATIONS_ONLY_DISPLAY_NAME = false,
+        SELECTED_LANGUAGE = 'en',
+        AVAILABLE_LANGUAGES = {
+            {value = 'en', text = optionsTranslations["languages"]["en"]},
+        },
+        SELECTED_INTERACTION = 'hover',
+        AVAILABLE_INTERACTIONS = {
+           {value = 'hover', text = optionsTranslations["interactionModes"]["hover"]},
+           {value = 'hover-hotkey', optionsTranslations["interactionModes"]["hoverHotkey"]}
+        },
+        SELECTED_HOTKEY = nil
+   }
 end
 
 local function InitializeOptions()
     local optionsPanel = CreateFrame("Frame", "MultiLanguageOptionsPanel", UIParent)
     optionsPanel.name = "MultiLanguage"
 
-    local title = optionsPanel:CreateFontString(nil, "ARTWORK", "GameFontNormalLarge")
-    title:SetPoint("TOPLEFT", 16, -16)
-    title:SetText("MultiLanguage")
+    -- Vars
+    local titleOffsetY = -22
+    local subTitleOffsetY = -30
+    local fieldOffsetX = 25
+    local fieldOffsetY = -10
 
-    local languageDropdownDescription = optionsPanel:CreateFontString(nil, "ARTWORK", "GameFontnormalSmall")
-    languageDropdownDescription:SetPoint("TOPLEFT", title, "BOTTOMLEFT", 0, -16)
-    languageDropdownDescription:SetText("Select language (Check CurseForge for more languages):")
+    -- Options panel title
+    local panelTitle = optionsPanel:CreateFontString(nil, "ARTWORK", "GameFontHighlightLarge")
+    panelTitle:SetPoint("TOPLEFT", optionsPanel, 6, titleOffsetY)
+    panelTitle:SetText("MultiLanguage")
+    panelTitle:SetTextColor(1, 1, 1)
+    panelTitle:SetFont("Fonts\\FRIZQT__.TTF", 20)
 
-    local languageDropdown = CreateFrame("Frame", "MultiLanguageLanguageDropdown", optionsPanel, "UIDropDownMenuTemplate")
-    languageDropdown:SetPoint("TOPLEFT", languageDropdownDescription, "BOTTOMLEFT", -16, -4)
+    local panelTitleUnderline = optionsPanel:CreateTexture(nil, "ARTWORK")
+    panelTitleUnderline:SetColorTexture(1, 1, 1, 0.3)
+    panelTitleUnderline:SetPoint("TOPLEFT", panelTitle, "BOTTOMLEFT", 0, -9)
+    panelTitleUnderline:SetPoint("TOPRIGHT", optionsPanel, "TOPRIGHT", -16, -31)
 
-    local function OnLanguageDropdownValueChanged(self, arg1, arg2, checked)
-        MultiLanguageOptions.SELECTED_LANGUAGE = arg1
-        UIDropDownMenu_SetText(languageDropdown, arg2)
-    end
+    -- Scrollable frame
+    local optionsContainerScrollFrame = CreateFrame("ScrollFrame", nil, optionsPanel, "UIPanelScrollFrameTemplate")
+    optionsContainerScrollFrame:SetPoint("TOPLEFT", panelTitleUnderline, 0, -10)
+    optionsContainerScrollFrame:SetPoint("BOTTOMRIGHT", -38, 30)
 
-    local function SetSelectedLanguageText(languageText, selectedLanguageText, checked)
-        if checked then
-            return selectedLanguageText
-        end
+    local scrollSpeed = 50
 
-        return languageText
-    end
+    optionsContainerScrollFrame:EnableMouseWheel(true)
+    optionsContainerScrollFrame:SetScript("OnMouseWheel", function(self, delta)
+        local newOffset = self:GetVerticalScroll() - (delta * scrollSpeed)
+        newOffset = math.max(0, math.min(newOffset, self:GetVerticalScrollRange()))
+        self:SetVerticalScroll(newOffset)
+    end)
 
-    local function InitializeLanguageDropdown()
-        local info = UIDropDownMenu_CreateInfo()
-        local languageText = "English"
+    local optionsContainer = CreateFrame("Frame")
+    optionsContainerScrollFrame:SetScrollChild(optionsContainer)
+    optionsContainer:SetWidth(UIParent:GetWidth())
+    optionsContainer:SetHeight(1)
 
-        for index, language in ipairs(MultiLanguageOptions.AVAILABLE_LANGUAGES) do
-            info.text = language.text
-            info.value = language.value
-            info.arg1 = info.value
-            info.arg2 = info.text
-            info.checked = MultiLanguageOptions.SELECTED_LANGUAGE == language.value
-            info.func = OnLanguageDropdownValueChanged
-            info.minWidth = 145
-            languageText = SetSelectedLanguageText(languageText, info.text, info.checked)
-            UIDropDownMenu_AddButton(info)
-        end
+    -- Quest options
+    local generalOptionsTitle = optionsContainer:CreateFontString("ARTWORK", nil, "GameFontHighlightLarge")
+    generalOptionsTitle:SetPoint("TOPLEFT", 8, titleOffsetY)
+    generalOptionsTitle:SetText(optionsTranslations["generalOptionsTitle"])
+    generalOptionsTitle:SetTextColor(1, 1, 1)
 
-        UIDropDownMenu_SetText(languageDropdown, languageText)
-        UIDropDownMenu_SetAnchor(languageDropdown, 16, 4, "TOPLEFT", languageDropdown, "BOTTOMLEFT")
-    end
+    -- General options
+    local languageDropdown = CreateOptionDropdown(
+        optionsContainer,
+        generalOptionsTitle,
+        fieldOffsetX,
+        subTitleOffsetY,
+        optionsTranslations["languageDropdownLabel"],
+        optionsTranslations["languages"]["en"],
+        "AVAILABLE_LANGUAGES",
+        "SELECTED_LANGUAGE",
+        "languages"
+    )
 
     function AddLanguageDropdownOption()
-        InitializeLanguageDropdown()
+        languageDropdown.reinitialize()
     end
 
-    local enableQuestTranslationCheckbox = createOptionCheckbox(languageDropdown, optionsPanel,"Enable quest translations", "QUEST_TRANSLATIONS")
-    enableQuestTranslationCheckbox:SetPoint("TOPLEFT", languageDropdown, "BOTTOMLEFT", 16, -8)
-    local enableItemTranslationCheckbox = createOptionCheckbox(enableQuestTranslationCheckbox, optionsPanel, "Enable item translations", "ITEM_TRANSLATIONS")
-    local enableSpellTranslationCheckbox = createOptionCheckbox(enableItemTranslationCheckbox, optionsPanel, "Enable spell translations", "SPELL_TRANSLATIONS")
-    local enableNpcTranslationCheckbox = createOptionCheckbox(enableSpellTranslationCheckbox, optionsPanel, "Enable npc translations", "NPC_TRANSLATIONS")
+    local interactionDropdown = CreateOptionDropdown(
+        optionsContainer,
+        languageDropdown.frame,
+        fieldOffsetX - 5,
+        subTitleOffsetY,
+        optionsTranslations["interactionDropdownLabel"],
+        optionsTranslations["interactionModes"]["hover"],
+        "AVAILABLE_INTERACTIONS",
+        "SELECTED_INTERACTION",
+        "interactionModes"
+    )
 
-    UIDropDownMenu_SetWidth(languageDropdown, 150)
-    UIDropDownMenu_Initialize(languageDropdown, InitializeLanguageDropdown)
+    -- General options: Hotkey
+    local hotkeyDescription = optionsContainer:CreateFontString(nil, "ARTWORK", "GameFontnormalSmall")
+    hotkeyDescription:SetPoint("TOPLEFT", interactionDropdown.frame, "BOTTOMLEFT", 16, fieldOffsetY)
+    hotkeyDescription:SetText(optionsTranslations["registerHotkeyDescriptionText"])
 
-    local interactionDropdownDescription = optionsPanel:CreateFontString(nil, "ARTWORK", "GameFontnormalSmall")
-    interactionDropdownDescription:SetPoint("TOPLEFT", enableNpcTranslationCheckbox, "BOTTOMLEFT", 0, -8)
-    interactionDropdownDescription:SetText("Select interaction:")
-
-    local interactionDropdown = CreateFrame("Frame", "MultiLanguageInteractionDropdown", optionsPanel, "UIDropDownMenuTemplate")
-    interactionDropdown:SetPoint("TOPLEFT", interactionDropdownDescription, "BOTTOMLEFT", -16, -4)
-
-    local function SetSelectedInteractionText(interactionText, selectedInteractionText, checked)
-        if checked then
-            return selectedInteractionText
-        end
-
-        return interactionText
-    end
-
-    local function OnInteractionDropdownValueChanged(self, arg1, arg2, checked)
-        MultiLanguageOptions.SELECTED_INTERACTION = arg1
-        UIDropDownMenu_SetText(interactionDropdown, arg2)
-    end
-
-    local function InitializeInteractionDropdown()
-        local info = UIDropDownMenu_CreateInfo()
-        local interactionText = "Hover"
-
-        info.text = "Hover"
-        info.value = "hover"
-        info.arg1 = info.value
-        info.arg2 = info.text
-        info.checked = MultiLanguageOptions.SELECTED_INTERACTION == "hover"
-        info.func = OnInteractionDropdownValueChanged
-        info.minWidth = 145
-        interactionText = SetSelectedInteractionText(interactionText, info.text, info.checked)
-        UIDropDownMenu_AddButton(info)
-
-        info.text = "Hover + hotkey"
-        info.value = "hover-hotkey"
-        info.arg1 = info.value
-        info.arg2 = info.text
-        info.checked = MultiLanguageOptions.SELECTED_INTERACTION == "hover-hotkey"
-        info.func = OnInteractionDropdownValueChanged
-        info.minWidth = 145
-        interactionText = SetSelectedInteractionText(interactionText, info.text, info.checked)
-        UIDropDownMenu_AddButton(info)
-
-        UIDropDownMenu_SetText(interactionDropdown, interactionText)
-        UIDropDownMenu_SetAnchor(interactionDropdown, 16, 4, "TOPLEFT", interactionDropdown, "BOTTOMLEFT")
-    end
-
-    UIDropDownMenu_SetWidth(interactionDropdown, 150)
-    UIDropDownMenu_Initialize(interactionDropdown, InitializeInteractionDropdown)
-
-    local hotkeyDescription = optionsPanel:CreateFontString(nil, "ARTWORK", "GameFontnormalSmall")
-    hotkeyDescription:SetPoint("TOPLEFT", interactionDropdown, "BOTTOMLEFT", 16, -8)
-    hotkeyDescription:SetText("Register Hotkey (right-click to unbind):")
-
-    local registerHotkeyButton = CreateFrame("Button", "MultiLanguageRegisterHotkeyButton", optionsPanel, "UIPanelButtonTemplate")
+    local registerHotkeyButton = CreateFrame("Button", "MultiLanguageRegisterHotkeyButton", optionsContainer, "UIPanelButtonTemplate")
     registerHotkeyButton:SetWidth(120)
     registerHotkeyButton:SetHeight(25)
     registerHotkeyButton:SetPoint("TOPLEFT", hotkeyDescription, "TOPLEFT", 0, -12)
@@ -157,7 +238,7 @@ local function InitializeOptions()
     if MultiLanguageOptions.SELECTED_HOTKEY then
         registerHotkeyButton:SetText(MultiLanguageOptions.SELECTED_HOTKEY)
     else
-        registerHotkeyButton:SetText("Not Bound")
+        registerHotkeyButton:SetText(optionsTranslations["registerHotkeyNotBoundText"])
     end
 
     local waitingForKey = false
@@ -166,11 +247,11 @@ local function InitializeOptions()
         if button == "LeftButton" then
             if not waitingForKey then
                 waitingForKey = true
-                registerHotkeyButton:SetText("Press button..")
+                registerHotkeyButton:SetText(optionsTranslations["registerHotkeyPressButtonText"])
             end
         elseif button == "RightButton" then
             waitingForKey = false
-            registerHotkeyButton:SetText("Not Bound")
+            registerHotkeyButton:SetText(optionsTranslations["registerHotkeyNotBoundText"])
             MultiLanguageOptions.SELECTED_HOTKEY = nil
         end
     end)
@@ -186,6 +267,72 @@ local function InitializeOptions()
     registerHotkeyButton:SetScript("OnKeyDown", SetHotkeyButton)
     registerHotkeyButton:SetPropagateKeyboardInput(true)
 
+    -- Quest options
+    local questOptionsTitle = optionsContainer:CreateFontString(nil, "ARTWORK", "GameFontHighlightLarge")
+    questOptionsTitle:SetPoint("TOPLEFT", registerHotkeyButton, -fieldOffsetX + 5, -registerHotkeyButton:GetHeight() + subTitleOffsetY)
+    questOptionsTitle:SetText(optionsTranslations["questOptionsTitle"])
+    questOptionsTitle:SetTextColor(1, 1, 1)
+
+    local questTranslationsEnabledCheckbox = CreateCheckBox(optionsContainer, optionsTranslations["enableText"], "QUEST_TRANSLATIONS", function(self)
+        local checked = self:GetChecked()
+        MultiLanguageOptions["QUEST_TRANSLATIONS"] = checked
+    end)
+    questTranslationsEnabledCheckbox:SetPoint("TOPLEFT", questOptionsTitle, fieldOffsetX - 5, subTitleOffsetY + fieldOffsetY)
+
+    -- Item options
+    local itemOptionsTitle = optionsContainer:CreateFontString(nil, "ARTWORK", "GameFontHighlightLarge")
+    itemOptionsTitle:SetPoint("TOPLEFT", questTranslationsEnabledCheckbox, -fieldOffsetX + 5, -questTranslationsEnabledCheckbox:GetHeight() + subTitleOffsetY - fieldOffsetY)
+    itemOptionsTitle:SetText(optionsTranslations["itemOptionsTitle"])
+    itemOptionsTitle:SetTextColor(1, 1, 1)
+
+    local itemTranslationsEnabledCheckbox = CreateCheckBox(optionsContainer, optionsTranslations["enableText"], "ITEM_TRANSLATIONS", function(self)
+        local checked = self:GetChecked()
+        MultiLanguageOptions["ITEM_TRANSLATIONS"] = checked
+    end)
+    itemTranslationsEnabledCheckbox:SetPoint("TOPLEFT", itemOptionsTitle, fieldOffsetX - 5, subTitleOffsetY + fieldOffsetY)
+
+    local itemTranslationsDisplayOnlyNameCheckbox = CreateCheckBox(optionsContainer, optionsTranslations["onlyDisplayNameText"], "ITEM_TRANSLATIONS_ONLY_DISPLAY_NAME", function(self)
+        local checked = self:GetChecked()
+        MultiLanguageOptions["ITEM_TRANSLATIONS_ONLY_DISPLAY_NAME"] = checked
+    end)
+    itemTranslationsDisplayOnlyNameCheckbox:SetPoint("TOPLEFT", itemTranslationsEnabledCheckbox, 0, subTitleOffsetY + fieldOffsetY)
+
+    -- Spell options
+    local spellOptionsTitle = optionsContainer:CreateFontString(nil, "ARTWORK", "GameFontHighlightLarge")
+    spellOptionsTitle:SetPoint("TOPLEFT", itemTranslationsDisplayOnlyNameCheckbox, -fieldOffsetX + 5, -itemTranslationsDisplayOnlyNameCheckbox:GetHeight() + subTitleOffsetY - fieldOffsetY)
+    spellOptionsTitle:SetText(optionsTranslations["spellOptionsTitle"])
+    spellOptionsTitle:SetTextColor(1, 1, 1)
+
+    local spellTranslationsEnabledCheckbox = CreateCheckBox(optionsContainer, optionsTranslations["enableText"], "SPELL_TRANSLATIONS", function(self)
+        local checked = self:GetChecked()
+        MultiLanguageOptions["SPELL_TRANSLATIONS"] = checked
+    end)
+    spellTranslationsEnabledCheckbox:SetPoint("TOPLEFT", spellOptionsTitle, fieldOffsetX - 5, subTitleOffsetY + fieldOffsetY)
+
+    local spellTranslationsDisplayOnlyNameCheckbox = CreateCheckBox(optionsContainer, optionsTranslations["onlyDisplayNameText"], "SPELL_TRANSLATIONS_ONLY_DISPLAY_NAME", function(self)
+        local checked = self:GetChecked()
+        MultiLanguageOptions["SPELL_TRANSLATIONS_ONLY_DISPLAY_NAME"] = checked
+    end)
+    spellTranslationsDisplayOnlyNameCheckbox:SetPoint("TOPLEFT", spellTranslationsEnabledCheckbox, 0, subTitleOffsetY + fieldOffsetY)
+
+    -- Npc options
+    local npcOptionsTitle = optionsContainer:CreateFontString(nil, "ARTWORK", "GameFontHighlightLarge")
+    npcOptionsTitle:SetPoint("TOPLEFT", spellTranslationsDisplayOnlyNameCheckbox, -fieldOffsetX + 5, -spellTranslationsEnabledCheckbox:GetHeight() + subTitleOffsetY - fieldOffsetY)
+    npcOptionsTitle:SetText(optionsTranslations["npcOptionsTitle"])
+    npcOptionsTitle:SetTextColor(1, 1, 1)
+
+    local npcTranslationsEnabledCheckbox = CreateCheckBox(optionsContainer, optionsTranslations["enableText"], "NPC_TRANSLATIONS", function(self)
+        local checked = self:GetChecked()
+        MultiLanguageOptions["NPC_TRANSLATIONS"] = checked
+    end)
+    npcTranslationsEnabledCheckbox:SetPoint("TOPLEFT", npcOptionsTitle, fieldOffsetX - 5, subTitleOffsetY + fieldOffsetY)
+
+    local npcTranslationsDisplayOnlyNameCheckbox = CreateCheckBox(optionsContainer, optionsTranslations["onlyDisplayNameText"], "NPC_TRANSLATIONS_ONLY_DISPLAY_NAME", function(self)
+        local checked = self:GetChecked()
+        MultiLanguageOptions["NPC_TRANSLATIONS_ONLY_DISPLAY_NAME"] = checked
+    end)
+    npcTranslationsDisplayOnlyNameCheckbox:SetPoint("TOPLEFT", npcTranslationsEnabledCheckbox, 0, subTitleOffsetY + fieldOffsetY)
+
     if InterfaceOptions_AddCategory then
         InterfaceOptions_AddCategory(optionsPanel)
     else
@@ -196,10 +343,15 @@ end
 
 local function addonLoaded(self, event, addonLoadedName)
     if addonLoadedName == addonName then
+        optionsTranslations = (_G["MultiLanguageTranslations"][gameLanguage] or _G["MultiLanguageTranslations"]["en"])["options"]
+
+        defaultOptions = getDefaultOptions(optionsTranslations)
         MultiLanguageOptions = MultiLanguageOptions or defaultOptions
-        
+
         for key, value in pairs(defaultOptions) do
             if MultiLanguageOptions[key] == nil then
+                MultiLanguageOptions[key] = value
+            elseif type(value) == "table" and key == "AVAILABLE_LANGUAGES" then
                 MultiLanguageOptions[key] = value
             end
         end

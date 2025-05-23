@@ -1164,6 +1164,7 @@ MultiLanguageNpcData['en'][240442] = {name = "Kayjay", subname = "Chief Executiv
 MultiLanguageNpcData['en'][240443] = {name = "Marin Noggenfogger", subname = "Steamwheedle Trade-Prince"}
 MultiLanguageNpcData['en'][240476] = {name = "Undermine Visitor", subname = nil}
 MultiLanguageNpcData['en'][240477] = {name = "Webbed Scout", subname = nil}
+MultiLanguageNpcData['en'][240481] = {name = "Consultant Wrexxle", subname = "Undermine Dealer"}
 MultiLanguageNpcData['en'][240483] = {name = "Flame Eater", subname = nil}
 MultiLanguageNpcData['en'][240517] = {name = "Generic - Empty Bunny", subname = nil}
 MultiLanguageNpcData['en'][240528] = {name = "Sound Stalker - 11.1 Amb - Undermine - Traffic Sound Stalker", subname = nil}

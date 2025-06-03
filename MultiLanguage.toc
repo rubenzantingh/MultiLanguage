@@ -2,7 +2,7 @@
 ## Title: MultiLanguage
 ## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh
-## Version: 1.2.0
+## Version: 1.2.1
 ## SavedVariables: MultiLanguageOptions
 
 Database/Npcs/npcs.lua

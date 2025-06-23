@@ -24078,7 +24078,6 @@ MultiLanguageNpcData['en'][93284] = {name = "Outcast Servant", subname = nil}
 MultiLanguageNpcData['en'][93285] = {name = "Crazed Outcast Servant", subname = nil}
 MultiLanguageNpcData['en'][93286] = {name = "Eredar Spellforge", subname = nil}
 MultiLanguageNpcData['en'][93287] = {name = "Spellforge Target Stalker", subname = nil}
-MultiLanguageNpcData['en'][93288] = {name = "Corrupted Soul", subname = nil}
 MultiLanguageNpcData['en'][93289] = {name = "Vindicator Boros", subname = "Triumvirate of the Hand"}
 MultiLanguageNpcData['en'][93290] = {name = "Vindicator Kuros", subname = "Triumvirate of the Hand"}
 MultiLanguageNpcData['en'][93291] = {name = "Vindicator Vedaar", subname = nil}

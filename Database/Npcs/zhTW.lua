@@ -10018,7 +10018,6 @@ addonTable.npcData['tw'] = {
 [208846] = {name = "太陽崇拜者", subname = nil},
 [208847] = {name = "血裂繃帶竊賊", subname = nil},
 [208876] = {name = "割喉搶匪", subname = nil},
-[208886] = {name = "黑鼠", subname = nil},
 [208975] = {name = "窸窣作響的灌木叢", subname = nil},
 [209002] = {name = "加克利克‧虛絞", subname = "靈魂仲介者"},
 [209004] = {name = "布爾特", subname = nil},

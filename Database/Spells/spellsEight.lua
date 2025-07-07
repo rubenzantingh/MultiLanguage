@@ -9107,6 +9107,7 @@ MultiLanguageSpellData['en'][1224051] = {name = "Hammerfall", additional_info = 
 MultiLanguageSpellData['en'][1224063] = {name = "Radiant Rejuvenation", additional_info = "10 yd range\nInstant\n[q]A Minor Keyflame heals you for15% of maximum health."}
 MultiLanguageSpellData['en'][1224066] = {name = "Glyph of the Strix", additional_info = "[q]Your Spotting Eagle becomes a Spotting Owl."}
 MultiLanguageSpellData['en'][1224077] = {name = "BFA Timewalking Marker", additional_info = nil}
+MultiLanguageSpellData['en'][1224080] = {name = "Ensemble: Stormstout's Sha-Warped Collection", additional_info = "Instant\n[q]Collect the appearances of the Stormstout Sha-Warped Collection armor set."}
 MultiLanguageSpellData['en'][1224084] = {name = "BFA Timewalking Marker", additional_info = nil}
 MultiLanguageSpellData['en'][1224085] = {name = "Repeatable Event - Dastardly Duos - Achievement Progress - Connections", additional_info = nil}
 MultiLanguageSpellData['en'][1224098] = {name = "Tricks of the Trade", additional_info = "100 yd range\n{Instant} {30 sec cooldown}\n[q][ Thick as Thieves : Increases the target's damage by 15%, and redirects / Redirects] all threat you cause to the targeted party or raid member, beginning with your next damaging attack within the next 30 sec and lasting 6 sec.\n(100ms cooldown)"}
@@ -10299,3 +10300,5 @@ MultiLanguageSpellData['en'][1245530] = {name = "Flamethrower", additional_info 
 MultiLanguageSpellData['en'][1246103] = {name = "Incrementing", additional_info = "Instant\n[q]You gain Electric Current upon entering combat, increasing your Mastery by 10 every 2 sec up to a maximum of (12 * 10 ) after 24 sec then cycling back down and repeating."}
 MultiLanguageSpellData['en'][1246119] = {name = "Death Event Manager", additional_info = nil}
 MultiLanguageSpellData['en'][1248091] = {name = "Unlocking", additional_info = "5 yd range\n{1.5 sec cast} {1.5 sec cooldown}\n[q]Opens a Hidden Trove in a Delve Treasure Room."}
+MultiLanguageSpellData['en'][1249168] = {name = "Monitor", additional_info = nil}
+MultiLanguageSpellData['en'][1249326] = {name = "Parachute", additional_info = "Instant\n[q]Protects the caster from falling damage."}

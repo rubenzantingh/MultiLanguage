@@ -22450,6 +22450,7 @@ MultiLanguageNpcData['en'][202574] = {name = "Kill Credit: Scenario - Step 2 - C
 MultiLanguageNpcData['en'][202575] = {name = "Kill Credit: Scenario - Step 3 - A - Earth Key Acquired", subname = nil}
 MultiLanguageNpcData['en'][202576] = {name = "Kill Credit: Scenario - S3 - Kill Fire Primalists", subname = nil}
 MultiLanguageNpcData['en'][202577] = {name = "Kill Credit: Scenario - S2 - Cliffkeeper Bouldani Slain", subname = nil}
+MultiLanguageNpcData['en'][202578] = {name = "Kill Credit: Scenario - Step 3 - C - Grand Fire Portal Destroyed", subname = nil}
 MultiLanguageNpcData['en'][202579] = {name = "Brynnsahce", subname = "Honeypelt's Assistant"}
 MultiLanguageNpcData['en'][202580] = {name = "Earth Portal", subname = nil}
 MultiLanguageNpcData['en'][202581] = {name = "Kill Credit: Scenario - S3A - Reach Your Companions", subname = nil}

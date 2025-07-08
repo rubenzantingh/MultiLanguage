@@ -1,11 +1,14 @@
-## Interface: 40402
+## Interface: 50500
 ## Title: MultiLanguage
 ## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh
-## Version: 1.2.1
+## Version: 1.0.0
 ## SavedVariables: MultiLanguageOptions
 
 Database/Npcs/npcs.lua
+Database/Npcs/npcsOne.lua
+Database/Npcs/npcsTwo.lua
+
 Database/Quests/quests.lua
 
 Database/Items/items.lua

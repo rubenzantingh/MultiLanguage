@@ -211,7 +211,7 @@ end
 local function SetQuestHoverScripts(frame, children)
     local frameName = frame:GetName()
 
-    if frameName == "QuestLogListScrollFrame" or string.find(frameName, "QuestLogItem") or string.find(frameName, "QuestProgressItem") then
+    if frameName == nil or frameName == "QuestLogListScrollFrame" or string.find(frameName, "QuestLogItem") or string.find(frameName, "QuestProgressItem") then
         return
     end
 

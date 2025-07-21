@@ -1802,6 +1802,7 @@ MultiLanguageNpcData['en'][241365] = {name = "Mylton Wyldbraun", subname = nil}
 MultiLanguageNpcData['en'][241366] = {name = "Mylton Wyldbraun", subname = nil}
 MultiLanguageNpcData['en'][241367] = {name = "Mylton Wyldbraun", subname = nil}
 MultiLanguageNpcData['en'][241413] = {name = "Skibbles", subname = nil}
+MultiLanguageNpcData['en'][241416] = {name = "Sa'bak's Blessed", subname = nil}
 MultiLanguageNpcData['en'][241432] = {name = "Arathi Field Sacredite", subname = nil}
 MultiLanguageNpcData['en'][241433] = {name = "Awakened Attendant", subname = nil}
 MultiLanguageNpcData['en'][241436] = {name = "Twisted Appendage", subname = nil}

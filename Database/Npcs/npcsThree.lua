@@ -31699,7 +31699,7 @@ MultiLanguageNpcData['en'][156796] = {name = "Wild Etherling", subname = nil}
 MultiLanguageNpcData['en'][156797] = {name = "Kill Credit - Control Point", subname = nil}
 MultiLanguageNpcData['en'][156798] = {name = "Kill Credit - Control Point Three", subname = nil}
 MultiLanguageNpcData['en'][156799] = {name = "Henry Garrick", subname = nil}
-MultiLanguageNpcData['en'][156800] = {name = "Quartermaster Richter", subname = "Supplies"}
+MultiLanguageNpcData['en'][156800] = {name = "Quartermaster Richter", subname = "Supplies and Repairs"}
 MultiLanguageNpcData['en'][156801] = {name = "Private Cole", subname = nil}
 MultiLanguageNpcData['en'][156802] = {name = "Runic Bomb", subname = nil}
 MultiLanguageNpcData['en'][156803] = {name = "Alaria", subname = nil}
@@ -40954,7 +40954,7 @@ MultiLanguageNpcData['en'][167209] = {name = "Niall Kugal", subname = nil}
 MultiLanguageNpcData['en'][167210] = {name = "Tabulator Killham", subname = "Battle Reckoner"}
 MultiLanguageNpcData['en'][167211] = {name = "Memory Extractor", subname = nil}
 MultiLanguageNpcData['en'][167212] = {name = "Warlord Breka Grimaxe", subname = nil}
-MultiLanguageNpcData['en'][167213] = {name = "Provisioner Jin'hake", subname = nil}
+MultiLanguageNpcData['en'][167213] = {name = "Provisioner Jin'hake", subname = "Repair and Supplies"}
 MultiLanguageNpcData['en'][167214] = {name = "Agthian Defender", subname = nil}
 MultiLanguageNpcData['en'][167215] = {name = "Mithdran Dawntracker", subname = "Stable Master"}
 MultiLanguageNpcData['en'][167216] = {name = "Grunt Throg", subname = nil}

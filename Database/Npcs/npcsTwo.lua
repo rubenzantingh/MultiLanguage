@@ -40291,7 +40291,6 @@ MultiLanguageNpcData['en'][111636] = {name = "Hatecoil Oracle", subname = nil}
 MultiLanguageNpcData['en'][111637] = {name = "Hatecoil Warrior", subname = nil}
 MultiLanguageNpcData['en'][111638] = {name = "Hatecoil Stormweaver", subname = nil}
 MultiLanguageNpcData['en'][111639] = {name = "Aluneth", subname = nil}
-MultiLanguageNpcData['en'][111640] = {name = "Frost Wyrm", subname = nil}
 MultiLanguageNpcData['en'][111641] = {name = "Saltsea Droplet", subname = nil}
 MultiLanguageNpcData['en'][111642] = {name = "Gritslime Snail", subname = nil}
 MultiLanguageNpcData['en'][111643] = {name = "Cove Seagull", subname = nil}

@@ -381,7 +381,7 @@ MultiLanguageNpcData['en'][121404] = {name = "Objective Complete", subname = nil
 MultiLanguageNpcData['en'][121405] = {name = "Objective Complete", subname = nil}
 MultiLanguageNpcData['en'][121406] = {name = "Objective Complete", subname = nil}
 MultiLanguageNpcData['en'][121407] = {name = "Objective Complete", subname = nil}
-MultiLanguageNpcData['en'][121408] = {name = "Arator the Redeemer", subname = nil}
+MultiLanguageNpcData['en'][121408] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['en'][121409] = {name = "Ebon Death Knight", subname = nil}
 MultiLanguageNpcData['en'][121410] = {name = "Vindicator Boros", subname = nil}
 MultiLanguageNpcData['en'][121411] = {name = "Coilskar Myrmidon", subname = nil}
@@ -662,7 +662,7 @@ MultiLanguageNpcData['en'][121751] = {name = "Kill Credit: Go to Transport", sub
 MultiLanguageNpcData['en'][121752] = {name = "Slimy", subname = "Lich King's Minion"}
 MultiLanguageNpcData['en'][121753] = {name = "Grand Admiral Jes-Tereth", subname = nil}
 MultiLanguageNpcData['en'][121754] = {name = "Vereesa Windrunner", subname = "Ranger-General of the Silver Covenant"}
-MultiLanguageNpcData['en'][121755] = {name = "Arator the Redeemer", subname = nil}
+MultiLanguageNpcData['en'][121755] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['en'][121756] = {name = "Vindicator Boros", subname = "Hand of Argus"}
 MultiLanguageNpcData['en'][121757] = {name = "7th Legion Marine", subname = nil}
 MultiLanguageNpcData['en'][121758] = {name = "7th Legion Cannoneer", subname = nil}
@@ -6644,7 +6644,7 @@ MultiLanguageNpcData['en'][128779] = {name = "Aethas Sunreaver", subname = nil}
 MultiLanguageNpcData['en'][128780] = {name = "Battle Crawg", subname = nil}
 MultiLanguageNpcData['en'][128781] = {name = "Lady Liadrin", subname = "Blood Knight Matriarch"}
 MultiLanguageNpcData['en'][128782] = {name = "Vindicator Boros", subname = "Hand of Argus"}
-MultiLanguageNpcData['en'][128783] = {name = "Arator the Redeemer", subname = nil}
+MultiLanguageNpcData['en'][128783] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['en'][128784] = {name = "Vereesa Windrunner", subname = "Ranger-General of the Silver Covenant"}
 MultiLanguageNpcData['en'][128785] = {name = "Vindicator Boros", subname = "Hand of Argus"}
 MultiLanguageNpcData['en'][128786] = {name = "Robba Klobba", subname = nil}
@@ -7112,7 +7112,7 @@ MultiLanguageNpcData['en'][129318] = {name = "Sandskitter Crab", subname = nil}
 MultiLanguageNpcData['en'][129319] = {name = "Bladeguard Tarkaj", subname = nil}
 MultiLanguageNpcData['en'][129320] = {name = "Pearl Channel Chicken (Storm)", subname = nil}
 MultiLanguageNpcData['en'][129321] = {name = "Pearl Channel Chicken (Current)", subname = nil}
-MultiLanguageNpcData['en'][129322] = {name = "Deployable Attire Rearranger", subname = nil}
+MultiLanguageNpcData['en'][129322] = {name = "Deployable Attire Rearranger", subname = "Transmogrifier"}
 MultiLanguageNpcData['en'][129323] = {name = "Sabertusk Empress", subname = nil}
 MultiLanguageNpcData['en'][129324] = {name = "Kill Credit: Revive Tarkaj", subname = nil}
 MultiLanguageNpcData['en'][129325] = {name = "Kill Credit: Water Tarkaj", subname = nil}
@@ -7586,7 +7586,7 @@ MultiLanguageNpcData['en'][129867] = {name = "Bombarding Zeppelin", subname = ni
 MultiLanguageNpcData['en'][129868] = {name = "Canyon Vulture", subname = nil}
 MultiLanguageNpcData['en'][129869] = {name = "Hungry Rooter", subname = nil}
 MultiLanguageNpcData['en'][129870] = {name = "Briarback Boarmaster", subname = nil}
-MultiLanguageNpcData['en'][129871] = {name = "Arator the Redeemer", subname = nil}
+MultiLanguageNpcData['en'][129871] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['en'][129872] = {name = "Vereesa Windrunner", subname = "Ranger-General of the Silver Covenant"}
 MultiLanguageNpcData['en'][129873] = {name = "Ruin Sentinel", subname = nil}
 MultiLanguageNpcData['en'][129874] = {name = "Faithless Trapper", subname = nil}
@@ -31591,7 +31591,7 @@ MultiLanguageNpcData['en'][156660] = {name = "Captain Garrick", subname = nil}
 MultiLanguageNpcData['en'][156661] = {name = "Varlasen", subname = nil}
 MultiLanguageNpcData['en'][156662] = {name = "Captain Garrick", subname = nil}
 MultiLanguageNpcData['en'][156663] = {name = "Warpweaver Ta'oren", subname = "Transmogrifier"}
-MultiLanguageNpcData['en'][156664] = {name = "Vaultkeeper Ta'khis", subname = "Void Storage"}
+MultiLanguageNpcData['en'][156664] = {name = "Vaultkeeper Ta'khis", subname = nil}
 MultiLanguageNpcData['en'][156665] = {name = "Honored Soulhunter", subname = nil}
 MultiLanguageNpcData['en'][156666] = {name = "Smith Au'berk", subname = "Blacksmithing Trainer"}
 MultiLanguageNpcData['en'][156667] = {name = "Flayer Au'khem", subname = "Skinning Trainer"}

@@ -10400,7 +10400,7 @@ MultiLanguageNpcData['en'][16882] = {name = "Numerical Console", subname = nil}
 MultiLanguageNpcData['en'][16883] = {name = "Silas' Mount", subname = nil}
 MultiLanguageNpcData['en'][16884] = {name = "War Horse", subname = nil}
 MultiLanguageNpcData['en'][16885] = {name = "Amythiel Mistwalker", subname = nil}
-MultiLanguageNpcData['en'][16886] = {name = "Arator the Redeemer", subname = nil}
+MultiLanguageNpcData['en'][16886] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['en'][16887] = {name = "Eye of Honor Hold", subname = nil}
 MultiLanguageNpcData['en'][16888] = {name = "Mahuram Stouthoof", subname = nil}
 MultiLanguageNpcData['en'][16889] = {name = "Stormwind Celebrant", subname = nil}
@@ -40564,7 +40564,7 @@ MultiLanguageNpcData['en'][54439] = {name = "Avatar of Rhyolith", subname = nil}
 MultiLanguageNpcData['en'][54440] = {name = "Avatar of Shannox", subname = nil}
 MultiLanguageNpcData['en'][54441] = {name = "Thaumaturge Vashreen", subname = "Arcane Reforger"}
 MultiLanguageNpcData['en'][54442] = {name = "Warpweaver Hashom", subname = "Transmogrifier"}
-MultiLanguageNpcData['en'][54443] = {name = "Vaultkeeper Razhid", subname = "Void Storage"}
+MultiLanguageNpcData['en'][54443] = {name = "Vaultkeeper Razhid", subname = nil}
 MultiLanguageNpcData['en'][54444] = {name = "Darkmoon Faire Gnoll", subname = nil}
 MultiLanguageNpcData['en'][54445] = {name = "Echo of Jaina", subname = nil}
 MultiLanguageNpcData['en'][54446] = {name = "Flarecore Ember", subname = nil}
@@ -40575,7 +40575,7 @@ MultiLanguageNpcData['en'][54466] = {name = "Darkmoon Faire Gnoll - Baby", subna
 MultiLanguageNpcData['en'][54467] = {name = "Twister", subname = nil}
 MultiLanguageNpcData['en'][54470] = {name = "Figment of Longing", subname = nil}
 MultiLanguageNpcData['en'][54471] = {name = "Thaumaturge Zajir", subname = "Arcane Reforger"}
-MultiLanguageNpcData['en'][54472] = {name = "Vaultkeeper Jazra", subname = "Void Storage"}
+MultiLanguageNpcData['en'][54472] = {name = "Vaultkeeper Jazra", subname = nil}
 MultiLanguageNpcData['en'][54473] = {name = "Warpweaver Dushar", subname = "Transmogrifier"}
 MultiLanguageNpcData['en'][54474] = {name = "Fog of Time", subname = nil}
 MultiLanguageNpcData['en'][54475] = {name = "Crab", subname = nil}
@@ -47813,7 +47813,7 @@ MultiLanguageNpcData['en'][64570] = {name = "Tan Strongpole", subname = "Fishing
 MultiLanguageNpcData['en'][64571] = {name = "Lightwell", subname = nil}
 MultiLanguageNpcData['en'][64572] = {name = "Sara Finkleswitch", subname = "Battle Pet Trainer"}
 MultiLanguageNpcData['en'][64573] = {name = "Warpweaver Ramahesh", subname = "Transmogrifier"}
-MultiLanguageNpcData['en'][64574] = {name = "Vaultkeeper Edouin", subname = "Void Storage"}
+MultiLanguageNpcData['en'][64574] = {name = "Vaultkeeper Edouin", subname = nil}
 MultiLanguageNpcData['en'][64575] = {name = "Chan Hoi-San", subname = "Kun-Lai Refugee"}
 MultiLanguageNpcData['en'][64576] = {name = "Bandit", subname = "Battle Pet"}
 MultiLanguageNpcData['en'][64577] = {name = "The Fiddler", subname = "Battle Pet"}

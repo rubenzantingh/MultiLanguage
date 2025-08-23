@@ -6590,6 +6590,7 @@ MultiLanguageNpcData['en'][244975] = {name = "Aetha", subname = "Spirit of the G
 MultiLanguageNpcData['en'][244995] = {name = "Quid", subname = "Spirit of the Misty Falls"}
 MultiLanguageNpcData['en'][245153] = {name = "Gaohun the Soul-Severer", subname = "Shao-Tien Imperion"}
 MultiLanguageNpcData['en'][245163] = {name = "Baolai the Immolator", subname = "Shao-Tien Imperion"}
+MultiLanguageNpcData['en'][245570] = {name = "Envoy of Sa'bak", subname = nil}
 MultiLanguageNpcData['en'][245678] = {name = "Gunship Turret", subname = nil}
 MultiLanguageNpcData['en'][245683] = {name = "Gunship Turret", subname = nil}
 MultiLanguageNpcData['en'][245926] = {name = "Bloodtip", subname = "Ashweb Matriarch"}

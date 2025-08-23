@@ -1917,6 +1917,7 @@ MultiLanguageNpcData['en'][2433] = {name = "Helcular's Remains", subname = nil}
 MultiLanguageNpcData['en'][2434] = {name = "Shadowy Assassin", subname = nil}
 MultiLanguageNpcData['en'][2435] = {name = "Southshore Crier", subname = nil}
 MultiLanguageNpcData['en'][2436] = {name = "Farmer Kent", subname = nil}
+MultiLanguageNpcData['en'][2437] = {name = "Keeper Bel'varil", subname = nil}
 MultiLanguageNpcData['en'][2438] = {name = "Bartolo Ginsetti", subname = nil}
 MultiLanguageNpcData['en'][2439] = {name = "Major Samuelson", subname = "Stormwind City Guard"}
 MultiLanguageNpcData['en'][2440] = {name = "Drunken Footpad", subname = nil}

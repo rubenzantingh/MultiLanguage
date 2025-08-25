@@ -623,7 +623,42 @@ local function OnTooltipSetData(self)
             local npc = GetDataByID("npcData", npcID)
 
             if npc then
-                UpdateItemSpellAndUnitTranslationFrame(npc.name, npc.subname, npcID, "npc")
+                local reaction = UnitReaction("player", "mouseover")
+                local level = UnitLevel("mouseover")
+                local languageCode = MultiLanguageOptions["SELECTED_LANGUAGE"]
+                local levelText = _G["MultiLanguageTranslations"][languageCode]["level"]
+                local combinedSubname = npc.subname or ""
+                local additionalInfo = ""
+
+                if level and level > 0 then
+                    additionalInfo = levelText .. " " .. level
+                    
+                    if reaction and (reaction == 4 or reaction == 2) then
+                        local creatureType = UnitCreatureType("mouseover")
+
+                        if not creatureType then
+                            return
+                        end
+
+                        local translatedType = _G["MultiLanguageTranslations"][languageCode]["creatureTypes"][creatureType]
+
+                        if translatedType then
+                            additionalInfo = additionalInfo .. " " .. translatedType
+                        else
+                            additionalInfo = additionalInfo .. " " .. creatureType
+                        end
+                    end
+                end
+                
+                if additionalInfo ~= "" then
+                    if combinedSubname ~= "" then
+                        combinedSubname = combinedSubname .. "\n" .. additionalInfo
+                    else
+                        combinedSubname = additionalInfo
+                    end
+                end
+                
+                UpdateItemSpellAndUnitTranslationFrame(npc.name, combinedSubname, npcID, "npc")
             else
                 ItemSpellAndUnitTranslationFrame:Hide()
             end

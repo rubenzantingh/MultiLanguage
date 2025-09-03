@@ -6648,3 +6648,7 @@ MultiLanguageNpcData['en'][248909] = {name = "Celestial Riding Crane", subname =
 MultiLanguageNpcData['en'][248912] = {name = "Celestial Riding Serpent", subname = nil}
 MultiLanguageNpcData['en'][248913] = {name = "Celestial Riding Ox", subname = nil}
 MultiLanguageNpcData['en'][248914] = {name = "Celestial Riding Tiger", subname = nil}
+MultiLanguageNpcData['en'][249607] = {name = "Sha-scarred Drake", subname = nil}
+MultiLanguageNpcData['en'][251798] = {name = "Blazzek the Biter", subname = "Vicious Gladiator"}
+MultiLanguageNpcData['en'][252803] = {name = "Hot Oil Cauldron", subname = nil}
+MultiLanguageNpcData['en'][253198] = {name = "Archincubus", subname = nil}

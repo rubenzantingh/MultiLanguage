@@ -3121,7 +3121,7 @@ MultiLanguageNpcData['en'][240952] = {name = "Evoked Spirit", subname = nil}
 MultiLanguageNpcData['en'][240967] = {name = "Soroth Miasmawrath", subname = nil}
 MultiLanguageNpcData['en'][240968] = {name = "Ahn'tak", subname = "Sureki Champion"}
 MultiLanguageNpcData['en'][240969] = {name = "Anub'Ranax", subname = "Sureki Champion"}
-MultiLanguageNpcData['en'][240971] = {name = "Brew Barrel [DNT]", subname = nil}
+MultiLanguageNpcData['en'][240971] = {name = "Brew Barrel", subname = nil}
 MultiLanguageNpcData['en'][240974] = {name = "Shadowguard Weavemaster", subname = nil}
 MultiLanguageNpcData['en'][240979] = {name = "Vesper Churnmoat", subname = "Corrupted Armor Rummager"}
 MultiLanguageNpcData['en'][241011] = {name = "Chrome King Gallywix", subname = nil}

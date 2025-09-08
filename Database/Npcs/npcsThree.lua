@@ -28358,7 +28358,7 @@ MultiLanguageNpcData['en'][153080] = {name = "Voice of the Queen", subname = "Az
 MultiLanguageNpcData['en'][153081] = {name = "Brewfest Reveler", subname = nil}
 MultiLanguageNpcData['en'][153082] = {name = "Brewfest Reveler", subname = nil}
 MultiLanguageNpcData['en'][153083] = {name = "Vethan of the Frozen Heart", subname = nil}
-MultiLanguageNpcData['en'][153084] = {name = "Arator the Redeemer", subname = nil}
+MultiLanguageNpcData['en'][153084] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['en'][153085] = {name = "Lightforged Paladin", subname = nil}
 MultiLanguageNpcData['en'][153086] = {name = "Lightforged Warpriest", subname = nil}
 MultiLanguageNpcData['en'][153087] = {name = "Lightforged Bulwark", subname = nil}

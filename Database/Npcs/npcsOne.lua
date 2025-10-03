@@ -47940,4 +47940,3 @@ MultiLanguageNpcData['en'][64967] = {name = "Jade Hatchling", subname = nil}
 MultiLanguageNpcData['en'][64968] = {name = "Azure Hatchling", subname = nil}
 MultiLanguageNpcData['en'][64969] = {name = "Thought-Bound Brute", subname = nil}
 MultiLanguageNpcData['en'][64970] = {name = "Thought-Bound Miner", subname = nil}
-MultiLanguageNpcData['en'][64971] = {name = "Zan'thik Impaler", subname = nil}

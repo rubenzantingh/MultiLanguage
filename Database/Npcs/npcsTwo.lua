@@ -1,3 +1,4 @@
+MultiLanguageNpcData['en'][64971] = {name = "Zan'thik Impaler", subname = nil}
 MultiLanguageNpcData['en'][64972] = {name = "Clog Den", subname = "Kun-Lai Refugee"}
 MultiLanguageNpcData['en'][64973] = {name = "Zan'thik Manipulator", subname = nil}
 MultiLanguageNpcData['en'][64974] = {name = "Fearsome Jang", subname = "Monk Trainer - Master Tiger"}
@@ -6586,6 +6587,8 @@ MultiLanguageNpcData['en'][241008] = {name = "Mana Void", subname = nil}
 MultiLanguageNpcData['en'][241010] = {name = "Forgotten One", subname = nil}
 MultiLanguageNpcData['en'][241467] = {name = "Sylstrasza", subname = "Obsidian Fragment Exchange"}
 MultiLanguageNpcData['en'][241468] = {name = "Zarstrasza", subname = "Obsidian Fragment Exchange"}
+MultiLanguageNpcData['en'][242230] = {name = "Prophet's Great Crow", subname = nil}
+MultiLanguageNpcData['en'][242231] = {name = "Archmage's Great Crow", subname = nil}
 MultiLanguageNpcData['en'][244975] = {name = "Aetha", subname = "Spirit of the Golden Winds"}
 MultiLanguageNpcData['en'][244995] = {name = "Quid", subname = "Spirit of the Misty Falls"}
 MultiLanguageNpcData['en'][245153] = {name = "Gaohun the Soul-Severer", subname = "Shao-Tien Imperion"}
@@ -6652,3 +6655,7 @@ MultiLanguageNpcData['en'][249607] = {name = "Sha-scarred Drake", subname = nil}
 MultiLanguageNpcData['en'][251798] = {name = "Blazzek the Biter", subname = "Vicious Gladiator"}
 MultiLanguageNpcData['en'][252803] = {name = "Hot Oil Cauldron", subname = nil}
 MultiLanguageNpcData['en'][253198] = {name = "Archincubus", subname = nil}
+MultiLanguageNpcData['en'][254550] = {name = "The Black Brewmaiden", subname = nil}
+MultiLanguageNpcData['en'][254556] = {name = "The Brewmaiden", subname = nil}
+MultiLanguageNpcData['en'][255049] = {name = "Roo Desvin", subname = "Conquest Quartermaster"}
+MultiLanguageNpcData['en'][255054] = {name = "Armsmaster Holinka", subname = "Conquest Quartermaster"}

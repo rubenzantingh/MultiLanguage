@@ -9127,6 +9127,7 @@ addonTable.npcData['cn'] = {
 [15381] = {name = "上古之龙阿纳克洛斯", subname = nil},
 [15382] = {name = "范达尔·鹿盔", subname = nil},
 [15383] = {name = "布罗恩·石眉", subname = "铜锭收集者"},
+[15384] = {name = "World Trigger", subname = nil},
 [15385] = {name = "泽兰上校", subname = nil},
 [15386] = {name = "耶吉斯少校", subname = nil},
 [15387] = {name = "其拉战士", subname = nil},

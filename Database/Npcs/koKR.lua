@@ -9124,6 +9124,7 @@ addonTable.npcData['ko'] = {
 [15381] = {name = "고대의 아나크로노스", subname = nil},
 [15382] = {name = "판드랄 스테그헬름", subname = nil},
 [15383] = {name = "하사관 스톤브로우", subname = "구리 주괴 수집원"},
+[15384] = {name = "월드 트리거", subname = nil},
 [15385] = {name = "사령관 제란", subname = nil},
 [15386] = {name = "부사령관 예게스", subname = nil},
 [15387] = {name = "퀴라지 전사", subname = nil},

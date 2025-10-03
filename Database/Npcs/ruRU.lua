@@ -9123,6 +9123,7 @@ addonTable.npcData['ru'] = {
 [15381] = {name = "Анахронос Древнейший", subname = nil},
 [15382] = {name = "Фэндрал Олений Шлем", subname = nil},
 [15383] = {name = "Сержант Камнелоб", subname = "Приемщик медных слитков"},
+[15384] = {name = "World Trigger", subname = nil},
 [15385] = {name = "Полковник Зерран", subname = nil},
 [15386] = {name = "Майор Йеггет", subname = nil},
 [15387] = {name = "Киражский воин", subname = nil},

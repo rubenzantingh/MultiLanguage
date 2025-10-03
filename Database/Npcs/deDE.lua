@@ -9122,6 +9122,7 @@ addonTable.npcData['de'] = {
 [15381] = {name = "Anachronos der Uralte", subname = nil},
 [15382] = {name = "Fandral Staghelm", subname = nil},
 [15383] = {name = "Sergeant Stonebrow", subname = "Sammler für Kupferbarren"},
+[15384] = {name = "World Trigger", subname = nil},
 [15385] = {name = "Colonel Zerran", subname = nil},
 [15386] = {name = "Major Yeggeth", subname = nil},
 [15387] = {name = "Krieger der Qiraji", subname = nil},

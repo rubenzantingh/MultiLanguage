@@ -9128,6 +9128,7 @@ addonTable.npcData['tw'] = {
 [15381] = {name = "上古之龍安納克羅斯", subname = nil},
 [15382] = {name = "范達爾·鹿盔", subname = nil},
 [15383] = {name = "布羅恩·石眉", subname = "銅錠收集者"},
+[15384] = {name = "世界觸發器", subname = nil},
 [15385] = {name = "澤朗上校", subname = nil},
 [15386] = {name = "葉吉斯少校", subname = nil},
 [15387] = {name = "其拉戰士", subname = nil},

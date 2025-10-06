@@ -1,3 +1,4 @@
+MultiLanguageNpcData['en'][64753] = {name = "Sofi Nautica", subname = "Pet Tamer"}
 MultiLanguageNpcData['en'][64754] = {name = "Jaynewind Patel", subname = "Pet Tamer"}
 MultiLanguageNpcData['en'][64755] = {name = "Sharyn Silverleaf", subname = "Pet Tamer"}
 MultiLanguageNpcData['en'][64757] = {name = "Shonuf", subname = "The Fireweaver"}
@@ -48554,4 +48555,3 @@ MultiLanguageNpcData['en'][120954] = {name = "Alliance Banner", subname = nil}
 MultiLanguageNpcData['en'][120955] = {name = "Horde Banner", subname = nil}
 MultiLanguageNpcData['en'][120956] = {name = "Purified Idol of Aviana", subname = nil}
 MultiLanguageNpcData['en'][120957] = {name = "Desolation of the Moon Stalker", subname = nil}
-MultiLanguageNpcData['en'][120958] = {name = "Xorothian Fel Knight", subname = nil}

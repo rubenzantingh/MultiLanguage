@@ -1,3 +1,4 @@
+MultiLanguageNpcData['en'][175417] = {name = "Sulanoom", subname = "Mythic Nathrian Weaponsmith"}
 MultiLanguageNpcData['en'][175418] = {name = "Mar'lan", subname = "Night Fae Armor Trader"}
 MultiLanguageNpcData['en'][175419] = {name = "Craftsmaster Lamda", subname = "Item Upgrades"}
 MultiLanguageNpcData['en'][175420] = {name = "Mangeclaw", subname = nil}
@@ -45519,4 +45520,3 @@ MultiLanguageNpcData['en'][233139] = {name = "Machinist Kromleg", subname = nil}
 MultiLanguageNpcData['en'][233142] = {name = "Grim Patron", subname = nil}
 MultiLanguageNpcData['en'][233143] = {name = "Generic - Empty Bunny", subname = nil}
 MultiLanguageNpcData['en'][233144] = {name = "Tempered Banner of the Algari", subname = nil}
-MultiLanguageNpcData['en'][233145] = {name = "Prized Banner of the Algari", subname = nil}

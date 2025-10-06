@@ -47973,4 +47973,3 @@ MultiLanguageNpcData['en'][64749] = {name = "Kur Castrapaw", subname = "Pet Tame
 MultiLanguageNpcData['en'][64750] = {name = "Rob Jackson", subname = "Pet Tamer"}
 MultiLanguageNpcData['en'][64751] = {name = "Mrs. Jackson", subname = "Pet Tamer"}
 MultiLanguageNpcData['en'][64752] = {name = "Taner Halicioglu", subname = "Pet Tamer"}
-MultiLanguageNpcData['en'][64753] = {name = "Sofi Nautica", subname = "Pet Tamer"}

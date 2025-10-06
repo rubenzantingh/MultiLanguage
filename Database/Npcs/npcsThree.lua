@@ -1,3 +1,4 @@
+MultiLanguageNpcData['en'][120958] = {name = "Xorothian Fel Knight", subname = nil}
 MultiLanguageNpcData['en'][120959] = {name = "New Work Order", subname = nil}
 MultiLanguageNpcData['en'][120961] = {name = "Infernal Impact", subname = nil}
 MultiLanguageNpcData['en'][120962] = {name = "Felsurge Tidesinger", subname = nil}
@@ -48545,4 +48546,3 @@ MultiLanguageNpcData['en'][175413] = {name = "Sparklebreeze", subname = "Raid Fi
 MultiLanguageNpcData['en'][175414] = {name = "Adera", subname = "Normal Nathrian Weaponsmith"}
 MultiLanguageNpcData['en'][175415] = {name = "Harkoth", subname = "Heroic Nathrian Weaponsmith"}
 MultiLanguageNpcData['en'][175416] = {name = "Miggi", subname = nil}
-MultiLanguageNpcData['en'][175417] = {name = "Sulanoom", subname = "Mythic Nathrian Weaponsmith"}

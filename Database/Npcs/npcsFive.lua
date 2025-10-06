@@ -1,3 +1,4 @@
+MultiLanguageNpcData['en'][233145] = {name = "Prized Banner of the Algari", subname = nil}
 MultiLanguageNpcData['en'][233148] = {name = "Forged Champion's Prestigious Banner", subname = nil}
 MultiLanguageNpcData['en'][233149] = {name = "Prized Champion's Prestigious Banner", subname = nil}
 MultiLanguageNpcData['en'][233152] = {name = "Wandering Candle", subname = nil}

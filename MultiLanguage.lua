@@ -581,9 +581,61 @@ local function SetHotkeyButtonPressed(self, key, eventType)
     end
 end
 
+local function GetSpellIDFromTooltip(tooltip)
+    local _, spellID = tooltip:GetSpell()
+
+    if spellID then
+        return spellID
+    end
+
+    if tooltip == GameTooltip then
+        local owner = tooltip:GetOwner()
+
+        if owner then
+            local ownerName = owner:GetName()
+
+            if ownerName then
+                return nul
+            end
+
+            if string.match(ownerName, "^ActionButton%d+$") or
+               string.match(ownerName, "^MultiBarBottomLeftButton%d+$") or
+               string.match(ownerName, "^MultiBarBottomRightButton%d+$") or
+               string.match(ownerName, "^MultiBarLeftButton%d+$") or
+               string.match(ownerName, "^MultiBarRightButton%d+$") then
+
+               local slot = owner:GetID()
+
+               if not slot then
+                   return nil
+               end
+
+               local actionType, id = GetActionInfo(slot)
+
+               if actionType == "spell" then
+                   return id
+               end
+            end
+
+            if string.match(ownerName, "^SpellButton%d+$") then
+                local slot = owner:GetID()
+
+                if slot and SpellBookFrame and SpellBookFrame:IsShown() then
+                    local spellName, _, spellID = GetSpellBookItemName(slot, SpellBookFrame.bookType)
+                    if spellID then
+                        return spellID
+                    end
+                end
+            end
+        end
+    end
+
+    return nil
+end
+
 local function OnTooltipSetData(self)
     local _, itemLink = self:GetItem()
-    local _, spellID = self:GetSpell()
+    local spellID = GetSpellIDFromTooltip(self)
     local unitGUID = UnitGUID("mouseover")
 
     local itemTranslationsEnabled = MultiLanguageOptions["ITEM_TRANSLATIONS"]

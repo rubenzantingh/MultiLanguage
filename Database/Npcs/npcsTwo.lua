@@ -26408,7 +26408,7 @@ MultiLanguageNpcData['en'][95882] = {name = "Gelmogg", subname = nil}
 MultiLanguageNpcData['en'][95883] = {name = "Lieutenant", subname = nil}
 MultiLanguageNpcData['en'][95884] = {name = "Halga Bloodeye", subname = "Caravan Master"}
 MultiLanguageNpcData['en'][95885] = {name = "Tirathon Saltheril", subname = nil}
-MultiLanguageNpcData['en'][95886] = {name = "Ash'Golm", subname = nil}
+MultiLanguageNpcData['en'][95886] = {name = "Ash'golm", subname = nil}
 MultiLanguageNpcData['en'][95887] = {name = "Glazer", subname = nil}
 MultiLanguageNpcData['en'][95888] = {name = "Cordana Felsong", subname = nil}
 MultiLanguageNpcData['en'][95889] = {name = "Commander Lorna Crowley", subname = "Gilneas Brigade"}
@@ -29245,13 +29245,13 @@ MultiLanguageNpcData['en'][99228] = {name = "Kayn Sunfury", subname = "Illidari"
 MultiLanguageNpcData['en'][99229] = {name = "Altruis the Sufferer", subname = "Illidari"}
 MultiLanguageNpcData['en'][99230] = {name = "Illidari Fel Bat", subname = nil}
 MultiLanguageNpcData['en'][99232] = {name = "Talrendis Defender", subname = nil}
-MultiLanguageNpcData['en'][99233] = {name = "Ember", subname = nil}
+MultiLanguageNpcData['en'][99233] = {name = "Living Ember", subname = nil}
 MultiLanguageNpcData['en'][99234] = {name = "Talrendis Lorekeeper", subname = nil}
 MultiLanguageNpcData['en'][99235] = {name = "Kill Credit: Bad Intentions", subname = nil}
 MultiLanguageNpcData['en'][99236] = {name = "Talrendis Sentinel", subname = nil}
 MultiLanguageNpcData['en'][99237] = {name = "Silver Covenant Guardian Mage", subname = nil}
 MultiLanguageNpcData['en'][99238] = {name = "Talrendis Glaive Thrower", subname = nil}
-MultiLanguageNpcData['en'][99240] = {name = "Countermeasures", subname = nil}
+MultiLanguageNpcData['en'][99240] = {name = "Deepfreeze Containment", subname = nil}
 MultiLanguageNpcData['en'][99241] = {name = "Commander Jarrodenus", subname = nil}
 MultiLanguageNpcData['en'][99242] = {name = "Sunken City BO - 5 Points", subname = nil}
 MultiLanguageNpcData['en'][99244] = {name = "Skychaser Hippogryph", subname = nil}

@@ -1,8 +1,8 @@
-## Interface: 11507
+## Interface: 11508
 ## Title: MultiLanguage
 ## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh
-## Version: 1.6.0
+## Version: 1.6.1
 ## SavedVariables: MultiLanguageOptions
 ## OptionalDeps: LibStub, LibUIDropDownMenu
 

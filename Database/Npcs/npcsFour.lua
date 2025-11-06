@@ -40606,7 +40606,7 @@ MultiLanguageNpcData['en'][226177] = {name = "Stalker", subname = nil}
 MultiLanguageNpcData['en'][226178] = {name = "Portal to Suramar", subname = nil}
 MultiLanguageNpcData['en'][226179] = {name = "Highland Bear", subname = nil}
 MultiLanguageNpcData['en'][226180] = {name = "Portal to Stormheim", subname = nil}
-MultiLanguageNpcData['en'][226181] = {name = "Portal to Val'Sharah", subname = nil}
+MultiLanguageNpcData['en'][226181] = {name = "Portal to Val'sharah", subname = nil}
 MultiLanguageNpcData['en'][226182] = {name = "Portal to Tiragarde Sound", subname = nil}
 MultiLanguageNpcData['en'][226183] = {name = "Portal to Drustvar", subname = nil}
 MultiLanguageNpcData['en'][226184] = {name = "Meadery Patron", subname = nil}

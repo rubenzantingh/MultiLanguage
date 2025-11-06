@@ -4660,6 +4660,7 @@ MultiLanguageNpcData['en'][254092] = {name = "Eternus", subname = nil}
 MultiLanguageNpcData['en'][254093] = {name = "Eternus", subname = nil}
 MultiLanguageNpcData['en'][254164] = {name = "Waterspout", subname = nil}
 MultiLanguageNpcData['en'][254369] = {name = "Controller", subname = nil}
+MultiLanguageNpcData['en'][256938] = {name = "Khadgar's Upgraded Servant", subname = nil}
 MultiLanguageNpcData['en'][257023] = {name = "Hyena", subname = nil}
 MultiLanguageNpcData['en'][257026] = {name = "Clefthoof", subname = nil}
 MultiLanguageNpcData['en'][257031] = {name = "Felhound", subname = nil}

@@ -1,8 +1,8 @@
-## Interface: 50501
+## Interface: 50502
 ## Title: MultiLanguage
 ## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh
-## Version: 1.1.1
+## Version: 1.1.2
 ## SavedVariables: MultiLanguageOptions
 
 Database/Npcs/npcs.lua

@@ -6547,6 +6547,8 @@ MultiLanguageNpcData['en'][226201] = {name = "Peletort", subname = "Dungeon Frie
 MultiLanguageNpcData['en'][226260] = {name = "Fopreshin", subname = "Profession Friend"}
 MultiLanguageNpcData['en'][226581] = {name = "Wind Rider", subname = nil}
 MultiLanguageNpcData['en'][227495] = {name = "(DNT) Invisible Stalker", subname = nil}
+MultiLanguageNpcData['en'][228064] = {name = "Golden Ashes of Al'ar", subname = nil}
+MultiLanguageNpcData['en'][228083] = {name = "Harmonious Greetings Bear", subname = nil}
 MultiLanguageNpcData['en'][228374] = {name = "Accessories Vendor", subname = nil}
 MultiLanguageNpcData['en'][228375] = {name = "Cloth Armor Vendor", subname = nil}
 MultiLanguageNpcData['en'][228376] = {name = "Leather Armor Vendor", subname = nil}
@@ -6557,15 +6559,21 @@ MultiLanguageNpcData['en'][228666] = {name = "Honor Vendor", subname = nil}
 MultiLanguageNpcData['en'][228667] = {name = "Conquest Vendor", subname = nil}
 MultiLanguageNpcData['en'][228668] = {name = "Glorious Conquest Vendor", subname = nil}
 MultiLanguageNpcData['en'][228792] = {name = "Magmaw Spike Stalker", subname = nil}
+MultiLanguageNpcData['en'][228858] = {name = "Repurposed Arcane Titan", subname = "Emblem of Homecoming Exchange"}
 MultiLanguageNpcData['en'][229834] = {name = "Lava Drake", subname = nil}
 MultiLanguageNpcData['en'][232025] = {name = "Chaos-Born Dreadwing", subname = nil}
 MultiLanguageNpcData['en'][232050] = {name = "Chaos-Born Wind Rider", subname = nil}
 MultiLanguageNpcData['en'][232051] = {name = "Chaos-Born Hippogryph", subname = nil}
 MultiLanguageNpcData['en'][232053] = {name = "Chaos-Born Gryphon", subname = nil}
+MultiLanguageNpcData['en'][232221] = {name = "The Brewmaiden", subname = nil}
+MultiLanguageNpcData['en'][232222] = {name = "The Black Brewmaiden", subname = nil}
 MultiLanguageNpcData['en'][232984] = {name = "Molten Frontaur", subname = "Molten Front and Fireland Supplies"}
+MultiLanguageNpcData['en'][233780] = {name = "Skybound Spectral Tiger", subname = nil}
 MultiLanguageNpcData['en'][234135] = {name = "Kyanite Stonetender", subname = "Fissure Stone Fragment Exchange"}
 MultiLanguageNpcData['en'][234503] = {name = "Sha-Touched Riding Tiger", subname = nil}
 MultiLanguageNpcData['en'][234505] = {name = "Sha-Touched Cloud Serpent", subname = nil}
+MultiLanguageNpcData['en'][237291] = {name = "Flaming Royal Fire Hawk", subname = nil}
+MultiLanguageNpcData['en'][239087] = {name = "Warpweaver Tuviss", subname = "Transmogrifier"}
 MultiLanguageNpcData['en'][239945] = {name = "Alania Hollowbark", subname = "Molten Front Recruiter"}
 MultiLanguageNpcData['en'][239974] = {name = "Denaa Hollowbark", subname = "Molten Front Recruiter"}
 MultiLanguageNpcData['en'][240012] = {name = "Dragon Soultaur", subname = "Dragon Soul Supplies"}
@@ -6596,6 +6604,10 @@ MultiLanguageNpcData['en'][245163] = {name = "Baolai the Immolator", subname = "
 MultiLanguageNpcData['en'][245570] = {name = "Envoy of Sa'bak", subname = nil}
 MultiLanguageNpcData['en'][245678] = {name = "Gunship Turret", subname = nil}
 MultiLanguageNpcData['en'][245683] = {name = "Gunship Turret", subname = nil}
+MultiLanguageNpcData['en'][245696] = {name = "Stormwind Skyseeker", subname = nil}
+MultiLanguageNpcData['en'][245700] = {name = "Orgrimmar Sentinel", subname = nil}
+MultiLanguageNpcData['en'][245759] = {name = "Celestial Steed", subname = nil}
+MultiLanguageNpcData['en'][245831] = {name = "Repurposed Ultra Arcane Titan", subname = "Emblem of Final Stand Exchange"}
 MultiLanguageNpcData['en'][245926] = {name = "Bloodtip", subname = "Ashweb Matriarch"}
 MultiLanguageNpcData['en'][246031] = {name = "Gochao the Ironfist", subname = "Shao-Tien Imperion"}
 MultiLanguageNpcData['en'][246032] = {name = "Huo-Shuang", subname = "Shao-Tien Imperion"}
@@ -6623,7 +6635,7 @@ MultiLanguageNpcData['en'][247447] = {name = "Chi-Ji", subname = "The Red Crane"
 MultiLanguageNpcData['en'][247730] = {name = "Xuen", subname = "The White Tiger"}
 MultiLanguageNpcData['en'][247731] = {name = "Niuzao", subname = "The Black Ox"}
 MultiLanguageNpcData['en'][247732] = {name = "Yu'lon", subname = "The Jade Serpent"}
-MultiLanguageNpcData['en'][247986] = {name = "Gladiataur", subname = "PvP Gear"}
+MultiLanguageNpcData['en'][247986] = {name = "Malevolent Gladiataur", subname = "S12 PvP Gear"}
 MultiLanguageNpcData['en'][248045] = {name = "Imperial Vizier Zor'lok", subname = "Voice of the Empress"}
 MultiLanguageNpcData['en'][248074] = {name = "Blade Lord Ta'yak", subname = nil}
 MultiLanguageNpcData['en'][248076] = {name = "Wind Lord Mel'jarak", subname = nil}
@@ -6635,6 +6647,7 @@ MultiLanguageNpcData['en'][248104] = {name = "Living Amber", subname = nil}
 MultiLanguageNpcData['en'][248105] = {name = "Burning Amber", subname = nil}
 MultiLanguageNpcData['en'][248106] = {name = "Living Amber", subname = nil}
 MultiLanguageNpcData['en'][248108] = {name = "Avatar of the August Celestials", subname = "August Stone Fragment Exchange"}
+MultiLanguageNpcData['en'][248110] = {name = "Flame Cat Form", subname = nil}
 MultiLanguageNpcData['en'][248115] = {name = "Celestial Mote", subname = nil}
 MultiLanguageNpcData['en'][248176] = {name = "Temple of the Jade Serpent Celestial Credit", subname = nil}
 MultiLanguageNpcData['en'][248178] = {name = "Stormstout Brewery Celestial Credit", subname = nil}
@@ -6645,17 +6658,45 @@ MultiLanguageNpcData['en'][248182] = {name = "Siege of Niuzao Temple Celestial C
 MultiLanguageNpcData['en'][248183] = {name = "Scarlet Monastery Celestial Credit", subname = nil}
 MultiLanguageNpcData['en'][248184] = {name = "Scarlet Halls Celestial Credit", subname = nil}
 MultiLanguageNpcData['en'][248185] = {name = "Scholomance Celestial Credit", subname = nil}
-MultiLanguageNpcData['en'][248545] = {name = "Master Lootaur", subname = "Heroic Pandaria Raid Loot"}
-MultiLanguageNpcData['en'][248552] = {name = "Ninja Lootaur", subname = "Normal Pandaria Raid Loot"}
+MultiLanguageNpcData['en'][248545] = {name = "Master Lootaur", subname = "Heroic T14 Raid Loot"}
+MultiLanguageNpcData['en'][248552] = {name = "Ninja Lootaur", subname = "Normal T14 Raid Loot"}
+MultiLanguageNpcData['en'][248695] = {name = "Azure Sea Boat", subname = nil}
 MultiLanguageNpcData['en'][248909] = {name = "Celestial Riding Crane", subname = nil}
 MultiLanguageNpcData['en'][248912] = {name = "Celestial Riding Serpent", subname = nil}
 MultiLanguageNpcData['en'][248913] = {name = "Celestial Riding Ox", subname = nil}
 MultiLanguageNpcData['en'][248914] = {name = "Celestial Riding Tiger", subname = nil}
 MultiLanguageNpcData['en'][249607] = {name = "Sha-scarred Drake", subname = nil}
+MultiLanguageNpcData['en'][249670] = {name = "Ashened Cataclysm", subname = nil}
+MultiLanguageNpcData['en'][249682] = {name = "Sparkion", subname = "Repair"}
+MultiLanguageNpcData['en'][249683] = {name = "Emberia", subname = "Mail Carrier"}
 MultiLanguageNpcData['en'][251798] = {name = "Blazzek the Biter", subname = "Vicious Gladiator"}
 MultiLanguageNpcData['en'][252803] = {name = "Hot Oil Cauldron", subname = nil}
 MultiLanguageNpcData['en'][253198] = {name = "Archincubus", subname = nil}
+MultiLanguageNpcData['en'][253744] = {name = "The Black Brewmaiden", subname = nil}
+MultiLanguageNpcData['en'][253751] = {name = "The Brewmaiden", subname = nil}
 MultiLanguageNpcData['en'][254550] = {name = "The Black Brewmaiden", subname = nil}
 MultiLanguageNpcData['en'][254556] = {name = "The Brewmaiden", subname = nil}
 MultiLanguageNpcData['en'][255049] = {name = "Roo Desvin", subname = "Conquest Quartermaster"}
 MultiLanguageNpcData['en'][255054] = {name = "Armsmaster Holinka", subname = "Conquest Quartermaster"}
+MultiLanguageNpcData['en'][255826] = {name = "Cerulean Phase-Hunter", subname = nil}
+MultiLanguageNpcData['en'][255994] = {name = "Exodar Replica", subname = nil}
+MultiLanguageNpcData['en'][256065] = {name = "Starshard Netherdrake", subname = nil}
+MultiLanguageNpcData['en'][257614] = {name = "Lei Shen", subname = "The Thunder King"}
+MultiLanguageNpcData['en'][257650] = {name = "Lei Shen", subname = "The Thunder King"}
+MultiLanguageNpcData['en'][257676] = {name = "Thunder Trap", subname = nil}
+MultiLanguageNpcData['en'][257696] = {name = "Bouncing Bolt", subname = nil}
+MultiLanguageNpcData['en'][257697] = {name = "Unharnessed Power", subname = nil}
+MultiLanguageNpcData['en'][257787] = {name = "Master Lootaur", subname = "Heroic T15 Raid Loot"}
+MultiLanguageNpcData['en'][257788] = {name = "Ninja Lootaur", subname = "Normal T15 Raid Loot"}
+MultiLanguageNpcData['en'][257789] = {name = "Master Lootaur", subname = "Heroic T16 Raid Loot"}
+MultiLanguageNpcData['en'][257790] = {name = "Ninja Lootaur", subname = "Normal T16 Raid Loot"}
+MultiLanguageNpcData['en'][257798] = {name = "Tyrannical Gladiataur", subname = "S13 PvP Gear"}
+MultiLanguageNpcData['en'][257799] = {name = "Grievous Gladiataur", subname = "S14 PvP Gear"}
+MultiLanguageNpcData['en'][257800] = {name = "Prideful Gladiataur", subname = "S15 PvP Gear"}
+MultiLanguageNpcData['en'][257969] = {name = "Jaelof Ironhart", subname = "Challenge Mode Exchange"}
+MultiLanguageNpcData['en'][258121] = {name = "Sendala the Timeless", subname = "August Stone Shard Exchange"}
+MultiLanguageNpcData['en'][258126] = {name = "Viktor Felhallow", subname = "Challenge Mode Exchange"}
+MultiLanguageNpcData['en'][258469] = {name = "Scarlet Crusader", subname = nil}
+MultiLanguageNpcData['en'][258710] = {name = "Suen", subname = "Mistress of Anger"}
+MultiLanguageNpcData['en'][258795] = {name = "Dark Animus", subname = nil}
+MultiLanguageNpcData['en'][259419] = {name = "Xuen", subname = "The White Tiger"}

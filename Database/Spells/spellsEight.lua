@@ -1,3 +1,34 @@
+MultiLanguageSpellData['en'][463719] = {name = "5", additional_info = nil}
+MultiLanguageSpellData['en'][463720] = {name = "6", additional_info = nil}
+MultiLanguageSpellData['en'][463721] = {name = "7", additional_info = nil}
+MultiLanguageSpellData['en'][463722] = {name = "8", additional_info = nil}
+MultiLanguageSpellData['en'][463723] = {name = "9", additional_info = nil}
+MultiLanguageSpellData['en'][463724] = {name = "0", additional_info = nil}
+MultiLanguageSpellData['en'][463730] = {name = "Coagulating Blood", additional_info = "Instant\n[q]0 damage taken in the last 5 sec, [floor(0 / Total Health * 100)]% of your maximum health, will empower your next Death Strike."}
+MultiLanguageSpellData['en'][463733] = {name = "Seek and Destroy", additional_info = "Instant\n[q]Crawls toward a player and detonates when nearby, knocking back players within 7 yards and inflicting 75 Fire damage on impact and 4 Fire damage every 2 sec for 6 sec."}
+MultiLanguageSpellData['en'][463734] = {name = "Seek and Destroy", additional_info = "100 yd range\n2 sec cast\n[q]Crawls toward a player and detonates when nearby, knocking back players within 7 yards and inflicting 75 Fire damage on impact and 4 Fire damage every 2 sec for 6 sec."}
+MultiLanguageSpellData['en'][463738] = {name = "Seek and Destroy", additional_info = "4 yd range\nInstant\n[q]Crawls toward a player and detonates when nearby, knocking back players within 7 yards and inflicting 75 Fire damage on impact and 4 Fire damage every 2 sec for 6 sec."}
+MultiLanguageSpellData['en'][463740] = {name = "Mine Blast", additional_info = "1 sec cast\n[q]Crawls toward a player and detonates when nearby, knocking back players within 7 yards and inflicting 75 Fire damage on impact and 4 Fire damage every 2 sec for 6 sec."}
+MultiLanguageSpellData['en'][463742] = {name = "Provoked!", additional_info = "Instant\n[q]Become furious."}
+MultiLanguageSpellData['en'][463743] = {name = "Fishing", additional_info = "10 yd range\nChanneled (22 sec cast)\n[q]Go fish."}
+MultiLanguageSpellData['en'][463746] = {name = "Honey Marinade", additional_info = "100 yd range\nInstant\n[q]Benk Buzzbee coats his current target in flammable honey. After 5 sec the player ignites, inflicting 4364009 Fire damage to players within 6 yards of their location.\n\n Flaming honey remains on the ground, inflicting 1454670 Fire damage every 0.5 sec to players standing within the effect."}
+MultiLanguageSpellData['en'][463749] = {name = "Starry-Eyed Goggles", additional_info = "Instant\n[q]See what you want to see."}
+MultiLanguageSpellData['en'][463753] = {name = "Blowout", additional_info = "{Instant} {4.5 sec cooldown}\n[q]Big M.O.M.M.A. spews excess oil in a frontal cone, inflicting 30 Nature damage and reducing the movement speed of all players within the blast by 80% for 8 sec. The potency of the snare decreases over the duration."}
+MultiLanguageSpellData['en'][463754] = {name = "Blowout", additional_info = "100 yd range\n2.5 sec cast\n[q]Big M.O.M.M.A. spews excess oil in a frontal cone, inflicting 30 Nature damage and reducing the movement speed of all players within the blast by 80% for 8 sec. The potency of the snare decreases over the duration."}
+MultiLanguageSpellData['en'][463758] = {name = "Opening", additional_info = nil}
+MultiLanguageSpellData['en'][463760] = {name = "Jetpack-Out-of-a-Box", additional_info = "40 yd range\nInstant\n[q]Equip a jetpack, allowing temporary flight within Undermine for 30 sec. Explodes upon expiration or landing."}
+MultiLanguageSpellData['en'][463765] = {name = "Warblade's Hunger", additional_info = "Instant\n[q]Vengeance\n Consuming a Soul Fragment causes your next to deal (40% of Attack Power) additional damage.\n\nHavoc\n Consuming a Soul Fragment causes your next Chaos Strike to deal (40% of Attack Power) additional damage.\n\n Felblade consumes up to 0 nearby Soul Fragments."}
+MultiLanguageSpellData['en'][463767] = {name = "Void Essence", additional_info = "[q0]Mythic+ Affixes\nUnlimited range\nInstant\n[q]Absorb the essence from the dissolved void crystal, increasing the player's Mastery by 2% and Leech by 1% for 30 sec. This effect stacks."}
+MultiLanguageSpellData['en'][463769] = {name = "Executive Package", additional_info = "Instant\n[q]Nikki's Executive Package technology keeps her safe and aloft."}
+MultiLanguageSpellData['en'][463770] = {name = "Crystal of Oblivion", additional_info = nil}
+MultiLanguageSpellData['en'][463774] = {name = "Xal'atath's Bargain: Oblivion", additional_info = nil}
+MultiLanguageSpellData['en'][463777] = {name = "Grease Gun", additional_info = "Instant\n[q]Shoots the current threat target for 18 Physical damage."}
+MultiLanguageSpellData['en'][463778] = {name = "Knockback", additional_info = nil}
+MultiLanguageSpellData['en'][463780] = {name = "Grease Gun", additional_info = "10 yd range\n{Instant} {5 sec cooldown}\n[q]Shoots the current threat target for 18 Physical damage."}
+MultiLanguageSpellData['en'][463781] = {name = "Killing Spree", additional_info = "100 yd range\nInstant\nRequires Melee Weapon\n[q]Finishing move that unleashes a barrage of gunfire, striking random enemies within 8 yards for Physical damage. Number of strikes increased per combo point.\n\n Restores 1 combo point every 0.50 sec.\n\n 1 point : [((225% of Attack Power) + (225% of Attack Power)) * 2] over 0.50 sec\n 2 points: [((225% of Attack Power) + (225% of Attack Power)) * 3] over 1.00 sec\n 3 points: [((225% of Attack Power) + (225% of Attack Power)) * 4] over 1.50 sec\n 4 points: [((225% of Attack Power) + (225% of Attack Power)) * 5] over 2.00 sec\n 5 points: [((225% of Attack Power) + (225% of Attack Power)) * 6] over 2.50 sec\n [  6 points: [((225% of Attack Power) + (225% of Attack Power)) * 7] over 3.00 sec] [  7 points: [((225% of Attack Power) + (225% of Attack Power)) * 8] over 3.50 sec]"}
+MultiLanguageSpellData['en'][463785] = {name = "Concussion Charge", additional_info = "Instant\n[q]Throws a grenade at a random player, inflicting 35 Fire damage and knocking back players within 4 yards."}
+MultiLanguageSpellData['en'][463786] = {name = "Concussion Charge", additional_info = "50 yd range\n2 sec cast\n[q]Throws a grenade at a random player, inflicting 35 Fire damage and knocking back players within 4 yards."}
+MultiLanguageSpellData['en'][463790] = {name = "Concussion Charge", additional_info = "50 yd range\n2 sec cast\n[q]Throws a grenade at a random player, inflicting 2934781 Fire damage and knocking back players within 4 yards."}
 MultiLanguageSpellData['en'][463796] = {name = "Concussion Charge", additional_info = "50 yd range\nInstant\n[q]Throws a grenade at a random player, inflicting 2934781 Fire damage and knocking back players within 4 yards."}
 MultiLanguageSpellData['en'][463798] = {name = "Lightning Bash", additional_info = "Unlimited range\nInstant\n[q]Torq smashes his current target, inflicting 25993769 Physical damage. Additionally, 100% of unmitigated damage is inflicted as Nature damage."}
 MultiLanguageSpellData['en'][463800] = {name = "Zapbolt", additional_info = "100 yd range\nInstant\n[q]Torq calls down lightning strikes that inflict 3354035 Nature damage to players within 5 yards of the impact locations."}
@@ -545,6 +576,7 @@ MultiLanguageSpellData['en'][464847] = {name = "Summon", additional_info = nil}
 MultiLanguageSpellData['en'][464848] = {name = "Look Back", additional_info = nil}
 MultiLanguageSpellData['en'][464849] = {name = "Look Forward", additional_info = nil}
 MultiLanguageSpellData['en'][464850] = {name = "Trash Pile", additional_info = nil}
+MultiLanguageSpellData['en'][464851] = {name = "Burrowed", additional_info = nil}
 MultiLanguageSpellData['en'][464852] = {name = "Summon Felguard", additional_info = "4 sec cast\n[q]Summons a Felguard under your command as a powerful melee combatant."}
 MultiLanguageSpellData['en'][464853] = {name = "Garbage Pile", additional_info = nil}
 MultiLanguageSpellData['en'][464854] = {name = "Garbage Pile", additional_info = "300 yd range\nInstant\n[q]Piles of garbage emerge from the landfill, knocking away nearby players.\n\n Standing within a Garbage Pile reduces movement speed by 50% and inflicts 1844719 Nature damage every 1 sec."}
@@ -784,6 +816,7 @@ MultiLanguageSpellData['en'][465247] = {name = "Leg Rip", additional_info = "Mel
 MultiLanguageSpellData['en'][465249] = {name = "Sanguine Rejuvenation", additional_info = "5 sec cast\n[q]Spilled blood coalesces to heal the caster for 77."}
 MultiLanguageSpellData['en'][465250] = {name = "Play Movie", additional_info = nil}
 MultiLanguageSpellData['en'][465251] = {name = "Essence of Night", additional_info = nil}
+MultiLanguageSpellData['en'][465253] = {name = "Spell: 12.0 Housing - Prototype - NPCs Interact - Ad on Aura - Talk and Talk (Hufton)", additional_info = nil}
 MultiLanguageSpellData['en'][465254] = {name = "Report to Monte Gazlowe", additional_info = nil}
 MultiLanguageSpellData['en'][465255] = {name = "Introduce Yourself to Rosebud", additional_info = nil}
 MultiLanguageSpellData['en'][465256] = {name = "Foundation 1 - Spawn Aura", additional_info = nil}
@@ -926,7 +959,9 @@ MultiLanguageSpellData['en'][465530] = {name = "Wilting Rain", additional_info =
 MultiLanguageSpellData['en'][465531] = {name = "Wilting Rain", additional_info = "100 yd range\nInstant\n[q]Splash a volley of toxic water, inflicting 48 Nature damage in the area."}
 MultiLanguageSpellData['en'][465532] = {name = "Crystal of Oblivion", additional_info = nil}
 MultiLanguageSpellData['en'][465533] = {name = "Crystal Reading", additional_info = nil}
+MultiLanguageSpellData['en'][465534] = {name = "Hardened Skin", additional_info = nil}
 MultiLanguageSpellData['en'][465536] = {name = "<DNT> WoW Anniversary", additional_info = nil}
+MultiLanguageSpellData['en'][465539] = {name = "Breath of Wind", additional_info = nil}
 MultiLanguageSpellData['en'][465541] = {name = "Air Bubble", additional_info = "100 yd range\nInstant\n[q]Allows the target to breathe underwater."}
 MultiLanguageSpellData['en'][465543] = {name = "Clear Paperwork", additional_info = nil}
 MultiLanguageSpellData['en'][465547] = {name = "Collapsing", additional_info = nil}
@@ -1028,6 +1063,7 @@ MultiLanguageSpellData['en'][465717] = {name = "Elemental Blast", additional_inf
 MultiLanguageSpellData['en'][465718] = {name = "Dreadful Shriek", additional_info = "{1 sec cast} {5 sec cooldown}\n[q]Silences nearby enemies, preventing them from casting spells for 4 sec."}
 MultiLanguageSpellData['en'][465720] = {name = "Weaver Friend", additional_info = nil}
 MultiLanguageSpellData['en'][465721] = {name = "Weaver Friend", additional_info = nil}
+MultiLanguageSpellData['en'][465722] = {name = "Blessing of Waterwalking", additional_info = nil}
 MultiLanguageSpellData['en'][465723] = {name = "Song of Discord", additional_info = "30 yd range\n2 sec cast\n[q]A discordant melody inflicts Sonic damage and disorients the target, increasing the damage they take by 15% for 12 sec."}
 MultiLanguageSpellData['en'][465724] = {name = "Chains of Torment", additional_info = "10 yd range\n2 sec cast\n[q]Reduces the movement speed of the target by 50% for 6 sec.\n Inflicts 7 Physical damage to an enemy every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][465733] = {name = "Glide", additional_info = "{Instant} {1.5 sec cooldown}\n[q]Reduces your falling speed.\n\n You can activate this ability with the jump key while falling."}
@@ -1107,6 +1143,7 @@ MultiLanguageSpellData['en'][465844] = {name = "Crabby", additional_info = nil}
 MultiLanguageSpellData['en'][465845] = {name = "Crabby", additional_info = "Instant\n[q]Upon reaching 100 energy, the Crawler Bomb enters a state of unstoppable fury, increasing its movement speed by 100% and rendering it immune to all forms of crowd control."}
 MultiLanguageSpellData['en'][465846] = {name = "Play Scene [ARS]", additional_info = "Instant"}
 MultiLanguageSpellData['en'][465847] = {name = "Bombshell", additional_info = "Instant\n[q]Crawler Bombs wear a sturdy bomb casing for protection, reducing all damage they take by 99%.\n\n They explode only upon contact with their target, inflicting 300 Fire damage to players within 5 yards."}
+MultiLanguageSpellData['en'][465852] = {name = "Dummy plant attack", additional_info = nil}
 MultiLanguageSpellData['en'][465853] = {name = "Idol Face Target", additional_info = nil}
 MultiLanguageSpellData['en'][465854] = {name = "\"Dogg-Saron\" Costume", additional_info = "20 yd range\nInstant\n[q]Dress up your Perky Pug."}
 MultiLanguageSpellData['en'][465855] = {name = "Knocked Back", additional_info = nil}
@@ -1254,6 +1291,7 @@ MultiLanguageSpellData['en'][466088] = {name = "Turbo Bolt", additional_info = "
 MultiLanguageSpellData['en'][466089] = {name = "Slot Machine", additional_info = nil}
 MultiLanguageSpellData['en'][466093] = {name = "Haywire", additional_info = "Unlimited range\nInstant\n[q]Upon reaching full power the amplifier goes haywire, inflicting 670807 Sonic damage to all players every 1 sec and expelling additional Resonant Echoes ."}
 MultiLanguageSpellData['en'][466096] = {name = "Heal", additional_info = "100 yd range\n{3 sec cast} {8 sec cooldown}\n[q]Restores 14963 health to an ally."}
+MultiLanguageSpellData['en'][466099] = {name = "Spell: 12.0 Housing - Prototype - NPCs Interact - Ad on Aura - Play with Dog (Hufton)", additional_info = nil}
 MultiLanguageSpellData['en'][466100] = {name = "Animate Bones", additional_info = "Instant\n[q]Shadowflame energy animates these bones."}
 MultiLanguageSpellData['en'][466101] = {name = "Musken Charge", additional_info = "20 yd range\n1 sec cast\n[q]Charges to an enemy dealing Physical damage and knocking them down."}
 MultiLanguageSpellData['en'][466102] = {name = "Musken Charge", additional_info = "100 yd range\nInstant\n[q]Charges to an enemy dealing Physical damage and knocking them down."}
@@ -1382,7 +1420,7 @@ MultiLanguageSpellData['en'][466316] = {name = "Mind Flay", additional_info = "C
 MultiLanguageSpellData['en'][466317] = {name = "Mind Sear", additional_info = "Channeled (0 sec cast)\n[q]Corrosive shadow energy radiates from the target, dealing [(17.1675% of Spell Power) * 0] Shadow damage over until canceled to all enemies within 10 yards of the target. Damage reduced beyond 5 targets.\n\nGenerates 0 Insanity over the duration."}
 MultiLanguageSpellData['en'][466318] = {name = "On Quest Accept - Outcast Hizfran", additional_info = nil}
 MultiLanguageSpellData['en'][466319] = {name = "Rend Flesh", additional_info = "Melee Range\n0.5 sec cast\n[q]Inflicts Physical damage to an enemy.\n Inflicts Physical damage to an enemy every 1 sec for 5 sec."}
-MultiLanguageSpellData['en'][466325] = {name = "Return to the Story", additional_info = "Instant\n[q]Finish talking to the storyteller and continue experiencing the tale."}
+MultiLanguageSpellData['en'][466325] = {name = "Return to the Story", additional_info = "Instant\n[q]Finish learning more about the story and continue experiencing the tale."}
 MultiLanguageSpellData['en'][466326] = {name = "Bitter Cold", additional_info = "200 yd range\nInstant\n[q]Wreathes all players in rime. After 5 sec, players erupt inflicting 2633 Frost damage to players within 8 yards and rooting them for 3 sec."}
 MultiLanguageSpellData['en'][466327] = {name = "Electrified Lock", additional_info = "Instant\n[q]Attempt to break the electrified lock."}
 MultiLanguageSpellData['en'][466332] = {name = "Beseech the Firelord", additional_info = "Instant\n[q]When Dagran falls below 70% health, he beseeches the Firelord for aid, gaining a shield that absorbs 29925 damage.\n\n An Avatar of Ragnaros joins the battle inflicting 2926 Fire damage to all players. The damage is decreased farther from the impact point."}
@@ -1808,6 +1846,8 @@ MultiLanguageSpellData['en'][467060] = {name = "<DNT> Invisible", additional_inf
 MultiLanguageSpellData['en'][467063] = {name = "Here's a Boost!", additional_info = "Instant\n[q]Chromie warps time-space around allies, boosting their movement speed by 400% for %d."}
 MultiLanguageSpellData['en'][467064] = {name = "Checked Ego", additional_info = "Unlimited range\nInstant\n[q]Targets struck by Gallywix's Ego Check continually suffer the unmitigated damage as Physical damage every 3 sec for 22 sec. This effect stacks, adding to the effects of previous Checked Ego."}
 MultiLanguageSpellData['en'][467065] = {name = "Reef Rage", additional_info = "3 sec cast\n[q]Seaborne rage increases the caster's attack speed by 50% and causes them to inflict 50% increased damage for 12 sec."}
+MultiLanguageSpellData['en'][467066] = {name = "Seismic Ruptures", additional_info = nil}
+MultiLanguageSpellData['en'][467070] = {name = "Last Embers", additional_info = "Instant\n[q]Inflicts 25 Fire damage every 1 sec."}
 MultiLanguageSpellData['en'][467071] = {name = "Ride to Court", additional_info = nil}
 MultiLanguageSpellData['en'][467072] = {name = "Ride to Court", additional_info = nil}
 MultiLanguageSpellData['en'][467074] = {name = "Ride to Court", additional_info = nil}
@@ -2036,7 +2076,7 @@ MultiLanguageSpellData['en'][467482] = {name = "Launch Xal'atath", additional_in
 MultiLanguageSpellData['en'][467485] = {name = "Mister Lock-N-Stalk", additional_info = "{Instant} {20 sec cooldown}\n[q]Recalibrate for Mass Destruction ."}
 MultiLanguageSpellData['en'][467490] = {name = "Arathi Crystal Box", additional_info = nil}
 MultiLanguageSpellData['en'][467492] = {name = "Precision Blasting", additional_info = "Instant\n[q]Your spells and abilities have a high chance to lase your target for Precision Blasting , calling in Mister Lock-N-Stalk to deal ( 4266 * 1 ) Physical damage to your target."}
-MultiLanguageSpellData['en'][467493] = {name = "Launch Xal'atath", additional_info = "Instant\n[q]You have progress in another Lorewalking Campaign or a quest in your Quest Log that is included in this Lorewalking Campaign.\n\n Continuing will reset or abandon them.\n\n Do you wish to proceed?"}
+MultiLanguageSpellData['en'][467493] = {name = "Launch Xal'atath", additional_info = "Instant\n[q]You have progress in another Lorewalking or Catch Up Campaign or a quest in your Quest Log that is included in this Lorewalking or Catch Up Campaign.\n\n Continuing will reset or abandon them.\n\n Do you wish to proceed?"}
 MultiLanguageSpellData['en'][467496] = {name = "Pow-Arr Wash", additional_info = nil}
 MultiLanguageSpellData['en'][467497] = {name = "Mass Destruction", additional_info = "Instant\n[q]Your spells and abilities have a high chance to lase enemies for Mass Destruction , calling in Mister Lock-N-Stalk to deal ( 2489 * 1 ) Fire damage split between your target and nearby enemies."}
 MultiLanguageSpellData['en'][467501] = {name = "Sonic Crush", additional_info = nil}
@@ -2071,7 +2111,7 @@ MultiLanguageSpellData['en'][467579] = {name = "11.0.7 Void Zone - Player Contro
 MultiLanguageSpellData['en'][467580] = {name = "Blaring Drop", additional_info = nil}
 MultiLanguageSpellData['en'][467583] = {name = "Blaring Drop", additional_info = nil}
 MultiLanguageSpellData['en'][467584] = {name = "Blaring Drop", additional_info = nil}
-MultiLanguageSpellData['en'][467590] = {name = "Launch Elves", additional_info = "Instant\n[q]You have progress in another Lorewalking Campaign or a quest in your Quest Log that is included in this Lorewalking Campaign.\n\n Continuing will reset or abandon them.\n\n Do you wish to proceed?"}
+MultiLanguageSpellData['en'][467590] = {name = "Launch Elves", additional_info = "Instant\n[q]You have progress in another Lorewalking or Catch Up Campaign or a quest in your Quest Log that is included in this Lorewalking or Catch Up Campaign.\n\n Continuing will reset or abandon them.\n\n Do you wish to proceed?"}
 MultiLanguageSpellData['en'][467591] = {name = "Launch Elves", additional_info = nil}
 MultiLanguageSpellData['en'][467592] = {name = "Launch Elves", additional_info = nil}
 MultiLanguageSpellData['en'][467596] = {name = "Zombie Stomp", additional_info = nil}
@@ -2374,7 +2414,7 @@ MultiLanguageSpellData['en'][468117] = {name = "Elite Arsenal: Verdant Gladiator
 MultiLanguageSpellData['en'][468119] = {name = "Resonant Echoes", additional_info = "Unlimited range\nInstant\n[q]An echoing wave of sound overwhelms players in its path inflicting 670807 Sonic damage every 0.5 sec for 6 sec. This effect stacks."}
 MultiLanguageSpellData['en'][468120] = {name = "Resonant Echoes", additional_info = "Unlimited range\nInstant\n[q]An echoing wave of sound overwhelms players in its path inflicting 670807 Sonic damage every 0.5 sec for 6 sec. This effect stacks."}
 MultiLanguageSpellData['en'][468121] = {name = "<DNT>", additional_info = nil}
-MultiLanguageSpellData['en'][468122] = {name = "Lost in Thought", additional_info = nil}
+MultiLanguageSpellData['en'][468122] = {name = "Lost in Thought", additional_info = "Instant\n[q]Thinking about the story you're being told.\n\n Invisible and immune to all damage."}
 MultiLanguageSpellData['en'][468123] = {name = "<DNT>", additional_info = nil}
 MultiLanguageSpellData['en'][468124] = {name = "Ask a Question", additional_info = "Instant\n[q]Ask the storyteller a question, such as where to go next or for more information about the story."}
 MultiLanguageSpellData['en'][468128] = {name = "Flame Shot", additional_info = "40 yd range\n1 sec cast\n[q]A flaming pistol blast inflicts direct Fire damage and 2 Fire damage every 0.5 sec for 3 sec."}
@@ -2515,7 +2555,7 @@ MultiLanguageSpellData['en'][468521] = {name = "Vortex Storm", additional_info =
 MultiLanguageSpellData['en'][468524] = {name = "Vortex Storm", additional_info = "100 yd range\nInstant\n[q]Creates a swirling vortex nearby that slows the target by 50% and inflicts 6 Nature damage every 1 sec."}
 MultiLanguageSpellData['en'][468532] = {name = "Launch Ethereals", additional_info = nil}
 MultiLanguageSpellData['en'][468534] = {name = "Launch Ethereals", additional_info = nil}
-MultiLanguageSpellData['en'][468535] = {name = "Launch Ethereals", additional_info = "Instant\n[q]You have progress in another Lorewalking Campaign or a quest in your Quest Log that is included in this Lorewalking Campaign.\n\n Continuing will reset or abandon them.\n\n Do you wish to proceed?"}
+MultiLanguageSpellData['en'][468535] = {name = "Launch Ethereals", additional_info = "Instant\n[q]You have progress in another Lorewalking or Catch Up Campaign or a quest in your Quest Log that is included in this Lorewalking or Catch Up Campaign.\n\n Continuing will reset or abandon them.\n\n Do you wish to proceed?"}
 MultiLanguageSpellData['en'][468536] = {name = "Launch Ethereals", additional_info = nil}
 MultiLanguageSpellData['en'][468541] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][468544] = {name = "Ready", additional_info = nil}
@@ -2606,6 +2646,7 @@ MultiLanguageSpellData['en'][468704] = {name = "Serpentine Blessing", additional
 MultiLanguageSpellData['en'][468713] = {name = "Exhaust Fumes", additional_info = "Instant\n[q]The Geargrinder releases smog that suffocates all players for 6 sec, inflicting 503105 Shadow damage every 1 sec. This increases in intensity by 25% with every cast."}
 MultiLanguageSpellData['en'][468716] = {name = "Icky Sticky Slime", additional_info = "100 yd range\nInstant\n[q]Inflicts 2 Nature damage every 1 sec and reduces movement speed by 50% and makes enemies vulnerable to Viscous Upheaval."}
 MultiLanguageSpellData['en'][468717] = {name = "[q4]Astral Ignition", additional_info = "5 sec cast\nReagents:\nFractured Spark of Starlight\n[q]Combine 2 Fractured Sparks of Starlight with 250 Valorstones to create a Spark of Starlight."}
+MultiLanguageSpellData['en'][468720] = {name = "Void Ray", additional_info = nil}
 MultiLanguageSpellData['en'][468721] = {name = "Icky Sticky Slime", additional_info = "100 yd range\nInstant\n[q]Inflicts 2 Nature damage every 1 sec and reduces movement speed by 50% and makes enemies vulnerable to Viscous Upheaval."}
 MultiLanguageSpellData['en'][468723] = {name = "Shock Water", additional_info = "Unlimited range\nInstant\n[q]The water electrifies, inflicting 4848899 Nature damage and stunning any player inside for 4 sec.\n\n Inflicts 4848899 Nature damage every 1 sec to players within the effect."}
 MultiLanguageSpellData['en'][468724] = {name = "Plant Seaforium Charge", additional_info = nil}
@@ -2652,6 +2693,7 @@ MultiLanguageSpellData['en'][468817] = {name = "Goblin-guided Rocket", additiona
 MultiLanguageSpellData['en'][468818] = {name = "Designed Disaster", additional_info = "Unlimited range\nInstant\n[q]Fineous Darkvire calls down a rain of hammers. Each hammer inflicts 929328 Radiant damage to nearby enemies, knocks them back, and leaves an architectonic impression that inflicts 464664 Radiant damage every 1 sec. While channeling, Fineous Darkvire takes 99% less damage."}
 MultiLanguageSpellData['en'][468820] = {name = "Designed Disaster", additional_info = "Unlimited range\nInstant\n[q]Fineous Darkvire calls down a rain of hammers. Each hammer inflicts 929328 Radiant damage to nearby enemies, knocks them back, and leaves an architectonic impression that inflicts 464664 Radiant damage every 1 sec. While channeling, Fineous Darkvire takes 99% less damage."}
 MultiLanguageSpellData['en'][468824] = {name = "Gigazap", additional_info = "Unlimited range\nInstant\n[q]Geezle consumes 20 Electricity to shock players with unlimited power, inflicting 15 Nature damage and an additional 6 Nature damage every 1 sec for 6 sec."}
+MultiLanguageSpellData['en'][468827] = {name = "Turn Shadow", additional_info = "10 yd range\n1.5 sec cast\n[q]Raise the Redeemer's Sigil aloft to drive away the shadow's corruption."}
 MultiLanguageSpellData['en'][468831] = {name = "Gigazap", additional_info = "Unlimited range\nInstant\n[q]Geezle consumes 20 Electricity to shock players with unlimited power, inflicting 15 Nature damage and an additional 6 Nature damage every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][468832] = {name = "Colossal Slam", additional_info = "15 yd range\n3 sec cast\n[q]A massive fist slams the ground inflicting 80 Physical damage to enemies within 15 yards knocking them back."}
 MultiLanguageSpellData['en'][468841] = {name = "Leaping Sparks", additional_info = "Unlimited range\n4 sec cast\n[q]Geezle consumes 40 Electricity to galvanize several Leaping Sparks that fixate players.\n\n Upon contact, the spark inflicts 9697798 Nature damage and stuns for 8 sec."}
@@ -2751,7 +2793,7 @@ MultiLanguageSpellData['en'][469032] = {name = "Gaze of Terror", additional_info
 MultiLanguageSpellData['en'][469033] = {name = "Draw Shadows", additional_info = "2 sec cast\n[q]Reduces casting speed by 50% for 10 min."}
 MultiLanguageSpellData['en'][469034] = {name = "Shadow Word: Anxiety", additional_info = "Unlimited range\nInstant\n[q]High Interrogator Gerstahn conjures orbs of pure dread that begin to cast Dread Crescendo.\n\nDread Crescendo :\nManifested Dread inflicts Shadow damage equal to its remaining health to all players, split evenly."}
 MultiLanguageSpellData['en'][469035] = {name = "Shadow Word: Anxiety", additional_info = nil}
-MultiLanguageSpellData['en'][469036] = {name = "Launch Ethereals", additional_info = "Instant\n[q]You have progress in another Lorewalking Campaign or a quest in your Quest Log that is included in this Lorewalking Campaign.\n\n Continuing will reset or abandon them.\n\n Do you wish to proceed?"}
+MultiLanguageSpellData['en'][469036] = {name = "Launch Ethereals", additional_info = "Instant\n[q]You have progress in another Lorewalking or Catch Up Campaign or a quest in your Quest Log that is included in this Lorewalking or Catch Up Campaign.\n\n Continuing will reset or abandon them.\n\n Do you wish to proceed?"}
 MultiLanguageSpellData['en'][469037] = {name = "Gathering", additional_info = nil}
 MultiLanguageSpellData['en'][469038] = {name = "Dread Crescendo", additional_info = "Unlimited range\n20 sec cast\n[q]Manifested Dread inflicts Shadow damage equal to its remaining health to all players, split evenly."}
 MultiLanguageSpellData['en'][469039] = {name = "Pang of Panic", additional_info = "Unlimited range\nInstant\n[q]When Manifested Dread is killed or casts Dread Crescendo, it explodes for 619552 Shadow damage to all players."}
@@ -3276,19 +3318,26 @@ MultiLanguageSpellData['en'][470139] = {name = "Deliver Newspaper", additional_i
 MultiLanguageSpellData['en'][470141] = {name = "Cosmetic - Reading Scroll, Upper Only", additional_info = nil}
 MultiLanguageSpellData['en'][470142] = {name = "Mug", additional_info = nil}
 MultiLanguageSpellData['en'][470143] = {name = "Little Sawblade", additional_info = "40 yd range\nInstant\n[q]Launch a sawblade at an unsuspecting critter."}
+MultiLanguageSpellData['en'][470146] = {name = "Grappling", additional_info = nil}
 MultiLanguageSpellData['en'][470149] = {name = "Sawblade", additional_info = nil}
 MultiLanguageSpellData['en'][470152] = {name = "Chained Up", additional_info = nil}
 MultiLanguageSpellData['en'][470153] = {name = "Chained Up", additional_info = nil}
 MultiLanguageSpellData['en'][470154] = {name = "Latched On", additional_info = "Unlimited range\nChanneled (30 sec cast)\n[q]Houndmaster Grebmar orders bloodhound mastiffs to latch onto a player, reducing their movement speed by 95% and inflicting 193610 Physical damage every 1 sec for 30 sec."}
+MultiLanguageSpellData['en'][470156] = {name = "Grappling", additional_info = nil}
+MultiLanguageSpellData['en'][470157] = {name = "Grappling", additional_info = nil}
 MultiLanguageSpellData['en'][470158] = {name = "Explosive Payload", additional_info = "100 yd range\nInstant\n[q]The caster fires out Wildlife Removal Units to attack the player."}
 MultiLanguageSpellData['en'][470159] = {name = "Gruesome Wound", additional_info = nil}
+MultiLanguageSpellData['en'][470161] = {name = "Grappling", additional_info = nil}
+MultiLanguageSpellData['en'][470162] = {name = "Grappling", additional_info = nil}
 MultiLanguageSpellData['en'][470164] = {name = "Magma Infusion", additional_info = "{2 sec cast} {1 min cooldown}\n[q]Roots in place and begins casting Magma Sweep , up to 4 times."}
 MultiLanguageSpellData['en'][470165] = {name = "Magma Sweep", additional_info = nil}
 MultiLanguageSpellData['en'][470167] = {name = "Superjuiced", additional_info = "Instant\n[q]Gain the ability to activate the TR-06 Pummeler and N.U.K.U.L.A.R Target Painter while in the Seafury Tempest on Siren Isle."}
 MultiLanguageSpellData['en'][470168] = {name = "Cyrce's Zephyr", additional_info = "Instant\n[q]While Cyrce's Circlet is equipped and you're on the Siren Isle, your spells and abilities have a chance to summon Cyrce's Zephyr which will cast every existing Singing Citrine ability over 3 sec."}
 MultiLanguageSpellData['en'][470169] = {name = "Thieves of the Siren", additional_info = "Instant\n[q]Cyrce's Circlet now passively illuminates invisible enemies that attempt to steal the riches on Siren Isle. They are often found trying to pilfer Flame-Blessed Iron from the strongest creatures on the isle."}
 MultiLanguageSpellData['en'][470170] = {name = "Wings of the Siren", additional_info = "Instant\n[q]Cyrce's Circlet now passively allows you to control the winds, allowing you to take flight on Siren Isle."}
+MultiLanguageSpellData['en'][470171] = {name = "Grappling Hook Visual", additional_info = nil}
 MultiLanguageSpellData['en'][470172] = {name = "Bomb Squad", additional_info = nil}
+MultiLanguageSpellData['en'][470173] = {name = "Grapple Land", additional_info = nil}
 MultiLanguageSpellData['en'][470194] = {name = "Ice Strike", additional_info = "{0.66% of base mana} {Melee Range}\n{Instant} {15 sec cooldown}\n[q]Strike your target with an icy blade, dealing (285.66% of Attack Power) Frost damage and snaring them by 50% for 6 sec.\n\n Ice Strike increases the damage of your next Frost Shock by 100% and generates 1 stack of Maelstrom Weapon."}
 MultiLanguageSpellData['en'][470197] = {name = "Blessing of the Seadweller", additional_info = "Instant\n[q]Gain the passive ability to walk on the seafloor, find treasures underwater, breathe underwater, and swim much faster while in the surrounding waters of Siren Isle.\n\n You must have Cyrce's Circlet equipped."}
 MultiLanguageSpellData['en'][470200] = {name = "Fire Fleas", additional_info = "Melee Range\n{Instant} {2 min cooldown}\n[q]Haste decreased by 25%.\n 10% chance to spread fleas to allies when hit.\n(Proc chance: 10%)"}
@@ -3311,7 +3360,9 @@ MultiLanguageSpellData['en'][470251] = {name = "Zoomies!", additional_info = nil
 MultiLanguageSpellData['en'][470252] = {name = "Zoomies!", additional_info = nil}
 MultiLanguageSpellData['en'][470253] = {name = "Zoomies!", additional_info = nil}
 MultiLanguageSpellData['en'][470254] = {name = "Zoomies!", additional_info = "Instant\n[q]Houndmaster Grebmar orders bloodhound mastiffs to run wild for 10 sec, knocking down players for 2 sec."}
+MultiLanguageSpellData['en'][470255] = {name = "Pained by Vision", additional_info = "Instant\n[q]Vereesa is in pain due to her Radiant Song vision."}
 MultiLanguageSpellData['en'][470257] = {name = "Eject", additional_info = nil}
+MultiLanguageSpellData['en'][470258] = {name = "Maw Gateway", additional_info = nil}
 MultiLanguageSpellData['en'][470259] = {name = "Expulse", additional_info = "30 yd range\n2 sec cast\n[q]Inflicts 5 Shadow damage to the target or 15 Shadow damage if the target is afflicted by Dark Curse."}
 MultiLanguageSpellData['en'][470260] = {name = "Full Heal", additional_info = nil}
 MultiLanguageSpellData['en'][470261] = {name = "Expulse", additional_info = "30 yd range\nInstant\n[q]Inflicts 5 Shadow damage to the target or 15 Shadow damage if the target is afflicted by Dark Curse."}
@@ -3324,6 +3375,9 @@ MultiLanguageSpellData['en'][470284] = {name = "Food & Drink", additional_info =
 MultiLanguageSpellData['en'][470286] = {name = "Torq's Big Red Button", additional_info = "{Instant} {2 min cooldown}\n[q]Unleash your inner tempest to gain 82 Strength for 15 sec. Your next 3 abilities cause a lightning blast dealing ( 1940 * 1 ) Nature damage to your primary target. Damage increased by 100% with each subsequent blast."}
 MultiLanguageSpellData['en'][470287] = {name = "Levitate", additional_info = nil}
 MultiLanguageSpellData['en'][470290] = {name = "Muck Bolt", additional_info = "30 yd range\n2 sec cast\n[q]Inflicts 2 Shadow damage to an enemy and applies Black Goo ."}
+MultiLanguageSpellData['en'][470291] = {name = "Maw Walk", additional_info = "{Instant} {1 sec cooldown}\n[q]Return to where you started."}
+MultiLanguageSpellData['en'][470292] = {name = "Maw Walk", additional_info = "{3 sec cast} {1 sec cooldown}\n[q]Return to where you started."}
+MultiLanguageSpellData['en'][470293] = {name = "Maw Walk", additional_info = "{Instant} {1 sec cooldown}\n[q]Return to where you started."}
 MultiLanguageSpellData['en'][470296] = {name = "Double Strike", additional_info = "Melee Range\n1 sec cast\n[q]Strikes the enemy twice inflicting Physical damage."}
 MultiLanguageSpellData['en'][470298] = {name = "Unstable Prototype", additional_info = nil}
 MultiLanguageSpellData['en'][470301] = {name = "Fiery Wave", additional_info = "Unlimited range\nInstant\n[q]A fiery heat wave formed by Flarendo's spontaneous combustion engine. inflicts 5031052 Fire damage to players it contacts."}
@@ -3342,9 +3396,13 @@ MultiLanguageSpellData['en'][470321] = {name = "Forced Evulsion", additional_inf
 MultiLanguageSpellData['en'][470322] = {name = "Unsolved Amethyst Runelock", additional_info = "Instant\n[q]Play an arcane puzzle."}
 MultiLanguageSpellData['en'][470323] = {name = "Back Off", additional_info = "10 yd range\nInstant\n[q]Knocks the target back and stuns them for until canceled."}
 MultiLanguageSpellData['en'][470324] = {name = "Unstable Prototype", additional_info = "Unlimited range\nInstant\n[q]Sly tosses untested explosives at players that inflict 4 Fire damage every 1 sec to their holder and nearby players.\n\n The Unstable Prototype may have unexpected effects when combined with Goblin Weaponry."}
+MultiLanguageSpellData['en'][470325] = {name = "Soothing", additional_info = nil}
+MultiLanguageSpellData['en'][470327] = {name = "Soothing", additional_info = nil}
 MultiLanguageSpellData['en'][470328] = {name = "Fade Out", additional_info = "Instant\n[q]Turns the caster invisible."}
 MultiLanguageSpellData['en'][470329] = {name = "Unstable Prototype", additional_info = nil}
 MultiLanguageSpellData['en'][470330] = {name = "Explosive Demise", additional_info = "3 sec cast\n[q]Upon dying, casts Explosive Demise , inflicting 1463 Fire damage to all players."}
+MultiLanguageSpellData['en'][470331] = {name = "Soothing", additional_info = nil}
+MultiLanguageSpellData['en'][470332] = {name = "Soothing", additional_info = nil}
 MultiLanguageSpellData['en'][470333] = {name = "Back Off", additional_info = "100 yd range\nInstant\n[q]Knocks the target back and stuns them for until canceled."}
 MultiLanguageSpellData['en'][470334] = {name = "Petting", additional_info = "3 yd range\n4 sec cast\n[q]Pet a cute creature!"}
 MultiLanguageSpellData['en'][470335] = {name = "Frenzied Burrow", additional_info = "5 - 60 yd range\n{1.5 sec cast} {8 sec cooldown}\n[q]Burrows rapidly towards an enemy, dealing 10 damage and knocking back enemies 5 yards from impact."}
@@ -3453,6 +3511,7 @@ MultiLanguageSpellData['en'][470501] = {name = "Kill", additional_info = nil}
 MultiLanguageSpellData['en'][470502] = {name = "Dispense Bomblets", additional_info = "Unlimited range\nInstant\n[q]The caster spins wildly for 6 sec, dispensing a salvo of bomblets that inflict 2096272 Fire damage to players within 4 yards of impact."}
 MultiLanguageSpellData['en'][470503] = {name = "Queensbane", additional_info = "Unlimited range\nInstant\n[q]A dark venom fit for royalty. Inflicts 863447 Shadow damage every 1 sec for 9 sec . This effect stacks.\n\n Upon expiration, the void infection bursts inflicting 1726895 Shadow damage."}
 MultiLanguageSpellData['en'][470504] = {name = "Dispense Bomblets", additional_info = "Unlimited range\nInstant\n[q]The caster spins wildly for 6 sec, dispensing a salvo of bomblets that inflict 2096272 Fire damage to players within 4 yards of impact."}
+MultiLanguageSpellData['en'][470511] = {name = "Resplendent Guardian", additional_info = "Instant\n[q]Arator the Redeemer watches your back while journeying through the Maw."}
 MultiLanguageSpellData['en'][470514] = {name = "Leave the Storm", additional_info = "3 sec cast\n[q]Retreat and wait for the storm to clear.\n\n Usable during a Seafury Tempest on Siren Isle."}
 MultiLanguageSpellData['en'][470515] = {name = "Web Grip", additional_info = "10 - 60 yd range\n{2 sec cast} {18 sec cooldown}\n[q]Pulls up to two enemies towards the caster using projectile webbing."}
 MultiLanguageSpellData['en'][470516] = {name = "Seafury Tempest", additional_info = nil}
@@ -3471,6 +3530,7 @@ MultiLanguageSpellData['en'][470529] = {name = "Defuse Bomb", additional_info = 
 MultiLanguageSpellData['en'][470530] = {name = "Leave the Storm", additional_info = "Instant\n[q]Retreat and wait for the storm to clear.\n\n Usable during a Seafury Tempest on Siren Isle."}
 MultiLanguageSpellData['en'][470532] = {name = "Arc Discharge", additional_info = "Instant\n[q]Tempest causes your next [ Elemental : 2 Chain Lightning or Lightning Bolt spells to be instant cast and deal 40% increased damage.\n\n Can accumulate up to 2 charges /\n\nEnhancement\nChain Lightning or Lightning Bolt to be instant cast, deal 40% increased damage, and cast an additional time.\n\n Can accumulate up to 2 charges ](400ms cooldown)"}
 MultiLanguageSpellData['en'][470533] = {name = "Suzie Boltwrench", additional_info = nil}
+MultiLanguageSpellData['en'][470534] = {name = "Flash of Light", additional_info = nil}
 MultiLanguageSpellData['en'][470536] = {name = "Despawn Summon", additional_info = nil}
 MultiLanguageSpellData['en'][470538] = {name = "Fade to White", additional_info = nil}
 MultiLanguageSpellData['en'][470540] = {name = "Twinleaf", additional_info = "[q]Nature's Swiftness now has 2 charges."}
@@ -3479,6 +3539,7 @@ MultiLanguageSpellData['en'][470542] = {name = "Crawler Mine", additional_info =
 MultiLanguageSpellData['en'][470543] = {name = "Crawler Mine", additional_info = "Instant\n[q]Deploy crawler mines to assist you.\n\n Usable during the Seafury Tempest on Siren Isle."}
 MultiLanguageSpellData['en'][470545] = {name = "Vanish", additional_info = nil}
 MultiLanguageSpellData['en'][470547] = {name = "Summon Crawler Mine", additional_info = nil}
+MultiLanguageSpellData['en'][470548] = {name = "Blessing of Protection", additional_info = nil}
 MultiLanguageSpellData['en'][470549] = {name = "Wildwood Roots", additional_info = "[q]Abundance now also reduces the cast time of Regrowth by 5% per stack.\n\n Cenarion Ward's cooldown is reduced by 10 sec and its duration is increased by 2 sec."}
 MultiLanguageSpellData['en'][470556] = {name = "Petrifying Cloud", additional_info = nil}
 MultiLanguageSpellData['en'][470558] = {name = "Summon Crawler Mine", additional_info = nil}
@@ -3488,6 +3549,7 @@ MultiLanguageSpellData['en'][470562] = {name = "Renewing Surge", additional_info
 MultiLanguageSpellData['en'][470563] = {name = "Web Grip", additional_info = "100 yd range\nInstant\n[q]Hit by projectile webbing, slowed by 50% and will be shortly pulled towards the caster."}
 MultiLanguageSpellData['en'][470564] = {name = "Command Mine", additional_info = "100 yd range\n{Instant} {6 sec cooldown}\n[q]Command a crawler mine to attack your current target."}
 MultiLanguageSpellData['en'][470565] = {name = "Web Grip", additional_info = nil}
+MultiLanguageSpellData['en'][470566] = {name = "Blessing of Freedom", additional_info = nil}
 MultiLanguageSpellData['en'][470567] = {name = "Web Grip", additional_info = nil}
 MultiLanguageSpellData['en'][470569] = {name = "Web Grip", additional_info = nil}
 MultiLanguageSpellData['en'][470576] = {name = "Web Grip", additional_info = nil}
@@ -3588,11 +3650,14 @@ MultiLanguageSpellData['en'][470684] = {name = "Greasefire Blast", additional_in
 MultiLanguageSpellData['en'][470686] = {name = "Mech-a-Zoomies", additional_info = "2 sec cast\n[q]The caster zooms towards a nearby player every 3 sec for 8 sec, applying Mech-a-Zoomies to players the caster passes through."}
 MultiLanguageSpellData['en'][470687] = {name = "Mine Blast", additional_info = "Instant\n[q]Crawls toward a player and detonates when nearby, inflicting 58 Fire damage on impact and 4 Fire damage every 2 sec for 4 sec."}
 MultiLanguageSpellData['en'][470688] = {name = "Ping", additional_info = nil}
+MultiLanguageSpellData['en'][470689] = {name = "Summon Bound Voidminion", additional_info = "Instant\n[q]Summons a Bound Voidminion to accompany the caster until dismissed."}
 MultiLanguageSpellData['en'][470691] = {name = "Mech-a-Zoomies", additional_info = "Instant\n[q]The caster zooms towards a nearby player every 3 sec for 8 sec, applying Mech-a-Zoomies to players the caster passes through."}
 MultiLanguageSpellData['en'][470693] = {name = "Mech-a-Zoomies", additional_info = "Unlimited range\nInstant\n[q]The caster zooms towards a nearby player every 3 sec for 8 sec, applying Mech-a-Zoomies to players the caster passes through."}
 MultiLanguageSpellData['en'][470694] = {name = "Hijacking", additional_info = nil}
 MultiLanguageSpellData['en'][470695] = {name = "Mech-a-Zoomies", additional_info = "Unlimited range\nInstant\n[q]The caster zooms towards a nearby player every 3 sec for 8 sec, applying Mech-a-Zoomies to players the caster passes through."}
 MultiLanguageSpellData['en'][470696] = {name = "Jab", additional_info = "1.5 sec cast\n[q]Your Tiger Palm visual is altered to use your weapon when striking."}
+MultiLanguageSpellData['en'][470697] = {name = "Void Incursion", additional_info = nil}
+MultiLanguageSpellData['en'][470698] = {name = "Void Trap", additional_info = nil}
 MultiLanguageSpellData['en'][470700] = {name = "Zap", additional_info = "20 yd range\n1.5 sec cast\n[q]Inflicts Nature damage to an enemy."}
 MultiLanguageSpellData['en'][470701] = {name = "Shrieking Decibels", additional_info = "50 yd range\nInstant\n[q]The Wonder Ball emits Shrieking Decibels , inflicting 7 Physical damage every 1 sec to players."}
 MultiLanguageSpellData['en'][470702] = {name = "Catching", additional_info = "100 yd range\nInstant\n[q]Grab that raccoon!"}
@@ -3761,7 +3826,9 @@ MultiLanguageSpellData['en'][470942] = {name = "Maniacal Melodies", additional_i
 MultiLanguageSpellData['en'][470943] = {name = "Feathered Frenzy", additional_info = "[q]Trueshot sends your Spotting Eagle into a frenzy, instantly applying Spotter's Mark to your target.\n\n During Trueshot, your chance to apply Spotter's Mark is increased by 100%."}
 MultiLanguageSpellData['en'][470945] = {name = "Aspect of the Hydra", additional_info = "[q]Aimed Shot, Rapid Fire, and Arcane Shot now hit 1 additional target for 60% of their damage."}
 MultiLanguageSpellData['en'][470946] = {name = "Hand Over Gallagio Deed", additional_info = nil}
+MultiLanguageSpellData['en'][470947] = {name = "Grappling", additional_info = nil}
 MultiLanguageSpellData['en'][470948] = {name = "Intangible Presence", additional_info = "2 sec cast\n[q]The caster shifts into the shadows for 10 sec, decreasing Physical damage taken by 30% and increasing Arcane damage done by 15%."}
+MultiLanguageSpellData['en'][470949] = {name = "Grappling", additional_info = nil}
 MultiLanguageSpellData['en'][470950] = {name = "<DNT> Daily Credit", additional_info = nil}
 MultiLanguageSpellData['en'][470953] = {name = "Explosive Shell", additional_info = "Instant\n[q]The caster's makeshift home explodes on death, inflicting Fire damage to players within 3 yards."}
 MultiLanguageSpellData['en'][470954] = {name = "Explosive Shell", additional_info = "Instant\n[q]The caster's makeshift home explodes on death, inflicting Fire damage to players within 3 yards."}
@@ -3809,10 +3876,15 @@ MultiLanguageSpellData['en'][471031] = {name = "Stormfury Cloud", additional_inf
 MultiLanguageSpellData['en'][471034] = {name = "Cleanse Mementos", additional_info = nil}
 MultiLanguageSpellData['en'][471039] = {name = "Ride to Court", additional_info = nil}
 MultiLanguageSpellData['en'][471049] = {name = "Notarizing Deed", additional_info = nil}
+MultiLanguageSpellData['en'][471053] = {name = "Following the Song", additional_info = "Instant\n[q]Listen intently for the distant melody."}
+MultiLanguageSpellData['en'][471054] = {name = "Following the Song", additional_info = "Instant\n[q]Listen intently for the distant melody."}
 MultiLanguageSpellData['en'][471055] = {name = "Head Honcho", additional_info = nil}
 MultiLanguageSpellData['en'][471057] = {name = "Flarendo's Pilot Light", additional_info = nil}
 MultiLanguageSpellData['en'][471058] = {name = "Geargrinder's Remote", additional_info = nil}
 MultiLanguageSpellData['en'][471059] = {name = "Geargrinder's Remote", additional_info = "{Instant} {2 min cooldown}\n[q]Launch a Geargrinder trike to its final blaze of glory, exploding upon impacting the first enemy in its path to deal ( 1 * 5167 ) Fire damage split between all nearby enemies."}
+MultiLanguageSpellData['en'][471060] = {name = "K'areshi Gateway", additional_info = nil}
+MultiLanguageSpellData['en'][471061] = {name = "K'areshi Gateway", additional_info = "{3 sec cast} {1 sec cooldown}\n[q]Return to where you started."}
+MultiLanguageSpellData['en'][471062] = {name = "K'areshi Gateway", additional_info = "1.5 sec cast\n[q]Return to where you started in Tazavesh on K'aresh."}
 MultiLanguageSpellData['en'][471063] = {name = "Best-in-Slots", additional_info = "Approximately 3 procs per minute\n[q]Your spells and abilities have a chance to grant you [ 157 * (0.9)] to [ 157 * (1.1)] of a random secondary stat for 15 sec."}
 MultiLanguageSpellData['en'][471066] = {name = "Traditional Ascendance", additional_info = "1.5 sec cast\n[q]Your Ascendance transformations embody their traditional forms."}
 MultiLanguageSpellData['en'][471067] = {name = "Glyph of Traditional Ascendance", additional_info = "[q]Your Ascendance transformations embody their traditional forms."}
@@ -3822,6 +3894,7 @@ MultiLanguageSpellData['en'][471072] = {name = "Boom Dogs", additional_info = "U
 MultiLanguageSpellData['en'][471074] = {name = "Air Dash", additional_info = nil}
 MultiLanguageSpellData['en'][471076] = {name = "Chomp", additional_info = "10 yd range\n1.5 sec cast\n[q]Inflicts Physical damage to an enemy.\n Inflicts Physical damage to an enemy every 1 sec for 9 sec."}
 MultiLanguageSpellData['en'][471078] = {name = "Recall", additional_info = "100 yd range\nInstant\n[q]You may reactivate [ Dream Flight : Dream Flight and ] [ Breath of Eons / Deep Breath ] within 3 sec after landing to travel back in time to your takeoff location."}
+MultiLanguageSpellData['en'][471079] = {name = "Alleria's Void Hunter Trap", additional_info = nil}
 MultiLanguageSpellData['en'][471081] = {name = "Defunct Warble", additional_info = nil}
 MultiLanguageSpellData['en'][471082] = {name = "Defunct Warble", additional_info = nil}
 MultiLanguageSpellData['en'][471086] = {name = "Entranced", additional_info = nil}
@@ -3862,6 +3935,7 @@ MultiLanguageSpellData['en'][471139] = {name = "Barrel Toss", additional_info = 
 MultiLanguageSpellData['en'][471140] = {name = "pscar test trinket 2", additional_info = "{Instant} {5 sec cooldown}\n[q]Command the Medichopper to link to an ally, providing its benefits to them instead."}
 MultiLanguageSpellData['en'][471141] = {name = "Barrel Toss", additional_info = nil}
 MultiLanguageSpellData['en'][471142] = {name = "Flarendo's Pilot Light", additional_info = "{Instant} {2 min cooldown}\n[q]Reignite the pilot light to gain 82 Intellect for 15 sec. After casting 3 harmful spells, it unleashes a beam dealing ( 10779 * 1 ) Fire damage to your primary target and ( 10779 * 8 / 100 * 1 ) damage to up to 5 enemies in its path."}
+MultiLanguageSpellData['en'][471143] = {name = "Shroud of Concealment", additional_info = "100 yd range\nInstant\n[q]Extend a cloak that shrouds allies within 15 yards in shadows, providing stealth."}
 MultiLanguageSpellData['en'][471157] = {name = "Erasing", additional_info = nil}
 MultiLanguageSpellData['en'][471159] = {name = "Soul-Sick", additional_info = nil}
 MultiLanguageSpellData['en'][471160] = {name = "Unlocking", additional_info = nil}
@@ -3929,6 +4003,7 @@ MultiLanguageSpellData['en'][471257] = {name = "Heads-Up Shot", additional_info 
 MultiLanguageSpellData['en'][471258] = {name = "Infused Bolt", additional_info = "60 yd range\n4 sec cast\n[q]A powerful bolt of lightning inflicts 28 Nature damage to the target."}
 MultiLanguageSpellData['en'][471259] = {name = "Malfunctioning", additional_info = nil}
 MultiLanguageSpellData['en'][471260] = {name = "Harvest Scrap", additional_info = nil}
+MultiLanguageSpellData['en'][471262] = {name = "Void Anti-Air", additional_info = nil}
 MultiLanguageSpellData['en'][471265] = {name = "Knocked Down", additional_info = nil}
 MultiLanguageSpellData['en'][471266] = {name = "Shadow Word: Anxiety", additional_info = "Unlimited range\nInstant\n[q]High Interrogator Gerstahn conjures orbs of pure dread that begin to cast Dread Crescendo.\n\nDread Crescendo :\nManifested Dread inflicts Shadow damage equal to its remaining health to all players, split evenly."}
 MultiLanguageSpellData['en'][471267] = {name = "Teleport", additional_info = nil}
@@ -4057,6 +4132,7 @@ MultiLanguageSpellData['en'][471465] = {name = "Deploy Mole Machine", additional
 MultiLanguageSpellData['en'][471467] = {name = "Ankle Snapper", additional_info = "45 yd range\n2.5 sec cast\n[q]The caster hurls traps at random locations. If players run over a trap it inflicts 586956 Physical damage every 1 sec and roots them for 4 sec."}
 MultiLanguageSpellData['en'][471468] = {name = "Eject!", additional_info = "Instant\n[q]Leave the G-99 Breakneck."}
 MultiLanguageSpellData['en'][471470] = {name = "Ankle Snapper", additional_info = nil}
+MultiLanguageSpellData['en'][471474] = {name = "Following the Song", additional_info = "Instant\n[q]Listen intently for the distant melody."}
 MultiLanguageSpellData['en'][471477] = {name = "Ankle Snapper", additional_info = "300 yd range\nInstant\n[q]The caster hurls traps at random locations. If players run over a trap it inflicts 586956 Physical damage every 1 sec and roots them for 4 sec."}
 MultiLanguageSpellData['en'][471479] = {name = "Sparklesnap", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][471483] = {name = "Thunder Clap", additional_info = "60 yd range\n3 sec cast\n[q]The caster calls a bolt of lightning to strike a nearby enemy which inflicts 13 Nature damage and Stuns them for 5 sec."}
@@ -4156,7 +4232,7 @@ MultiLanguageSpellData['en'][471652] = {name = "Broadcast Orders", additional_in
 MultiLanguageSpellData['en'][471653] = {name = "Knockout", additional_info = nil}
 MultiLanguageSpellData['en'][471654] = {name = "Climbing Power", additional_info = nil}
 MultiLanguageSpellData['en'][471655] = {name = "Launch Lich King", additional_info = nil}
-MultiLanguageSpellData['en'][471656] = {name = "Launch Lich King", additional_info = "Instant\n[q]You have progress in another Lorewalking Campaign or a quest in your Quest Log that is included in this Lorewalking Campaign.\n\n Continuing will reset or abandon them.\n\n Do you wish to proceed?"}
+MultiLanguageSpellData['en'][471656] = {name = "Launch Lich King", additional_info = "Instant\n[q]You have progress in another Lorewalking or Catch Up Campaign or a quest in your Quest Log that is included in this Lorewalking or Catch Up Campaign.\n\n Continuing will reset or abandon them.\n\n Do you wish to proceed?"}
 MultiLanguageSpellData['en'][471657] = {name = "Launch Lich King", additional_info = nil}
 MultiLanguageSpellData['en'][471658] = {name = "Launch Lich King", additional_info = nil}
 MultiLanguageSpellData['en'][471659] = {name = "Broadcast Orders", additional_info = "Instant\n[q]Big M.O.M.M.A. communicates with the drone network."}
@@ -4169,6 +4245,7 @@ MultiLanguageSpellData['en'][471669] = {name = "Slimy Membrane", additional_info
 MultiLanguageSpellData['en'][471671] = {name = "Crimson Grenade", additional_info = "100 yd range\n2 sec cast\n[q]The caster hurls a canister of Black Blood, inflicting Shadow damage to its target."}
 MultiLanguageSpellData['en'][471672] = {name = "Swift as the Night", additional_info = "100 yd range\nInstant\n[q]Muster the strength of N'Zoth to increase your movement speed."}
 MultiLanguageSpellData['en'][471676] = {name = "Depth's Grasp Immunity", additional_info = nil}
+MultiLanguageSpellData['en'][471679] = {name = "Ve'nari's Portation Tag", additional_info = "Instant\n[q]Place Ve'nari's Portation Tag on Shadowlord Vesheen, teleporting him into Alleria's cage back at Shan'dorah."}
 MultiLanguageSpellData['en'][471680] = {name = "Celestial Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][471681] = {name = "Strength of the Deep", additional_info = "100 yd range\n{Channeled (5 sec cast)} {8 sec cooldown}\n[q]Gather strength of darkness to heal yourself."}
 MultiLanguageSpellData['en'][471682] = {name = "Celestial Barrage", additional_info = nil}
@@ -4445,7 +4522,10 @@ MultiLanguageSpellData['en'][471992] = {name = "Traveling Flames", additional_in
 MultiLanguageSpellData['en'][471993] = {name = "Bear Summon", additional_info = nil}
 MultiLanguageSpellData['en'][471994] = {name = "RP Scene 0009 Convo", additional_info = nil}
 MultiLanguageSpellData['en'][471996] = {name = "Gold Tooth Bite", additional_info = "Melee Range\n2.5 sec cast\n[q]A powerful bite inflicts 67 Physical damage to an enemy."}
+MultiLanguageSpellData['en'][471997] = {name = "Light and Shadow", additional_info = "Instant\n[q]Arator and Sylvanas are close at hand, lending their aid in times of need."}
+MultiLanguageSpellData['en'][471998] = {name = "Light and Shadow", additional_info = "30 yd range\n{Instant} {16 sec cooldown}\n[q]Signal Arator and Sylvanas to strike.\n Stuns an enemy, rendering it unable to move or attack for 6 sec.\n Causes an enemy to take 20% increased damage for 12 sec."}
 MultiLanguageSpellData['en'][471999] = {name = "Rend Flesh", additional_info = "100 yd range\nInstant\n[q]While in combat, every 30 sec your next Kill Command summons the aid of a Beast.\n\n Wyvern\n A Wyvern descends from the skies, letting out a battle cry that increases the damage of you and your pets by 10% for 15 sec.\n\n Boar\n A Boar charges through your target 3 times, dealing (400% of Attack Power) physical damage to the primary target and (160% of Attack Power) damage to up to 8 nearby enemies.\n\n Bear\n A Bear leaps into the fray, rending the flesh of your enemies, dealing (400% of Attack Power) damage over 10 sec to up to 8 nearby enemies."}
+MultiLanguageSpellData['en'][472000] = {name = "Light and Shadow", additional_info = "20 yd range\nInstant\n[q]Causes an enemy to take 20% increased Physical damage for 12 sec."}
 MultiLanguageSpellData['en'][472002] = {name = "Call Web Terror", additional_info = nil}
 MultiLanguageSpellData['en'][472003] = {name = "Global - Replace Stand With ReadyUnarmed (Spawn)", additional_info = nil}
 MultiLanguageSpellData['en'][472004] = {name = "Global - Replace Stand With Ready2H (Spawn)", additional_info = nil}
@@ -4570,6 +4650,7 @@ MultiLanguageSpellData['en'][472182] = {name = "Spin To Win!", additional_info =
 MultiLanguageSpellData['en'][472183] = {name = "Blood-B-Gone", additional_info = "100 yd range\nInstant\n[q]Explode in violent reaction to the anticoagulants."}
 MultiLanguageSpellData['en'][472184] = {name = "Miniature", additional_info = "Instant\n[q]Reduces your size by 20%, and increases your Speed by 46 and Haste by 305 ."}
 MultiLanguageSpellData['en'][472185] = {name = "Massive", additional_info = "Instant\n[q]Increases your size by 20%, maximum health by 1235 , and Primary Stat by 72 ."}
+MultiLanguageSpellData['en'][472192] = {name = "Breaking Vesheen's Will", additional_info = nil}
 MultiLanguageSpellData['en'][472193] = {name = "Blood-B-Gone", additional_info = nil}
 MultiLanguageSpellData['en'][472194] = {name = "Spotty", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][472195] = {name = "Amorphous Relic", additional_info = "Instant\n[q]Upon entering combat, and every 60 seconds, players gain either Massive or Miniature for 30 sec.\n\nMiniature\nReduces your size by 20%, and increases your Speed by 46 and Haste by 305 .\n\nMassive\nIncreases your size by 20%, maximum health by 1235 , and Primary Stat by 72 ."}
@@ -4606,24 +4687,29 @@ MultiLanguageSpellData['en'][472235] = {name = "Dark Prayer", additional_info = 
 MultiLanguageSpellData['en'][472237] = {name = "Blastburn Roarcannon", additional_info = "300 yd range\nChanneled (3 sec cast)\n[q]Flarendo tracks a target while charging, then locks in place and prepares to fire. Once ready, it fires a beam over the next 3 sec. The beam inflicts 66606435 Fire damage every 0.1 sec to players on contact, obliterating them."}
 MultiLanguageSpellData['en'][472238] = {name = "Clear Sight", additional_info = "Instant\n[q]In Horrific Visions, able to see and loot treasure chests in Tainted areas."}
 MultiLanguageSpellData['en'][472239] = {name = "Cannon Blast", additional_info = nil}
+MultiLanguageSpellData['en'][472240] = {name = "Empowering Alleria", additional_info = "10 yd range\nChanneled (0 sec cast)\n[q]Bolster Alleria's power with your own."}
 MultiLanguageSpellData['en'][472241] = {name = "Elite Extermination", additional_info = "Instant\n[q]In Horrific Visions, defeating an Elite enemy restores 50 Sanity."}
 MultiLanguageSpellData['en'][472242] = {name = "Blastburn Roarcannon", additional_info = "Unlimited range\nInstant\n[q]Flarendo tracks a target while charging, then locks in place and prepares to fire. Once ready, it fires a beam over the next 3 sec. The beam inflicts 66606435 Fire damage every 0.1 sec to players on contact, obliterating them."}
 MultiLanguageSpellData['en'][472244] = {name = "Cannon Blast", additional_info = "100 yd range\nInstant\n[q]A fiery blast from the cannon inflicts 0 Fire damage to targets struck."}
 MultiLanguageSpellData['en'][472246] = {name = "Clear Sight", additional_info = "Instant\n[q]In Horrific Visions, able to see and loot treasure chests in Tainted and Corrupted areas."}
 MultiLanguageSpellData['en'][472247] = {name = "Activating", additional_info = nil}
 MultiLanguageSpellData['en'][472248] = {name = "Clear Sight", additional_info = "Instant\n[q]In Horrific Visions, able to see and loot treasure chests in Tainted, Corrupted, and Lost areas."}
+MultiLanguageSpellData['en'][472250] = {name = "Empower Alleria", additional_info = nil}
 MultiLanguageSpellData['en'][472251] = {name = "Pollutants Quarantined", additional_info = nil}
 MultiLanguageSpellData['en'][472252] = {name = "Pollutants Quarantined", additional_info = nil}
 MultiLanguageSpellData['en'][472253] = {name = "Lunar Launcher", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"It's always a festival when you are on the Lunar Launcher.\"\nVendor:\nLunar Festival"}
+MultiLanguageSpellData['en'][472255] = {name = "add decor item test", additional_info = nil}
 MultiLanguageSpellData['en'][472259] = {name = "Path of the Chosen", additional_info = "Instant\n[q]Return to Xithixxin in front of the keep."}
 MultiLanguageSpellData['en'][472260] = {name = "Goldmine's Repaired Fire Totem", additional_info = "60 yd range\n{0.5 sec cast} {6 sec cooldown}\n[q]Throw Goldmine's Repaired Fire Totem at an enemy to summon Magmatooth."}
 MultiLanguageSpellData['en'][472261] = {name = "Experimental Destabilization", additional_info = "Instant\n[q]In Horrific Visions, while above 50% Sanity, your damage done is increased by 4%.\n\n While below 50% Sanity, your damage taken is reduced by 4%."}
+MultiLanguageSpellData['en'][472262] = {name = "Survive Void Storm!", additional_info = nil}
 MultiLanguageSpellData['en'][472263] = {name = "Experimental Destabilization", additional_info = "Instant\n[q]In Horrific Visions, while above 50% Sanity, your damage done is increased by 8%.\n\n While below 50% Sanity, your damage taken is reduced by 8%."}
 MultiLanguageSpellData['en'][472264] = {name = "Experimental Destabilization", additional_info = "Instant\n[q]In Horrific Visions, while above 50% Sanity, your damage done is increased by 12%.\n\n While below 50% Sanity, your damage taken is reduced by 12%."}
 MultiLanguageSpellData['en'][472265] = {name = "Vision Hunter", additional_info = "Instant\n[q]In Horrific Visions, killing an enemy grants 1% increased movement speed and haste for 60 sec. Stacks up to 5."}
 MultiLanguageSpellData['en'][472266] = {name = "Vision Hunter", additional_info = "Instant\n[q]In Horrific Visions, killing an enemy grants 2% increased movement speed and haste for 60 sec. Stacks up to 5."}
 MultiLanguageSpellData['en'][472267] = {name = "Vision Hunter", additional_info = "Instant\n[q]In Horrific Visions, killing an enemy grants 3% increased movement speed and haste for 60 sec. Stacks up to 5."}
 MultiLanguageSpellData['en'][472270] = {name = "Gift of the Titans", additional_info = "[q]In Horrific Visions, defeating enemies has a chance to grant Gift of the Titans, increasing haste and movement speed by 60% and reducing Sanity loss from all sources by 100% for 20 sec."}
+MultiLanguageSpellData['en'][472271] = {name = "Void Strike", additional_info = "10 yd range\nInstant\n[q]Inflicts Shadow damage."}
 MultiLanguageSpellData['en'][472273] = {name = "Reinforce Armor", additional_info = "{2.3 sec cast} {5 sec cooldown}\n[q]The caster reinforces their armor, reducing damage taken by 20% for 8 sec."}
 MultiLanguageSpellData['en'][472275] = {name = "Carrying De-Pollutant", additional_info = "Instant\n[q]Carrying a handful of powdered de-pollutant, capable of destroying an Agitated Contaminant."}
 MultiLanguageSpellData['en'][472276] = {name = "Throw De-Pollutant", additional_info = "20 yd range\nInstant\n[q]Throw a handful of powdered de-pollutant at an Agitated Contaminant, destroying it."}
@@ -4652,6 +4738,7 @@ MultiLanguageSpellData['en'][472309] = {name = "Coin Icon", additional_info = ni
 MultiLanguageSpellData['en'][472310] = {name = "Bomb Icon", additional_info = nil}
 MultiLanguageSpellData['en'][472311] = {name = "Dauntless Departure", additional_info = nil}
 MultiLanguageSpellData['en'][472312] = {name = "Elemental Carnage", additional_info = nil}
+MultiLanguageSpellData['en'][472318] = {name = "Assist Arator", additional_info = nil}
 MultiLanguageSpellData['en'][472319] = {name = "11.0 Delves - Nerubian01 - Stuck Goblin Flailing (Hufton)", additional_info = nil}
 MultiLanguageSpellData['en'][472320] = {name = "Insanity", additional_info = "Instant\n[q]Driven to madness by the Old God presence."}
 MultiLanguageSpellData['en'][472321] = {name = "Veteran of Ironforge", additional_info = "[q]Brann wields a shield that wears out in battle, providing damage reduction per stack.\n\n As the shield gets damaged, Brann's survival instincts kick in, increasing his damage dealt, and when the shield gets worn-out, he switches to his trusty shotgun."}
@@ -4660,6 +4747,7 @@ MultiLanguageSpellData['en'][472324] = {name = "Howl of the Pack Leader", additi
 MultiLanguageSpellData['en'][472325] = {name = "Howl of the Pack Leader", additional_info = "Instant\n[q]While in combat, every 30 sec your next Kill Command summons the aid of a Beast.\n\n Wyvern\n A Wyvern descends from the skies, letting out a battle cry that increases the damage of you and your pets by 10% for 15 sec.\n\n Boar\n A Boar charges through your target 3 times, dealing (400% of Attack Power) physical damage to the primary target and (160% of Attack Power) damage to up to 8 nearby enemies.\n\n Bear\n A Bear leaps into the fray, rending the flesh of your enemies, dealing (400% of Attack Power) damage over 10 sec to up to 8 nearby enemies."}
 MultiLanguageSpellData['en'][472326] = {name = "Burning", additional_info = nil}
 MultiLanguageSpellData['en'][472327] = {name = "Vile Claws", additional_info = "8 yd range\n2 sec cast\n[q]Inflicts Nature damage to an enemy."}
+MultiLanguageSpellData['en'][472328] = {name = "Resisting Vesheen's Power", additional_info = nil}
 MultiLanguageSpellData['en'][472329] = {name = "Resentful Strike", additional_info = "8 yd range\n1.5 sec cast\n[q]Inflicts Physical damage to an enemy."}
 MultiLanguageSpellData['en'][472330] = {name = "Infectious Wound", additional_info = "10 yd range\n2 sec cast\n[q]Inflicts Nature damage to an enemy.\n Inflicts Nature damage to an enemy every 1.5 sec for 9 sec."}
 MultiLanguageSpellData['en'][472331] = {name = "Bomb", additional_info = "60 yd range\n2 sec cast\n[q]Bombs all enemies in a selected area, inflicting Fire damage."}
@@ -4669,6 +4757,7 @@ MultiLanguageSpellData['en'][472336] = {name = "Darktide Wavebender's Orb", addi
 MultiLanguageSpellData['en'][472337] = {name = "Darktide Wavebender's Orb", additional_info = "50 yd range\nInstant\n[q]Your ranged spells and abilities have a chance to launch a glob of water at an enemy dealing 259 Frost damage to them and 4 other enemies within 7 yd of them."}
 MultiLanguageSpellData['en'][472338] = {name = "Surveyed Ground", additional_info = "Unlimited range\nInstant\n[q]The caster focuses a superheated beam onto their target for 5 sec, inflicting 363667 Fire damage every 0.2 sec.\n\n The beam leaves behind a patch of lava that inflicts 1454670 Fire damage every 1 sec to players standing within."}
 MultiLanguageSpellData['en'][472339] = {name = "Unstable Crawler Mines", additional_info = nil}
+MultiLanguageSpellData['en'][472344] = {name = "Resisting Vesheen's Power", additional_info = nil}
 MultiLanguageSpellData['en'][472345] = {name = "Stomp!", additional_info = "10 yd range\nInstant\n[q]Stomp on the pollutant."}
 MultiLanguageSpellData['en'][472346] = {name = "Shock and Bomb", additional_info = nil}
 MultiLanguageSpellData['en'][472347] = {name = "Shock and Bomb", additional_info = nil}
@@ -4773,7 +4862,9 @@ MultiLanguageSpellData['en'][472478] = {name = "Ursine Fury", additional_info = 
 MultiLanguageSpellData['en'][472479] = {name = "Love Witch's Sweeper", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable magical broom! This mount changes depending on your Riding skill and location.\n[q]\"The original design of the feeling-fueled magic broom series \"Motion By Emotion\", this ride is sure to get you there in a swiffy!\"\nWorld Event:\nLove is in the Air\nDrop:\nApothecary Hummel"}
 MultiLanguageSpellData['en'][472480] = {name = "The Claw", additional_info = nil}
 MultiLanguageSpellData['en'][472481] = {name = "Kill-o-Block Barrier", additional_info = nil}
+MultiLanguageSpellData['en'][472482] = {name = "Activate Gateway", additional_info = nil}
 MultiLanguageSpellData['en'][472483] = {name = "DPS Modifiers", additional_info = nil}
+MultiLanguageSpellData['en'][472486] = {name = "Activating Gateway", additional_info = "15 sec cast\n[q]Activating the Maw Gateway."}
 MultiLanguageSpellData['en'][472487] = {name = "Silvermoon Sweeper", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable magical broom! This mount changes depending on your Riding skill and location.\n[q]\"The Silvermoon color scheme for the \"Motion By Emotion\" has been a success all across Azeroth.\"\nTrading Post"}
 MultiLanguageSpellData['en'][472488] = {name = "Twilight Witch's Sweeper", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable magical broom! This mount changes depending on your Riding skill and location.\n[q]\"A darker look for the \"Motion By Emotion\" magic broom series of mounts. Fans of this color know that it looks good regardless of the time of day.\"\nIn-Game Shop"}
 MultiLanguageSpellData['en'][472489] = {name = "Sky Witch's Sweeper", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable magical broom! This mount changes depending on your Riding skill and location.\n[q]\"The sky's the limit when you mount up on this \"Motion By Emotion\" magic broom model.\"\nIn-Game Shop"}
@@ -4824,6 +4915,7 @@ MultiLanguageSpellData['en'][472560] = {name = "Blade Dance", additional_info = 
 MultiLanguageSpellData['en'][472561] = {name = "Chaos Strike", additional_info = "{40 Energy} {Melee Range}\nInstant\n[q]Slice your target for [(69.432% of Attack Power) + (109.12% of Attack Power)] Chaos damage. Chaos Strike has a [Min(20, 100)]% chance to refund 20 Fury."}
 MultiLanguageSpellData['en'][472562] = {name = "Chaos Strike", additional_info = "15 yd range\nInstant\n[q]Slice your target for [(69.432% of Attack Power) + (109.12% of Attack Power)] Chaos damage. Chaos Strike has a [Min(20, 100)]% chance to refund 20 Fury."}
 MultiLanguageSpellData['en'][472563] = {name = "Chaos Strike", additional_info = "15 yd range\nInstant\n[q]Slice your target for [(69.432% of Attack Power) + (109.12% of Attack Power)] Chaos damage. Chaos Strike has a [Min(20, 100)]% chance to refund 20 Fury."}
+MultiLanguageSpellData['en'][472564] = {name = "Maw Gateway", additional_info = "1.5 sec cast\n[q]Travel to the Maw."}
 MultiLanguageSpellData['en'][472565] = {name = "Clearing Trash", additional_info = nil}
 MultiLanguageSpellData['en'][472566] = {name = "Pistol Shot", additional_info = "{5 Energy} {8 yd range}\n{Instant} {2 sec cooldown}\n[q]Brann pulls out his pistol and quickly shoots his enemy."}
 MultiLanguageSpellData['en'][472568] = {name = "Encroaching Shadows", additional_info = "[q]Shadow Word: Pain Spreads to [ Revel in Darkness : 2 nearby enemies / a nearby enemy] when you cast Penance on the target."}
@@ -5050,6 +5142,7 @@ MultiLanguageSpellData['en'][472929] = {name = "Earth Warden", additional_info =
 MultiLanguageSpellData['en'][472931] = {name = "Tier 11", additional_info = "Instant\n[q]Johnny Awesome has no right dragging Brann into this difficulty. Don't be like Johnny."}
 MultiLanguageSpellData['en'][472934] = {name = "Hunter - Pack Leader - Bear Summon - Dissolve", additional_info = nil}
 MultiLanguageSpellData['en'][472938] = {name = "Superheated Coil", additional_info = nil}
+MultiLanguageSpellData['en'][472940] = {name = "Maw Gateway", additional_info = "1.5 sec cast\n[q]Travel to the Maw."}
 MultiLanguageSpellData['en'][472941] = {name = "Corrupted", additional_info = "Instant\n[q]Driven to madness by the Black Blood corruption."}
 MultiLanguageSpellData['en'][472943] = {name = "Set Data", additional_info = nil}
 MultiLanguageSpellData['en'][472944] = {name = "Shock and Flame", additional_info = nil}
@@ -5530,8 +5623,13 @@ MultiLanguageSpellData['en'][473753] = {name = "Swift Kick", additional_info = "
 MultiLanguageSpellData['en'][473756] = {name = "Burning Out", additional_info = nil}
 MultiLanguageSpellData['en'][473757] = {name = "Burning Out", additional_info = "Instant\n[q]This guardian is rapidly running out of energy."}
 MultiLanguageSpellData['en'][473758] = {name = "Haunted", additional_info = "100 yd range\nInstant\n[q]Followed by lingering shadows that will occasionally chase you. Look at the shadows to stop them in their tracks!"}
+MultiLanguageSpellData['en'][473759] = {name = "Clear Lorewalking", additional_info = nil}
+MultiLanguageSpellData['en'][473760] = {name = "Launch Training", additional_info = nil}
+MultiLanguageSpellData['en'][473761] = {name = "Launch Training", additional_info = "Instant\n[q]You have progress in another Lorewalking or Catch Up Campaign or a quest in your Quest Log that is included in this Lorewalking or Catch Up Campaign.\n\n Continuing will reset or abandon them.\n\n Do you wish to proceed?"}
+MultiLanguageSpellData['en'][473762] = {name = "Launch Training", additional_info = nil}
 MultiLanguageSpellData['en'][473763] = {name = "Haunted", additional_info = "100 yd range\nInstant\n[q]Followed by lingering shadows that will occasionally chase you. Look at the shadows to stop them in their tracks!"}
 MultiLanguageSpellData['en'][473764] = {name = "Haunted", additional_info = "100 yd range\nInstant\n[q]Followed by lingering shadows that will occasionally chase you. Look at the shadows to stop them in their tracks!"}
+MultiLanguageSpellData['en'][473765] = {name = "Talk to Lorewalker Cho", additional_info = "Instant\n[q]Ask Lorewalker Cho a question, such as where to go next or for more information about the story."}
 MultiLanguageSpellData['en'][473767] = {name = "The Getaway - Denouement", additional_info = nil}
 MultiLanguageSpellData['en'][473768] = {name = "Kill Credit - Biome D-28", additional_info = nil}
 MultiLanguageSpellData['en'][473769] = {name = "Total Darkness", additional_info = nil}
@@ -5542,6 +5640,7 @@ MultiLanguageSpellData['en'][473777] = {name = "Cobalt Clockwork Attire", additi
 MultiLanguageSpellData['en'][473778] = {name = "Golden Clockwork Attire", additional_info = "Instant\n[q]Collect the appearances of the Golden Clockwork Attire armor set."}
 MultiLanguageSpellData['en'][473779] = {name = "Green Clockwork Attire", additional_info = "Instant\n[q]Collect the appearances of the Green Clockwork Attire armor set."}
 MultiLanguageSpellData['en'][473780] = {name = "Violet Clockwork Attire", additional_info = "Instant\n[q]Collect the appearances of the Violet Clockwork Attire armor set."}
+MultiLanguageSpellData['en'][473781] = {name = "Summon Cho", additional_info = nil}
 MultiLanguageSpellData['en'][473783] = {name = "Use Force - AIcast", additional_info = nil}
 MultiLanguageSpellData['en'][473785] = {name = "Rescued the Cat!", additional_info = "Instant\n[q]You rescued the cat from the trash."}
 MultiLanguageSpellData['en'][473790] = {name = "Hold Umbrella", additional_info = nil}
@@ -5682,6 +5781,7 @@ MultiLanguageSpellData['en'][474017] = {name = "Wild Lightning", additional_info
 MultiLanguageSpellData['en'][474018] = {name = "Wild Lightning", additional_info = "3 sec cast\n[q]Unleashes wild lightning toward players, inflicts 6788458 Nature damage to players within 5 yards of the impact location."}
 MultiLanguageSpellData['en'][474019] = {name = "Wild Lightning", additional_info = nil}
 MultiLanguageSpellData['en'][474020] = {name = "Complainer Container 9000", additional_info = "Instant\n[q]Grab a patented Complainer Container 9000, allowing you to safely and effectively deal with Shrunken Underminers."}
+MultiLanguageSpellData['en'][474022] = {name = "Clone Player Appearance", additional_info = nil}
 MultiLanguageSpellData['en'][474023] = {name = "Ultra-Pasteurized Flesh Substitute", additional_info = "Instant\n[q]Grab a barrel of Ultra-Pasteurized Flesh Substitute, allowing you to respectfully throw it at a goblin in a state of unseemly fleshlessness."}
 MultiLanguageSpellData['en'][474024] = {name = "Sit on Crate", additional_info = "150 yd range\nInstant\n[q]Take a seat on the supply crate."}
 MultiLanguageSpellData['en'][474025] = {name = "Arathi Crate", additional_info = "10 yd range\nInstant\n[q]Set up an Arathi Crate to sit on."}
@@ -6305,6 +6405,7 @@ MultiLanguageSpellData['en'][1213692] = {name = "Searing Slam", additional_info 
 MultiLanguageSpellData['en'][1213694] = {name = "Earthcrusher", additional_info = nil}
 MultiLanguageSpellData['en'][1213695] = {name = "Earthcrusher", additional_info = "100 yd range\nInstant\n[q]Inflicts 15 Physical damage to all players and causes earth to erupt in nearby locations, inflicting 30 Nature damage to players within 4 yards of impact."}
 MultiLanguageSpellData['en'][1213696] = {name = "Searing Slam", additional_info = "100 yd range\nInstant\n[q]The shredder smashes its current target, inflicting 7127324 Fire damage and knocking them back. In addition, the ground under the target will explode inflicting 6288815 Fire damage to all enemies within 12 yards."}
+MultiLanguageSpellData['en'][1213697] = {name = "Add Decor 404 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1213700] = {name = "Unanswered Call", additional_info = "5 sec cast\n[q]Reduces movement speed by 60%.\n Causes the caster to inflict 500% increased Physical damage."}
 MultiLanguageSpellData['en'][1213703] = {name = "Stealth Burst", additional_info = "Instant\n[q]Electricty bends the light around you, preventing enemies from detecting you for 10 sec."}
 MultiLanguageSpellData['en'][1213704] = {name = "Zeppelin Barrage", additional_info = "Unlimited range\nInstant\n[q]The zeppelin unleashes a salvo of blasts, each inflicting 25 Fire damage to players within 4 yards of impact."}
@@ -6385,6 +6486,7 @@ MultiLanguageSpellData['en'][1213872] = {name = "Poltergeist Chase", additional_
 MultiLanguageSpellData['en'][1213875] = {name = "Flamethrower", additional_info = "100 yd range\nInstant\n[q]The Underpin attempts to set his foes ablaze, inflicting 2 Fire damage every 0.5 sec to players within 15 yds in front of him."}
 MultiLanguageSpellData['en'][1213879] = {name = "Flamethrower", additional_info = "100 yd range\n2 sec cast\n[q]The Underpin attempts to set his foes ablaze, inflicting 2 Fire damage every 0.5 sec to players within 15 yds in front of him."}
 MultiLanguageSpellData['en'][1213883] = {name = "Distribute Mail", additional_info = "Instant\n[q]Throw mail into the portal device."}
+MultiLanguageSpellData['en'][1213885] = {name = "Burrowed", additional_info = nil}
 MultiLanguageSpellData['en'][1213890] = {name = "Hit and Run", additional_info = nil}
 MultiLanguageSpellData['en'][1213891] = {name = "Shutdown", additional_info = nil}
 MultiLanguageSpellData['en'][1213893] = {name = "Activate Mech", additional_info = nil}
@@ -6578,10 +6680,12 @@ MultiLanguageSpellData['en'][1214371] = {name = "Oozing Darkness", additional_in
 MultiLanguageSpellData['en'][1214372] = {name = "Oozing Darkness", additional_info = nil}
 MultiLanguageSpellData['en'][1214373] = {name = "Tainted Blood", additional_info = "50 yd range\n{2.5 sec cast} {2 sec cooldown}\n[q]The caster taints their target's blood, inflicting Shadow damage every 2 sec for 18 sec."}
 MultiLanguageSpellData['en'][1214374] = {name = "Phase Diving", additional_info = "Instant\n[q]Enter an ethereal state of energy."}
+MultiLanguageSpellData['en'][1214396] = {name = "Holding Chon's Brew", additional_info = nil}
 MultiLanguageSpellData['en'][1214401] = {name = "Oozing Darkness", additional_info = nil}
 MultiLanguageSpellData['en'][1214404] = {name = "Sanguine Regeneration", additional_info = "{3 sec cast} {3 sec cooldown}\n[q]The caster regenerates itself, healing for 20% of its max health."}
 MultiLanguageSpellData['en'][1214412] = {name = "Black Bloodwave", additional_info = nil}
 MultiLanguageSpellData['en'][1214415] = {name = "[q3]Essence of Life", additional_info = "[q0]Anima Power\n100 yd range\nInstant\n[q]Increases your maximum health by 50%."}
+MultiLanguageSpellData['en'][1214420] = {name = "Holding Chen's Brew", additional_info = nil}
 MultiLanguageSpellData['en'][1214431] = {name = "Repeatable Event - Dastardly Duos - First Run - Quest Credit", additional_info = nil}
 MultiLanguageSpellData['en'][1214433] = {name = "Setting dial", additional_info = nil}
 MultiLanguageSpellData['en'][1214434] = {name = "Kaja'Cola Carrier", additional_info = "100 yd range\nInstant\n[q]Mislaid Curiosities now have a 35% chance to contain 1 Kaja'Cola and once per delve Brann now summons a Kaja'6-Pack when creating campfires.\n\n There are various Kaja'Cola flavors, and each one has its own effect that applies when collected."}
@@ -6605,6 +6709,7 @@ MultiLanguageSpellData['en'][1214454] = {name = "Make it Rain!", additional_info
 MultiLanguageSpellData['en'][1214455] = {name = "Make it Rain!", additional_info = "100 yd range\nInstant\n[q]Craggle Fritzbrains loads his signature Black Blood Boomstick MK1 with profits, and fires them into the air, inflicting 697066 Shadow damage to players hit."}
 MultiLanguageSpellData['en'][1214457] = {name = "Make it Rain!", additional_info = "100 yd range\nInstant\n[q]Craggle Fritzbrains loads his signature Black Blood Boomstick MK1 with profits, and fires them into the air, inflicting 697066 Shadow damage to players hit."}
 MultiLanguageSpellData['en'][1214458] = {name = "Bloodtwist", additional_info = nil}
+MultiLanguageSpellData['en'][1214459] = {name = "Drinking", additional_info = nil}
 MultiLanguageSpellData['en'][1214460] = {name = "Kill Credit", additional_info = nil}
 MultiLanguageSpellData['en'][1214462] = {name = "Kill Credit", additional_info = nil}
 MultiLanguageSpellData['en'][1214464] = {name = "Trickshot", additional_info = "Unlimited range\nInstant\n[q]The sniper does a sick trickshot, inflicting 1939560 Shadow damage to the target. The black blood bullet ricochets to up to 4 nearby players."}
@@ -6631,7 +6736,14 @@ MultiLanguageSpellData['en'][1214505] = {name = "Gorecannon", additional_info = 
 MultiLanguageSpellData['en'][1214509] = {name = "Hurl Spear", additional_info = nil}
 MultiLanguageSpellData['en'][1214512] = {name = "Slow Fall", additional_info = "500 yd range\nInstant\n[q]Slow the target's fall speed."}
 MultiLanguageSpellData['en'][1214513] = {name = "Voltaic Image", additional_info = nil}
+MultiLanguageSpellData['en'][1214514] = {name = "Holding Chen's Brew", additional_info = nil}
+MultiLanguageSpellData['en'][1214515] = {name = "Holding Chen's Brew", additional_info = nil}
+MultiLanguageSpellData['en'][1214516] = {name = "Holding Chon's Brew", additional_info = nil}
+MultiLanguageSpellData['en'][1214517] = {name = "Holding Chon's Brew", additional_info = nil}
 MultiLanguageSpellData['en'][1214519] = {name = "Desk-in-a-Box", additional_info = "{Instant} {30 sec cooldown}\n[q]Catch up on the latest book you started the other day."}
+MultiLanguageSpellData['en'][1214520] = {name = "Drinking", additional_info = nil}
+MultiLanguageSpellData['en'][1214521] = {name = "Drinking", additional_info = nil}
+MultiLanguageSpellData['en'][1214522] = {name = "Drinking", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1214523] = {name = "Feasting Void", additional_info = "60 yd range\n2 sec cast\n[q]Void energy feasting on target players, inflicting 969780 Shadow damage every 1.5 sec for 18 sec and absorb 2905720 incoming healing."}
 MultiLanguageSpellData['en'][1214525] = {name = "Turn to Phase Energy", additional_info = "Melee Range\nInstant\n[q]Become Energy."}
 MultiLanguageSpellData['en'][1214526] = {name = "Turn to Phase Energy", additional_info = "100 yd range\nInstant\n[q]Become phase energy."}
@@ -6792,6 +6904,7 @@ MultiLanguageSpellData['en'][1214765] = {name = "Overloaded Rockets", additional
 MultiLanguageSpellData['en'][1214766] = {name = "Overloaded Rockets", additional_info = "Unlimited range\nInstant\n[q]The blast lights the good stuff attaching some OL rockets to unsuspecting fools for 6 sec .\n\n Upon removal these rockets blast out in indicated directions inflicting 2934780 Fire damage every second for 9 sec to impacted players, knocking them back."}
 MultiLanguageSpellData['en'][1214767] = {name = "Overloaded Rockets", additional_info = "Unlimited range\nInstant\n[q]The blast lights the good stuff attaching some OL rockets to unsuspecting fools for 6 sec .\n\n Upon removal these rockets blast out in indicated directions inflicting 2934780 Fire damage every second for 9 sec to impacted players, knocking them back."}
 MultiLanguageSpellData['en'][1214768] = {name = "Gallywix", additional_info = nil}
+MultiLanguageSpellData['en'][1214771] = {name = "Bite", additional_info = nil}
 MultiLanguageSpellData['en'][1214772] = {name = "Flag Quests", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1214776] = {name = "Iced Spritzer", additional_info = "30 yd range\n{3 sec cast} {3 sec cooldown}\n[q]Blasts an enemy with a jet of icy cold spritzer, inflicting 7 Frost damage every 1 sec and Stunning them for 3 sec."}
 MultiLanguageSpellData['en'][1214778] = {name = "Duelist Dash", additional_info = "30 yd range\n{2 sec cast} {5 sec cooldown}\n[q]Charges forward, inflicting 15 Physical damage at the target's location and 8 Physical damage to all players caught in the path."}
@@ -6840,7 +6953,7 @@ MultiLanguageSpellData['en'][1214842] = {name = "Filthy Pool", additional_info =
 MultiLanguageSpellData['en'][1214843] = {name = "Kill-o-Block Barrier", additional_info = nil}
 MultiLanguageSpellData['en'][1214845] = {name = "Filthy Pool", additional_info = "100 yd range\nInstant\n[q]Inflicts Shadow damage every 1 sec and reduces movement speed by 30% to players standing within"}
 MultiLanguageSpellData['en'][1214847] = {name = "Chillburst Toss", additional_info = "30 yd range\n{Instant} {5 sec cooldown}\n[q]Freeze the weakened pipeline in ice."}
-MultiLanguageSpellData['en'][1214848] = {name = "Winds of Mysterious Fortune", additional_info = "Instant\n[q]Experience gains increased by 20% for levels 10 through 80.\n\nDragonflight reputation gains increased by 200%.\n\n The War Within reputation gains increased by 100%.\n\n Quests and kills in the Dragon Isles and Khaz Algar on leveling characters have a chance to award Mysterious Satchels that can contain equipment, cosmetics, and combat and experience potions.[] [\n Eligible for the Daily Bonus ]"}
+MultiLanguageSpellData['en'][1214848] = {name = "Winds of Mysterious Fortune", additional_info = "Instant\n[q]Quests and kills on leveling characters have a chance to award Mysterious Satchels that can contain equipment, cosmetics, and combat and experience potions\nExperience gains increased by 20% for levels 10 through 80.\nReputation gains increased by 50%.\n [] [\n Eligible for the Daily Bonus ]"}
 MultiLanguageSpellData['en'][1214849] = {name = "Empty Nest", additional_info = "40 yd range\n{Instant} {1 min cooldown}\n[q]Beast Mastery, Survival\nInstructs your pet to protect a friendly target from critical strikes, making attacks against that target unable to be critical strikes, but 10% of all damage taken by that target is also taken by the pet. Lasts 12 sec.\n\nMarksmanship\nInstructs your pet to protect a friendly target from critical strikes, making attacks against that target unable to be critical strikes. Lasts 12 sec.\n\n While Roar of Sacrifice is active, your Spotting Eagle cannot apply Spotter's Mark."}
 MultiLanguageSpellData['en'][1214850] = {name = "Kill-o-Block Barrier", additional_info = nil}
 MultiLanguageSpellData['en'][1214852] = {name = "Three Dimensional Bioprinter", additional_info = "[q]Damaging an Elite creature below 40% health creates an imperfect copy of it at 50% power to fight by your side. Only 1 copy can exist at the same time.\n\n The device may malfunction creating imperfect copies of your companion."}
@@ -6897,6 +7010,8 @@ MultiLanguageSpellData['en'][1214943] = {name = "Dredgequake", additional_info =
 MultiLanguageSpellData['en'][1214945] = {name = "Blastmaster3000", additional_info = nil}
 MultiLanguageSpellData['en'][1214946] = {name = "Broodling of Sinestra", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable Broodling of Sinestra. This is a flying mount.\n[q]\"After the fall of the Bastion of Twilight, a few scattered twilight whelps escaped Vexiona's sway. Some of these whelps have allied with mortals and are willing to bear them as riders.\"\nVendor:\nKiatke\nZone:\nStormwind City\nZone:\nOrgrimmar\nCost:\n5000"}
 MultiLanguageSpellData['en'][1214952] = {name = "Dredgequake", additional_info = "100 yd range\nInstant\n[q]The caster drills into the ground continuously, inflicting Nature damage every 2 sec for 6 sec."}
+MultiLanguageSpellData['en'][1214953] = {name = "Decisive Punch", additional_info = "5 yd range\nInstant\n[q]A punch that means business!"}
+MultiLanguageSpellData['en'][1214954] = {name = "Decisive Sweep", additional_info = "15 yd range\nInstant\n[q]A leg sweep that means business!"}
 MultiLanguageSpellData['en'][1214967] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1214969] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1214972] = {name = "Reverse Engineered Goblin Death Bomb", additional_info = "Unlimited range\nInstant\n[q]When any player's health falls below 50% during combat, Brann throws a giant bomb that explodes on impact.\n\n The explosion knocks back and slows surrounding enemies by 45% for 5 sec and heals nearby party members for 35% of their maximum health. Can only occur every 1.5 min."}
@@ -7559,7 +7674,6 @@ MultiLanguageSpellData['en'][1216147] = {name = "Particularly Bright Idea", addi
 MultiLanguageSpellData['en'][1216148] = {name = "Ornaments of the Spring Butterfly", additional_info = "Instant\n[q]Collect the appearances of the Ornaments of the Spring Butterfly."}
 MultiLanguageSpellData['en'][1216150] = {name = "Ornaments of the Blood Monarch", additional_info = "Instant\n[q]Collect the appearances of the Ornaments of the Blood Monarch."}
 MultiLanguageSpellData['en'][1216151] = {name = "Deth Lazor'd", additional_info = nil}
-MultiLanguageSpellData['en'][1216152] = {name = "Ornaments of the Midnight Butterfly", additional_info = "Instant\n[q]Collect the appearances of the Ornaments of the Midnight Butterfly."}
 MultiLanguageSpellData['en'][1216153] = {name = "Steeled Mind", additional_info = nil}
 MultiLanguageSpellData['en'][1216154] = {name = "Blocker Aura", additional_info = nil}
 MultiLanguageSpellData['en'][1216155] = {name = "Teleport", additional_info = nil}
@@ -7713,7 +7827,7 @@ MultiLanguageSpellData['en'][1216476] = {name = "Necrotic Bolt", additional_info
 MultiLanguageSpellData['en'][1216491] = {name = "Electrocution Matrix", additional_info = "300 yd range\nInstant\n[q]Mug'Zee unleashes his Electrocution Matrix and divides the arena in two, instantly killing players who come into contact with it."}
 MultiLanguageSpellData['en'][1216495] = {name = "Electrocution Matrix", additional_info = "300 yd range\nInstant\n[q]Mug'Zee unleashes his Electrocution Matrix and divides the arena in two, instantly killing players who come into contact with it."}
 MultiLanguageSpellData['en'][1216496] = {name = "11.1 Delves - Goblin - NPCs Interact - Ad on Aura - Laugh and Beg (Hufton)", additional_info = nil}
-MultiLanguageSpellData['en'][1216497] = {name = "Lorewalking", additional_info = nil}
+MultiLanguageSpellData['en'][1216497] = {name = "Lorewalking", additional_info = "Instant\n[q]You are Lorewalking through this dungeon! Your speed and combat prowess have been greatly increased."}
 MultiLanguageSpellData['en'][1216498] = {name = "Cashout!", additional_info = "Instant\n[q]Your spells and abilities have a chance to activate a Winning Streak! , increasing the damage of your Rising Sun Kick and Spinning Crane Kick by 3%, stacking up to 10 times. Rising Sun Kick and Spinning Crane Kick have a 15% chance to remove Winning Streak!"}
 MultiLanguageSpellData['en'][1216503] = {name = "Mega Magnetize", additional_info = "Unlimited range\nInstant\n[q]The Invention pulls players towards itself for 6.5 sec. Upon contact with the magnet, players become stunned for 6 sec."}
 MultiLanguageSpellData['en'][1216504] = {name = "Mega Magnetize", additional_info = nil}
@@ -7789,6 +7903,7 @@ MultiLanguageSpellData['en'][1216632] = {name = "Chest Game", additional_info = 
 MultiLanguageSpellData['en'][1216634] = {name = "Fish Stix", additional_info = nil}
 MultiLanguageSpellData['en'][1216635] = {name = "Near the Fishes", additional_info = nil}
 MultiLanguageSpellData['en'][1216636] = {name = "<DNT> Arrow Renderer", additional_info = nil}
+MultiLanguageSpellData['en'][1216639] = {name = "Surge", additional_info = nil}
 MultiLanguageSpellData['en'][1216644] = {name = "Shahata's Spear", additional_info = "100 yd range\n{Instant} {1 sec cooldown}\n[q]Launch a projectile that deals high damage to the first enemy hit."}
 MultiLanguageSpellData['en'][1216645] = {name = "Shahata's Spear", additional_info = "Unlimited range\nInstant\n[q]Deals high damage to the first enemy hit."}
 MultiLanguageSpellData['en'][1216646] = {name = "Dominating Beats", additional_info = "Instant\n[q]Controlled by the rhythm, the victim continues to dance until they die."}
@@ -7828,6 +7943,7 @@ MultiLanguageSpellData['en'][1216697] = {name = "Portal: Gala of Gifts...?", add
 MultiLanguageSpellData['en'][1216698] = {name = "Snowglobe", additional_info = nil}
 MultiLanguageSpellData['en'][1216699] = {name = "Void Barrage", additional_info = "1.5 sec cast\n[q]The Invention launches a void projectile every 2.5 sec for 6 sec. Touching a projectile inflicts 6708070 Shadow damage and triggers a Voidsplash ."}
 MultiLanguageSpellData['en'][1216700] = {name = "Near the Fishes", additional_info = nil}
+MultiLanguageSpellData['en'][1216701] = {name = "Waterwalking", additional_info = nil}
 MultiLanguageSpellData['en'][1216702] = {name = "Void Barrage", additional_info = "Instant\n[q]The Invention launches a void projectile every 2.5 sec for 6 sec. Touching a projectile inflicts 6708070 Shadow damage and triggers a Voidsplash ."}
 MultiLanguageSpellData['en'][1216704] = {name = "Repeatable Event - Dastardly Duos - Glubtok Teleport (50% Health)", additional_info = nil}
 MultiLanguageSpellData['en'][1216705] = {name = "Void Barrage", additional_info = "Unlimited range\nInstant\n[q]The Invention launches a void projectile every 2.5 sec for 6 sec . Touching a projectile inflicts 6708070 Shadow damage and triggers a Voidsplash ."}
@@ -7853,7 +7969,9 @@ MultiLanguageSpellData['en'][1216746] = {name = "Landro's Loot Box Surprise", ad
 MultiLanguageSpellData['en'][1216747] = {name = "Death From Above", additional_info = "300 yd range\nInstant\n[q]The Gobfather spews a barrage of missiles from its rocket launchers, inflicting 1568398 Fire damage to players within 5 yards of each impact."}
 MultiLanguageSpellData['en'][1216748] = {name = "Death Spiral", additional_info = "200 yd range\nInstant\n[q]Kul'tharok attaches the phantasms to the arena and inflicts 4848899 Shadow damage every 1 sec to the player who touches the phantasm."}
 MultiLanguageSpellData['en'][1216749] = {name = "Burner Clock", additional_info = "{1.5 sec cast} {3 min cooldown}\n[q]Add 30 seconds back to the Dastardly Duos clock."}
+MultiLanguageSpellData['en'][1216757] = {name = "Hardened Skin", additional_info = nil}
 MultiLanguageSpellData['en'][1216761] = {name = "BIG Burner Clock", additional_info = "{1.5 sec cast} {3 min cooldown}\n[q]Add 60 seconds back to the Dastardly Duos clock."}
+MultiLanguageSpellData['en'][1216765] = {name = "Breath of Wind", additional_info = nil}
 MultiLanguageSpellData['en'][1216769] = {name = "Cooking", additional_info = "Channeled (0 sec cast)\n[q]Open the Classic Cooking menu."}
 MultiLanguageSpellData['en'][1216770] = {name = "Abyssal Volt", additional_info = nil}
 MultiLanguageSpellData['en'][1216771] = {name = "Slimediver Goggles", additional_info = "Instant\n[q]Wearing goggles."}
@@ -7938,6 +8056,7 @@ MultiLanguageSpellData['en'][1216921] = {name = "Ominous Oil Residue", additiona
 MultiLanguageSpellData['en'][1216922] = {name = "Ominous Oil Residue", additional_info = nil}
 MultiLanguageSpellData['en'][1216923] = {name = "Giga Boost", additional_info = nil}
 MultiLanguageSpellData['en'][1216927] = {name = "Khaz Algar Blacksmithing Specialization Reset", additional_info = nil}
+MultiLanguageSpellData['en'][1216931] = {name = "Add Decor 496 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1216934] = {name = "Nega-Polarization", additional_info = "Unlimited range\nInstant\n[q]Lockenstock infuses the target with a negative charge until the next cast of Polarization Generator .\n\n Contact with players afflicted with Posi-Polarization will trigger a Polarization Blast ."}
 MultiLanguageSpellData['en'][1216936] = {name = "Goblin Boss", additional_info = nil}
 MultiLanguageSpellData['en'][1216937] = {name = "Underpin's Grand Entrance", additional_info = "6 sec cast\n[q]Deals massive fire damage to all nearby units."}
@@ -7962,7 +8081,9 @@ MultiLanguageSpellData['en'][1216989] = {name = "Polarization Blast", additional
 MultiLanguageSpellData['en'][1216991] = {name = "Reveal the Unseen", additional_info = "Channeled (0 sec cast)\n[q]Revealing hidden foes."}
 MultiLanguageSpellData['en'][1216994] = {name = "Reveal the Unseen", additional_info = nil}
 MultiLanguageSpellData['en'][1216995] = {name = "Reveal the Unseen", additional_info = nil}
+MultiLanguageSpellData['en'][1216998] = {name = "Eat Banana", additional_info = nil}
 MultiLanguageSpellData['en'][1216999] = {name = "K'aresh Soul Shard", additional_info = nil}
+MultiLanguageSpellData['en'][1217000] = {name = "Eat Banana", additional_info = nil}
 MultiLanguageSpellData['en'][1217001] = {name = "Poison Spit", additional_info = "{60 Energy} {30 yd range}\n{1.5 sec cast} {1 sec cooldown}\n[q]Spits a glob of poison, inflicting Nature damage and applying a stack of Snapdragon Toxin to an enemy."}
 MultiLanguageSpellData['en'][1217003] = {name = "Winning Streak!", additional_info = "Instant\n[q]Your spells and abilities have a chance to activate a Winning Streak! increasing the damage of your Templar's Verdict and Divine Storm by 2% stacking up to 10 times. Spending Holy Power on damaging abilities has a 12% chance to remove Winning Streak!"}
 MultiLanguageSpellData['en'][1217009] = {name = "Khaz Algar Alchemy Specialization Reset", additional_info = nil}
@@ -8034,12 +8155,20 @@ MultiLanguageSpellData['en'][1217119] = {name = "Mass Teleport", additional_info
 MultiLanguageSpellData['en'][1217120] = {name = "Lingering Voltage", additional_info = "1000 yd range\nInstant\n[q]The amplifier loses power when activated by a player, inflicting 419254 Nature damage to them every 1 sec."}
 MultiLanguageSpellData['en'][1217122] = {name = "Lingering Voltage", additional_info = "100 yd range\nInstant\n[q]The amplifier loses power when activated by a player, inflicting 419254 Nature damage to them every 1 sec."}
 MultiLanguageSpellData['en'][1217126] = {name = "Lingering Voltage", additional_info = "200 yd range\nInstant\n[q]The amplifier loses power when activated by a player, inflicting 419254 Nature damage to them every 1 sec."}
+MultiLanguageSpellData['en'][1217131] = {name = "Updraft", additional_info = "Instant\n[q]Launch yourself into the sky."}
+MultiLanguageSpellData['en'][1217132] = {name = "Updraft", additional_info = nil}
+MultiLanguageSpellData['en'][1217135] = {name = "Buoyed", additional_info = nil}
+MultiLanguageSpellData['en'][1217136] = {name = "Wind Fall", additional_info = nil}
+MultiLanguageSpellData['en'][1217137] = {name = "Breath of Wind", additional_info = nil}
 MultiLanguageSpellData['en'][1217138] = {name = "Necrotic Bolt", additional_info = "65 yd range\n{3 sec cast} {2 sec cooldown}\n[q]Sathel blasts the target, inflicts 3636674 Shadow damage to the target and absorbs the next 1245308 healing received by the target."}
 MultiLanguageSpellData['en'][1217163] = {name = "Explorers' League Rope", additional_info = nil}
 MultiLanguageSpellData['en'][1217166] = {name = "Prized Legend's Pennant", additional_info = "Instant\n[q]Represent your seasonal achievement with a pennant."}
 MultiLanguageSpellData['en'][1217173] = {name = "Energy Gain", additional_info = nil}
 MultiLanguageSpellData['en'][1217175] = {name = "Display Color Override", additional_info = nil}
+MultiLanguageSpellData['en'][1217177] = {name = "Add Decor 495 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1217178] = {name = "Add Decor 497 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1217180] = {name = "High Winds", additional_info = "Instant\n[q]The winds of the Siren Isle make it untraversable with flight."}
+MultiLanguageSpellData['en'][1217181] = {name = "Sturdy Wooden Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1217184] = {name = "Chromebustible Bomb Suit", additional_info = "Instant\n[q]Rapidly deploy the bomb suit to reduce damage taken by 75% for 20 sec or until 33954 damage has been prevented.\n\n Upon depletion, the bomb suit detonates to deal 1727 Fire damage split between nearby enemies."}
 MultiLanguageSpellData['en'][1217190] = {name = "Rocket Eject", additional_info = nil}
 MultiLanguageSpellData['en'][1217192] = {name = "Blocker", additional_info = nil}
@@ -8048,11 +8177,18 @@ MultiLanguageSpellData['en'][1217195] = {name = "Explosive Suicide", additional_
 MultiLanguageSpellData['en'][1217196] = {name = "Blocker", additional_info = nil}
 MultiLanguageSpellData['en'][1217197] = {name = "Blocker", additional_info = nil}
 MultiLanguageSpellData['en'][1217199] = {name = "Nether Conduit", additional_info = "[q]Aethervision can now stack up to 4 times.\n\n Aethervision now grants 1 Arcane Charge per stack."}
+MultiLanguageSpellData['en'][1217209] = {name = "Springy Rolls", additional_info = nil}
+MultiLanguageSpellData['en'][1217212] = {name = "Hearty Baos", additional_info = nil}
+MultiLanguageSpellData['en'][1217213] = {name = "Sauced Crab", additional_info = nil}
 MultiLanguageSpellData['en'][1217214] = {name = "C.H.E.T.T. List", additional_info = "Instant\n[q]Open your C.H.E.T.T. List."}
 MultiLanguageSpellData['en'][1217215] = {name = "Normal Hat", additional_info = nil}
+MultiLanguageSpellData['en'][1217216] = {name = "Refreshment", additional_info = nil}
+MultiLanguageSpellData['en'][1217217] = {name = "Feasting", additional_info = "Instant\n[q]Restores ( 2250000 / 5 * 20) health and ( 750000 / 5 * 20) mana over 20 sec. Must remain seated while eating."}
 MultiLanguageSpellData['en'][1217218] = {name = "Kick Can", additional_info = nil}
+MultiLanguageSpellData['en'][1217219] = {name = "Well Feasted NOT USED", additional_info = "Instant\n[q]Increases primary stat by 0 for 30 min."}
 MultiLanguageSpellData['en'][1217220] = {name = "Necroray Lasso: Interaction Spell", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1217222] = {name = "Necroray Lasso: Area Trigger Dummy", additional_info = nil}
+MultiLanguageSpellData['en'][1217224] = {name = "Well Feasted", additional_info = "Instant\n[q]Well feasted from the Spirit Festival. Increases Primary Stat by 10% for 1 hour."}
 MultiLanguageSpellData['en'][1217225] = {name = "11.1 Renown - Delves - Purchaseable Rare Delve Key - 2", additional_info = nil}
 MultiLanguageSpellData['en'][1217226] = {name = "11.1 Renown - Delves - Purchaseable Rare Delve Key - 1", additional_info = nil}
 MultiLanguageSpellData['en'][1217227] = {name = "Brainstorm", additional_info = nil}
@@ -8277,6 +8413,7 @@ MultiLanguageSpellData['en'][1217674] = {name = "Propellant Blast", additional_i
 MultiLanguageSpellData['en'][1217675] = {name = "Gutstab", additional_info = "Melee Range\nInstant\n[q]Your abilities have a chance to call a member of the Goon Squad to attack your target for 10 sec. Gaining Bloodlust or a similar effect summons the whole crew."}
 MultiLanguageSpellData['en'][1217676] = {name = "Fan of Stabs", additional_info = "Melee Range\nInstant\n[q]Your abilities have a chance to call a member of the Goon Squad to attack your target for 10 sec. Gaining Bloodlust or a similar effect summons the whole crew."}
 MultiLanguageSpellData['en'][1217677] = {name = "Flesh Wound", additional_info = "8 yd range\n1.5 sec cast\n[q]The caster strikes their target grazing them lightly, inflicting Physical damage and causing them to bleed Physical damage every 1 sec for 8 sec."}
+MultiLanguageSpellData['en'][1217678] = {name = "Add Decor 378 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1217684] = {name = "Rolling Rubbish", additional_info = nil}
 MultiLanguageSpellData['en'][1217685] = {name = "Messed Up", additional_info = "Instant\n[q]When Rolling Rubbish is destroyed, any enemies it absorbed are ejected to nearby locations.\n\n After this traumatic experience they take 100% increased damage, but can no longer be absorbed by Rolling Rubbish."}
 MultiLanguageSpellData['en'][1217686] = {name = "Rolling Rubbish", additional_info = nil}
@@ -8392,10 +8529,12 @@ MultiLanguageSpellData['en'][1217895] = {name = "Tol Dagor Departure", additiona
 MultiLanguageSpellData['en'][1217896] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1217897] = {name = "Winning Streak!", additional_info = "Instant\n[q]Your spells and abilities have a chance to activate a Winning Streak! , increasing the damage of your Frost Strike and Glacial Advance by 4%, stacking up to 6 times. Frost Strike and Glacial Advance have a 7% chance to remove Winning Streak!"}
 MultiLanguageSpellData['en'][1217903] = {name = "Firebolt", additional_info = "30 yd range\n{2.5 sec cast} {4 sec cooldown}\n[q]Hurls a glob of wax at an enemy, inflicting Physical damage and reducing their movement speed by 418240% for until canceled."}
+MultiLanguageSpellData['en'][1217904] = {name = "Circular Woolen Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1217905] = {name = "Call Mole Machine", additional_info = "45 yd range\n{1 sec cast} {15 sec cooldown}\n[q]Calls a mole machine to knockback and deal damage to all units in an area.\n\n The mole machine will also destroy any webbing in the area."}
 MultiLanguageSpellData['en'][1217906] = {name = "Call Mole Machine", additional_info = "80 yd range\nInstant\n[q]Knocks all enemies within 10 yards of the impact back.\n Inflicts 697066 Physical damage to enemies within 10 yards of the impact."}
 MultiLanguageSpellData['en'][1217907] = {name = "Restore", additional_info = "40 yd range\nInstant\n[q]Expends a large amount of mana to quickly heal a friendly target for 200406."}
 MultiLanguageSpellData['en'][1217908] = {name = "Repeatable Event - Dastardly Duos - Powerup - Cheery Bomb onInteract", additional_info = nil}
+MultiLanguageSpellData['en'][1217909] = {name = "Add Decor 520 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1217911] = {name = "Open Mysterious Satchel", additional_info = "3 sec cast\nReagents:\nWeathered Mysterious Satchel\n[q]Unpack the mysterious satchel and see what you got!"}
 MultiLanguageSpellData['en'][1217913] = {name = "Dark Burn", additional_info = "{1.5 sec cast} {8 sec cooldown}\n[q]Burns away enemies, inflicting Fire damage every 0.5 sec for 2 sec."}
 MultiLanguageSpellData['en'][1217915] = {name = "Dark Burn", additional_info = "Instant\n[q]Burns away enemies, inflicting Fire damage every 1 sec for 4 sec."}
@@ -8476,7 +8615,10 @@ MultiLanguageSpellData['en'][1218056] = {name = "Demolish", additional_info = "2
 MultiLanguageSpellData['en'][1218057] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1218060] = {name = "Hype Fever!", additional_info = "Instant\n[q]The third Hype Hustle has no end! Rik consumes his Sound Cloud to increase all damage he inflicts by 300% and continues to cast Blaring Drop s endlessly."}
 MultiLanguageSpellData['en'][1218061] = {name = "Gold Fuse", additional_info = "10 yd range\n1 sec cast\n[q]Tosses a lit willow diadem fuse at a target inflicting 348533 Fire damage plus an additional 34853 Fire damage every 1 sec for 15 sec."}
+MultiLanguageSpellData['en'][1218063] = {name = "Diseased Larva Burst", additional_info = nil}
 MultiLanguageSpellData['en'][1218064] = {name = "Smelly", additional_info = "Instant\n[q]The caster's overpowering stench inflicts 838509 Nature damage to players within 60 yards every 2 sec."}
+MultiLanguageSpellData['en'][1218066] = {name = "Corrosive Spew", additional_info = "8 yd range\nInstant\n[q]Hurl the rot inside you upon enemies in a frontal cone, inflicting 20 Nature damage."}
+MultiLanguageSpellData['en'][1218067] = {name = "Corrosive Spew", additional_info = "Melee Range\n{3 sec cast} {13 sec cooldown}\n[q]Hurl the rot inside you upon enemies in a frontal cone, inflicting 20 Nature damage."}
 MultiLanguageSpellData['en'][1218069] = {name = "Emerald Snail", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"This snail protects its treasures with the ferocity of a dragon, but perhaps not the speed.\"\nTrading Post"}
 MultiLanguageSpellData['en'][1218076] = {name = "Bullet", additional_info = nil}
 MultiLanguageSpellData['en'][1218077] = {name = "Bullet", additional_info = "300 yd range\nInstant\n[q]Zee fires his gun, inflicting 90 Physical damage every 0.3 sec for 8 sec."}
@@ -8542,10 +8684,19 @@ MultiLanguageSpellData['en'][1218160] = {name = "Steamwheedle Cartel Banner", ad
 MultiLanguageSpellData['en'][1218161] = {name = "Blackwater Cartel Banner", additional_info = "5 yd range\nInstant\n[q]Plant the banner of the Blackwater Cartel."}
 MultiLanguageSpellData['en'][1218162] = {name = "Venture Co. Banner", additional_info = "5 yd range\nInstant\n[q]Plant the banner of Venture Co."}
 MultiLanguageSpellData['en'][1218163] = {name = "Luck of the Draw!", additional_info = "Instant\n[q]Each time you take damage you have a chance to cast Shield Wall for 4.0 sec and gain Luck of the Draw! , which increases your damage dealt by 15% for 12 sec."}
+MultiLanguageSpellData['en'][1218165] = {name = "Add Decor 373 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1218166] = {name = "Add Decor 374 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1218167] = {name = "Three-Candle Wrought Iron Chandelier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1218168] = {name = "Add Decor 379 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1218169] = {name = "Wrought Iron Floor Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1218170] = {name = "Add Decor 388 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1218171] = {name = "Add Decor 389 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1218172] = {name = "Add Decor 390 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1218173] = {name = "\"Garbage\" Collection", additional_info = "{2 sec cast} {13 sec cooldown}\n[q]The caster sifts through its \"garbage\" looking for valuables, inflicting 10 Fire damage and gaining a stack of Payday every 2 sec."}
 MultiLanguageSpellData['en'][1218174] = {name = "\"Garbage\" Collection", additional_info = "Instant\n[q]The caster sifts through its \"garbage\" looking for valuables, inflicting 10 Fire damage and gaining a stack of Payday every 2 sec."}
 MultiLanguageSpellData['en'][1218175] = {name = "Payday", additional_info = "Instant\n[q]The caster finds something quite valuable, increasing their damage done by 10%. This effect stacks."}
 MultiLanguageSpellData['en'][1218177] = {name = "Trash Shot", additional_info = "100 yd range\n1 sec cast\n[q]Inflicts Fire damage to an enemy."}
+MultiLanguageSpellData['en'][1218179] = {name = "Disease Cloud", additional_info = "Instant\n[q]Inflicts 1 Nature damage to enemies within 6 yards every 3 sec."}
 MultiLanguageSpellData['en'][1218180] = {name = "Sorted", additional_info = nil}
 MultiLanguageSpellData['en'][1218182] = {name = "Storm", additional_info = "300 yd range\nInstant\n[q]Mug fires his finger gun, inflicting 80 Nature damage every 0.5 sec for 8 sec."}
 MultiLanguageSpellData['en'][1218183] = {name = "Storm", additional_info = nil}
@@ -8648,6 +8799,7 @@ MultiLanguageSpellData['en'][1218380] = {name = "Keeza's B.B.B.F.G.", additional
 MultiLanguageSpellData['en'][1218381] = {name = "Void-Scarred Scorpid", additional_info = "Instant\n[q]Right Click to summon and dismiss this pet."}
 MultiLanguageSpellData['en'][1218382] = {name = "Haywire Workshop", additional_info = "Unlimited range\nInstant\n[q]The House of Chrome is on the fritz emitting electricity throughout inflicting 100 Nature damage every 1 sec upon contact."}
 MultiLanguageSpellData['en'][1218383] = {name = "Void-Scarred Tallstrider Chick", additional_info = "Instant\n[q]Right Click to summon and dismiss your Bloodgazer Hatchling."}
+MultiLanguageSpellData['en'][1218384] = {name = "Add Decor 521 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1218385] = {name = "Haywire Workshop", additional_info = "Unlimited range\nInstant\n[q]The House of Chrome is on the fritz emitting electricity throughout inflicting 100 Nature damage every 1 sec upon contact."}
 MultiLanguageSpellData['en'][1218386] = {name = "Haywire Workshop", additional_info = "Unlimited range\nInstant\n[q]The House of Chrome is on the fritz emitting electricity throughout inflicting 100 Nature damage every 1 sec upon contact."}
 MultiLanguageSpellData['en'][1218388] = {name = "[q0]Mysterious Celerity", additional_info = "Instant\nReagents:\nPotion of Mysterious Celerity\n[q]On Looted: Increases your movement speed by 10%.\n\n Lasts 30 min and persists through death.\n\nThis item is consumed immediately."}
@@ -8674,9 +8826,11 @@ MultiLanguageSpellData['en'][1218417] = {name = "FIRE!!!", additional_info = "Un
 MultiLanguageSpellData['en'][1218418] = {name = "Wire Transfer", additional_info = "2 sec cast\n[q]Lockenstock overloads the capacitors around the factory causing a section of the floor to become electrified. Standing within these areas inflicts 5031052 Nature damage to players every 1 sec and reduces their movement speed by 40%."}
 MultiLanguageSpellData['en'][1218419] = {name = "Wire Transfer", additional_info = nil}
 MultiLanguageSpellData['en'][1218420] = {name = "Personal Fishing Barge", additional_info = "1.5 sec cast\n[q]You can raft across water."}
+MultiLanguageSpellData['en'][1218421] = {name = "Splendid Fireworks", additional_info = nil}
 MultiLanguageSpellData['en'][1218422] = {name = "FIRE!!!", additional_info = nil}
 MultiLanguageSpellData['en'][1218424] = {name = "Personal Fishing Barge", additional_info = nil}
 MultiLanguageSpellData['en'][1218425] = {name = "Personal Fishing Barge", additional_info = nil}
+MultiLanguageSpellData['en'][1218426] = {name = "Punch", additional_info = nil}
 MultiLanguageSpellData['en'][1218432] = {name = "Molten Gold Pool", additional_info = "300 yd range\nInstant\n[q]The molten gold drips to the ground and creates pools for 3 min. Contact with the gold inflicts 1257763 Fire damage every 0.5 sec and slows movement speed by 20%."}
 MultiLanguageSpellData['en'][1218433] = {name = "Giga Blast", additional_info = nil}
 MultiLanguageSpellData['en'][1218435] = {name = "Storefront-in-a-Box", additional_info = "{3 sec cast} {15 min cooldown}\n[q]Place a goblin market stall designed to last for 15 min. Can only be used outdoors."}
@@ -8765,10 +8919,12 @@ MultiLanguageSpellData['en'][1218608] = {name = "Drop Weighty Variable Rod", add
 MultiLanguageSpellData['en'][1218611] = {name = "Food Bowl", additional_info = "Instant\nReagents:\nRoasted Mycobloom"}
 MultiLanguageSpellData['en'][1218612] = {name = "Jackpot!", additional_info = "Instant\n[q]When you summon or extend your [ Storm Elemental : Storm / Fire] Elemental, your Lightning Bolt, Chain Lightning, [ Tempest : Tempest ]and Lava Burst deal 30% increased damage for 8 sec."}
 MultiLanguageSpellData['en'][1218613] = {name = "Voltaic Image", additional_info = nil}
+MultiLanguageSpellData['en'][1218614] = {name = "Faltering Soul", additional_info = "Instant\n[q]Twisted anima suffuses the air. The connection between body and soul is weakened."}
 MultiLanguageSpellData['en'][1218615] = {name = "Drop Weighty Variable Rod", additional_info = "100 yd range\n0.3 sec cast\n[q]You have dropped a Weighty Variable Rod."}
 MultiLanguageSpellData['en'][1218616] = {name = "Winning Streak!", additional_info = "Instant\n[q]Your spells and abilities have a chance to activate a Winning Streak! increasing the damage of your Stormstrike, Lava Lash and Doom Winds by 5%, up to 25%. Maelstrom Weapon spenders have a 1.0% chance to remove Winning Streak! per Maelstrom Weapon spent."}
 MultiLanguageSpellData['en'][1218625] = {name = "Displacement Matrix", additional_info = "300 yd range\nInstant\n[q]The Displacement Matrix detonates when touched, inflicting 5762071 Arcane damage and stunning players within 8 yards, leaving behind Potent Mana Residue .\n\n Additionally, the activating player will be teleported to a random nearby location."}
 MultiLanguageSpellData['en'][1218626] = {name = "Displacement Matrix", additional_info = "300 yd range\nInstant\n[q]The Displacement Matrix detonates when touched, inflicting 5762071 Arcane damage and stunning players within 8 yards, leaving behind Potent Mana Residue .\n\n Additionally, the activating player will be teleported to a random nearby location."}
+MultiLanguageSpellData['en'][1218627] = {name = "Fraying Soul", additional_info = "Instant\n[q]The connection between soul and body dwindles. The Maw shall not suffer the presence of the living."}
 MultiLanguageSpellData['en'][1218628] = {name = "Food Bowl", additional_info = "Instant\nReagents:\nSimple Stew"}
 MultiLanguageSpellData['en'][1218629] = {name = "Food Bowl", additional_info = "Instant\nReagents:\nSkewered Fillet"}
 MultiLanguageSpellData['en'][1218630] = {name = "Food Bowl", additional_info = "Instant\nReagents:\nUnseasoned Field Steak"}
@@ -9083,6 +9239,9 @@ MultiLanguageSpellData['en'][1219004] = {name = "Foot-Blasters", additional_info
 MultiLanguageSpellData['en'][1219005] = {name = "Foot-Blasters", additional_info = "Unlimited range\nInstant\n[q]Lockenstock launches several land mines into the room. Stepping on a Foot-Blaster triggers an Unstable Explosion and embeds Unstable Shrapnel into the triggering player. In addition, these reactive mines detonate on contact with other Inventions or Wire Transfer , triggering an Unstable Explosion ."}
 MultiLanguageSpellData['en'][1219011] = {name = "Nega-fied", additional_info = nil}
 MultiLanguageSpellData['en'][1219012] = {name = "Luck of the Draw!", additional_info = "Instant\n[q]Each time you take damage you have a chance to cast Metamorphosis for 4 sec and gain Luck of the Draw! which increases your damage dealt by 15% for 10 sec."}
+MultiLanguageSpellData['en'][1219013] = {name = "Kill Credit", additional_info = nil}
+MultiLanguageSpellData['en'][1219014] = {name = "Start Conversation", additional_info = nil}
+MultiLanguageSpellData['en'][1219015] = {name = "Apply Displayed Aura", additional_info = "40 yd range\nInstant\n[q]This is a Training Aura spell that does a whole lot of nothing, but it sure is exciting!"}
 MultiLanguageSpellData['en'][1219017] = {name = "G-99 Breakneck Passenger", additional_info = nil}
 MultiLanguageSpellData['en'][1219018] = {name = "Goblomagnetic Bouncing Grenade", additional_info = "100 yd range\nInstant\n[q]Brann has a chance during combat to toss a GMB grenade at an enemy target dealing moderate Nature damage with a 20% chance to stun for 1.5 sec. This has a 25% chance to bounce to a new target.\n\n The grenade can safely bounce on party members."}
 MultiLanguageSpellData['en'][1219022] = {name = "Lingering Voltage", additional_info = nil}
@@ -9268,6 +9427,8 @@ MultiLanguageSpellData['en'][1219354] = {name = "Potent Mana Residue", additiona
 MultiLanguageSpellData['en'][1219360] = {name = "Kill Credit", additional_info = nil}
 MultiLanguageSpellData['en'][1219371] = {name = "Summon Shadowguard Assassin", additional_info = nil}
 MultiLanguageSpellData['en'][1219372] = {name = "Summon Shadowguard Assassin", additional_info = nil}
+MultiLanguageSpellData['en'][1219380] = {name = "Ornate Stonework Fireplace", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1219381] = {name = "Add Decor 81 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1219383] = {name = "Scratch", additional_info = "10 yd range\n{1.5 sec cast} {3 sec cooldown}\n[q]Inflicts Physical damage to an enemy."}
 MultiLanguageSpellData['en'][1219384] = {name = "Scrap Rockets", additional_info = "300 yd range\nChanneled (9 sec cast)\n[q]The Scrapmaster locks on to a player and fires a salvo of salvaged rockets, inflicting 1677017 Fire damage every 0.75 sec for 9 sec."}
 MultiLanguageSpellData['en'][1219385] = {name = "Scrap Rockets", additional_info = nil}
@@ -9281,6 +9442,8 @@ MultiLanguageSpellData['en'][1219399] = {name = "Cement Shoes", additional_info 
 MultiLanguageSpellData['en'][1219400] = {name = "Cement Shoes", additional_info = "300 yd range\nInstant\n[q]Mug'Zee weighs down an enemy in cement shoes, immobilizing them."}
 MultiLanguageSpellData['en'][1219401] = {name = "Snitch Disposal Unit", additional_info = nil}
 MultiLanguageSpellData['en'][1219402] = {name = "Fish Stix", additional_info = nil}
+MultiLanguageSpellData['en'][1219404] = {name = "Throw Up", additional_info = nil}
+MultiLanguageSpellData['en'][1219405] = {name = "Drooling Slime", additional_info = nil}
 MultiLanguageSpellData['en'][1219406] = {name = "Brutal Club", additional_info = nil}
 MultiLanguageSpellData['en'][1219407] = {name = "Brutal Club", additional_info = "Unlimited range\n4 sec cast\n[q]The caster slams their club into the ground, erupting shockwaves that inflict 4192543 Nature damage to players and knock them upwards."}
 MultiLanguageSpellData['en'][1219410] = {name = "K.U.-J.O.'s Flame Vents", additional_info = nil}
@@ -9297,6 +9460,7 @@ MultiLanguageSpellData['en'][1219430] = {name = "Low-Entropy Alloys", additional
 MultiLanguageSpellData['en'][1219432] = {name = "Teleport", additional_info = "300 yd range\nInstant\n[q]The caster teleports."}
 MultiLanguageSpellData['en'][1219433] = {name = "Translocating", additional_info = nil}
 MultiLanguageSpellData['en'][1219434] = {name = "Teleport", additional_info = "300 yd range\nInstant\n[q]The caster teleports."}
+MultiLanguageSpellData['en'][1219437] = {name = "Add Decor 386 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1219438] = {name = "Fire Starters", additional_info = "1 sec cast\n[q]The caster jettisons homing missiles which inflict 1257763 Fire damage to players.\n\n The impact creates an area of flame which inflicts 838509 Fire damage every 1.5 sec to players standing within."}
 MultiLanguageSpellData['en'][1219439] = {name = "Obliteration Arcanocannon", additional_info = "300 yd range\nInstant\n[q]The Plexus Sentinel marks its current target, then fires an arcane charge that inflicts 26702279 Arcane damage to players within 10 yards, and 25296896 Arcane damage to all other players. Players farther from the target receive less damage. This explosion leaves behind Potent Mana Residue .\n\n The impact causes the primary target to take 1000% damage from Obliteration Arcanocannon for 45 sec."}
 MultiLanguageSpellData['en'][1219440] = {name = "Maelstrom Weapon", additional_info = "Instant\n[q]When you deal damage with a melee weapon, you have a chance to gain Maelstrom Weapon, stacking up to 5 times. Each stack of Maelstrom Weapon reduces the cast time of your next damage or healing spell by 20% [ Improved Maelstrom Weapon : and increase its damage by 0% or its healing by 0% ].\n\n A maximum of 5 stacks of Maelstrom Weapon can be consumed at a time."}
@@ -9375,6 +9539,7 @@ MultiLanguageSpellData['en'][1219615] = {name = "Enlarged by Ve'nari", additiona
 MultiLanguageSpellData['en'][1219616] = {name = "Eyes in the Sky", additional_info = "[q]Replaces Call Pet\n Gain the aid of a Spotting Eagle.\n\n Damaging an enemy with an ability empowered by Precise Shots has a 30% chance to cause your Spotting Eagle to rapidly descend from the skies and mark your primary target.\n\n Spotter's Mark\nYour next Aimed Shot deals 20% increased damage to this target."}
 MultiLanguageSpellData['en'][1219617] = {name = "Dark Glare", additional_info = "50 yd range\n{2 sec cast} {5 sec cooldown}\n[q]The caster channels void energies into its target, inflicting Shadow damage every 1 sec for 6 sec."}
 MultiLanguageSpellData['en'][1219618] = {name = "<DNT> Area Trigger Indicator", additional_info = nil}
+MultiLanguageSpellData['en'][1219619] = {name = "11.2.9 - Housing Endeavors - Gather Dragon Isles - (JKM)", additional_info = nil}
 MultiLanguageSpellData['en'][1219620] = {name = "Activating", additional_info = nil}
 MultiLanguageSpellData['en'][1219621] = {name = "<DNT> Delay", additional_info = nil}
 MultiLanguageSpellData['en'][1219622] = {name = "<DNT> Delay", additional_info = nil}
@@ -9428,11 +9593,13 @@ MultiLanguageSpellData['en'][1219717] = {name = "Head-On Collision", additional_
 MultiLanguageSpellData['en'][1219721] = {name = "Shreddation", additional_info = nil}
 MultiLanguageSpellData['en'][1219723] = {name = "Azure Celerity", additional_info = "[q]Disintegrate ticks 1 additional time, but deals 10% less damage."}
 MultiLanguageSpellData['en'][1219724] = {name = "Turbo Bolt", additional_info = "Unlimited range\nInstant\n[q]Beams of ultra death lightning emit from Geezle, inflicting 8485573 Nature damage and stunning any players hit for 1 sec."}
+MultiLanguageSpellData['en'][1219725] = {name = "Seeking...", additional_info = "20 yd range\n3 sec cast\n[q]The Devouring Seeker senses someone nearby. Get out of its detection radius!"}
 MultiLanguageSpellData['en'][1219727] = {name = "Poof", additional_info = nil}
 MultiLanguageSpellData['en'][1219730] = {name = "Om Custodian", additional_info = "20 yd range\nInstant\n[q]Call Ve'nari if you need to talk to her. You had better have a good reason."}
 MultiLanguageSpellData['en'][1219731] = {name = "Destabilized", additional_info = "100 yd range\nChanneled (15 sec cast)\n[q]The collision knocks both Taah'bat and A'wazj out of the ether, stunning them for 15 sec and bringing the Arcane Blitz to a halt."}
 MultiLanguageSpellData['en'][1219735] = {name = "Om Custodian", additional_info = "20 yd range\nInstant\n[q]Call Ve'nari if you need to talk to her. You had better have a good reason."}
 MultiLanguageSpellData['en'][1219737] = {name = "Visual", additional_info = nil}
+MultiLanguageSpellData['en'][1219746] = {name = "Void Fall", additional_info = "Instant\n[q]Protect your friends from falling damage."}
 MultiLanguageSpellData['en'][1220290] = {name = "Trick Shots", additional_info = "Instant\n[q]Gallywix gains a stack of Trick Shots every 4 sec.\n\n Upon reaching 10 stacks or when changing primary target all shots release inflicting 3354035 Physical damage and an additional 587001 Fire damage every 1 sec for 9 sec, each. This effect stacks, and cannot be dodged."}
 MultiLanguageSpellData['en'][1220309] = {name = "Trick Shots", additional_info = "Instant\n[q]Gallywix gains a stack of Trick Shots every 4 sec.\n\n Upon reaching 10 stacks or when changing primary target all shots release inflicting 3354035 Physical damage and an additional 587001 Fire damage every 1 sec for 9 sec, each. This effect stacks, and cannot be dodged."}
 MultiLanguageSpellData['en'][1220353] = {name = "Trick Shots", additional_info = "Unlimited range\nInstant\n[q]Gallywix gains a stack of Trick Shots every 4 sec.\n\n Upon reaching 10 stacks or when changing primary target all shots release inflicting 3354035 Physical damage and an additional 587001 Fire damage every 1 sec for 9 sec, each. This effect stacks, and cannot be dodged."}
@@ -9517,6 +9684,9 @@ MultiLanguageSpellData['en'][1220508] = {name = "Abyssal Yeet!", additional_info
 MultiLanguageSpellData['en'][1220510] = {name = "Blastburn Roarcannon", additional_info = nil}
 MultiLanguageSpellData['en'][1220511] = {name = "Arcane Overload", additional_info = "3 sec cast\n[q]Taah'bat unleashes a series of arcane javelins into the air, inflicting 363667 Arcane damage to all players every 1 sec."}
 MultiLanguageSpellData['en'][1220512] = {name = "Protocol: Purge", additional_info = "300 yd range\nInstant\n[q]The Plexus Sentinel relocates, pushing players away and activating the Arcanomatrix Atomizer . The Atomizer slowly passes over the chamber, Atomizing any players and Volatile Manifestation it contacts.\n\n After relocating, The Plexus Sentinel begins channelling Protocol: Purge and gains a shield that absorbs damage. Breaking this shield interrupts Protocol: Purge ."}
+MultiLanguageSpellData['en'][1220524] = {name = "Add Orgrimmar Interior Narrow Wall to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1220525] = {name = "Add Orgrimmar Interior Doorway to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1220526] = {name = "Add Orgrimmar Interior Wall to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1220527] = {name = "More Black Blood Timeline Scene", additional_info = nil}
 MultiLanguageSpellData['en'][1220531] = {name = "One Too Many", additional_info = nil}
 MultiLanguageSpellData['en'][1220532] = {name = "Dump Area Trigger", additional_info = nil}
@@ -9530,6 +9700,8 @@ MultiLanguageSpellData['en'][1220554] = {name = "Protocol: Purge", additional_in
 MultiLanguageSpellData['en'][1220555] = {name = "Protocol: Purge", additional_info = "300 yd range\n5 sec cast\n[q]The Plexus Sentinel relocates, pushing players away and activating the Arcanomatrix Atomizer . The Atomizer slowly passes over the chamber, Atomizing any players and Volatile Manifestation it contacts.\n\n After relocating, The Plexus Sentinel begins channelling Protocol: Purge and gains a shield that absorbs damage. Breaking this shield interrupts Protocol: Purge ."}
 MultiLanguageSpellData['en'][1220556] = {name = "Throw Torch", additional_info = nil}
 MultiLanguageSpellData['en'][1220558] = {name = "Fireball", additional_info = nil}
+MultiLanguageSpellData['en'][1220575] = {name = "Add Orgrimmar Round Interior Pillar to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1220576] = {name = "Add Orgrimmar Square Interior Pillar to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1220579] = {name = "Ultra-Pasteurized Flesh Substitute", additional_info = "100 yd range\nInstant\n[q]Throw a barrel of Ultra-Pasteurized Flesh Substitute at Bony Underminers in need of a meat-like outer coating."}
 MultiLanguageSpellData['en'][1220582] = {name = "C.H.E.T.T. List", additional_info = "{Instant} {5 sec cooldown}\nReagents:\nC.H.E.T.T. Card (40)"}
 MultiLanguageSpellData['en'][1220584] = {name = "Installing", additional_info = "1.15 sec cast\n[q]Install this horn into your G99- Breakneck to add some pizzazz to your drive."}
@@ -9540,6 +9712,10 @@ MultiLanguageSpellData['en'][1220590] = {name = "One Too Many", additional_info 
 MultiLanguageSpellData['en'][1220591] = {name = "Installing", additional_info = "1.15 sec cast\n[q]Install this horn into your G99- Breakneck to add some pizzazz to your drive."}
 MultiLanguageSpellData['en'][1220592] = {name = "Darkfuse Medichopper", additional_info = nil}
 MultiLanguageSpellData['en'][1220598] = {name = "Dummy", additional_info = nil}
+MultiLanguageSpellData['en'][1220599] = {name = "Add Stormwind Interior Pillar to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1220600] = {name = "Add Stormwind Interior Narrow Wall to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1220601] = {name = "Add Stormwind Interior Wall to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1220603] = {name = "Add Stormwind Interior Doorway to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1220604] = {name = "Get Outta Here!", additional_info = "40 yd range\nInstant\n[q]Knocks the target back."}
 MultiLanguageSpellData['en'][1220605] = {name = "Darkfuse Medichopper", additional_info = nil}
 MultiLanguageSpellData['en'][1220610] = {name = "Protocol: Purge", additional_info = "300 yd range\nInstant\n[q]The Plexus Sentinel relocates, pushing players away and activating the Arcanomatrix Atomizer . The Atomizer slowly passes over the chamber, Atomizing any players and Volatile Manifestation it contacts.\n\n After relocating, The Plexus Sentinel begins channelling Protocol: Purge and gains a shield that absorbs damage. Breaking this shield interrupts Protocol: Purge ."}
@@ -9547,6 +9723,7 @@ MultiLanguageSpellData['en'][1220612] = {name = "Dummy", additional_info = nil}
 MultiLanguageSpellData['en'][1220613] = {name = "Dummy", additional_info = nil}
 MultiLanguageSpellData['en'][1220615] = {name = "Bronze Power", additional_info = nil}
 MultiLanguageSpellData['en'][1220616] = {name = "Took Potion", additional_info = nil}
+MultiLanguageSpellData['en'][1220617] = {name = "Ve'nari's Portation Tag", additional_info = "Instant\n[q]Place Ve'nari's Portation Tag on Shadowlord Vesheen to teleport him into Alleria's cage back at Shan'dorah."}
 MultiLanguageSpellData['en'][1220618] = {name = "Protocol: Purge", additional_info = "100 Energy\nChanneled (5 min cast)\n[q]The Plexus Sentinel relocates, pushing players away and activating the Arcanomatrix Atomizer . The Atomizer slowly passes over the chamber, Atomizing any players and Volatile Manifestation it contacts.\n\n After relocating, The Plexus Sentinel begins channelling Protocol: Purge and gains a shield that absorbs damage. Breaking this shield interrupts Protocol: Purge ."}
 MultiLanguageSpellData['en'][1220620] = {name = "Can of Amps", additional_info = "Unlimited range\nInstant\n[q]Increases speed by 65%"}
 MultiLanguageSpellData['en'][1220621] = {name = "Bottle of Invisibility", additional_info = "Unlimited range\nInstant\n[q]Turn invisible!\n(2s cooldown)"}
@@ -9586,9 +9763,13 @@ MultiLanguageSpellData['en'][1220703] = {name = "Divine Shield", additional_info
 MultiLanguageSpellData['en'][1220706] = {name = "Winning Streak!", additional_info = "Instant\n[q]Your spells and abilities have a chance to activate a Winning Streak! increasing the damage of your Blade Dance and Chaos Strike by 3% stacking up to 10 times. Blade Dance and Chaos Strike have a 15% chance to remove Winning Streak!\n(Proc chance: 15%)"}
 MultiLanguageSpellData['en'][1220709] = {name = "Identity Scan", additional_info = nil}
 MultiLanguageSpellData['en'][1220716] = {name = "Leap", additional_info = nil}
+MultiLanguageSpellData['en'][1220719] = {name = "Add Decor 533 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1220720] = {name = "Explorers' League Rope", additional_info = "Instant\n[q]Back to the entrance?"}
+MultiLanguageSpellData['en'][1220721] = {name = "Add Decor 534 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1220722] = {name = "Explorers' League Rope", additional_info = "1.5 sec cast\n[q]Escape upward."}
 MultiLanguageSpellData['en'][1220723] = {name = "Cosmetic Hearthstone", additional_info = nil}
+MultiLanguageSpellData['en'][1220724] = {name = "Add Decor 535 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1220725] = {name = "Add Decor 536 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1220726] = {name = "<DNT> Delay", additional_info = nil}
 MultiLanguageSpellData['en'][1220727] = {name = "Volatile Arcane Glyph", additional_info = "300 yd range\nInstant\n[q]$Spelldesc1218625"}
 MultiLanguageSpellData['en'][1220729] = {name = "Explosive Hearthstone", additional_info = "{10 sec cast} {30 min cooldown}\n1 Charge\n[q]Returns you to Hearthstone Location. Speak to an Innkeeper in a different place to change your home location."}
@@ -9611,6 +9792,8 @@ MultiLanguageSpellData['en'][1220768] = {name = "Take-Home Flarendo", additional
 MultiLanguageSpellData['en'][1220769] = {name = "Earthshaker Gaol", additional_info = "300 yd range\nInstant\n[q]Mug commands Gallagio Goons to lock down several players inside earthen gaols, inflicting 15093156 Nature damage split evenly among all players within 8 yards of the impact."}
 MultiLanguageSpellData['en'][1220771] = {name = "RP Chat Bubble on Gazlowe MBB", additional_info = nil}
 MultiLanguageSpellData['en'][1220772] = {name = "Revealing", additional_info = "5 yd range\n6 sec cast\n[q]Reveal Xy'vox from the Concealed Refuge in Tazavesh, the Veiled Market."}
+MultiLanguageSpellData['en'][1220779] = {name = "Voidrending Shot", additional_info = "30 yd range\n1 sec cast\n[q]Alleria fires a deadly shot at the shadowlord. How dare he attack Arator!"}
+MultiLanguageSpellData['en'][1220780] = {name = "Voidrending Shot", additional_info = "30 yd range\nInstant\n[q]Alleria fires a deadly shot at the shadowlord. How dare he attack Arator!"}
 MultiLanguageSpellData['en'][1220781] = {name = "Auto-Locking Cuff Bomb", additional_info = "Unlimited range\nInstant\n[q]0.5 sec after picking up a Giga Bomb the silver bracelets click, preventing Fling Giga Bomb and picking up additional Giga Bombs.\n\n If for any reason this aura removes the shackles detonate inflicting 12577630 Fire damage to all players."}
 MultiLanguageSpellData['en'][1220784] = {name = "Auto-Locking Cuff Bomb", additional_info = "Unlimited range\nInstant\n[q]0.5 sec after picking up a Giga Bomb the silver bracelets click, preventing Fling Giga Bomb and picking up additional Giga Bombs.\n\n If for any reason this aura removes the shackles detonate inflicting 12577630 Fire damage to all players."}
 MultiLanguageSpellData['en'][1220785] = {name = "<DNT> Valid for Rewards", additional_info = nil}
@@ -9667,6 +9850,7 @@ MultiLanguageSpellData['en'][1220849] = {name = "Purpled", additional_info = nil
 MultiLanguageSpellData['en'][1220851] = {name = "Greened", additional_info = nil}
 MultiLanguageSpellData['en'][1220857] = {name = "Hungry Trashmite", additional_info = nil}
 MultiLanguageSpellData['en'][1220859] = {name = "Reap", additional_info = "Instant\n[q]"}
+MultiLanguageSpellData['en'][1220860] = {name = "Clear Player Appearance", additional_info = nil}
 MultiLanguageSpellData['en'][1220863] = {name = "RP Chat Bubble on Grimla VAU", additional_info = nil}
 MultiLanguageSpellData['en'][1220864] = {name = "Knockdown", additional_info = nil}
 MultiLanguageSpellData['en'][1220866] = {name = "Rummaging", additional_info = "5 yd range\n2 sec cast\n[q]Search through the pile of debris."}
@@ -9703,6 +9887,7 @@ MultiLanguageSpellData['en'][1220981] = {name = "Protocol: Purge", additional_in
 MultiLanguageSpellData['en'][1220982] = {name = "Protocol: Purge", additional_info = "100 Energy\n5 sec cast\n[q]The Plexus Sentinel relocates, pushing players away and activating the Arcanomatrix Atomizer . The Atomizer slowly passes over the chamber, Atomizing any players and Volatile Manifestation it contacts.\n\n After relocating, The Plexus Sentinel begins channelling Protocol: Purge and gains a shield that absorbs damage. Breaking this shield interrupts Protocol: Purge ."}
 MultiLanguageSpellData['en'][1220984] = {name = "Void Beam", additional_info = nil}
 MultiLanguageSpellData['en'][1220985] = {name = "High Voltage", additional_info = nil}
+MultiLanguageSpellData['en'][1220986] = {name = "Add Decor 562 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1220988] = {name = "Juiced!", additional_info = nil}
 MultiLanguageSpellData['en'][1220989] = {name = "Gallagio Highroller's Boomstone", additional_info = "2.5 sec cast\n[q]Infuse your armor with a faint echo of the power of a Gallagio highroller, unlocking additional visual effects for certain Liberation of Undermine class set appearances.\n\n This effect is Warband-wide."}
 MultiLanguageSpellData['en'][1220991] = {name = "Tiny Tussle", additional_info = nil}
@@ -9718,6 +9903,10 @@ MultiLanguageSpellData['en'][1221007] = {name = "[q0]Mysterious Tremorshards", a
 MultiLanguageSpellData['en'][1221008] = {name = "Tremorshards", additional_info = "100 yd range\nInstant\n[q]Movement causes damage to this target and to other enemies within 10 yards."}
 MultiLanguageSpellData['en'][1221014] = {name = "Tremorshard", additional_info = "100 yd range\nInstant\n[q]Movement causes damage to the enemy target and to other enemies within 10 yards."}
 MultiLanguageSpellData['en'][1221016] = {name = "Void Sight", additional_info = "Instant\n[q]Can detect infiltrators."}
+MultiLanguageSpellData['en'][1221019] = {name = "Add Decor 64 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1221020] = {name = "Add Decor 61 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1221021] = {name = "Add Decor 63 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1221022] = {name = "Add Decor 65 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1221028] = {name = "Firestorm Brand", additional_info = "300 yd range\nInstant\n[q]Mug marks players who cross onto his side of the room, inflicting 3 Fire damage every 1 sec for 6 sec.\n\n Upon expiration or removal, the brand creates a Firestorm that inflicts 3 Fire damage to all players every 1 sec and pulls players towards its center."}
 MultiLanguageSpellData['en'][1221029] = {name = "Firestorm", additional_info = nil}
 MultiLanguageSpellData['en'][1221030] = {name = "Firestorm", additional_info = nil}
@@ -9751,6 +9940,7 @@ MultiLanguageSpellData['en'][1221089] = {name = "Upgrade", additional_info = "In
 MultiLanguageSpellData['en'][1221090] = {name = "Upgrade", additional_info = "Instant\nReagents:\nConqueror's Prized Varnish"}
 MultiLanguageSpellData['en'][1221091] = {name = "Conqueror's Prized Lacquer", additional_info = "Instant\n[q]Increase the minimum item level of Liberation of Undermine set gloves or shoulder armor to 684 in Arenas and Battlegrounds."}
 MultiLanguageSpellData['en'][1221094] = {name = "Upgrade", additional_info = "Instant\nReagents:\nConqueror's Prized Lacquer"}
+MultiLanguageSpellData['en'][1221097] = {name = "Bleeding Out", additional_info = nil}
 MultiLanguageSpellData['en'][1221100] = {name = "Gilded Stash", additional_info = nil}
 MultiLanguageSpellData['en'][1221102] = {name = "X-TREME Transit System", additional_info = nil}
 MultiLanguageSpellData['en'][1221103] = {name = "Collecting", additional_info = nil}
@@ -9847,6 +10037,7 @@ MultiLanguageSpellData['en'][1221264] = {name = "Pacifist Rig", additional_info 
 MultiLanguageSpellData['en'][1221265] = {name = "Undermine Explorer", additional_info = nil}
 MultiLanguageSpellData['en'][1221268] = {name = "Stink", additional_info = nil}
 MultiLanguageSpellData['en'][1221269] = {name = "World Bosses", additional_info = nil}
+MultiLanguageSpellData['en'][1221270] = {name = "Placing", additional_info = "5 yd range\n3 sec cast\n[q]Place Alleria's void focus."}
 MultiLanguageSpellData['en'][1221271] = {name = "Zo'kita Safety Gear", additional_info = "{Instant} {1 sec cooldown}\n[q]Wear Zo'Kita harvesting gear to locate and harvest Zo'kita safely."}
 MultiLanguageSpellData['en'][1221273] = {name = "Zo'kita Safety Gear", additional_info = "{Instant} {1 sec cooldown}\n[q]Wear Zo'Kita harvesting gear to locate and harvest Zo'kita safely."}
 MultiLanguageSpellData['en'][1221275] = {name = "Win", additional_info = nil}
@@ -9974,6 +10165,7 @@ MultiLanguageSpellData['en'][1221899] = {name = "Tattered Wolf Rider Gear", addi
 MultiLanguageSpellData['en'][1221920] = {name = "Investigate Rug", additional_info = nil}
 MultiLanguageSpellData['en'][1221928] = {name = "Summon Boss", additional_info = nil}
 MultiLanguageSpellData['en'][1221941] = {name = "Mug'Zee", additional_info = nil}
+MultiLanguageSpellData['en'][1222022] = {name = "Self Ultra-Slow", additional_info = nil}
 MultiLanguageSpellData['en'][1222029] = {name = "Dummy", additional_info = nil}
 MultiLanguageSpellData['en'][1222040] = {name = "Attire of the Woodland Raccoon", additional_info = "Instant\n[q]Collect the appearances of the Attire of the Woodland Raccoon armor set."}
 MultiLanguageSpellData['en'][1222041] = {name = "Woodland Attire of the Grey Wolf", additional_info = "Instant\n[q]Collect the appearances of the Woodland Attire of the Grey Wolf armor set."}
@@ -9981,6 +10173,9 @@ MultiLanguageSpellData['en'][1222043] = {name = "Attire of the Swift Fox", addit
 MultiLanguageSpellData['en'][1222045] = {name = "Woodland Attire of the Gilneas Fox", additional_info = "Instant\n[q]Collect the appearances of the Woodland Attire of the Gilneas Fox armor set."}
 MultiLanguageSpellData['en'][1222074] = {name = "Colossal Clash", additional_info = nil}
 MultiLanguageSpellData['en'][1222076] = {name = "Colossal Clash", additional_info = nil}
+MultiLanguageSpellData['en'][1222146] = {name = "Horde Housing District Wildlife Sleep", additional_info = nil}
+MultiLanguageSpellData['en'][1222156] = {name = "Horde Housing District Wildlife Eat", additional_info = nil}
+MultiLanguageSpellData['en'][1222157] = {name = "Horde Housing District Wildlife Work", additional_info = nil}
 MultiLanguageSpellData['en'][1222178] = {name = "Partaking in Free Food", additional_info = "1.5 sec cast\n[q]Checking out the free food and drink."}
 MultiLanguageSpellData['en'][1222183] = {name = "Farstalker's Leap", additional_info = "50 yd range\nInstant\n[q]The wastelander leaps to a random player's location, inflicting 1939560 Arcane damage to players within 4 yards of the impact."}
 MultiLanguageSpellData['en'][1222202] = {name = "Arcane Burn", additional_info = "100 yd range\nInstant\n[q]The burn inflicts 2909339 Arcane damage every 1.5 sec to players standing within the effect, reducing their movement speed by 40%."}
@@ -10112,6 +10307,7 @@ MultiLanguageSpellData['en'][1222984] = {name = "Portal to Undermine", additiona
 MultiLanguageSpellData['en'][1222985] = {name = "Overdrive Pylon", additional_info = "Instant\n[q]Accumulating energy."}
 MultiLanguageSpellData['en'][1222986] = {name = "Overdrive Pylon", additional_info = "Instant\n[q]Accumulating energy."}
 MultiLanguageSpellData['en'][1222987] = {name = "Overdrive Pylon", additional_info = "Instant\n[q]Accumulating energy."}
+MultiLanguageSpellData['en'][1222990] = {name = "Root Self", additional_info = nil}
 MultiLanguageSpellData['en'][1222992] = {name = "Fel Rush", additional_info = nil}
 MultiLanguageSpellData['en'][1222993] = {name = "Fel Rush", additional_info = "5 sec cast\n[q]Velaryn manifests images of herself which rush forward, incinerating anything in their path for 80 Chaos damage."}
 MultiLanguageSpellData['en'][1223000] = {name = "Embrace of K'aresh", additional_info = "30 yd range\nInstant\n[q]Surrounds the target with a shield, absorbing damage taken for 20 sec."}
@@ -10885,6 +11081,8 @@ MultiLanguageSpellData['en'][1225453] = {name = "Dark Star", additional_info = "
 MultiLanguageSpellData['en'][1225473] = {name = "Dark Star", additional_info = "Unlimited range\nInstant\n[q]A star materializes from the Twisting Nether, pulling players towards its center for 5 sec.\n\n Upon emergence, players within the Dark Star are Atomized as Twilight Spikes ripple outward. Inflicts 56215 Cosmic damage to all players every 1 sec."}
 MultiLanguageSpellData['en'][1225483] = {name = "Infernal Strike", additional_info = "Instant\n[q]Ilyssa leaps to a location, inflicting 25 Fire damage to all players within 10 yards and knocking them away."}
 MultiLanguageSpellData['en'][1225496] = {name = "Phase Warp", additional_info = nil}
+MultiLanguageSpellData['en'][1225512] = {name = "Open Neighborhood Charter", additional_info = "{Instant} {10 sec cooldown}\n[q]Opens neighborhood charter. Allows you to request signatures from other players."}
+MultiLanguageSpellData['en'][1225513] = {name = "Cosmetic - Sleep", additional_info = nil}
 MultiLanguageSpellData['en'][1225520] = {name = "Black Blood Puddles", additional_info = "Instant\n[q]Inflicts 5% of maximum health as Shadow damage every 1 sec and reduces movement speed by 75%."}
 MultiLanguageSpellData['en'][1225524] = {name = "Mana Vent", additional_info = nil}
 MultiLanguageSpellData['en'][1225526] = {name = "Mana Vent", additional_info = nil}
@@ -10999,7 +11197,7 @@ MultiLanguageSpellData['en'][1225938] = {name = "Entropic Conjunction", addition
 MultiLanguageSpellData['en'][1225953] = {name = "Transport Battery", additional_info = nil}
 MultiLanguageSpellData['en'][1225956] = {name = "Ride Vehicle", additional_info = nil}
 MultiLanguageSpellData['en'][1225962] = {name = "Whirling Surge", additional_info = "Instant\n[q]Spiral forward a great distance, increasing speed."}
-MultiLanguageSpellData['en'][1225965] = {name = "Drake Treat", additional_info = "{Instant} {15 sec cooldown}\n[q]Fully restores Vigor and grants a burst of flying speed. Only usable while skyriding."}
+MultiLanguageSpellData['en'][1225965] = {name = "Drake Treat", additional_info = "{Instant} {15 sec cooldown}\n[q]Fully restores Skyriding Charges and grants a burst of flying speed. Only usable while skyriding."}
 MultiLanguageSpellData['en'][1225966] = {name = "Arcing Translocation", additional_info = nil}
 MultiLanguageSpellData['en'][1225967] = {name = "Nostwin's Voucher", additional_info = "{6 sec cast} {15 min cooldown}\n[q]Returns you to the Infinite Bazaar near Dalaran."}
 MultiLanguageSpellData['en'][1225968] = {name = "Nostwin's Return Service", additional_info = "Instant\n[q]Returns you to the Infinite Bazaar near Dalaran."}
@@ -11043,7 +11241,7 @@ MultiLanguageSpellData['en'][1226112] = {name = "Soulburst", additional_info = "
 MultiLanguageSpellData['en'][1226115] = {name = "Soulburst", additional_info = "10 yd range\nInstant\n[q]The caster bursts out of existence on death, inflicting Shadow damage to enemies within 5 yards."}
 MultiLanguageSpellData['en'][1226117] = {name = "Soulburst", additional_info = "10 yd range\nInstant\n[q]The caster bursts out of existence on death, inflicting Shadow damage to enemies within 5 yards."}
 MultiLanguageSpellData['en'][1226131] = {name = "Gift of Sethraliss", additional_info = "Instant\n[q]Heals the target for 1% maximum health every 1."}
-MultiLanguageSpellData['en'][1226144] = {name = "Chrono Corsair", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable Chrono Corsair. This is a flying mount.\n[q]\"Always on the lookout for the next golden opportunity, this Infinite Dragonflight pirate has soared through the timeways to find a crew for the perfect heist.\"\nAchievement:\nMaster of the Turbulent Timeways III\nCategory:\nTimewalking"}
+MultiLanguageSpellData['en'][1226144] = {name = "Chrono Corsair", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable Chrono Corsair. This is a flying mount.\n[q]\"Always on the lookout for the next golden opportunity, this Infinite Dragonflight pirate has soared through the timeways to find a crew for the perfect heist.\"\nVendor:\nAny Timewalking Vendor\nCost:\n5000"}
 MultiLanguageSpellData['en'][1226152] = {name = "Activate Collector", additional_info = nil}
 MultiLanguageSpellData['en'][1226153] = {name = "Reset Collector and Manaforge", additional_info = nil}
 MultiLanguageSpellData['en'][1226165] = {name = "Volatile Ejection", additional_info = "100 yd range\nInstant\n[q]The caster unleashes energy towards marked targets, inflicting 3636674 Shadow damage to players in that direction."}
@@ -11151,6 +11349,12 @@ MultiLanguageSpellData['en'][1226443] = {name = "Null Rupture", additional_info 
 MultiLanguageSpellData['en'][1226444] = {name = "Wounded Fate", additional_info = "100 yd range\nInstant\n[q]The player's fate suffers a debilitating wound, causing the player to suffer 1939560 Arcane damage every 2 sec and haste reduced by 30% for 8 sec."}
 MultiLanguageSpellData['en'][1226447] = {name = "Set Data", additional_info = nil}
 MultiLanguageSpellData['en'][1226449] = {name = "Starkiller Swing", additional_info = "Unlimited range\nInstant\n[q]Images of Salhadaar emerge alongside him to swing and erupt a galactic missile at their targets, inflicting 52 Cosmic damage to all players in its path and applying Twilight Scar .\n\n Salhadaar's primary target is Starshattered . Each missile detonates in a Starkiller Nova unless consumed by a Dark Star ."}
+MultiLanguageSpellData['en'][1226470] = {name = "Moon-Blessed Storage Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1226471] = {name = "Add Decor 674 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1226472] = {name = "Cenarion Privacy Screen", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1226473] = {name = "Add Deluxe Val'sharah Bed to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1226474] = {name = "Cenarion Rectangular Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1226476] = {name = "Kaldorei Desk", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1226482] = {name = "Path of the Full House", additional_info = "10 sec cast 8 hrs cooldown\n[q]Teleport to the entrance of the Liberation of Undermine."}
 MultiLanguageSpellData['en'][1226483] = {name = "Hero's Path", additional_info = nil}
 MultiLanguageSpellData['en'][1226487] = {name = "Focus Greatstaff", additional_info = "Unlimited range\nInstant\n[q]Incur the ire of Diurna's weapon, consuming one charge of Greatstaff's Wrath. The weapon sends a focused beam of storm energy into the ground which pursues the player, inflicting 20 Nature damage to players within 3 yards every half-second during pursuit."}
@@ -11221,7 +11425,7 @@ MultiLanguageSpellData['en'][1226640] = {name = "Galactic Smash", additional_inf
 MultiLanguageSpellData['en'][1226645] = {name = "Pacifistic Rocket", additional_info = "Unlimited range\nInstant\n[q]Deals (15.4095% of Attack Power) Fire damage."}
 MultiLanguageSpellData['en'][1226647] = {name = "Galactic Smash", additional_info = "Unlimited range\nInstant\n[q]Images of Salhadaar emerge alongside him to smash their targets with galactic force, applying Twilight Scar and inflicting 12142510 Cosmic damage to all players. Players farther from each target take less damage.\n\n Salhadaar's primary target is Starshattered . A Dark Star forms at each impact location."}
 MultiLanguageSpellData['en'][1226648] = {name = "Galactic Smash", additional_info = "Unlimited range\nInstant\n[q]Images of Salhadaar emerge alongside him to smash their targets with galactic force, applying Twilight Scar and inflicting 12142510 Cosmic damage to all players. Players farther from each target take less damage.\n\n Salhadaar's primary target is Starshattered . A Dark Star forms at each impact location."}
-MultiLanguageSpellData['en'][1226650] = {name = "[q3]Void-Crystal Panther", additional_info = "2 sec cast 2\nTools: Jeweler's Tools\nReagents:\nVoid-Bound Orb of Mystery , Unusual Gems , Shadow Infused Onyx (20), Black Blood Infused Bar (4)\nDrop:\nBig Keech\nZone:\nVision of Orgrimmar\n\n[q3]Void-Crystal Panther\n[q7]Binds to Warband\nMount[q0](Account-wide)\n[q2]Use: Teaches you how to summon this mount. This mount will fly or run, depending on your riding skill and location.\n[q2]Summons and dismisses a rideable Void-Crystal Panther.\n1 to 80 ( 80)\nRequires\n[q]\"Although many precious gems have been corrupted by void energies in horrific visions, Master Jewelcrafters can still utilize them to craft mighty panther steeds.\"\nProfession:\nJewelcrafting"}
+MultiLanguageSpellData['en'][1226650] = {name = "[q3]Void-Crystal Panther", additional_info = "2 sec cast 2\nTools: Jeweler's Tools\nReagents:\nVoid-Bound Orb of Mystery , Unusual Gems , Shadow-Infused Onyx (20), Black Blood Infused Bar (4)\nDrop:\nBig Keech\nZone:\nVision of Orgrimmar\n\n[q3]Void-Crystal Panther\n[q7]Binds to Warband\nMount[q0](Account-wide)\n[q2]Use: Teaches you how to summon this mount. This mount will fly or run, depending on your riding skill and location.\n[q2]Summons and dismisses a rideable Void-Crystal Panther.\n1 to 80 ( 80)\nRequires\n[q]\"Although many precious gems have been corrupted by void energies in horrific visions, Master Jewelcrafters can still utilize them to craft mighty panther steeds.\"\nProfession:\nJewelcrafting"}
 MultiLanguageSpellData['en'][1226659] = {name = "Dark Star", additional_info = "Unlimited range\nInstant\n[q]A star materializes from the Twisting Nether, pulling players towards its center for 5 sec.\n\n Upon emergence, players within the Dark Star are Atomized as Twilight Spikes ripple outward. Inflicts 56215 Cosmic damage to all players every 1 sec."}
 MultiLanguageSpellData['en'][1226660] = {name = "Dark Star", additional_info = "Unlimited range\nInstant\n[q]A star materializes from the Twisting Nether, pulling players towards its center for 5 sec.\n\n Upon emergence, players within the Dark Star are Atomized as Twilight Spikes ripple outward. Inflicts 56215 Cosmic damage to all players every 1 sec."}
 MultiLanguageSpellData['en'][1226662] = {name = "Crusading Strikes", additional_info = nil}
@@ -11280,6 +11484,13 @@ MultiLanguageSpellData['en'][1226877] = {name = "Primal Spellstorm", additional_
 MultiLanguageSpellData['en'][1226879] = {name = "Stars Collide", additional_info = "Unlimited range\nInstant\n[q]Collision with another Dark Star inflicts 9275528 Cosmic damage to all players every 0.5 sec."}
 MultiLanguageSpellData['en'][1226890] = {name = "Circuit Reboot", additional_info = "Instant\n[q]Stunned."}
 MultiLanguageSpellData['en'][1226891] = {name = "Circuit Reboot", additional_info = "Instant\n[q]Stunned."}
+MultiLanguageSpellData['en'][1226892] = {name = "Add Decor 714 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1226893] = {name = "Add Decor 715 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1226894] = {name = "Add Decor 716 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1226895] = {name = "Add Decor 717 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1226896] = {name = "Add Decor 718 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1226897] = {name = "Add Decor 719 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1226898] = {name = "Reliquary Telescope", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1226900] = {name = "Silk Cube", additional_info = nil}
 MultiLanguageSpellData['en'][1226903] = {name = "Harvesting Slice", additional_info = "Unlimited range\n1.5 sec cast\n[q]The caster deftly slices their current target, inflicting 11945756 Physical damage and causing them to bleed for 702692 Physical damage every 1 sec for 10 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1226906] = {name = "Untethered Space", additional_info = "Instant\n[q]Rewards and dangers alike wait in the Untethered Space."}
@@ -11356,11 +11567,17 @@ MultiLanguageSpellData['en'][1227115] = {name = "Infernal Strike", additional_in
 MultiLanguageSpellData['en'][1227117] = {name = "Fel Devastation", additional_info = "Unlimited range\n1 sec cast\n[q]Ilyssa unleashes the Fel within, inflicting 3864803 Fire damage every 0.5 sec to all players within the effect for 4.5 sec."}
 MultiLanguageSpellData['en'][1227119] = {name = "Fel Devastation", additional_info = "Instant\n[q]Ilyssa unleashes the Fel within, inflicting 3864803 Fire damage every 0.5 sec to all players within the effect for 4.5 sec."}
 MultiLanguageSpellData['en'][1227124] = {name = "Sacred Flame's Ward", additional_info = "Instant\nApproximately 8 procs per minute\n[q]While in Khaz Algar, dealing damage has a high chance of burning the enemy with righteous fire dealing 2 Radiant damage. In addition, you take 5% less damage."}
+MultiLanguageSpellData['en'][1227129] = {name = "Add Spider Web A1 to storage", additional_info = nil}
+MultiLanguageSpellData['en'][1227130] = {name = "Add Spider Web A2 to storage", additional_info = nil}
+MultiLanguageSpellData['en'][1227131] = {name = "Add Spider Web A3 to storage", additional_info = nil}
+MultiLanguageSpellData['en'][1227132] = {name = "Add Decor 724 To Storage", additional_info = nil}
+MultiLanguageSpellData['en'][1227133] = {name = "Add Decor 725 To Storage", additional_info = nil}
 MultiLanguageSpellData['en'][1227137] = {name = "Warp Strike", additional_info = "300 yd range\nInstant\n[q]A'wazj coalesces echoes of itself that warp towards marked targets, inflicting 2424449 Arcane damage to players in their path and causing them to suffer 363667 Arcane damage every 1 sec for 5 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1227140] = {name = "Writhing Wave", additional_info = "Unlimited range\nInstant\n[q]Loom'ithar unleashes a surge of silk towards its current target, inflicting 96971433 Nature damage and an additional 13745701 Nature damage every 1 sec for 25 sec. The damage is split evenly among players in a frontal cone."}
 MultiLanguageSpellData['en'][1227142] = {name = "Warp Strike", additional_info = "300 yd range\nInstant\n[q]A'wazj coalesces echoes of itself that warp towards marked targets, inflicting 2424449 Arcane damage to players in their path and causing them to suffer 363667 Arcane damage every 1 sec for 5 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1227144] = {name = "Warp Strike", additional_info = "300 yd range\nInstant\n[q]A'wazj coalesces echoes of itself that warp towards marked targets, inflicting 2424449 Arcane damage to players in their path and causing them to suffer 363667 Arcane damage every 1 sec for 5 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1227146] = {name = "Demonic Wards", additional_info = "Instant\n[q]Ilyssa's tattoos reduce the damage taken of allies within 0 yards by 90%."}
+MultiLanguageSpellData['en'][1227147] = {name = "In Your Neighborhood", additional_info = nil}
 MultiLanguageSpellData['en'][1227148] = {name = "Warp Strike", additional_info = "300 yd range\nInstant\n[q]A'wazj coalesces echoes of itself that warp towards marked targets, inflicting 2424449 Arcane damage to players in their path and causing them to suffer 363667 Arcane damage every 1 sec for 5 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1227151] = {name = "Aura of Pain", additional_info = nil}
 MultiLanguageSpellData['en'][1227152] = {name = "Warp Strike", additional_info = "300 yd range\nInstant\n[q]A'wazj coalesces echoes of itself that warp towards marked targets, inflicting 2424449 Arcane damage to players in their path and causing them to suffer 363667 Arcane damage every 1 sec for 5 sec. This effect stacks."}
@@ -11373,6 +11590,7 @@ MultiLanguageSpellData['en'][1227166] = {name = "Metamorphosis", additional_info
 MultiLanguageSpellData['en'][1227167] = {name = "Metamorphosis", additional_info = "Instant\n[q]Adarus transforms into a hellish demon, gaining a shield that absorbs the next 2000 damage received and applying Aura of Pain .\n\n While this shield holds, Adarus manifests a Collapsing Star ."}
 MultiLanguageSpellData['en'][1227174] = {name = "Void Lure", additional_info = "25 yd range\nInstant\n[q]Void entities hit with this are difficult for Ramon'ta to ignore."}
 MultiLanguageSpellData['en'][1227176] = {name = "Metamorphosis", additional_info = nil}
+MultiLanguageSpellData['en'][1227187] = {name = "Wrought Iron Chandelier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1227192] = {name = "Herald of Sa'bak", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The Tol'vir tell of the legendary Sa'bak, a great crocolisk believed to have emerged from the sacred valley of Un'Goro crater. Although few have ever seen Sa'bak in the flesh, many believe he was blessed by the Titan Keepers to safeguard the vast waterways of Uldum.\"\nIn-Game Shop"}
 MultiLanguageSpellData['en'][1227198] = {name = "Summon Worm", additional_info = nil}
 MultiLanguageSpellData['en'][1227206] = {name = "Greater Rune of Infinite Stars", additional_info = "3.5 sec cast\nRequires Armor\n[q]Apply Greater Rune of Infinite Stars to a helm.\n\n Your spells and abilities have a chance to strike a nearby enemy with an Infinite Star, dealing ( 1 * 362226) Arcane damage and increasing their damage taken from your Infinite Stars by ( 1 * 126779), stacking up to 6 times before resetting.\n\n Cannot be applied to items lower than level 350. This effect is fleeting and will only work during The War Within Season 2."}
@@ -11570,6 +11788,7 @@ MultiLanguageSpellData['en'][1227705] = {name = "Volatile Oblivion", additional_
 MultiLanguageSpellData['en'][1227710] = {name = "Abyssal Surge", additional_info = "Instant\n[q]The caster overloads with entropic power, inflicting 7729607 Shadow damage to players within 60 yards and an additional 1405383 Shadow damage every 1 sec for 8 sec.\n\n After channeling, the caster's Physical damage done increases by 100% for 10 sec."}
 MultiLanguageSpellData['en'][1227713] = {name = "Abyssal Surge", additional_info = "Instant\n[q]The caster overloads with entropic power, inflicting 7729607 Shadow damage to players within 60 yards and an additional 1405383 Shadow damage every 1 sec for 8 sec.\n\n After channeling, the caster's Physical damage done increases by 100% for 10 sec."}
 MultiLanguageSpellData['en'][1227715] = {name = "Coalesce Voidwing", additional_info = "Unlimited range\nInstant\n[q]The coalesced Royal Voidwing pierces up from below, inflicting 67458388 Cosmic damage to any player hit and knocking all players back."}
+MultiLanguageSpellData['en'][1227716] = {name = "Add Decor 744 To Storage", additional_info = "[q0]Decor\nInstant\n[q]Use to give yourself RJM's amazing Housing Decor 744"}
 MultiLanguageSpellData['en'][1227727] = {name = "Waygate", additional_info = nil}
 MultiLanguageSpellData['en'][1227734] = {name = "Coalesce Voidwing", additional_info = "Unlimited range\n6.2 sec cast\n[q]The coalesced Royal Voidwing pierces up from below, inflicting 67458388 Cosmic damage to any player hit and knocking all players back."}
 MultiLanguageSpellData['en'][1227740] = {name = "The Flame Calls", additional_info = nil}
@@ -11614,7 +11833,11 @@ MultiLanguageSpellData['en'][1227811] = {name = "The Hunt", additional_info = "I
 MultiLanguageSpellData['en'][1227814] = {name = "Shadow Jaws", additional_info = "10 yd range\n1.5 sec cast\n[q]Inflicts Shadow damage to an enemy."}
 MultiLanguageSpellData['en'][1227821] = {name = "Vengeful", additional_info = "Instant\n[q]Will bolster nearby allies upon death."}
 MultiLanguageSpellData['en'][1227823] = {name = "The Hunt", additional_info = "Unlimited range\nInstant\n[q]Velaryn marks a player as her prey, charging towards them and inflicting 63242239 Chaos damage. This effect is reduced for each player standing within the path of The Hunt .\n\n Velaryn additionally strikes players along the path, inflicting 9486336 Chaos damage to players within 3 yards of each player struck."}
+MultiLanguageSpellData['en'][1227826] = {name = "Wooden Mug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1227834] = {name = "Dornic Mine and Cheese Platter", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1227838] = {name = "The Hunt", additional_info = "Unlimited range\nInstant\n[q]Velaryn marks a player as her prey, charging towards them and inflicting 63242239 Chaos damage. This effect is reduced for each player standing within the path of The Hunt .\n\n Velaryn additionally strikes players along the path, inflicting 9486336 Chaos damage to players within 3 yards of each player struck."}
+MultiLanguageSpellData['en'][1227842] = {name = "Open Tome of Twilight Nihilism", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1227844] = {name = "Tome of Twilight Nihilism", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1227846] = {name = "The Hunt", additional_info = "Unlimited range\nInstant\n[q]Velaryn marks a player as her prey, charging towards them and inflicting 63242239 Chaos damage. This effect is reduced for each player standing within the path of The Hunt .\n\n Velaryn additionally strikes players along the path, inflicting 9486336 Chaos damage to players within 3 yards of each player struck."}
 MultiLanguageSpellData['en'][1227847] = {name = "The Hunt", additional_info = "Unlimited range\nInstant\n[q]Velaryn marks a player as her prey, charging towards them and inflicting 63242239 Chaos damage. This effect is reduced for each player standing within the path of The Hunt .\n\n Velaryn additionally strikes players along the path, inflicting 9486336 Chaos damage to players within 3 yards of each player struck."}
 MultiLanguageSpellData['en'][1227848] = {name = "Essence Implosion", additional_info = "300 yd range\nInstant\n[q]The Binding Chamber expires and bursts outward, inflicting 1405383 Arcane damage."}
@@ -11636,18 +11859,28 @@ MultiLanguageSpellData['en'][1227898] = {name = "Coalesce Voidwing", additional_
 MultiLanguageSpellData['en'][1227899] = {name = "Waygate", additional_info = nil}
 MultiLanguageSpellData['en'][1227900] = {name = "Warp Strike", additional_info = "300 yd range\n4 sec cast\n[q]A'wazj coalesces echoes of itself that warp towards marked targets, inflicting 2424449 Arcane damage to players in their path and causing them to suffer 363667 Arcane damage every 1 sec for 5 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1227902] = {name = "Tail Sting", additional_info = "15 yd range\n1.35 sec cast\n[q]Strikes the enemy with a powerful poison, damaging them and slowing them. This effect decreases over time."}
+MultiLanguageSpellData['en'][1227904] = {name = "Skyriding", additional_info = nil}
 MultiLanguageSpellData['en'][1227910] = {name = "Displacement Matrix", additional_info = nil}
+MultiLanguageSpellData['en'][1227912] = {name = "Basic Skyriding", additional_info = "5 sec cast\n[q]Skyriding\n Activate basic sky riding, allowing you to fly without the vigor bar."}
+MultiLanguageSpellData['en'][1227914] = {name = "Surge Forward", additional_info = "{Instant} {15 sec recharge}\n6 Charges\n[q]Flap forward.\n\n Surge Forward evades Scalechillers, Scalechargers, and other obstacles encountered in time trials and races."}
+MultiLanguageSpellData['en'][1227916] = {name = "Skyward Ascent", additional_info = "{Instant} {15 sec recharge}\n6 Charges\n[q]Flap upward."}
 MultiLanguageSpellData['en'][1227918] = {name = "Warp Strike", additional_info = "100 yd range\n4 sec cast\n[q]A'wazj coalesces echoes of itself that warp towards marked targets, inflicting 2424449 Arcane damage to players in their path and causing them to suffer 363667 Arcane damage every 1 sec for 5 sec. This effect stacks."}
+MultiLanguageSpellData['en'][1227919] = {name = "Lift Off", additional_info = "{Instant} {1.5 sec cooldown}\n[q]When standing, launch upward and start gliding forward."}
+MultiLanguageSpellData['en'][1227921] = {name = "Whirling Surge", additional_info = "{Instant} {30 sec cooldown}\n[q]Spiral forward a great distance, increasing speed.\n\n Whirling Surge evades Wingshredders and dismounts airborne enemy players."}
 MultiLanguageSpellData['en'][1227923] = {name = "Food Processor 3000", additional_info = "Instant\n[q]Activate the borrowed food processor and begin processing nearby tentacles. And creatures."}
 MultiLanguageSpellData['en'][1227925] = {name = "Food Processor 3000", additional_info = "Instant\n[q]Activate the borrowed food processor and begin processing nearby tentacles. And creatures. ."}
 MultiLanguageSpellData['en'][1227932] = {name = "Food Processor 3000", additional_info = nil}
 MultiLanguageSpellData['en'][1227936] = {name = "Food Processor 3000", additional_info = nil}
 MultiLanguageSpellData['en'][1227937] = {name = "Carl's Culling", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1227938] = {name = "Carl's Culling", additional_info = nil}
+MultiLanguageSpellData['en'][1227950] = {name = "Second Wind", additional_info = "Instant 3 min recharge\n3 Charges\n[q]Reach within for untapped reserves and instantly regenerates a charge for your skyriding abilities."}
+MultiLanguageSpellData['en'][1227961] = {name = "Thrill of the Skies", additional_info = "Instant\n[q]While skyriding at high speeds, your Skyriding Charges recharge faster."}
 MultiLanguageSpellData['en'][1227962] = {name = "Chomp", additional_info = "5 yd range\n{1.25 sec cast} {2 sec cooldown}\n[q]Bites an enemy, inflicting Physical damage and causing the target to bleed every 2 sec for 12 sec."}
 MultiLanguageSpellData['en'][1227963] = {name = "Move to Center", additional_info = nil}
 MultiLanguageSpellData['en'][1227969] = {name = "Start Ritual Phase", additional_info = nil}
 MultiLanguageSpellData['en'][1227993] = {name = "Looking Good", additional_info = "Instant\n[q]Transform into a broker."}
+MultiLanguageSpellData['en'][1227997] = {name = "Add Well-Lit Incontinental Loveseat to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1227998] = {name = "Add Well-Lit Incontinental Couch to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1228003] = {name = "Consumed Void", additional_info = nil}
 MultiLanguageSpellData['en'][1228004] = {name = "Incite Flames", additional_info = nil}
 MultiLanguageSpellData['en'][1228027] = {name = "Collector Energize", additional_info = nil}
@@ -11890,6 +12123,7 @@ MultiLanguageSpellData['en'][1229050] = {name = "Mastery of Timeways", additiona
 MultiLanguageSpellData['en'][1229051] = {name = "Astral Harvest", additional_info = nil}
 MultiLanguageSpellData['en'][1229052] = {name = "Knowledge of Timeways", additional_info = "Instant\n[q]Increases experience gained from killing monsters and completing quests by 5%.\n\n Completing Timewalking dungeons increases the effect and refreshes the duration.\n\n Upon reaching 4 applications, transforms to Mastery of Timeways , increasing that effect to 30%."}
 MultiLanguageSpellData['en'][1229053] = {name = "Launch Elves", additional_info = nil}
+MultiLanguageSpellData['en'][1229067] = {name = "Forsaken Round Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1229073] = {name = "Devour", additional_info = nil}
 MultiLanguageSpellData['en'][1229075] = {name = "Devour", additional_info = nil}
 MultiLanguageSpellData['en'][1229076] = {name = "Devour", additional_info = nil}
@@ -12008,6 +12242,7 @@ MultiLanguageSpellData['en'][1229385] = {name = "Teleport", additional_info = ni
 MultiLanguageSpellData['en'][1229387] = {name = "Eradicating Salvo", additional_info = "300 yd range\nInstant\n[q]The Plexus Sentinel targets a player to be purged, firing two missiles in quick succession. Each missile inflicts 85728368 Arcane damage split evenly between players within 6 yards and knocking players away from the primary target.\n\n If a missile fails to hit at least 5 players, it instead inflicts 16864597 Arcane damage to all players. []"}
 MultiLanguageSpellData['en'][1229390] = {name = "Brann", additional_info = nil}
 MultiLanguageSpellData['en'][1229394] = {name = "Intake Stabilization", additional_info = "Unlimited range\nChanneled (6 sec cast)\n[q]The caster stabilizes arcane flows."}
+MultiLanguageSpellData['en'][1229416] = {name = "Carry Rocks", additional_info = nil}
 MultiLanguageSpellData['en'][1229418] = {name = "Frostwyrm's Fury", additional_info = nil}
 MultiLanguageSpellData['en'][1229421] = {name = "Center of Attention", additional_info = nil}
 MultiLanguageSpellData['en'][1229422] = {name = "Center of Attention (Tier 2)", additional_info = nil}
@@ -12075,9 +12310,11 @@ MultiLanguageSpellData['en'][1230091] = {name = "Massive Smash", additional_info
 MultiLanguageSpellData['en'][1230094] = {name = "Accelerated Spawning", additional_info = nil}
 MultiLanguageSpellData['en'][1230101] = {name = "11.1.7 Lorewalking - Elves - Mind Flay", additional_info = "20 yd range\nChanneled (3 sec cast)\n[q]Inflicts Shadow damage to an enemy and reduces its movement speed for 3 sec."}
 MultiLanguageSpellData['en'][1230104] = {name = "Thieving Scurrier", additional_info = nil}
+MultiLanguageSpellData['en'][1230108] = {name = "Event", additional_info = "10 yd range\nInstant\n[q]Let your neighborhood know something is happening."}
 MultiLanguageSpellData['en'][1230109] = {name = "Phase Diving", additional_info = "Instant\n[q]Enter an ethereal state of energy."}
 MultiLanguageSpellData['en'][1230110] = {name = "Summon Pet", additional_info = nil}
 MultiLanguageSpellData['en'][1230111] = {name = "Reevaluate", additional_info = nil}
+MultiLanguageSpellData['en'][1230112] = {name = "Event End", additional_info = nil}
 MultiLanguageSpellData['en'][1230115] = {name = "Primal Spellstorm", additional_info = "Unlimited range\nInstant\n[q]Arcane energy rains down from the chamber above, inflicting 16161905 Arcane damage within 6 yards of the impact locations."}
 MultiLanguageSpellData['en'][1230122] = {name = "Start", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1230131] = {name = "Gain Measure: Scrappiest", additional_info = "Unlimited range\nInstant\n[q]Place a Winner's Podium and show off your best scrappy score!"}
@@ -12242,6 +12479,7 @@ MultiLanguageSpellData['en'][1230791] = {name = "Manaforge Translocator", additi
 MultiLanguageSpellData['en'][1230792] = {name = "Manaforge Translocator", additional_info = nil}
 MultiLanguageSpellData['en'][1230794] = {name = "Gathering", additional_info = nil}
 MultiLanguageSpellData['en'][1230798] = {name = "Gallywix", additional_info = nil}
+MultiLanguageSpellData['en'][1230804] = {name = "WA Carry Log Stack (Upper Body Anim Kit)", additional_info = nil}
 MultiLanguageSpellData['en'][1230806] = {name = "Waygate", additional_info = nil}
 MultiLanguageSpellData['en'][1230808] = {name = "Waygate", additional_info = nil}
 MultiLanguageSpellData['en'][1230900] = {name = "Ethereal Energy Converter", additional_info = "Unlimited range\nInstant\n[q]When a party member drops below 60% health, an Ethereal Energy Converter materializes, dealing moderate damage to nearby enemies and taunting them for 4 sec. Once the taunt expires, the Converter releases an Etherwave healing nearby allies for 20% of their health. Can be triggered every 2 min. Killing enemies reduces the cooldown of this effect by 2 sec."}
@@ -12249,6 +12487,7 @@ MultiLanguageSpellData['en'][1230910] = {name = "Cosmetic Orbs", additional_info
 MultiLanguageSpellData['en'][1230912] = {name = "Ethereal Energy Converter", additional_info = "Instant\n[q]When a party member drops below 60% health, an Ethereal Energy Converter materializes, dealing moderate damage to nearby enemies and taunting them for 4 sec. Once the taunt expires, the Converter releases an Etherwave healing nearby allies for 20% of their health. Can be triggered every 2 min. Killing enemies reduces the cooldown of this effect by 2 sec."}
 MultiLanguageSpellData['en'][1230915] = {name = "Taunt", additional_info = "Instant\n[q]When a party member drops below 60% health, an Ethereal Energy Converter materializes, dealing moderate damage to nearby enemies and taunting them for 4 sec. Once the taunt expires, the Converter releases an Etherwave healing nearby allies for 20% of their health. Can be triggered every 2 min. Killing enemies reduces the cooldown of this effect by 2 sec."}
 MultiLanguageSpellData['en'][1230916] = {name = "Killing Streak", additional_info = "Instant\n[q]Obliterate and Frostscythe consume all Killing Machines to deal 25% increased critical strike damage and grant 2.0% Haste for 8 sec for each stack consumed.\n\n Multiple applications may overlap."}
+MultiLanguageSpellData['en'][1230919] = {name = "Cosmetic - SitGround - Breakable", additional_info = nil}
 MultiLanguageSpellData['en'][1230921] = {name = "Ethernova", additional_info = "100 yd range\nInstant\n[q]When a party member drops below 60% health, an Ethereal Energy Converter materializes, dealing moderate damage to nearby enemies and taunting them for 4 sec. Once the taunt expires, the Converter releases an Etherwave healing nearby allies for 20% of their health. Can be triggered every 2 min. Killing enemies reduces the cooldown of this effect by 2 sec."}
 MultiLanguageSpellData['en'][1230923] = {name = "Nexus Detonation", additional_info = "Unlimited range\nInstant\n[q]Fractillus pounds the ground, inflicting 5 Shadow damage to all players and applying Entropic Miasma ."}
 MultiLanguageSpellData['en'][1230925] = {name = "Awakening Runes", additional_info = nil}
@@ -12261,7 +12500,12 @@ MultiLanguageSpellData['en'][1230935] = {name = "Ethereal Energy Converter", add
 MultiLanguageSpellData['en'][1230937] = {name = "Void Blast", additional_info = "20 yd range\n{2 sec cast} {1.5 sec cooldown}\n[q]Inflicts 6 Shadow damage to an enemy.\n Inflicts Shadow damage to an enemy every 0.5 sec for 2 sec."}
 MultiLanguageSpellData['en'][1230939] = {name = "Dual Wield", additional_info = "[q]Allows one-hand and off-hand weapons to be equipped in the off-hand."}
 MultiLanguageSpellData['en'][1230941] = {name = "Phase", additional_info = "30 yd range\n0.58 sec cast\n[q]Teleports the caster behind the target."}
+MultiLanguageSpellData['en'][1230952] = {name = "Elodor Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1230953] = {name = "Argussian Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1230959] = {name = "Empower Rune Weapon", additional_info = "Unlimited range\nInstant\n[q]Drain the will of your enemy to empower your rune weapon, dealing (200% of Attack Power) Shadowfrost damage and reduced damage to enemies nearby, gaining 40 Runic Power, and grants you Killing Machine.\n(500ms cooldown)"}
+MultiLanguageSpellData['en'][1230972] = {name = "Lordaeron Rectangular Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1230976] = {name = "Forsaken Spiked Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1230977] = {name = "Large Forsaken Spiked Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1230978] = {name = "Dark Matter", additional_info = nil}
 MultiLanguageSpellData['en'][1230979] = {name = "Dark Matter", additional_info = "Unlimited range\n2 sec cast\n[q]Dimensius sweeps his enormous hand over all players and blasts them with dark matter, inflicting 9275528 Shadow damage to players within 4 yards on impact."}
 MultiLanguageSpellData['en'][1230981] = {name = "Installing Engine", additional_info = "4 sec cast\nReagents:\nVoid-Forged Inline Four Engine"}
@@ -12439,6 +12683,12 @@ MultiLanguageSpellData['en'][1231501] = {name = "Metamorphosis", additional_info
 MultiLanguageSpellData['en'][1231504] = {name = "Arathi Entertainer's Flame", additional_info = nil}
 MultiLanguageSpellData['en'][1231506] = {name = "Vengeful Fury", additional_info = "2.5 sec cast\n[q]The caster enrages increasing attack speed by 25% and reducing all damage taken by 25%."}
 MultiLanguageSpellData['en'][1231521] = {name = "Shadowfall", additional_info = "1000 yd range\nInstant\n[q]Dimensius calls down numerous spheres of void energy that slowly descend over 6 sec. The spheres explode upon impact, inflicting 14 Shadow damage to all players and increasing damage taken from Shadowfall by 100% for 1 sec. This effect stacks.\n\n Spheres descend faster for each player with Gravity standing at their impact location."}
+MultiLanguageSpellData['en'][1231527] = {name = "Elegant Padded Chair", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1231528] = {name = "Elegant Padded Footstool", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1231531] = {name = "Elegant Wooden Dresser", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1231532] = {name = "Small Elegant End Table", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1231533] = {name = "Ornate Weapon Rack", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1231536] = {name = "Open Elven Wood Crate", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1231540] = {name = "Arcane Siphon", additional_info = "25 yd range\n{2.125 sec cast} {3 sec cooldown}\n[q]Harnesses the magic of their enemy, inflicting Arcane damage every 0.5 sec for 1.5 sec."}
 MultiLanguageSpellData['en'][1231542] = {name = "Arcane Cultivation", additional_info = nil}
 MultiLanguageSpellData['en'][1231543] = {name = "Arcane Siphon", additional_info = "25 yd range\nInstant\n[q]Harnesses the magic of their enemy, inflicting Arcane damage every 0.5 sec for 1.5 sec."}
@@ -12535,14 +12785,15 @@ MultiLanguageSpellData['en'][1231882] = {name = "Void Strike", additional_info =
 MultiLanguageSpellData['en'][1231887] = {name = "Crushing Stomp", additional_info = "40 yd range\nInstant\n[q]Knocks all enemies within 4 yards of the impact back.\n Inflicts 30 Physical damage to enemies within 4 yards of the impact."}
 MultiLanguageSpellData['en'][1231890] = {name = "Crushing Stomp", additional_info = "40 yd range\nInstant\n[q]"}
 MultiLanguageSpellData['en'][1231893] = {name = "Crushing Stomp", additional_info = nil}
+MultiLanguageSpellData['en'][1231895] = {name = "Stormwind Hall Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1231907] = {name = "ReadyUnarmed", additional_info = nil}
 MultiLanguageSpellData['en'][1231908] = {name = "Emote State - Dance", additional_info = nil}
 MultiLanguageSpellData['en'][1231909] = {name = "Voidstar", additional_info = nil}
 MultiLanguageSpellData['en'][1231915] = {name = "Corespark Impale", additional_info = "100 yd range\nInstant\n[q]Inflicts 18 Arcane damage to all players within the impact area."}
 MultiLanguageSpellData['en'][1231917] = {name = "Corespark Impale", additional_info = nil}
-MultiLanguageSpellData['en'][1231919] = {name = "Corespark Impale", additional_info = "15 yd range\nInstant\n[q]Inflicts 627359 Arcane damage to all players within the impact area."}
+MultiLanguageSpellData['en'][1231919] = {name = "Corespark Impale", additional_info = "15 yd range\nInstant\n[q]Inflicts 18 Arcane damage to all players within the impact area."}
 MultiLanguageSpellData['en'][1231921] = {name = "Voidstar", additional_info = nil}
-MultiLanguageSpellData['en'][1231923] = {name = "Corespark Impale", additional_info = "100 yd range\nInstant\n[q]Inflicts 627359 Arcane damage to all players within the impact area."}
+MultiLanguageSpellData['en'][1231923] = {name = "Corespark Impale", additional_info = "100 yd range\nInstant\n[q]Inflicts 18 Arcane damage to all players within the impact area."}
 MultiLanguageSpellData['en'][1231925] = {name = "Voidstar", additional_info = nil}
 MultiLanguageSpellData['en'][1231928] = {name = "Remove Skibbles Guardian Aura", additional_info = nil}
 MultiLanguageSpellData['en'][1231931] = {name = "Shadow Spittle", additional_info = "30 yd range\n2 sec cast\n[q]Inflicts 8 Shadow damage to an enemy."}
@@ -12681,6 +12932,7 @@ MultiLanguageSpellData['en'][1232424] = {name = "Blessed Argunite", additional_i
 MultiLanguageSpellData['en'][1232425] = {name = "Fortified Arcanocrystal Shard", additional_info = "[q]Increases Stamina by 5%."}
 MultiLanguageSpellData['en'][1232426] = {name = "Powerful Arcanocrystal Shard", additional_info = "[q]Increases Primary Stat by 5%."}
 MultiLanguageSpellData['en'][1232427] = {name = "Remix Time", additional_info = "[q]Unlocks the ability to collect Infinite Power to upgrade your artifact weapon and grants Remix Time .\n\n Remix Time :\nRaise your artifact and open a rift in your timeline, causing your cooldowns to recover 1000% faster for 3 sec."}
+MultiLanguageSpellData['en'][1232428] = {name = "Push Action Set to Guard", additional_info = nil}
 MultiLanguageSpellData['en'][1232433] = {name = "Activate", additional_info = nil}
 MultiLanguageSpellData['en'][1232437] = {name = "Deposit Resources", additional_info = "20 yd range\n{0.5 sec cast} {1 sec cooldown}\nReagents:\nBag of Brewfest Ingredients\n[q]Throw a bag of Brewfest ingredients into the cart."}
 MultiLanguageSpellData['en'][1232439] = {name = "Ensemble: Lively Sweatsuit", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
@@ -12717,6 +12969,8 @@ MultiLanguageSpellData['en'][1232521] = {name = "Empower", additional_info = nil
 MultiLanguageSpellData['en'][1232524] = {name = "Phase Warp", additional_info = "Unlimited range\nInstant\n[q]Use your Reshii Wrap to traverse via arcane flows."}
 MultiLanguageSpellData['en'][1232527] = {name = "Phase Warp", additional_info = "Instant\n[q]Use your Reshii Wrap to traverse via arcane flows."}
 MultiLanguageSpellData['en'][1232528] = {name = "Phase Warp", additional_info = "Instant\n[q]Use your Reshii Wrap to traverse via arcane flows."}
+MultiLanguageSpellData['en'][1232532] = {name = "Placing Festival Hot Air Balloon", additional_info = "1.5 sec cast 1 hour cooldown\n[q]Summon a Festival Hot Air Balloon to float into the sky. Only usable outdoors."}
+MultiLanguageSpellData['en'][1232535] = {name = "Placing Festival Hot Air Balloon", additional_info = "1.5 sec cast 1 hour cooldown\n[q]Summon a Festival Hot Air Balloon to float into the sky. Only usable outdoors."}
 MultiLanguageSpellData['en'][1232538] = {name = "Comforting", additional_info = nil}
 MultiLanguageSpellData['en'][1232539] = {name = "Suppression Field", additional_info = "300 yd range\nInstant\n[q]Plexus Sentinel suppresses Ethereal energies from functioning while purging the Intake."}
 MultiLanguageSpellData['en'][1232540] = {name = "Console", additional_info = nil}
@@ -12768,6 +13022,8 @@ MultiLanguageSpellData['en'][1232622] = {name = "Void Rush", additional_info = "
 MultiLanguageSpellData['en'][1232623] = {name = "Volatile Outburst", additional_info = "Unlimited range\nInstant\n[q]The caster spews digestive acid, inflicting Shadow damage every 1 sec to all enemies within 60 yards for 6 sec. The spittle flies through the air, inflicting Shadow damage to enemies within 0 yards of the impact and leaves behind Devouring Spittle for 6 sec."}
 MultiLanguageSpellData['en'][1232624] = {name = "Massive", additional_info = "Instant\n[q]Increases your size by 0%, maximum health by 1235 , and Primary Stat by 72 ."}
 MultiLanguageSpellData['en'][1232628] = {name = "Void Rush", additional_info = nil}
+MultiLanguageSpellData['en'][1232629] = {name = "Vehicle Destroyed- Teleport", additional_info = nil}
+MultiLanguageSpellData['en'][1232630] = {name = "Fade In/Out", additional_info = nil}
 MultiLanguageSpellData['en'][1232634] = {name = "Volatile Outburst", additional_info = "40 yd range\nInstant\n[q]The caster spews digestive acid, inflicting Shadow damage every 1 sec to all enemies within 60 yards for 6 sec. The spittle flies through the air, inflicting Shadow damage to enemies within 0 yards of the impact and leaves behind Devouring Spittle for 6 sec."}
 MultiLanguageSpellData['en'][1232635] = {name = "Kal'shin", additional_info = nil}
 MultiLanguageSpellData['en'][1232640] = {name = "Demonfire", additional_info = "Unlimited range\nInstant\n[q]Velaryn pursues a player with her gaze for 8 sec, scorching the ground with Fel that inflicts 15 Chaos damage every 1 sec to players standing within."}
@@ -12787,13 +13043,16 @@ MultiLanguageSpellData['en'][1232665] = {name = "Shadowtrade Import", additional
 MultiLanguageSpellData['en'][1232666] = {name = "Azure Sea Skiff", additional_info = "1.5 sec cast\n[q]You can raft across water."}
 MultiLanguageSpellData['en'][1232668] = {name = "Azure Sea Skiff", additional_info = nil}
 MultiLanguageSpellData['en'][1232669] = {name = "Azure Sea Skiff", additional_info = nil}
+MultiLanguageSpellData['en'][1232672] = {name = "Cosmetic - Nod Off Standing Sleep Zzz", additional_info = nil}
 MultiLanguageSpellData['en'][1232673] = {name = "Arcane Turbine", additional_info = nil}
 MultiLanguageSpellData['en'][1232675] = {name = "Aligned Views - Combat Phase", additional_info = nil}
 MultiLanguageSpellData['en'][1232680] = {name = "Phase Warp", additional_info = nil}
 MultiLanguageSpellData['en'][1232684] = {name = "Pacifist Rig", additional_info = nil}
 MultiLanguageSpellData['en'][1232696] = {name = "Pacifist Rig", additional_info = "100 yd range\nInstant\n[q]During combat a pilot is designated over 8 sec before airdropping the Pacifist Rig MK-1 at their location, making them immune, granting them control of the rig for 10 sec, and knocking back nearby enemies."}
+MultiLanguageSpellData['en'][1232700] = {name = "Festival Hot Air Balloon", additional_info = nil}
 MultiLanguageSpellData['en'][1232701] = {name = "Demonfire", additional_info = "Unlimited range\nInstant\n[q]Velaryn pursues a player with her gaze for 8 sec, scorching the ground with Fel that inflicts 15 Chaos damage every 1 sec to players standing within."}
 MultiLanguageSpellData['en'][1232704] = {name = "Demonfire", additional_info = "Unlimited range\nInstant\n[q]Velaryn pursues a player with her gaze for 8 sec, scorching the ground with Fel that inflicts 15 Chaos damage every 1 sec to players standing within."}
+MultiLanguageSpellData['en'][1232705] = {name = "Liftoff", additional_info = "Unlimited range\n{Instant} {11 sec cooldown}\n[q]Send your Festival Hot Air Balloon into the sky."}
 MultiLanguageSpellData['en'][1232707] = {name = "Arcane Aegis", additional_info = "Instant\n[q]While moving backward, you channel an Arcane Aegis , absorbing up to [(2100% Attack/Spell Power)] damage but reducing your movement speed by 80%. While not channeling Arcane Aegis , it regenerates at 5% per second. If the Arcane Aegis is shattered, it becomes unusable for 30 sec."}
 MultiLanguageSpellData['en'][1232708] = {name = "11.2 Delves - Fungarians01 - V04 - Black Blood Puddle: Apply (Hufton)", additional_info = nil}
 MultiLanguageSpellData['en'][1232711] = {name = "Arcane Aegis", additional_info = "Instant\n[q]While moving backward, you channel an Arcane Aegis , absorbing up to [(2100% Attack/Spell Power)] damage but reducing your movement speed by 80%. While not channeling Arcane Aegis , it regenerates at 5% per second. If the Arcane Aegis is shattered, it becomes unusable for 30 sec."}
@@ -12805,6 +13064,7 @@ MultiLanguageSpellData['en'][1232721] = {name = "Loom'ithar's Living Silk", addi
 MultiLanguageSpellData['en'][1232723] = {name = "Summon Xy'guts", additional_info = nil}
 MultiLanguageSpellData['en'][1232724] = {name = "Fleeting Energy", additional_info = "300 yd range\nInstant\n[q]Fleeting Energy erupts from the Attendant as they die, inflicting 0 Arcane damage when it lands to players within 2 yards. Picking up the Fleeting Energy grants Fleeting Empowerment."}
 MultiLanguageSpellData['en'][1232726] = {name = "Lindormi's Aid", additional_info = nil}
+MultiLanguageSpellData['en'][1232729] = {name = "Festival Hot Air Balloon", additional_info = nil}
 MultiLanguageSpellData['en'][1232731] = {name = "Hermit's Whistle", additional_info = "[q]Dire Command's chance to summon a Dire Beast is increased by 0%.\n\n Kill Command damage increased by 0%."}
 MultiLanguageSpellData['en'][1232732] = {name = "Maintain Xy'guts", additional_info = nil}
 MultiLanguageSpellData['en'][1232735] = {name = "Cancel", additional_info = nil}
@@ -12837,7 +13097,10 @@ MultiLanguageSpellData['en'][1232790] = {name = "Umbral Beckoning", additional_i
 MultiLanguageSpellData['en'][1232792] = {name = "Infusion Overload", additional_info = "Unlimited range\nInstant\n[q]Inflicts 797 Shadow damage to an enemy every 1 sec for until canceled."}
 MultiLanguageSpellData['en'][1232794] = {name = "Hulking Flail", additional_info = "50 yd range\n5 sec cast\n[q]The caster slams the ground inflicting 5 Physical damage to all enemies within 35 yards and knocking them back."}
 MultiLanguageSpellData['en'][1232797] = {name = "Araz's Ritual Forge", additional_info = nil}
+MultiLanguageSpellData['en'][1232799] = {name = "Ride Vehicle", additional_info = nil}
+MultiLanguageSpellData['en'][1232801] = {name = "Land", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1232802] = {name = "Araz's Ritual Forge", additional_info = "{Instant} {2 min cooldown}\n[q]Recklessly feed a portion of your essence to the forge, granting you 187 Primary Stat decaying over 30 sec at the cost of 15% of your maximum health."}
+MultiLanguageSpellData['en'][1232803] = {name = "Land", additional_info = "Unlimited range\n{Instant} {7 sec cooldown}\n[q]Land your Festival Hot Air Balloon."}
 MultiLanguageSpellData['en'][1232807] = {name = "Unraveling Sands", additional_info = "Unlimited range\n{1.5 sec cast} {1 min cooldown}\n[q]Summon a portal to the Obliterum Forge that transforms your unwanted items into Bronze."}
 MultiLanguageSpellData['en'][1232808] = {name = "Unraveling Sands", additional_info = nil}
 MultiLanguageSpellData['en'][1232812] = {name = "Obliterum Portal", additional_info = nil}
@@ -12845,6 +13108,8 @@ MultiLanguageSpellData['en'][1232813] = {name = "Obliterum Portal", additional_i
 MultiLanguageSpellData['en'][1232822] = {name = "\"Borrowed\" Artifact Weapon", additional_info = "Instant\n[q]Who knows what will happen if you borrow power from the future? It has infinite potential!"}
 MultiLanguageSpellData['en'][1232845] = {name = "Brewing Elixir", additional_info = nil}
 MultiLanguageSpellData['en'][1232888] = {name = "Phenomenal Cosmic Power", additional_info = "Instant\n[q]Dimensius is immune to all attacks and spells."}
+MultiLanguageSpellData['en'][1232891] = {name = "Eat", additional_info = nil}
+MultiLanguageSpellData['en'][1232892] = {name = "Drink Beer", additional_info = nil}
 MultiLanguageSpellData['en'][1232894] = {name = "Cosmic Radiation", additional_info = "Instant\n[q]Dimensius radiates intense energy, inflicting 1025930 Cosmic damage to all players every 2 sec."}
 MultiLanguageSpellData['en'][1232895] = {name = "Cosmic Radiation", additional_info = "Unlimited range\nInstant\n[q]Dimensius radiates intense energy, inflicting 1897267 Cosmic damage to all players every 2 sec."}
 MultiLanguageSpellData['en'][1232897] = {name = "Lycara's Inspiration", additional_info = "[q]You gain a bonus while in each form inspired by the breadth of your Druidic knowledge:\n\n No Form: 4% Magic Damage\n Cat Form: 4% Stamina\n Bear Form: 5% Movement Speed\n Moonkin Form: 3% Area damage taken reduction"}
@@ -13109,6 +13374,7 @@ MultiLanguageSpellData['en'][1233491] = {name = "Conquer", additional_info = "Un
 MultiLanguageSpellData['en'][1233492] = {name = "Vanquish", additional_info = "Unlimited range\nChanneled (3 sec cast)\n[q]Salhadaar cleaves his current target, inflicting 22486129 Physical damage and an additional 35415654 Shadow damage to all players in front of him, knocking them away.\n\n Increases damage taken from Vanquish by 500% for 20 sec."}
 MultiLanguageSpellData['en'][1233494] = {name = "Dark Heart", additional_info = nil}
 MultiLanguageSpellData['en'][1233495] = {name = "Kobold Child - Mount Spell", additional_info = nil}
+MultiLanguageSpellData['en'][1233496] = {name = "Housing - Carry Crate", additional_info = nil}
 MultiLanguageSpellData['en'][1233498] = {name = "Dark Heart", additional_info = nil}
 MultiLanguageSpellData['en'][1233499] = {name = "Mouse Paste", additional_info = nil}
 MultiLanguageSpellData['en'][1233502] = {name = "Death Grip", additional_info = "100 yd range\nInstant\n[q]Harnesses the energy that surrounds and binds all matter, drawing the target toward you [ Blood : and forcing the enemy to attack you ] [\n The cooldown is increased by 10 sec in PvP Combat.]"}
@@ -13116,9 +13382,12 @@ MultiLanguageSpellData['en'][1233503] = {name = "Dark Heart", additional_info = 
 MultiLanguageSpellData['en'][1233506] = {name = "Dissolve", additional_info = nil}
 MultiLanguageSpellData['en'][1233511] = {name = "Umbral K'arroc", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"A savage K'arroc particularly well-suited to prowling the perpetual twilight of K'aresh.\"\nAchievement:\nGlory of the Omega Raider\nCategory:\nDungeons & Raids"}
 MultiLanguageSpellData['en'][1233515] = {name = "Durable Information Securing Container", additional_info = "[q]Your spells and abilities have a chance to turn you into a Lightning Rod striking a random enemy target within 40 yds for ( 1 * 167 ) Nature damage every 3 sec for 15 sec."}
+MultiLanguageSpellData['en'][1233516] = {name = "K'arroc Swiftwing", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"A gift for services rendered, this K'arroc has seen its share of hazardous flights.\"\nQuest:\nOff to Tazavesh, Again\nZone:\nK'aresh"}
 MultiLanguageSpellData['en'][1233518] = {name = "Lavender K'arroc", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"This particularly belligerent K'arroc's previous master died while investigating Untethered Space. Perhaps it will accept you instead... or maybe not.\"\nVendor:\nShad'anis\nZone:\nK'aresh\nCost:\n10"}
 MultiLanguageSpellData['en'][1233529] = {name = "Faceless Masks", additional_info = nil}
 MultiLanguageSpellData['en'][1233530] = {name = "Nerubian Child - Mount Spell", additional_info = nil}
+MultiLanguageSpellData['en'][1233533] = {name = "Lumberjack", additional_info = nil}
+MultiLanguageSpellData['en'][1233534] = {name = "Lumberjack", additional_info = nil}
 MultiLanguageSpellData['en'][1233538] = {name = "Summon Rug", additional_info = nil}
 MultiLanguageSpellData['en'][1233539] = {name = "Devour", additional_info = "2 sec cast\n[q]Upon reaching 100 energy Dimensius increases his Density, creating a powerful inward force that inflicts 1686460 Shadow damage every 1 for 5 sec and pulls in players, Voidstars, Black Holes, and the Accretion Disk.\n\n After 5 sec any player outside of a Voidstar's Gravity Well is immediately pulled into Dimensius and consigned to Oblivion ."}
 MultiLanguageSpellData['en'][1233542] = {name = "The Bone Freezer", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Bitter rival to The Bone Melter, this creeper was ousted from their lair near Manaforge Omega after a crushing defeat. It now seeks to learn from the one that dethroned its greatest foe.\"\nManaforge Vandals\nRenown:\n14\nLocation:\nShadow Point"}
@@ -13132,9 +13401,11 @@ MultiLanguageSpellData['en'][1233557] = {name = "Density", additional_info = "In
 MultiLanguageSpellData['en'][1233559] = {name = "Blue Barry", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"A particularly rare variant of slateback, \"Blue Barry\" was previously used as a beast of burden.\"\nQuest:\nA Blue for You\nZone:\nK'aresh"}
 MultiLanguageSpellData['en'][1233561] = {name = "Curious Slateback", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"This curious slateback somehow managed to get itself stuck in a box. How it fit inside is still up in the air.\"\nDrop:\nWriggling Pinnacle Cache\nZone:\nK'aresh"}
 MultiLanguageSpellData['en'][1233572] = {name = "Blood Rune", additional_info = nil}
+MultiLanguageSpellData['en'][1233576] = {name = "Credit", additional_info = nil}
 MultiLanguageSpellData['en'][1233577] = {name = "Call of the Forest", additional_info = "{Instant} {1.5 min cooldown}\n[q]Artifact Ability\n\n Summon a stampede of forest denizens that charge forward. Each member of the stampede shields allies for [(505% Attack/Spell Power)] and grants 5% attack and casting speed for 15 sec up to 5 times. The stampede inflicts [(505% Attack/Spell Power)] Physical damage to enemies struck, immobilizing them for 3 sec."}
 MultiLanguageSpellData['en'][1233578] = {name = "Call of the Forest", additional_info = nil}
 MultiLanguageSpellData['en'][1233579] = {name = "Illidan's Grasp", additional_info = nil}
+MultiLanguageSpellData['en'][1233580] = {name = "Lumber Processing", additional_info = "Instant\nReagents:\nItem #242692(5)"}
 MultiLanguageSpellData['en'][1233582] = {name = "Call of the Forest", additional_info = "150 yd range\nInstant\n[q]Inflicts physical damage."}
 MultiLanguageSpellData['en'][1233585] = {name = "Natural Defenses", additional_info = "150 yd range\nInstant\n[q]Absorbs damage."}
 MultiLanguageSpellData['en'][1233588] = {name = "Call of the Forest", additional_info = "[q]Artifact Ability\n\n Summon a stampede of forest denizens that charge forward. Each member of the stampede shields allies for [(505% Attack/Spell Power)] and grants 5% attack and casting speed for 15 sec up to 5 times. The stampede inflicts [(505% Attack/Spell Power)] Physical damage to enemies struck, immobilizing them for 3 sec."}
@@ -13144,6 +13415,7 @@ MultiLanguageSpellData['en'][1233592] = {name = "Terror From Below", additional_
 MultiLanguageSpellData['en'][1233594] = {name = "Terror From Below", additional_info = "30 yd range\nInstant\n[q]Your abilities periodically draw the attention of a behemoth from the deep that seeks your enemy, inflicting [(440% Attack/Spell Power)] Nature damage split evenly between all enemies nearby.\n\n When Terror From Below strikes a Fel Touched enemy it causes Deepsurge Crash , damaging all nearby enemies for [(440% Attack/Spell Power)] nature damage."}
 MultiLanguageSpellData['en'][1233595] = {name = "Terror From Below", additional_info = "100 yd range\nInstant\n[q]Your abilities periodically draw the attention of a behemoth from the deep that seeks your enemy, inflicting [(440% Attack/Spell Power)] Nature damage split evenly between all enemies nearby.\n\n When Terror From Below strikes a Fel Touched enemy it causes Deepsurge Crash , damaging all nearby enemies for [(440% Attack/Spell Power)] nature damage."}
 MultiLanguageSpellData['en'][1233596] = {name = "Terror From Below", additional_info = "100 yd range\nInstant\n[q]Your ranged attacks and spells have a chance to summon a behemoth from the deep to swallow your target whole, dealing 4064 Nature damage split amongst you and all nearby enemies."}
+MultiLanguageSpellData['en'][1233597] = {name = "Cosmetic - ZZZ above head", additional_info = nil}
 MultiLanguageSpellData['en'][1233604] = {name = "Story Time Audience", additional_info = nil}
 MultiLanguageSpellData['en'][1233609] = {name = "Frostreaper", additional_info = "100 yd range\nInstant\n[q]Obliterate deals 10% increased damage and has a chance to tether the souls of its target and a nearby enemy to yours.\n\n Frost Strike severs the tethers, dealing (205.92% of Attack Power) Shadowfrost damage to both foes."}
 MultiLanguageSpellData['en'][1233611] = {name = "Create Storytime Zone", additional_info = nil}
@@ -13154,8 +13426,13 @@ MultiLanguageSpellData['en'][1233620] = {name = "Imprison", additional_info = "U
 MultiLanguageSpellData['en'][1233621] = {name = "Frostreaper", additional_info = "100 yd range\nInstant\n[q]Obliterate deals 10% increased damage and has a chance to tether the souls of its target and a nearby enemy to yours.\n\n Frost Strike severs the tethers, dealing (205.92% of Attack Power) Shadowfrost damage to both foes."}
 MultiLanguageSpellData['en'][1233622] = {name = "Imprison", additional_info = "Unlimited range\nInstant\n[q]Ilyssa imprisons multiple players, manifesting a prison that roots its target inside and inflicts 25 Chaos damage to players within 3 yards of impact.\n\n This prison inflicts 7 Chaos damage every 1 sec and roots its prisoner until destroyed."}
 MultiLanguageSpellData['en'][1233623] = {name = "Greater Heal", additional_info = "5 yd range\n2.5 sec cast\n[q]Calls upon Holy magic to heal an ally."}
+MultiLanguageSpellData['en'][1233626] = {name = "Cosmetic - Sleep Zzz - Breath - (JKM)", additional_info = nil}
 MultiLanguageSpellData['en'][1233627] = {name = "Power Surge", additional_info = "[q]Damage dealt by Arcane Surge is increased by 200% and its cast time is reduced by 50%.\n\n After casting Arcane Surge, your spell casts cannot be interrupted and Arcane Blast's damage is increased by 30% for 8 sec."}
 MultiLanguageSpellData['en'][1233633] = {name = "Imprison", additional_info = "Unlimited range\nChanneled (0 sec cast)\n[q]Ilyssa imprisons multiple players, manifesting a prison that roots its target inside and inflicts 25 Chaos damage to players within 3 yards of impact.\n\n This prison inflicts 7 Chaos damage every 1 sec and roots its prisoner until destroyed."}
+MultiLanguageSpellData['en'][1233635] = {name = "Spawn Wood", additional_info = nil}
+MultiLanguageSpellData['en'][1233636] = {name = "Lumberjack", additional_info = nil}
+MultiLanguageSpellData['en'][1233637] = {name = "Teleport Home", additional_info = "{10 sec cast} {15 min cooldown}\n[q]Teleport Home."}
+MultiLanguageSpellData['en'][1233638] = {name = "Spawn Wood", additional_info = nil}
 MultiLanguageSpellData['en'][1233642] = {name = "Durable Information Securing Container", additional_info = nil}
 MultiLanguageSpellData['en'][1233644] = {name = "Durable Information Securing Container", additional_info = nil}
 MultiLanguageSpellData['en'][1233654] = {name = "Mana-Tinted Glasses", additional_info = "Unlimited range\nInstant\n[q]Brann dons mana-tinted glasses while in combat, periodically increasing his damage done by 4% and damage taken by 5% every 5 sec up to 10 times.\n\n Dispelling the glasses will heal Brann for 40% of his maximum health and stun nearby enemies for 3 sec.\n Otherwise this effect is automatically dispelled when Brann drops below 30% health which prevents the stun from occurring."}
@@ -13224,7 +13501,9 @@ MultiLanguageSpellData['en'][1233898] = {name = "Quizzical Device", additional_i
 MultiLanguageSpellData['en'][1233899] = {name = "Ethereal Energy Converter", additional_info = "Unlimited range\nInstant\n[q]When a party member drops below 60% health, an Ethereal Energy Converter materializes, dealing moderate damage to nearby enemies and taunting them for 4 sec. Once the taunt expires, the Converter releases an Etherwave healing nearby allies for 30% of their health. Can be triggered every 2 min. Killing enemies reduces the cooldown of this effect by 4 sec."}
 MultiLanguageSpellData['en'][1233900] = {name = "Plague Seed", additional_info = "50 yd range\n1.5 sec cast\n[q]Hurl a seed at an enemy, inflicting 8 Shadow damage and additional 3 Shadow damage every 2 sec for 6 sec."}
 MultiLanguageSpellData['en'][1233902] = {name = "Defensive State", additional_info = "2 sec cast\n[q]Heals itself every 1 sec for 6 sec and reduce the damage it take every 1 sec for 6 sec."}
+MultiLanguageSpellData['en'][1233906] = {name = "Turn Right", additional_info = "Unlimited range\n{Instant} {3 sec cooldown}\n[q]Turn your Festival Hot Air Balloon to the right."}
 MultiLanguageSpellData['en'][1233909] = {name = "Exit Phase Diving", additional_info = nil}
+MultiLanguageSpellData['en'][1233916] = {name = "Drift", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1233917] = {name = "Crystaline Overcharge", additional_info = "100 yd range\nInstant\n[q]Fractillus becomes empowered by Refracted Entropy , increasing the damage it does by 200% and triggers Enraged Shattering ."}
 MultiLanguageSpellData['en'][1233918] = {name = "Saber Slash", additional_info = "Melee Range\nInstant\nRequires Melee Weapon\n[q]Viciously slash an enemy, causing Physical damage."}
 MultiLanguageSpellData['en'][1233920] = {name = "Destroying", additional_info = nil}
@@ -13254,10 +13533,14 @@ MultiLanguageSpellData['en'][1233959] = {name = "Fel Rush", additional_info = ni
 MultiLanguageSpellData['en'][1233968] = {name = "Event Horizon", additional_info = "Unlimited range\nInstant\n[q]The Collapsing Star inflicts 5270187 Cosmic damage every 0.5 sec to players within its mass."}
 MultiLanguageSpellData['en'][1233969] = {name = "Periodic Energize", additional_info = nil}
 MultiLanguageSpellData['en'][1233971] = {name = "Portal", additional_info = nil}
+MultiLanguageSpellData['en'][1233973] = {name = "Cosmetic - ZZZ with Delay", additional_info = nil}
 MultiLanguageSpellData['en'][1233975] = {name = "Portal", additional_info = nil}
+MultiLanguageSpellData['en'][1233976] = {name = "Cosmetic - Eat Meat Breakable", additional_info = nil}
+MultiLanguageSpellData['en'][1233977] = {name = "Cosmetic - Eat Meat Breakable", additional_info = nil}
 MultiLanguageSpellData['en'][1233978] = {name = "Arcane Outrage", additional_info = "Unlimited range\nInstant\n[q]Loom'ithar unleashes Arcane Ichor and pure arcane energy with an enraged shriek, repelling and inflicting 1454571 Arcane damage to all players each second for the next 4 sec ."}
 MultiLanguageSpellData['en'][1233979] = {name = "Astral Harvest", additional_info = "70 yd range\nInstant\n[q]The Arcane Collector draws energy from several players, inflicting 2815741 Arcane damage every 1 sec for 4 sec. Upon expiration, an Arcane Manifestation forms at each player's location."}
 MultiLanguageSpellData['en'][1233980] = {name = "Blackwater Swing", additional_info = nil}
+MultiLanguageSpellData['en'][1233982] = {name = "Stop", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1233984] = {name = "Rive", additional_info = "40 yd range\n1 sec cast\n[q]The ethereal slashes through the target, inflicting 5 Shadow damage."}
 MultiLanguageSpellData['en'][1233986] = {name = "Rive", additional_info = "Unlimited range\nInstant\n[q]The ethereal slashes through the target, inflicting 5 Shadow damage."}
 MultiLanguageSpellData['en'][1233991] = {name = "Volatile Oblivion", additional_info = nil}
@@ -13266,10 +13549,12 @@ MultiLanguageSpellData['en'][1233993] = {name = "Volatile Oblivion", additional_
 MultiLanguageSpellData['en'][1233996] = {name = "Follow", additional_info = nil}
 MultiLanguageSpellData['en'][1233997] = {name = "Astral Harvest", additional_info = nil}
 MultiLanguageSpellData['en'][1233999] = {name = "Obliteration Arcanocannon", additional_info = "300 yd range\nInstant\n[q]The Plexus Sentinel marks its current target, then fires an arcane charge that inflicts 26702279 Arcane damage to players within 10 yards, and 25296896 Arcane damage to all other players. Players farther from the target receive less damage. This explosion leaves behind Potent Mana Residue .\n\n The impact causes the primary target to take 1000% damage from Obliteration Arcanocannon for 45 sec."}
+MultiLanguageSpellData['en'][1234001] = {name = "Hold Mining Tool", additional_info = nil}
 MultiLanguageSpellData['en'][1234003] = {name = "Holding a Mouse", additional_info = nil}
 MultiLanguageSpellData['en'][1234009] = {name = "Stabilizer Beam", additional_info = nil}
 MultiLanguageSpellData['en'][1234011] = {name = "Volatile Oblivion", additional_info = nil}
 MultiLanguageSpellData['en'][1234012] = {name = "Volatile Oblivion", additional_info = nil}
+MultiLanguageSpellData['en'][1234013] = {name = "WA Carry Hay (Upper Body Anim Kit)", additional_info = nil}
 MultiLanguageSpellData['en'][1234014] = {name = "Backfire", additional_info = nil}
 MultiLanguageSpellData['en'][1234016] = {name = "Play Nice, Play Fair", additional_info = "Instant\n[q]Your maximum item level is 619 for this match."}
 MultiLanguageSpellData['en'][1234020] = {name = "Void Slam", additional_info = "10 yd range\n{2 sec cast} {5 sec cooldown}\n[q]Sends the targets in a cone in front of the caster flying, inflicting 3 Shadow damage on impact and knocking them back."}
@@ -13299,6 +13584,8 @@ MultiLanguageSpellData['en'][1234065] = {name = "Brewspawn", additional_info = "
 MultiLanguageSpellData['en'][1234084] = {name = "Spirited Scorcher", additional_info = "100 yd range\n3 sec cast\n[q]"}
 MultiLanguageSpellData['en'][1234087] = {name = "Spirited Scorcher", additional_info = "{Instant} {13 sec cooldown}\n[q]"}
 MultiLanguageSpellData['en'][1234091] = {name = "Imprison", additional_info = "Instant\n[q]Ilyssa imprisons multiple players, manifesting a prison that roots its target inside and inflicts 25 Chaos damage to players within 3 yards of impact.\n\n This prison inflicts 7 Chaos damage every 1 sec and roots its prisoner until destroyed."}
+MultiLanguageSpellData['en'][1234094] = {name = "Loch Modan Bearskin Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1234097] = {name = "Sturdy Wooden Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1234099] = {name = "Rolling Rampage", additional_info = nil}
 MultiLanguageSpellData['en'][1234100] = {name = "Rolling Rampage", additional_info = nil}
 MultiLanguageSpellData['en'][1234101] = {name = "Fixate", additional_info = "200 yd range\nChanneled (0 sec cast)\n[q]Fixates a player until they are killed."}
@@ -13318,6 +13605,7 @@ MultiLanguageSpellData['en'][1234135] = {name = "Set Self to All Phases", additi
 MultiLanguageSpellData['en'][1234189] = {name = "Execution Sentence", additional_info = "30 yd range\nInstant\n[q]A hammer slowly falls from the sky upon the target, after 8 sec, they suffer 0% of the damage taken from your abilities as Holy damage during that time.\n\n [ Divine Auxiliary : Generates 3 Holy Power. ]"}
 MultiLanguageSpellData['en'][1234190] = {name = "Mana Ray Collection Completed", additional_info = nil}
 MultiLanguageSpellData['en'][1234191] = {name = "Mana Ray Collection Abandon", additional_info = nil}
+MultiLanguageSpellData['en'][1234193] = {name = "Exit House", additional_info = "5 yd range\n1 sec cast\n[q][DNT] Teleport to a house plot."}
 MultiLanguageSpellData['en'][1234200] = {name = "Heating", additional_info = nil}
 MultiLanguageSpellData['en'][1234201] = {name = "Separating", additional_info = nil}
 MultiLanguageSpellData['en'][1234208] = {name = "Infusing", additional_info = nil}
@@ -13366,7 +13654,9 @@ MultiLanguageSpellData['en'][1234304] = {name = "Breath of Sindragosa", addition
 MultiLanguageSpellData['en'][1234305] = {name = "Lightwing Dragonhawk", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Radiating warmth and grace, it soars on wings of light.\"\nPromotion"}
 MultiLanguageSpellData['en'][1234310] = {name = "Photon Blast", additional_info = "Instant\n[q]The Arcane Collector emits an energy beam, inflicting 22493156 Arcane damage to players in the area. Victims suffer an additional 1680121 Arcane damage every 1.5 sec for 6 sec."}
 MultiLanguageSpellData['en'][1234311] = {name = "Mana Revitalization", additional_info = "Unlimited range\nInstant\n[q]While shielded, the target regenerates 3% of their maximum health every 0.5 sec."}
+MultiLanguageSpellData['en'][1234313] = {name = "Butchering", additional_info = nil}
 MultiLanguageSpellData['en'][1234316] = {name = "Photon Blast", additional_info = "100 yd range\n2 sec cast\n[q]Soul-Scribe flings daggers in the direction of Fates and Fatebound players, inflicting 2909339 Arcane damage to players struck and inflicting an additional 969780 Arcane damage every 1.5 sec for 6 sec.\n\n Fates struck afflict their bound player with Wounded Fate ."}
+MultiLanguageSpellData['en'][1234317] = {name = "Butchering", additional_info = nil}
 MultiLanguageSpellData['en'][1234319] = {name = "Imprison", additional_info = "Unlimited range\n5 sec cast\n[q]Ilyssa imprisons multiple players, manifesting a prison that roots its target inside and inflicts 25 Chaos damage to players within 3 yards of impact.\n\n This prison inflicts 7 Chaos damage every 1 sec and roots its prisoner until destroyed."}
 MultiLanguageSpellData['en'][1234321] = {name = "Void Bubble", additional_info = nil}
 MultiLanguageSpellData['en'][1234324] = {name = "Photon Blast", additional_info = "100 yd range\nInstant\n[q]The Arcane Collector emits an energy beam, inflicting 22493156 Arcane damage to players in the area. Victims suffer an additional 1680121 Arcane damage every 1.5 sec for 6 sec."}
@@ -13468,6 +13758,7 @@ MultiLanguageSpellData['en'][1234440] = {name = "Battery", additional_info = nil
 MultiLanguageSpellData['en'][1234524] = {name = "Dark Sweep", additional_info = "3 sec cast\n[q]Inflicts 25 Shadow damage and knocks away all enemies in front of the caster."}
 MultiLanguageSpellData['en'][1234526] = {name = "Mana-Bound Ethergate", additional_info = "Unlimited range5 sec cast 2 hrs cooldown\n[q]Open a portal for 1 min that any player can use to return to the Explorers' League home base in Dornogal."}
 MultiLanguageSpellData['en'][1234529] = {name = "Cosmic Maw", additional_info = "Unlimited range\n1.25 sec cast\n[q]The Voidwing shreds its current target between stellar jaws, inflicting 112430647 Physical damage.\n\n The target's essence is devoured, inflicting an additional 4216149 Cosmic damage every 0.3 sec and increasing damage taken from Dimension Breath by 200% for 10 sec."}
+MultiLanguageSpellData['en'][1234531] = {name = "Energized", additional_info = "Instant\n[q]A boost of Draconic Energy"}
 MultiLanguageSpellData['en'][1234532] = {name = "Visceral Strength", additional_info = "Instant\n[q]Blood\nWhen Vampiric Strike damages an enemy affected by your Blood Plague, it extends the duration of the disease by 3 sec, and deals 10% of the remaining damage to the enemy.\n\n After Gift of the San'layn ends, the cooldown of your Death and Decay , and your next Heart Strike consumes the disease to deal 100% of their remaining damage to the target.\n\nUnholy\nWhen Vampiric Strike damages an enemy affected by your Virulent Plague, it extends the duration of the disease by 3 sec, and deals 10% of the remaining damage to the enemy.\n\n After Gift of the San'layn ends, the cooldown of your Death and Decay , and your next consumes the disease to deal 100% of their remaining damage to the target.\n(1s cooldown)"}
 MultiLanguageSpellData['en'][1234533] = {name = "Cosmic Maw", additional_info = "Unlimited range\nInstant\n[q]The Voidwing shreds its current target between stellar jaws, inflicting 112430647 Physical damage.\n\n The target's essence is devoured, inflicting an additional 4216149 Cosmic damage every 0.3 sec and increasing damage taken from Dimension Breath by 200% for 10 sec."}
 MultiLanguageSpellData['en'][1234534] = {name = "Dark Sweep", additional_info = "3 sec cast\n[q]Inflicts 25 Shadow damage and knocks away all enemies in front of the caster."}
@@ -13489,6 +13780,11 @@ MultiLanguageSpellData['en'][1234581] = {name = "Nerubian Child - Mount Spell", 
 MultiLanguageSpellData['en'][1234582] = {name = "Wrath of the Jailer", additional_info = nil}
 MultiLanguageSpellData['en'][1234588] = {name = "Hopeflutter", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][1234591] = {name = "Doomfeathers", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1234621] = {name = "Standing Ornate Weapon Rack", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1234634] = {name = "Red Dazar'alor Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1234639] = {name = "Add Gemmed Eversong Lantern to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1234646] = {name = "Blue Dazar'alor Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1234663] = {name = "Zandalari Weapon Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1234674] = {name = "Ethereal Defense Pylon", additional_info = "{1 sec cast} {1 min cooldown}\n[q]Summons a security pylon that increases attack speed, casting speed and Versatility by 20% for all who stand near it."}
 MultiLanguageSpellData['en'][1234678] = {name = "Ethereal Defense Pylon", additional_info = nil}
 MultiLanguageSpellData['en'][1234683] = {name = "Highmountain Fortitude", additional_info = "[q]Once every 12 sec, you begin accumulating 3% of all damage taken as Fortitude . After 8 sec, Fortitude becomes a protective barrier, absorbing the amount accumulated for 4 sec.\n(12s cooldown)"}
@@ -13513,6 +13809,8 @@ MultiLanguageSpellData['en'][1234728] = {name = "Seal the Forge", additional_inf
 MultiLanguageSpellData['en'][1234732] = {name = "Seal the Forge", additional_info = "Unlimited range\nChanneled (7 days cast)\n[q]Salhadaar funnels energy into the door of the Manaforge."}
 MultiLanguageSpellData['en'][1234733] = {name = "Cleanse the Chamber", additional_info = "300 yd range\n3 sec cast\n[q]The Plexus Sentinel sends an Arcanomatrix Atomizer through The Influx."}
 MultiLanguageSpellData['en'][1234746] = {name = "Seal the Forge", additional_info = nil}
+MultiLanguageSpellData['en'][1234748] = {name = "Spawn Fish Basket", additional_info = nil}
+MultiLanguageSpellData['en'][1234750] = {name = "Fishing", additional_info = nil}
 MultiLanguageSpellData['en'][1234755] = {name = "Flame Thrower", additional_info = "100 yd range\nChanneled\n[q]Inflicts 1 Fire damage to all enemies in front of the caster."}
 MultiLanguageSpellData['en'][1234756] = {name = "Flame Thrower", additional_info = nil}
 MultiLanguageSpellData['en'][1234769] = {name = "Armor Specialization", additional_info = "[q]Armor increased by 6%."}
@@ -13532,6 +13830,7 @@ MultiLanguageSpellData['en'][1234820] = {name = "Vicious Void Creeper", addition
 MultiLanguageSpellData['en'][1234821] = {name = "Vicious Void Creeper", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Originating from K'aresh, these creatures like to burrow and ambush unsuspecting Alliance.\"\nPvP:\nThe War Within: Season 3\nRated Arena and Rated Battleground Season Reward"}
 MultiLanguageSpellData['en'][1234822] = {name = "Ixthal the Observling", additional_info = "Instant\n[q]Right Click to summon and dismiss Ixthal the Observling."}
 MultiLanguageSpellData['en'][1234824] = {name = "Galactic Smash", additional_info = "Unlimited range\n1 sec cast\n[q]Images of Salhadaar emerge alongside him to smash their targets with galactic force, applying Twilight Scar and inflicting 12142510 Cosmic damage to all players. Players farther from each target take less damage.\n\n Salhadaar's primary target is Starshattered . A Dark Star forms at each impact location."}
+MultiLanguageSpellData['en'][1234832] = {name = "Housing - Carry Fish Basket", additional_info = nil}
 MultiLanguageSpellData['en'][1234834] = {name = "Battle Ready", additional_info = nil}
 MultiLanguageSpellData['en'][1234845] = {name = "Abyssal Breach", additional_info = nil}
 MultiLanguageSpellData['en'][1234847] = {name = "Nether Overlay Matrix", additional_info = "Unlimited range\nInstant\nApproximately 1 procs per minute\n[q]During combat Brann has a chance to manifest a 60% weaker ethereal copy of himself to fight by your side for 1 min.\n(25s cooldown)"}
@@ -13615,6 +13914,8 @@ MultiLanguageSpellData['en'][1235178] = {name = "Arcanomatrix Atomizer", additio
 MultiLanguageSpellData['en'][1235183] = {name = "Flag Tracking", additional_info = nil}
 MultiLanguageSpellData['en'][1235189] = {name = "Mana Intake", additional_info = nil}
 MultiLanguageSpellData['en'][1235191] = {name = "Mana Intake", additional_info = nil}
+MultiLanguageSpellData['en'][1235196] = {name = "Circular Elven Floor Rug", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1235197] = {name = "Rectangular Elven Floor Rug", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1235209] = {name = "Souls of the Caw", additional_info = "100 yd range\nInstant\n[q]Your spells and abilities have a chance to summon a flock of spirit eagles that dive bomb nearby enemies, exploding on impact to heal allies and inflict [[2 * (368% Attack/Spell Power)]][[(368% Attack/Spell Power)]] Nature damage to enemies within 5 yards."}
 MultiLanguageSpellData['en'][1235213] = {name = "Soul Calling", additional_info = "Unlimited range\nInstant\n[q]The Soulbinder Naazindhri courses arcane energy through the bodies of several players, inflicting 2108075 Arcane damage every 1 sec for 5 sec.\n\nUpon expiration, Soulrend Orbs explode from the target's body."}
 MultiLanguageSpellData['en'][1235214] = {name = "Crumbling Slam", additional_info = nil}
@@ -13626,6 +13927,7 @@ MultiLanguageSpellData['en'][1235229] = {name = "Cosmic Void Dissolve In", addit
 MultiLanguageSpellData['en'][1235231] = {name = "Exit Vision", additional_info = nil}
 MultiLanguageSpellData['en'][1235233] = {name = "Mana Intake", additional_info = nil}
 MultiLanguageSpellData['en'][1235235] = {name = "Mana Intake", additional_info = nil}
+MultiLanguageSpellData['en'][1235237] = {name = "Parachute", additional_info = "Unlimited range\nInstant\n[q]A portable parachute, automatically activates when the caster begins falling."}
 MultiLanguageSpellData['en'][1235241] = {name = "Portal", additional_info = "Instant\n[q]Teleports the caster to Thrall's Room"}
 MultiLanguageSpellData['en'][1235242] = {name = "Portal", additional_info = nil}
 MultiLanguageSpellData['en'][1235243] = {name = "Khaz Algar Adventurer Pack Surprise", additional_info = nil}
@@ -13654,6 +13956,7 @@ MultiLanguageSpellData['en'][1235280] = {name = "Ensemble: Grandmaster's Royal A
 MultiLanguageSpellData['en'][1235281] = {name = "Phase Rush", additional_info = nil}
 MultiLanguageSpellData['en'][1235282] = {name = "Ensemble: Grandmaster's Smoke Attire", additional_info = "Instant\n[q]Collect the appearances of the Grandmaster's Smoke Attire\n armor set."}
 MultiLanguageSpellData['en'][1235283] = {name = "Punt", additional_info = nil}
+MultiLanguageSpellData['en'][1235288] = {name = "Tauren Waterwheel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1235290] = {name = "Crafting Simulacrum", additional_info = "5 yd range\n2 sec cast\n[q]Opens an object."}
 MultiLanguageSpellData['en'][1235291] = {name = "Event Horizon", additional_info = nil}
 MultiLanguageSpellData['en'][1235292] = {name = "Bag of Brewfest Merchandise [PH]", additional_info = "Instant"}
@@ -13689,16 +13992,29 @@ MultiLanguageSpellData['en'][1235397] = {name = "Umbral Reach", additional_info 
 MultiLanguageSpellData['en'][1235398] = {name = "Untethered Visuals", additional_info = nil}
 MultiLanguageSpellData['en'][1235399] = {name = "Cartel Jumper Cables", additional_info = "Instant\n[q]Ready to use the Cartel Jumper Cables in case of an untimely demise. Only usable out of combat."}
 MultiLanguageSpellData['en'][1235400] = {name = "Cartel Jumper Cables", additional_info = "Instant\n[q]Ready to use the Cartel Jumper Cables in case of an untimely demise. Only usable out of combat."}
+MultiLanguageSpellData['en'][1235401] = {name = "Jubilant Snowman", additional_info = "100 yd range\n{3 sec cast} {10 min cooldown}\n[q]Don the jolly costume of the Jubilant Snowman. Cooldown reduced during Feast of Winter Veil."}
+MultiLanguageSpellData['en'][1235402] = {name = "Melt", additional_info = "Instant\n[q]Take off your Jubilant Snowman costume."}
+MultiLanguageSpellData['en'][1235404] = {name = "Throw Snowball", additional_info = "40 yd range\nInstant\n[q]Throw a snowball!"}
+MultiLanguageSpellData['en'][1235406] = {name = "Summon Present", additional_info = nil}
 MultiLanguageSpellData['en'][1235408] = {name = "Arcane Slash", additional_info = nil}
 MultiLanguageSpellData['en'][1235409] = {name = "Reshii Grace", additional_info = "[q]The powers of your Reshii Wraps are triggered 50% more frequently."}
+MultiLanguageSpellData['en'][1235417] = {name = "Summon Mischievous Present", additional_info = "{Instant} {15 sec recharge}\n2 Charges\n[q]Throw a Mischievous Present to spread holiday cheer!"}
 MultiLanguageSpellData['en'][1235420] = {name = "Kneel", additional_info = nil}
 MultiLanguageSpellData['en'][1235422] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1235423] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1235425] = {name = "Soulbinder's Embrace", additional_info = "{Instant} {1 min cooldown}\n[q]Activate the Soulshield to unleash a shockwave dealing 147 Arcane damage to all nearby enemies and reduce your damage taken by 50% for 20 sec or until 5139 damage has been prevented."}
 MultiLanguageSpellData['en'][1235426] = {name = "Consume", additional_info = nil}
+MultiLanguageSpellData['en'][1235431] = {name = "Undermine Rectangular Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1235440] = {name = "Cartel Head's Schmancy Desk", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1235446] = {name = "Zhevra-Stripe Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1235453] = {name = "Reinforced Wooden Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1235454] = {name = "Tauren Bluff Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1235455] = {name = "Elder Rise Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1235456] = {name = "Add Open Silvermoon Drapes to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1235457] = {name = "Add Small Silvermoon Drapes to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1235463] = {name = "Umbral Gate", additional_info = nil}
 MultiLanguageSpellData['en'][1235466] = {name = "Umbral Gate", additional_info = nil}
-MultiLanguageSpellData['en'][1235467] = {name = "Umbral Gate", additional_info = "Unlimited range\nInstant\n[q]Xal'atath bends space to her advantage creating waygates that refresh the duration of Soaring Reshii , grant a burst of speed and restore 1 Vigor when players pass through them."}
+MultiLanguageSpellData['en'][1235467] = {name = "Umbral Gate", additional_info = "Unlimited range\nInstant\n[q]Xal'atath bends space to her advantage creating waygates that refresh the duration of Soaring Reshii , grant a burst of speed and restore Skyriding Charges when players pass through them."}
 MultiLanguageSpellData['en'][1235468] = {name = "Harbinger's Embrace", additional_info = nil}
 MultiLanguageSpellData['en'][1235475] = {name = "Deposit Brew", additional_info = "20 yd range\n{0.5 sec cast} {1 sec cooldown}\nReagents:\nBrew Keg\n[q]Add the brew to the serving keg."}
 MultiLanguageSpellData['en'][1235477] = {name = "Brew", additional_info = "30 yd range\nInstant\n[q]Carrying a carefully crafted brew."}
@@ -13714,6 +14030,7 @@ MultiLanguageSpellData['en'][1235510] = {name = "Cleanse the Chamber", additiona
 MultiLanguageSpellData['en'][1235511] = {name = "Dark Heart", additional_info = nil}
 MultiLanguageSpellData['en'][1235512] = {name = "Dark Heart", additional_info = nil}
 MultiLanguageSpellData['en'][1235513] = {name = "Snowy Highmountain Eagle", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"To find the feather of a snowy eagle in Highmountain is an omen of shifting winds and temperature drops.\"\nWorld Event:\nWoW Remix: Legion"}
+MultiLanguageSpellData['en'][1235521] = {name = "Add Tauren Windmill to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1235527] = {name = "Brand of Ire", additional_info = "[q]You deal 5% increased damage to enemies afflicted with Fel Touched ."}
 MultiLanguageSpellData['en'][1235528] = {name = "Adding Hops", additional_info = nil}
 MultiLanguageSpellData['en'][1235531] = {name = "Maw of the Void", additional_info = "40 yd range\n{1 sec cast} {3 sec cooldown}\n[q]Empower the Maw's singularity, collecting loot from corpses within 40 yds and crushing them into void dust."}
@@ -13737,8 +14054,11 @@ MultiLanguageSpellData['en'][1235580] = {name = "Phase Modulation", additional_i
 MultiLanguageSpellData['en'][1235582] = {name = "Searing Brand", additional_info = "[q]You deal 10% increased damage to enemies afflicted with ."}
 MultiLanguageSpellData['en'][1235583] = {name = "Void Bolt", additional_info = "30 yd range\n2 sec cast\n[q]Inflicts Shadow damage to an enemy."}
 MultiLanguageSpellData['en'][1235589] = {name = "Consume", additional_info = nil}
+MultiLanguageSpellData['en'][1235590] = {name = "Portal to Horde Housing District", additional_info = nil}
+MultiLanguageSpellData['en'][1235595] = {name = "Portal to Alliance Housing District", additional_info = nil}
 MultiLanguageSpellData['en'][1235601] = {name = "Phase Transition", additional_info = nil}
 MultiLanguageSpellData['en'][1235620] = {name = "Vengeance", additional_info = "Instant\n[q]Fills allies within 0 yards with vengeance upon death, increasing their damage done by 15% for 20 sec. Stacks."}
+MultiLanguageSpellData['en'][1235621] = {name = "Ride Wagon", additional_info = "10 yd range\nInstant\n[q]Ride a wagon."}
 MultiLanguageSpellData['en'][1235627] = {name = "Fleeting Empowerment", additional_info = nil}
 MultiLanguageSpellData['en'][1235629] = {name = "Fleeting Empowerment", additional_info = nil}
 MultiLanguageSpellData['en'][1235632] = {name = "Consume", additional_info = nil}
@@ -13753,14 +14073,17 @@ MultiLanguageSpellData['en'][1235668] = {name = "Serve Pretzel", additional_info
 MultiLanguageSpellData['en'][1235671] = {name = "Drop Pretzel", additional_info = nil}
 MultiLanguageSpellData['en'][1235674] = {name = "Broken World", additional_info = nil}
 MultiLanguageSpellData['en'][1235679] = {name = "11.2 Delves - Kobolds01 - V04 - Void Bubble: Static, Large (Hufton)", additional_info = nil}
+MultiLanguageSpellData['en'][1235682] = {name = "Frozen Solid", additional_info = nil}
 MultiLanguageSpellData['en'][1235683] = {name = "Glory of the Unending Hunt", additional_info = "[q]Wardens Defeating an enemy heals you for 50% of the target's maximum health over 6 sec."}
 MultiLanguageSpellData['en'][1235685] = {name = "Glory of the Unending Hunt", additional_info = "Instant\n[q]Wardens Defeating an enemy heals you for 50% of the target's maximum health over 6 sec."}
 MultiLanguageSpellData['en'][1235690] = {name = "Phase Diving - Tutorial - On Quest Accept - Event", additional_info = nil}
 MultiLanguageSpellData['en'][1235693] = {name = "Ensemble: Feathered Collection of the Archmage", additional_info = "Instant\n[q]Collect the appearances of the Feathered Collection of the Archmage."}
 MultiLanguageSpellData['en'][1235696] = {name = "Ensemble: Feathered Collection of the Prophet", additional_info = "Instant\n[q]Collect the appearances of the Feathered Collection of the Prophet."}
 MultiLanguageSpellData['en'][1235707] = {name = "Stunned", additional_info = "Instant\n[q]Stunned."}
+MultiLanguageSpellData['en'][1235709] = {name = "Load Advert", additional_info = nil}
 MultiLanguageSpellData['en'][1235710] = {name = "Knead the Dough", additional_info = nil}
 MultiLanguageSpellData['en'][1235711] = {name = "Stop Kneading the Dough", additional_info = nil}
+MultiLanguageSpellData['en'][1235725] = {name = "Elegant Padded Divan", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1235740] = {name = "Fell Off The Asteroid", additional_info = nil}
 MultiLanguageSpellData['en'][1235742] = {name = "Fell Off The Asteroid", additional_info = nil}
 MultiLanguageSpellData['en'][1235756] = {name = "Grandmaster's Prophetic Board", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The chess event was not to be contained. So Medivh fashioned this conveyance to take it on trips.\"\nTrading Post"}
@@ -13855,7 +14178,9 @@ MultiLanguageSpellData['en'][1236186] = {name = "Umbra Bolt", additional_info = 
 MultiLanguageSpellData['en'][1236189] = {name = "Siphon Power", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1236192] = {name = "Rune of Explosive Force", additional_info = "Instant\n[q]Deal Arcane damage to nearby creatures."}
 MultiLanguageSpellData['en'][1236193] = {name = "Siphon Power", additional_info = "20 yd range\nChanneled (5 sec cast)\n[q]The caster siphons power from a nearby crystal, periodically launching Siphon Discharge at players within 60 yards.\n\n After channeling, the caster's damage done increases by 50%."}
+MultiLanguageSpellData['en'][1236194] = {name = "Snow Patch", additional_info = nil}
 MultiLanguageSpellData['en'][1236201] = {name = "Rune of Explosive Force", additional_info = nil}
+MultiLanguageSpellData['en'][1236204] = {name = "Ride Vehicle", additional_info = nil}
 MultiLanguageSpellData['en'][1236207] = {name = "Astral Surge", additional_info = "Unlimited range\nInstant\n[q]The Arcane Collector surges with energy if it contacts an Arcane Manifestation, inflicting 22623435 Arcane damage to all players and an additional 8432299 Arcane damage every 2 sec for 16 sec."}
 MultiLanguageSpellData['en'][1236209] = {name = "Glacial Spike", additional_info = "{1% of base mana} {40 yd range}\n2.75 sec cast\n[q]Conjures a massive spike of ice, and merges your current Icicles into it. It impales your target, dealing (654% of Spell Power) damage plus all of the damage stored in your Icicles, and freezes the target in place for 4 sec. Damage may interrupt the freeze effect.\n\n Requires 5 Icicles to cast.\n\nPassive: Ice Lance no longer launches Icicles."}
 MultiLanguageSpellData['en'][1236211] = {name = "Glacial Spike", additional_info = "100 yd range\nInstant\n[q]Conjures a massive spike of ice, and merges your current Icicles into it. It impales your target, dealing (654% of Spell Power) damage plus all of the damage stored in your Icicles, and freezes the target in place for 4 sec. Damage may interrupt the freeze effect.\n\n Requires 5 Icicles to cast.\n\nPassive: Ice Lance no longer launches Icicles."}
@@ -13870,6 +14195,7 @@ MultiLanguageSpellData['en'][1236240] = {name = "Energy Transfer", additional_in
 MultiLanguageSpellData['en'][1236243] = {name = "Energy Transfer", additional_info = nil}
 MultiLanguageSpellData['en'][1236244] = {name = "Dunebreak Leap", additional_info = "60 yd range\nInstant\n[q]"}
 MultiLanguageSpellData['en'][1236247] = {name = "Dunebreak Leap", additional_info = "60 yd range\n3.5 sec cast\n[q]"}
+MultiLanguageSpellData['en'][1236249] = {name = "Rectangular Elegant Table", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1236251] = {name = "Dunebreak Leap", additional_info = "60 yd range\nInstant\n[q]Inflicts Arcane damage to all enemies within 6 yards of the impact."}
 MultiLanguageSpellData['en'][1236252] = {name = "Energy Transfer", additional_info = nil}
 MultiLanguageSpellData['en'][1236253] = {name = "Death Knight Deathbringer 11.2 Class Set 2pc", additional_info = "[q]Frost, Unholy\n Casting Reaper's Mark grants 1 stack of Exterminate with 150% first scythe and 125% second scythe effectiveness.\n\nBlood\n Casting Reaper's Mark grants 2 stacks of Exterminate with 150% first scythe and 125% second scythe effectiveness."}
@@ -13904,6 +14230,7 @@ MultiLanguageSpellData['en'][1236302] = {name = "Drop Brew", additional_info = n
 MultiLanguageSpellData['en'][1236309] = {name = "Ensemble: Ashvane Smuggler's Attire", additional_info = "Instant\n[q]Collect the appearances of the Ashvane Smuggler's Attire."}
 MultiLanguageSpellData['en'][1236322] = {name = "Rune of Stasis", additional_info = "40 yd range\nInstant\n[q]Traps the target in stasis, preventing all actions."}
 MultiLanguageSpellData['en'][1236327] = {name = "Soul Ravel", additional_info = nil}
+MultiLanguageSpellData['en'][1236329] = {name = "View Next Adventure", additional_info = "Instant\n[q]View options where you could go next.\n\n You can rerun the Catch Up Experience at any time from your Adventure Guide."}
 MultiLanguageSpellData['en'][1236330] = {name = "Druid Druid of the Claw 11.2 Class Set 4pc", additional_info = "[q]Feral\n Ravage has a 40% chance to make you Ravage your target again 4 sec later at 100% of the initial power.\n\nBalance, Guardian, Restoration\n Ravage has a 40% chance to make you Ravage your target again 4 sec later at 60% effectiveness."}
 MultiLanguageSpellData['en'][1236331] = {name = "Druid Druid of the Claw 11.2 Class Set 2pc", additional_info = "[q]Ravage increases your haste by 10%, chance to critically strike by 10%, and the damage your bleeds deal by 30% for 5 sec.\n(100ms cooldown)"}
 MultiLanguageSpellData['en'][1236332] = {name = "Druid Elune's Chosen 11.2 Class Set 2pc", additional_info = "[q]Balance\n Starfire damage increased by 15%. Gaining Astral Power with Starfire has a 40% chance to launch a Starsurge at a victim at 45% effectiveness.\n\nFeral, Guardian, Restoration\n Thrash damage increased by 20%. Thrash has a 40% chance to launch a Starsurge at a victim at 160% effectiveness.\n\n(100ms cooldown)"}
@@ -13967,6 +14294,7 @@ MultiLanguageSpellData['en'][1236408] = {name = "Shaman Stormbringer 11.2 Class 
 MultiLanguageSpellData['en'][1236409] = {name = "Shaman Stormbringer 11.2 Class Set 4pc", additional_info = "[q]Elemental, Restoration\n Nature damage increased by 3.0%, and Ascendance empowers your next 2 Tempests to gather a storm above that deals (960% of Spell Power) Nature damage to its primary target and reduced damage to nearby enemies after 1.5 sec.\n\nEnhancement\n Nature damage increased by 5.0%, and Ascendance empowers your next 2 Tempests to gather a storm above that deals (400% of Attack Power) Nature damage to its primary target and reduced damage to nearby enemies after 1.5 sec.\n\n(100ms cooldown)"}
 MultiLanguageSpellData['en'][1236410] = {name = "Shaman Totemic 11.2 Class Set 2pc", additional_info = "[q]Elemental, Restoration\n After you consume all the Whirling Element Motes, you cast Downpour at 200% effectiveness at your Surging Totem's location.\n\nEnhancement\n After you consume all the Whirling Element Motes, your Surging Totem casts Primordial Storm at 200% effectiveness at its location."}
 MultiLanguageSpellData['en'][1236411] = {name = "Shaman Totemic 11.2 Class Set 4pc", additional_info = "[q]Elemental, Restoration\n After casting Downpour, your next Chain Heal, Healing Wave, or Healing Surge casts again at 150% effectiveness.\n\nEnhancement\n After casting Primordial Storm, your next Lava Lash or Fire Nova casts again at 150% effectiveness.\n\n(500ms cooldown)"}
+MultiLanguageSpellData['en'][1236412] = {name = "Snow Patch", additional_info = nil}
 MultiLanguageSpellData['en'][1236413] = {name = "Warlock Hellcaller 11.2 Class Set 2pc", additional_info = "[q]Demonology, Destruction\n Mark of Xavius increases Blackened Soul damage by an additional 3% per stack. Malevolence increases the stack count of Wither by an additional 2 stacks.\n\nAffliction\n Mark of Xavius increases Blackened Soul damage by an additional 6% per stack. Malevolence increases the stack count of Wither by an additional 2 stacks."}
 MultiLanguageSpellData['en'][1236414] = {name = "Warlock Hellcaller 11.2 Class Set 4pc", additional_info = "[q]Demonology, Destruction\n Casting Malevolence grants 2 stacks of Backdraft and prevents Blackened Soul from consuming stacks while dealing damage 15% faster for 8 sec.\n\nAffliction\n Casting Malevolence grants 2 stacks of Tormented Crescendo and prevents Blackened Soul from consuming stacks while dealing damage 25% faster for 8 sec."}
 MultiLanguageSpellData['en'][1236415] = {name = "Warlock Soul Harvester 11.2 Class Set 2pc", additional_info = "[q]Shadow of Death unleashes your demonic soul to assault your current target for 9 sec, dealing (279.306% of Spell Power) Shadow damage and (186.209% of Spell Power) Shadow damage to enemies within 10 yds with each swipe."}
@@ -13979,8 +14307,10 @@ MultiLanguageSpellData['en'][1236421] = {name = "Warrior Mountain Thane 11.2 Cla
 MultiLanguageSpellData['en'][1236422] = {name = "Warrior Mountain Thane 11.2 Class Set 4pc", additional_info = "[q]Ionizing Strikes deal 100% more damage and when you trigger Ionizing Strikes, you gain a charge of Thunder Blast and your next Thunder Blast deals 100% additional damage."}
 MultiLanguageSpellData['en'][1236423] = {name = "Warrior Slayer 11.2 Class Set 2pc", additional_info = "[q]Execute damage increased by 10% and Executes from Sudden Death have a 10% chance per stack of Overwhelmed on the target to trigger a Slayer's Strike at 100% effectiveness."}
 MultiLanguageSpellData['en'][1236424] = {name = "Warrior Slayer 11.2 Class Set 4pc", additional_info = "[q]Arms\n Overpower damage increased by 10% and Overpower has a 2% chance per stack of Overwhelmed on the target to trigger Reap the Storm at 150% effectiveness.\n\nFury, Protection\n Raging Blow damage increased by 10% and Raging Blow has a 2% chance per stack of Overwhelmed on the target to trigger Reap the Storm at 150% effectiveness.\n\n(500ms cooldown)"}
+MultiLanguageSpellData['en'][1236427] = {name = "Snow Patch", additional_info = nil}
 MultiLanguageSpellData['en'][1236428] = {name = "Behold!", additional_info = "100 yd range\n3 sec cast\n[q]Caster summons a swarm of eyes that each fire a laser beam inflicting 1045599 Shadow damage to players in front of them."}
 MultiLanguageSpellData['en'][1236494] = {name = "Chomp", additional_info = "40 yd range\nInstant\n[q]Inflicts Physical damage to an enemy."}
+MultiLanguageSpellData['en'][1236505] = {name = "Elegant Almond Table", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1236512] = {name = "Unstable Anima", additional_info = "100 yd range\nInstant\n[q]High Adjudicator Aleez unleashes Unstable Anima upon 2 players inflicting 1697115 Shadow damage every 2 sec for 14 sec.\n\n Players afflicted by Unstable Anima inflict 1697115 Shadow damage to allies within 5 yards every 2 sec for 14 sec."}
 MultiLanguageSpellData['en'][1236513] = {name = "Unstable Anima", additional_info = "Unlimited range\nInstant\n[q]High Adjudicator Aleez unleashes Unstable Anima upon 2 players inflicting 1697115 Shadow damage every 2 sec for 14 sec.\n\n Players afflicted by Unstable Anima inflict 1697115 Shadow damage to allies within 5 yards every 2 sec for 14 sec."}
 MultiLanguageSpellData['en'][1236514] = {name = "Unstable Anima", additional_info = "Unlimited range\nInstant\n[q]High Adjudicator Aleez unleashes Unstable Anima upon 2 players inflicting 1697115 Shadow damage every 2 sec for 14 sec.\n\n Players afflicted by Unstable Anima inflict 1697115 Shadow damage to allies within 5 yards every 2 sec for 14 sec."}
@@ -14013,6 +14343,8 @@ MultiLanguageSpellData['en'][1236617] = {name = "Broken World", additional_info 
 MultiLanguageSpellData['en'][1236623] = {name = "L00T RAID-R Mini", additional_info = "Unlimited range\nInstant\n[q]Scan the environment highlighting Mislaid Curiosities for the rest of the delve."}
 MultiLanguageSpellData['en'][1236625] = {name = "L00T RAID-R Mini", additional_info = nil}
 MultiLanguageSpellData['en'][1236627] = {name = "Arcane Dissipation", additional_info = "30 yd range\nInstant\n[q]Surrounds the caster with a shield that lasts 20 sec and can absorb up to 522799 of all damage. On removal inflicts 0 Arcane damage to players within 30 yard range."}
+MultiLanguageSpellData['en'][1236628] = {name = "Tossing Pumpkins", additional_info = "100 yd range\nInstant\n[q]Toss a pumpkin. Just don't smash them."}
+MultiLanguageSpellData['en'][1236629] = {name = "Tossing Pumpkins", additional_info = nil}
 MultiLanguageSpellData['en'][1236638] = {name = "Gluttonous Eruption", additional_info = "150 yd range\nInstant\n[q]Azhiccar spews digestive acid at targeted players, inflicting 1212225 Shadow damage every 1 sec for 6 sec to enemies within 10 yards of impact and leaving a pool of Digestive Spittle at their location."}
 MultiLanguageSpellData['en'][1236640] = {name = "Starsurge", additional_info = "40 yd range\n2 sec cast\n[q]Launch a surge of stellar energies at the target, dealing (1065.6% of Spell Power) Astral damage."}
 MultiLanguageSpellData['en'][1236643] = {name = "Digestive Spittle", additional_info = "150 yd range\nInstant\n[q]The caster erupts with a regurgitated explosion, inflicting 65 Physical damage to players within 15 yards and knocking them away.\n\n Additionally, toxic spittle flies in all directions inflicting 35 Shadow damage to players within 5 yards and leaves behind Digestive Spittle for 1 min."}
@@ -14036,31 +14368,49 @@ MultiLanguageSpellData['en'][1236703] = {name = "Eternal Weave", additional_info
 MultiLanguageSpellData['en'][1236705] = {name = "Eternal Weave", additional_info = "150 yd range\nInstant\n[q]Upon reaching 100 energy Soul-Scribe enters a ritual for 24 sec, unleashing a series of cones that inflict 7273348 Arcane damage to players caught within.\n\n Fates struck afflict their bound player with Wounded Fate ."}
 MultiLanguageSpellData['en'][1236710] = {name = "Eternal Weave", additional_info = "150 yd range\nInstant\n[q]Upon reaching 100 energy Soul-Scribe enters a ritual for 24 sec, unleashing a series of cones that inflict 7273348 Arcane damage to players caught within.\n\n Fates struck afflict their bound player with Wounded Fate ."}
 MultiLanguageSpellData['en'][1236711] = {name = "Rune of Disintegration", additional_info = "40 yd range\nInstant\n[q]Disintegrate the target, dealing Arcane damage over time."}
+MultiLanguageSpellData['en'][1236722] = {name = "Recovering", additional_info = "5 yd range\n1.5 sec cast\n[q]Recover a prized pumpkin."}
 MultiLanguageSpellData['en'][1236723] = {name = "Remix Time", additional_info = "{Channeled (3 sec cast)} {2 min cooldown}\n[q]Raise your artifact and open a rift in your timeline, causing your cooldowns to recover 1000% faster for 3 sec."}
 MultiLanguageSpellData['en'][1236748] = {name = "Paladin Templar 11.2 Class Set 4pc Driver", additional_info = "Instant\n[q]Holy, Protection\n Hammer of Light deals 0% increased damage to its primary target, strikes 0 additional secondary targets, and can now be cast 0 more time after Eye of Tyr.\n\nRetribution\n Hammer of Light deals 0% increased damage to its primary target, strikes 0 additional secondary targets, and can now be cast 0 more time after Wake of Ashes."}
 MultiLanguageSpellData['en'][1236759] = {name = "Overinfusion Burst", additional_info = "Unlimited range\nInstant\n[q]Loom'ithar inflicts 266671 Arcane damage to all players every 0.5 sec for 8 sec as it absorbs arcane energy. Then, it releases the energy in a massive explosion inflicting 129345416 Arcane damage to players within 45 yards."}
 MultiLanguageSpellData['en'][1236761] = {name = "Devour", additional_info = "150 yd range\nInstant\n[q]Upon reaching 100 energy, Azhiccar inhales and attempts to consume all players and creatures in the arena for 18 sec, inflicting 606112 Shadow damage to all players every 1 sec.\n\n Each time Azhiccar successfully consumes a living creature or player, it Feast s."}
-MultiLanguageSpellData['en'][1236770] = {name = "Arcane Geyser", additional_info = "300 yd range\n3 sec cast\n[q]Caster unleashes arcane energies from the ground, inflicting 418240 Arcane damage to players caught in the blast."}
+MultiLanguageSpellData['en'][1236770] = {name = "Arcane Geyser", additional_info = "300 yd range\n3 sec cast\n[q]Caster unleashes arcane energies from the ground, inflicting 12 Arcane damage to players caught in the blast."}
 MultiLanguageSpellData['en'][1236772] = {name = "Fly", additional_info = nil}
-MultiLanguageSpellData['en'][1236774] = {name = "Arcane Geyser", additional_info = "300 yd range\nInstant\n[q]Caster unleashes arcane energies from the ground, inflicting 418240 Arcane damage to players caught in the blast."}
+MultiLanguageSpellData['en'][1236774] = {name = "Arcane Geyser", additional_info = "300 yd range\nInstant\n[q]Caster unleashes arcane energies from the ground, inflicting 12 Arcane damage to players caught in the blast."}
 MultiLanguageSpellData['en'][1236776] = {name = "Inner Flame", additional_info = "Instant\n[q]Devastation\nEngulf stokes your Inner Flame, increasing your damage and healing over time by 15% and increasing your chance to gain Essence Burst by 50% for 12 sec. Stacks up to 2 times. Multiple applications may overlap.\n\nPreservation, Augmentation\nEngulf stokes your Inner Flame, increasing your damage and healing over time by 25% and increasing your chance to gain Essence Burst by 50% for 12 sec. Stacks up to 2 times. Multiple applications may overlap."}
 MultiLanguageSpellData['en'][1236777] = {name = "Phase Diving", additional_info = "Instant\n[q]Enter an ethereal state of energy."}
-MultiLanguageSpellData['en'][1236778] = {name = "Arcane Geyser", additional_info = "300 yd range\nInstant\n[q]Caster unleashes arcane energies from the ground, inflicting 418240 Arcane damage to players caught in the blast."}
-MultiLanguageSpellData['en'][1236779] = {name = "Arcane Geyser", additional_info = "300 yd range\nInstant\n[q]Caster unleashes arcane energies from the ground, inflicting 418240 Arcane damage to players caught in the blast."}
+MultiLanguageSpellData['en'][1236778] = {name = "Arcane Geyser", additional_info = "300 yd range\nInstant\n[q]Caster unleashes arcane energies from the ground, inflicting 12 Arcane damage to players caught in the blast."}
+MultiLanguageSpellData['en'][1236779] = {name = "Arcane Geyser", additional_info = "300 yd range\nInstant\n[q]Caster unleashes arcane energies from the ground, inflicting 12 Arcane damage to players caught in the blast."}
 MultiLanguageSpellData['en'][1236780] = {name = "Arcane Geyser", additional_info = nil}
+MultiLanguageSpellData['en'][1236781] = {name = "Bonked", additional_info = nil}
 MultiLanguageSpellData['en'][1236782] = {name = "Arcane Geyser", additional_info = nil}
 MultiLanguageSpellData['en'][1236784] = {name = "Brittle Nexus", additional_info = "Instant\n[q]A crystalline wall of void energy which explodes upon impact with a player affected by Crystal Encasement . The explosion launches Nexus Shrapnel and applies Crystal Lacerations to all players."}
 MultiLanguageSpellData['en'][1236785] = {name = "Void-Infused Nexus", additional_info = "Instant\n[q]A crystalline wall of void energy which explodes upon impact with a player affected by Crystal Encasement . The explosion launches Nexus Shrapnel and applies Nexus Shrapnel to several players."}
 MultiLanguageSpellData['en'][1236792] = {name = "Essence Bomb", additional_info = "30 yd range\nInstant\n[q]Devastation\nConsuming Essence Burst during Inner Flame fires an Essence Bomb at your target, damaging nearby enemies for (371% of Spell Power) Arcane, reduced beyond 5 targets.\n\nPreservation, Augmentation\nConsuming Essence Burst during Inner Flame fires an Essence Bomb at your target, healing nearby allies for (250% of Spell Power), reduced beyond 5 targets."}
 MultiLanguageSpellData['en'][1236803] = {name = "Essence Bomb", additional_info = "30 yd range\nInstant\n[q]Devastation\nConsuming Essence Burst during Inner Flame fires an Essence Bomb at your target, damaging nearby enemies for (371% of Spell Power) Arcane, reduced beyond 5 targets.\n\nPreservation, Augmentation\nConsuming Essence Burst during Inner Flame fires an Essence Bomb at your target, healing nearby allies for (250% of Spell Power), reduced beyond 5 targets."}
 MultiLanguageSpellData['en'][1236807] = {name = "Dryad's Favor", additional_info = "Instant\n[q]Balance, Feral, Guardian\nWhen your Dryad fades, your next 2 Starsurges damage for an additional amount equal to 3% of your damage done while it was active and splash 10% of their damage onto nearby enemies, reduced beyond 5 targets.\n\nRestoration\nWhen your Dryad fades, your next 2 Swiftmends heal for an additional amount equal to 5% of your healing done while it was active and splash 25% of their healing onto nearby allies, reduced beyond 5 targets."}
+MultiLanguageSpellData['en'][1236817] = {name = "Periodic", additional_info = nil}
 MultiLanguageSpellData['en'][1236822] = {name = "Blood Rush", additional_info = "Instant\n[q]Unholy\nInfliction of Sorrow deals 30% increased damage, and Vampiric Strike increases the damage of your ghoul by 20% for 8 sec. Multiple applications may overlap.\n\nBlood, Frost\nInfliction of Sorrow deals 50% increased damage, and Vampiric Strike increases the damage of your Dancing Rune Weapons by 20% for 8 sec. Multiple applications may overlap."}
-MultiLanguageSpellData['en'][1236824] = {name = "Powered Core", additional_info = "300 yd range\nInstant\n[q]The Caster's core protects them from incomming damage. when the core is destroyed it explodes inflicting 34853 Cosmic Damage."}
+MultiLanguageSpellData['en'][1236824] = {name = "Powered Core", additional_info = "300 yd range\nInstant\n[q]The Caster's core protects them from incomming damage. when the core is destroyed it explodes inflicting 1 Cosmic Damage."}
 MultiLanguageSpellData['en'][1236826] = {name = "Ensemble: Golden Fleet Sailing Garb", additional_info = "Instant\n[q]Collect the appearances of the Golden Fleet Sailing Garb."}
-MultiLanguageSpellData['en'][1236835] = {name = "Depleted Core", additional_info = "300 yd range\nInstant\n[q]The Depleted Core periodically violently reacts to having no energy, inflicting 34853 Cosmic damage to all players every 5 sec."}
+MultiLanguageSpellData['en'][1236835] = {name = "Depleted Core", additional_info = "300 yd range\nInstant\n[q]The Depleted Core periodically violently reacts to having no energy, inflicting 1 Cosmic damage to all players every 5 sec."}
 MultiLanguageSpellData['en'][1236836] = {name = "Durable Information Storage Container Memory Card", additional_info = "Unlimited range\n3 sec cast\n[q]Install the memory card in the Titan DISC device, increasing its item level."}
+MultiLanguageSpellData['en'][1236850] = {name = "Destroying", additional_info = nil}
 MultiLanguageSpellData['en'][1236851] = {name = "Dryad's Favor", additional_info = "100 yd range\nInstant\n[q]Balance, Feral, Guardian\nWhen your Dryad fades, your next 2 Starsurges damage for an additional amount equal to 3% of your damage done while it was active and splash 10% of their damage onto nearby enemies, reduced beyond 5 targets.\n\nRestoration\nWhen your Dryad fades, your next 2 Swiftmends heal for an additional amount equal to 5% of your healing done while it was active and splash 25% of their healing onto nearby allies, reduced beyond 5 targets."}
 MultiLanguageSpellData['en'][1236853] = {name = "Dryad's Favor", additional_info = "100 yd range\nInstant\n[q]Balance, Feral, Guardian\nWhen your Dryad fades, your next 2 Starsurges damage for an additional amount equal to 3% of your damage done while it was active and splash 10% of their damage onto nearby enemies, reduced beyond 5 targets.\n\nRestoration\nWhen your Dryad fades, your next 2 Swiftmends heal for an additional amount equal to 5% of your healing done while it was active and splash 25% of their healing onto nearby allies, reduced beyond 5 targets."}
+MultiLanguageSpellData['en'][1236854] = {name = "Add Orcish Fence to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1236855] = {name = "Frostwall Architect's Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1236856] = {name = "Orcish Warlord's Planning Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1236857] = {name = "Warsong Workbench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1236858] = {name = "Orcish Banded Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1236859] = {name = "Wine Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1236860] = {name = "Wooden Shipping Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1236861] = {name = "Youngling's Courser Toys", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1236862] = {name = "Orcish Lumberjack's Stool", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1236863] = {name = "Frostwolf Banded Stool", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1236864] = {name = "Orcish Sleeping Cot", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1236865] = {name = "Add Peon's Work Bucket to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1236866] = {name = "Zuldazar Cook's Griddle", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1236867] = {name = "Add Zandalari Wall Shelf to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1236868] = {name = "Ensemble: Zocalo Merchant's Wear", additional_info = "Instant\n[q]Collect the appearances of the Zocalo Merchant's Wear."}
 MultiLanguageSpellData['en'][1236872] = {name = "Dimension Breath", additional_info = "Unlimited range\nInstant\n[q]The Voidwing unleashes a galactic beam from its jaws for 4 sec , inflicting 5621532 Cosmic damage to any player within it every 0.3 sec.\n\n Several portals tear open, from which this breath is emitted in additional directions."}
 MultiLanguageSpellData['en'][1236873] = {name = "Netherbreaker", additional_info = "Unlimited range\nInstant\n[q]Salhadaar hurls his mace which ricochets between several targets, inflicting 24172589 Shadow damage within 30 yards of each impact."}
@@ -14201,7 +14551,7 @@ MultiLanguageSpellData['en'][1237215] = {name = "Path of the Eco-Dome", addition
 MultiLanguageSpellData['en'][1237217] = {name = "Consume", additional_info = "300 yd range\nInstant\n[q]Caster singles out his prey and pulls them close to consume them, inflicting 40 Physical Damage."}
 MultiLanguageSpellData['en'][1237218] = {name = "Consume", additional_info = "Instant\n[q]Caster singles out his prey and pulls them close to consume them, inflicting 40 Physical Damage."}
 MultiLanguageSpellData['en'][1237220] = {name = "Stinging Sandstorm", additional_info = "{1 sec cast} {8 sec cooldown}\n[q]The caster stirs the sand around it, the sand clings to players inflicting 160014 Nature damage every 1 sec for 3 sec."}
-MultiLanguageSpellData['en'][1237221] = {name = "Cave In", additional_info = "100 yd range\nInstant\n[q]@spelldesc294995"}
+MultiLanguageSpellData['en'][1237221] = {name = "Cave In", additional_info = nil}
 MultiLanguageSpellData['en'][1237224] = {name = "Stinging Sandstorm", additional_info = "Instant\n[q]The caster stirs the sand around it, the sand clings to players inflicting 160014 Nature damage every 1 sec for 3 sec."}
 MultiLanguageSpellData['en'][1237226] = {name = "Nullgaze Surge", additional_info = "60 yd range\nInstant\n[q]Fires a dark gaze of energy in a line for 10.5 sec, inflicting Shadow damage every 0.3 sec to enemies standing within the effect."}
 MultiLanguageSpellData['en'][1237232] = {name = "Consume", additional_info = "300 yd range\nInstant\n[q]Caster singles out his prey and pulls them close to consume them, inflicting 40 Physical Damage."}
@@ -14236,11 +14586,13 @@ MultiLanguageSpellData['en'][1237322] = {name = "Prime Sequence", additional_inf
 MultiLanguageSpellData['en'][1237325] = {name = "Gamma Burst", additional_info = "Unlimited range\nInstant\n[q]Dimensius tears through space with an immense stream of radiation that inflicts 11 Cosmic damage every 1 sec to all players and pushes them away over 4 sec."}
 MultiLanguageSpellData['en'][1237328] = {name = "Placing", additional_info = nil}
 MultiLanguageSpellData['en'][1237331] = {name = "Add Keystone Affix: Sands of Time", additional_info = "Instant\n[q]Add the Sands of Time affix to a Mythic Keystone."}
+MultiLanguageSpellData['en'][1237338] = {name = "Mount Up (DNTT)", additional_info = nil}
 MultiLanguageSpellData['en'][1237339] = {name = "Lair Weaving", additional_info = "200 yd range\nInstant\n[q]Loom'ithar weaves a collapsing ring of Infused Tangles that inflict 20202382 Nature damage to players in their path and root them for 8 sec .\n\n Destroying an Infused Tangle removes its connecting threads."}
 MultiLanguageSpellData['en'][1237359] = {name = "Destroying", additional_info = nil}
 MultiLanguageSpellData['en'][1237372] = {name = "Baby Karesh Fox - Orange", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][1237377] = {name = "Veridian Thorntail", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][1237379] = {name = "Scrappy Thorntail", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1237380] = {name = "Vined", additional_info = nil}
 MultiLanguageSpellData['en'][1237381] = {name = "Arcanoconstruct Salvo", additional_info = "300 yd range\n3 sec cast\n[q]Caster unleashes a salvo inflicting 313680 Arcane damage and an additional 69707 Arcane damage every 1 sec."}
 MultiLanguageSpellData['en'][1237388] = {name = "Frostscythe", additional_info = "8 yd range\nInstant\n[q]A sweeping attack that strikes all enemies in front of you for (64% of Attack Power) Frost damage. Deals reduced damage beyond 5 targets."}
 MultiLanguageSpellData['en'][1237584] = {name = "Etheric Victory", additional_info = "Unlimited range\nInstant 1 hour cooldown\n[q]Emanate an aura of victory."}
@@ -14268,6 +14620,13 @@ MultiLanguageSpellData['en'][1237673] = {name = "Phase Diving", additional_info 
 MultiLanguageSpellData['en'][1237674] = {name = "Phase Diving", additional_info = nil}
 MultiLanguageSpellData['en'][1237676] = {name = "Raise Abomination", additional_info = nil}
 MultiLanguageSpellData['en'][1237677] = {name = "Shadowy Dissolution", additional_info = nil}
+MultiLanguageSpellData['en'][1237678] = {name = "Sturdy Wall Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237679] = {name = "Sturdy Fireplace", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237680] = {name = "Rugged Stool", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237681] = {name = "Iron Chain Chandelier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237682] = {name = "Iron-Reinforced Door", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237683] = {name = "Tusked Gazebo", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237684] = {name = "Nightborne Fireplace", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1237687] = {name = "Unleashed Suffering", additional_info = "Instant\n[q]Lord Chamberlain unleashes a wave of anima, inflicting 0 Shadow damage to all players in a cone in front of him."}
 MultiLanguageSpellData['en'][1237689] = {name = "Void Shell", additional_info = "Instant\n[q]The Voidlord shields itself, absorbing up to 11302925 incoming damage while it focuses on casting a powerful spell."}
 MultiLanguageSpellData['en'][1237690] = {name = "Eclipse", additional_info = "300 yd range\nChanneled (31 sec cast)\n[q]The Voidlord begins a ritual to seal the worldsoul fragment within a veil of impenetrable darkness.\n\n Upon completion of the ritual, the fragment becomes inaccessible.\n\n Upon reaching 100 energy, the Voidlord completes the ritual instantly."}
@@ -14305,7 +14664,7 @@ MultiLanguageSpellData['en'][1237756] = {name = "Ilyssa's Soul", additional_info
 MultiLanguageSpellData['en'][1237758] = {name = "Ilyssa's Soul", additional_info = nil}
 MultiLanguageSpellData['en'][1237760] = {name = "Ilyssa's Soul", additional_info = "Instant\n[q]Ilyssa's soul pulses with power, inflicting 28 Chaos damage to all players every 4 sec. This effect increases in strength by 2% each pulse."}
 MultiLanguageSpellData['en'][1237765] = {name = "Adarus' Soul", additional_info = nil}
-MultiLanguageSpellData['en'][1237766] = {name = "Depleted Core", additional_info = "300 yd range\nInstant\n[q]The Depleted Core periodically violently reacts to having no energy, inflicting 34853 Cosmic damage to all players every 5 sec."}
+MultiLanguageSpellData['en'][1237766] = {name = "Depleted Core", additional_info = "300 yd range\nInstant\n[q]The Depleted Core periodically violently reacts to having no energy, inflicting 1 Cosmic damage to all players every 5 sec."}
 MultiLanguageSpellData['en'][1237767] = {name = "Adarus' Soul", additional_info = "Instant\n[q]Adarus' soul pulses with power, inflicting 28 Cosmic damage to all players every 4 sec. This effect increases in strength by 2% each pulse."}
 MultiLanguageSpellData['en'][1237769] = {name = "Echoing Invocation", additional_info = "Unlimited range\n2 sec cast\n[q]Araz's echo triggers an Arcane Collector to begin its Prime Sequence ."}
 MultiLanguageSpellData['en'][1237770] = {name = "Echoing Invocation", additional_info = nil}
@@ -14313,8 +14672,32 @@ MultiLanguageSpellData['en'][1237775] = {name = "Cosmic Radiation", additional_i
 MultiLanguageSpellData['en'][1237776] = {name = "Cosmic Radiation", additional_info = "Instant\n[q]Dimensius radiates intense energy, inflicting 5 Cosmic damage to all players every 2 sec."}
 MultiLanguageSpellData['en'][1237777] = {name = "Band of the Shattered Soul", additional_info = "[q]The powers of your Reshii Wraps also reduce Cosmic damage taken by 50% for 20 sec or until 889 damage has been prevented."}
 MultiLanguageSpellData['en'][1237781] = {name = "Phase Diving", additional_info = nil}
+MultiLanguageSpellData['en'][1237782] = {name = "Orcish Scribe's Drafting Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237783] = {name = "Small Purple Suramar Seat Cushion", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237784] = {name = "Gilnean Circular Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237785] = {name = "Add Wide Silvermoon Seat Cushion to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237786] = {name = "Add Small Silvermoon Seat Cushion to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1237787] = {name = "Phase Diving", additional_info = nil}
-MultiLanguageSpellData['en'][1237798] = {name = "Add Light-Infused Fountain to storage", additional_info = nil}
+MultiLanguageSpellData['en'][1237788] = {name = "Add Triangular Silvermoon Seat Cushion to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237789] = {name = "Add Circular Silvermoon Seat Cushion to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237790] = {name = "Add Silvermoon Pillow Roll to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237791] = {name = "Tied-Open Leather Curtains", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237792] = {name = "Closed Leather Curtains", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237793] = {name = "Leather Valance", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237794] = {name = "Tied-Open Folk Curtains", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237795] = {name = "Closed Folk Curtains", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237796] = {name = "Durable Folk Valance", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237797] = {name = "Restful Wooden Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237798] = {name = "Add Light-Infused Fountain to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237799] = {name = "Add Tiny String of Schmancy Goblin Lights to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237800] = {name = "Add Small String of Schmancy Goblin Lights to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237801] = {name = "Add Drooping String of Schmancy Goblin Lights to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237802] = {name = "Add Very Long String of Schmancy Goblin Lights to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237803] = {name = "Add Long String of Schmancy Goblin Lights to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237804] = {name = "Snow Mound", additional_info = nil}
+MultiLanguageSpellData['en'][1237809] = {name = "Teal Suramar Seat Cushion", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237810] = {name = "Purple Suramar Seat Cushion", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237811] = {name = "Small Red Suramar Seat Cushion", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1237817] = {name = "Bearer of the Flame", additional_info = "Instant\n[q]Holding a torch of the Sacred Flame. Looking at it, your heart swells with hope, almost despite yourself."}
 MultiLanguageSpellData['en'][1237819] = {name = "Path of the Chosen", additional_info = "Instant\n[q]Descend to the lower level and confront Xal'atath."}
 MultiLanguageSpellData['en'][1237848] = {name = "Visceral Strength", additional_info = "Instant\n(1s cooldown)"}
@@ -14325,6 +14708,12 @@ MultiLanguageSpellData['en'][1237887] = {name = "Remove", additional_info = nil}
 MultiLanguageSpellData['en'][1237891] = {name = "Infusion Tether", additional_info = "Unlimited range\nInstant\n[q]Loom'ithar pulls several players to its location, binding them with silken strands that inflict 452533 Arcane damage each second, growing in intensity over time.\n\n Each strand snaps when drawn to 40 yards, creating a splotch of Living Silk at the player's location."}
 MultiLanguageSpellData['en'][1237893] = {name = "Veilshatter Roar", additional_info = "{3.4 sec cast} {5 sec cooldown}\n[q]Reshanor unleashes a shattering roar interrupting all enemies and inflicting Physical damage every 0.5 sec for 5 sec. The echo causes all [Null Ruptures] to expand."}
 MultiLanguageSpellData['en'][1237894] = {name = "Sparkles", additional_info = nil}
+MultiLanguageSpellData['en'][1237895] = {name = "Surwich Peddler's Wagon", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237896] = {name = "Sethraliss Priest's Pillow", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237897] = {name = "Add Sethrak Neckroll Pillow to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1237898] = {name = "Circular Elven Table", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237899] = {name = "Elegant Wall Drape", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1237900] = {name = "Elven Floral Window", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1237902] = {name = "Old God", additional_info = nil}
 MultiLanguageSpellData['en'][1237903] = {name = "Lair Weaving", additional_info = "Instant\n[q]Loom'ithar weaves a collapsing ring of Infused Tangles that inflict 20202382 Nature damage to players in their path and root them for 8 sec .\n\n Destroying an Infused Tangle removes its connecting threads."}
 MultiLanguageSpellData['en'][1237905] = {name = "Twilight Breath", additional_info = "{4 sec cast} {5 sec cooldown}\n[q]Exhales a powerful breath full of Void energy, applying [Void Corruption] every 0.5 sec to all enemies in a cone in front of the caster for 4.5 sec."}
@@ -14385,6 +14774,7 @@ MultiLanguageSpellData['en'][1238048] = {name = "Time tae go all out!", addition
 MultiLanguageSpellData['en'][1238049] = {name = "Ol' Brann's got your back!", additional_info = "Unlimited range\nInstant\n[q]Brann's voice is slightly amplified with Arcane magic causing his words to potentially grant the party a buff based on what was spoken."}
 MultiLanguageSpellData['en'][1238050] = {name = "Void Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][1238052] = {name = "Holy Priest", additional_info = "[q]Holy Priest core passive\n[q]Modifies Damage/Healing Done +7%:\nAscended Nova , Evangelism , Flash Heal , Greater Heal , Heal , Holy Word: Sanctify , Holy Word: Serenity , Insurance! , Insurance! , Insurance! , Insurance! , Inversion Prism , Power Word: Life , Power Word: Radiance , Prayer of Healing , Renew , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova\n\nModifies Periodic Damage/Healing Done +7%:\nAscended Nova , Evangelism , Flash Heal , Greater Heal , Heal , Holy Word: Sanctify , Holy Word: Serenity , Insurance! , Insurance! , Insurance! , Insurance! , Inversion Prism , Power Word: Life , Power Word: Radiance , Prayer of Healing , Renew , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova , Unholy Nova\n\nModifies Spell Power +7%:\nPower Word: Shield"}
+MultiLanguageSpellData['en'][1238055] = {name = "Watcher Distracted", additional_info = nil}
 MultiLanguageSpellData['en'][1238068] = {name = "Summon Treasure", additional_info = nil}
 MultiLanguageSpellData['en'][1238078] = {name = "Veilshatter Roar", additional_info = "100 yd range\nInstant\n[q]Reshanor unleashes a shattering roar interrupting all enemies and inflicting Physical damage every 0.5 sec for 5 sec. The echo causes all [Null Ruptures] to expand."}
 MultiLanguageSpellData['en'][1238079] = {name = "Veilshatter Roar", additional_info = "100 yd range\nInstant\n[q]Reshanor unleashes a shattering roar interrupting all enemies and inflicting Physical damage every 0.5 sec for 5 sec. The echo causes all [Null Ruptures] to expand."}
@@ -14408,6 +14798,7 @@ MultiLanguageSpellData['en'][1238133] = {name = "Awakening Storms", additional_i
 MultiLanguageSpellData['en'][1238134] = {name = "Ghostly", additional_info = nil}
 MultiLanguageSpellData['en'][1238137] = {name = "Energy Coil", additional_info = nil}
 MultiLanguageSpellData['en'][1238156] = {name = "Shaman Stormbringer 11.2 Class Set 4pc", additional_info = "Instant\n[q]$spelldesc"}
+MultiLanguageSpellData['en'][1238162] = {name = "Head of the Broodmother", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1238165] = {name = "Broken World", additional_info = nil}
 MultiLanguageSpellData['en'][1238171] = {name = "Pyromastery", additional_info = "[q]Pyroblast damage and size increased by 10%.\n\n Consuming Hot Streak increases your spell damage by 2.0% for 6 sec. Multiple instances of this effect may overlap."}
 MultiLanguageSpellData['en'][1238174] = {name = "Collect/Loot Event", additional_info = nil}
@@ -14428,9 +14819,11 @@ MultiLanguageSpellData['en'][1238223] = {name = "Recovering", additional_info = 
 MultiLanguageSpellData['en'][1238224] = {name = "Recovering", additional_info = "100 yd range\n{Instant} {1 sec cooldown}\n[q]Recover an object of power."}
 MultiLanguageSpellData['en'][1238225] = {name = "Recovering", additional_info = "100 yd range\n{Instant} {1 sec cooldown}\n[q]Recover an object of power."}
 MultiLanguageSpellData['en'][1238226] = {name = "Recovering", additional_info = "100 yd range\n{Instant} {1 sec cooldown}\n[q]Recover an object of power."}
+MultiLanguageSpellData['en'][1238235] = {name = "Summon", additional_info = nil}
 MultiLanguageSpellData['en'][1238239] = {name = "Tied", additional_info = nil}
 MultiLanguageSpellData['en'][1238241] = {name = "Cursing", additional_info = nil}
 MultiLanguageSpellData['en'][1238243] = {name = "Consumed by Mana", additional_info = nil}
+MultiLanguageSpellData['en'][1238244] = {name = "Shadow Ritual", additional_info = nil}
 MultiLanguageSpellData['en'][1238248] = {name = "Collect/Loot Event", additional_info = nil}
 MultiLanguageSpellData['en'][1238250] = {name = "Loading", additional_info = "1 sec cast\n[q]Insert the disc into your Durable Information Securing Container to give it access to playing the Critical Chain ability."}
 MultiLanguageSpellData['en'][1238251] = {name = "Loading", additional_info = "1 sec cast\n[q]Insert the disc into your Durable Information Securing Container to give it access to playing the Spark Burst ability."}
@@ -14468,14 +14861,85 @@ MultiLanguageSpellData['en'][1238335] = {name = "Inquisitive Cosmic Ray Pup", ad
 MultiLanguageSpellData['en'][1238336] = {name = "Duskthief", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][1238337] = {name = "Mr. Long-Legs", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][1238338] = {name = "Heka'Tarnos, Bringer of Discord", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1238339] = {name = "Val'sharah Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238340] = {name = "Small Val'sharah Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1238341] = {name = "Copper Lapbug", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1238342] = {name = "Kaldorei Chef's Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238343] = {name = "Kaldorei Washbasin", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238345] = {name = "Zocalo Drinks", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1238346] = {name = "Cerulean Lapbug", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1238347] = {name = "Round Stitched Cushion", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238348] = {name = "Stitched Pillow Roll", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238349] = {name = "Iron-Studded Wooden Window", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238350] = {name = "Charming Seat Cushion", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238351] = {name = "Checkered Charming Seat Cushion", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238352] = {name = "Thunder Totem Kiln", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238353] = {name = "Old Salt's Fireplace", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238355] = {name = "Rolled Scroll", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1238359] = {name = "Throw Brew", additional_info = "40 yd range\n1 sec cast\n[q]Throws brew at an enemy, inflicting Physical damage."}
 MultiLanguageSpellData['en'][1238360] = {name = "Roundhouse", additional_info = "8 yd range\n{1 sec cast} {6 sec cooldown}\n[q]Performs a spinning kick, inflicting Physical damage."}
+MultiLanguageSpellData['en'][1238361] = {name = "Kalecgos Transform", additional_info = nil}
 MultiLanguageSpellData['en'][1238362] = {name = "Barrelborn Fury", additional_info = "Instant\n[q]Increases melee attack speed by 30% and damage done by 30%, but reduces armor by 100%."}
+MultiLanguageSpellData['en'][1238364] = {name = "Add \"Aspects in the Clouds\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1238367] = {name = "Arcane Overload", additional_info = nil}
 MultiLanguageSpellData['en'][1238369] = {name = "Arcane Overload", additional_info = "Unlimited range\nInstant\n[q]Arcane energy strikes the ground, inflicting 15 Arcane damage to players within 1.5 yards of impact."}
 MultiLanguageSpellData['en'][1238370] = {name = "Arcane Overload", additional_info = nil}
+MultiLanguageSpellData['en'][1238371] = {name = "Add \"Water Falls Home\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238372] = {name = "Add Small Silvermoon Bookcase to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238374] = {name = "Add Sin'dorei Display Case to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238375] = {name = "Add Silvermoon Library Bookcase to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238377] = {name = "Blood Elven Candelabra", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238378] = {name = "Add Silvermoon Wooden Chair to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238379] = {name = "Reliquary Storage Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238380] = {name = "Rectangular Sin'dorei Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238381] = {name = "Long Sin'dorei Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238382] = {name = "Circular Sin'dorei Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238385] = {name = "Add Circular Silvermoon Table to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238388] = {name = "Add Long Silvermoon Table to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238389] = {name = "Replica Dark Iron Mole Machine", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238390] = {name = "Winter Veil Tree", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238391] = {name = "Collection of Arathi Scripture", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238393] = {name = "Councilward's Jeweled Goblet", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238394] = {name = "Literature of Dornogal", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238395] = {name = "Literature of Taelloch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238396] = {name = "Literature of Gundargaz", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238397] = {name = "Add Wild Violet Bellflowers to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238398] = {name = "Add Reaching Violet Bellflowers to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238399] = {name = "Add Arched Violet Bellflowers to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238400] = {name = "Add Algari Lettuce Plant to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238401] = {name = "Gallagio L.U.C.K. Spinner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238402] = {name = "Rocket-Unpowered Rocket", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238404] = {name = "Undermine Bean Bag Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238405] = {name = "Add Cozy Four-Pipe Bed to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238406] = {name = "Undermine Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238407] = {name = "\"Elegant\" Lawn Flamingo", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238408] = {name = "Rusty Patchwork Tub", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238409] = {name = "Reinforced Goblin Umbrella", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238410] = {name = "Undermine Wall Shelf", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238411] = {name = "Rusting Bolted Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238412] = {name = "Spring-Powered Undermine Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238413] = {name = "Undermine Round Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238414] = {name = "Trashfire Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238415] = {name = "Add Schmancy Goblin String Lights to storage", additional_info = nil}
+MultiLanguageSpellData['en'][1238417] = {name = "Undermine Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238418] = {name = "Undermine Fencepost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238419] = {name = "Very Reliable Undermine Lamppost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238420] = {name = "Rust-Plated Storage Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238422] = {name = "Add Rust-Plated Storage Crate to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238423] = {name = "Shredderwheel Storage Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238424] = {name = "Rocket-Powered Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238425] = {name = "Undermine Market Stall", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238426] = {name = "Kaheti Predator's Assortment", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238427] = {name = "Creeping Corner Ivy", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238428] = {name = "Small Boxwood Bush", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238429] = {name = "Small Poppy Cluster", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238430] = {name = "Add Enchanted Blood Elven Candelabra to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238431] = {name = "Add \"Edge of Val'sharah\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238432] = {name = "Tome of Silvermoon Intrigue", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238433] = {name = "Shadowforge Wooden Box", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238434] = {name = "Wicker Basket", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238435] = {name = "Empty Wicker Basket", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238437] = {name = "Sturdy Wooden Bed", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1238442] = {name = "Devastator Bombardment", additional_info = nil}
 MultiLanguageSpellData['en'][1238446] = {name = "Arcane Overload", additional_info = "Instant\n[q]Arcane energy strikes the ground, inflicting 15 Arcane damage to players within 1.5 yards of impact."}
 MultiLanguageSpellData['en'][1238449] = {name = "Arcane Overload", additional_info = nil}
@@ -14485,16 +14949,167 @@ MultiLanguageSpellData['en'][1238454] = {name = "Arcane Overload", additional_in
 MultiLanguageSpellData['en'][1238459] = {name = "11.2 Delves - Ethereals - NPCs Interact - Ad on Aura - Talk and Talk (Hufton)", additional_info = nil}
 MultiLanguageSpellData['en'][1238462] = {name = "Scarred Strikes", additional_info = "Instant\n[q]Havoc\nImmolation Aura deals 30% increased damage and increases Chaos Strike damage by 20% while active.\n\nVengeance\nImmolation Aura deals 30% increased damage and increases Soul Cleave damage by 20% while active."}
 MultiLanguageSpellData['en'][1238465] = {name = "Heroic World Tier", additional_info = "Instant\n[q]Eternus is experimenting with the timeline. Outdoor difficulty is significantly increased.\n\n Interact with the Console of Infinite Chaos at the Infinite Bazaar near Dalaran to return to the Normal World Tier."}
+MultiLanguageSpellData['en'][1238473] = {name = "Sturdy Wooden Coffin", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238475] = {name = "Open Wooden Coffin", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238476] = {name = "Wooden Coffin Lid", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238477] = {name = "Sturdy Wooden Interior Door", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238478] = {name = "Goldshire Window", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238479] = {name = "Gryphon Roost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238480] = {name = "Small Fruit Platter", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238481] = {name = "Large Stonework Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238482] = {name = "Small Stonework Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238487] = {name = "Empty Stormwind Market Stand", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238489] = {name = "Stormwind Bean Seller's Stand", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238490] = {name = "Stormwind Produce Seller's Stand", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238491] = {name = "Stormwind Spice Merchant's Stand", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238492] = {name = "Gift of Gilneas", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238493] = {name = "Secretive Bookcase Wall", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238494] = {name = "Charming Laurel Tree", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238496] = {name = "Covered Wooden Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238498] = {name = "Sturdy Wooden Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238500] = {name = "Sturdy Wooden Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238501] = {name = "Tall Sturdy Wooden Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1238502] = {name = "Woven Ward", additional_info = "Unlimited range\nInstant\n[q]Each Infused Tangle is protected by a barrier of silk that prevents all damage. This barrier is broken when struck by Piercing Strand ."}
+MultiLanguageSpellData['en'][1238503] = {name = "Open-Air Sturdy Tent", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238504] = {name = "Sturdy Sheltering Tent", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238505] = {name = "Sturdy Roofed Wagon", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238506] = {name = "Sturdy Open Wagon", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238507] = {name = "Sturdy Covered Wagon", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238508] = {name = "\"Sunrise Canyon\" Painting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238509] = {name = "Sturdy Wooden Shelf", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238510] = {name = "Well-Built Well", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238511] = {name = "Sturdy Wooden Wheelbarrow", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238514] = {name = "{DNT] Plain Interior Doorway - DO NOT USE", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238516] = {name = "Add Sturdy Wooden Interior Pillar to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238517] = {name = "Add Plain Interior Wall to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1238518] = {name = "Victory", additional_info = nil}
+MultiLanguageSpellData['en'][1238519] = {name = "Add Plain Interior Doorway to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238520] = {name = "Add Plain Interior Narrow Wall to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238521] = {name = "Add Suramar Dresser to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238522] = {name = "Add Studious Sin'dorei Desk to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238523] = {name = "Tusked Fireplace", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238525] = {name = "Ceiling Cobweb", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238526] = {name = "Tented Cobweb", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238527] = {name = "Small Dangling Cobweb", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238528] = {name = "Large Dangling Cobweb", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238529] = {name = "Pillar Cobweb", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238530] = {name = "Large Highmountain Drum", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238531] = {name = "Tauren Leather Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238532] = {name = "Tauren Fencepost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238533] = {name = "Add Tauren Soup Pot to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238534] = {name = "Dried Whitewash Corn", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238535] = {name = "Add Abandoned Bookcase to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1238536] = {name = "Arcane Overload", additional_info = nil}
 MultiLanguageSpellData['en'][1238537] = {name = "Arcane Overload", additional_info = "Instant\n[q]Arcane energy strikes the ground, inflicting 15 Arcane damage to players within 1.5 yards of impact."}
+MultiLanguageSpellData['en'][1238539] = {name = "Dark Ship's Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1238540] = {name = "Arcane Overload", additional_info = nil}
 MultiLanguageSpellData['en'][1238541] = {name = "Arcane Overload", additional_info = "Instant\n[q]Arcane energy strikes the ground, inflicting 15 Arcane damage to players within 1.5 yards of impact."}
+MultiLanguageSpellData['en'][1238542] = {name = "Zandalari Ritual Drum", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238543] = {name = "Zandalari Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238544] = {name = "Zandalari Skullfire Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238545] = {name = "Zuldazar Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238546] = {name = "Zuldazar Fencepost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238547] = {name = "Akunda the Tapestry", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238548] = {name = "Zanchuli Tapestry", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238551] = {name = "Karabor Bed", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238552] = {name = "Draenic Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238553] = {name = "Spherical Draenic Topiary", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1238554] = {name = "Arcane Overload", additional_info = nil}
 MultiLanguageSpellData['en'][1238555] = {name = "Arcane Overload", additional_info = "Instant\n[q]Arcane energy strikes the ground, inflicting 15 Arcane damage to players within 1.5 yards of impact."}
+MultiLanguageSpellData['en'][1238556] = {name = "Draenic Storage Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238557] = {name = "Hanging Draenethyst Light", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238558] = {name = "Dark Iron Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238559] = {name = "Add Dark Iron Expedition Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238560] = {name = "Hungry Human's Platter", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238561] = {name = "Tirisgarde Book Tempest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238562] = {name = "Add Orcish Wooden Bench to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238563] = {name = "Draenor Cookpot", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238564] = {name = "Blackrock Bunkbed", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238565] = {name = "Blackrock Strongbox", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238566] = {name = "Orgrimmar Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238567] = {name = "Collect Horde Battle Emblem", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238568] = {name = "Blackrock Weapon Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238569] = {name = "Orc-Forged Weaponry", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238570] = {name = "Frostwolf Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238571] = {name = "Add Durotar Signal Brazier to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238573] = {name = "Add Durotar Hanging Brazier to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238574] = {name = "Add Orcish Fencepost to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238575] = {name = "Warsong Footrest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238576] = {name = "Frostwolf Round Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238577] = {name = "Orcish Communal Stove", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238578] = {name = "Frostwolf Axe-Dart Board", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238579] = {name = "Add \"The Fallen Archmage\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238580] = {name = "Add \"The Final Study\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238582] = {name = "\"Night on the Jeweled Estate\" Painting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238585] = {name = "Ancient Elven Highback Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238586] = {name = "Highmountain Totem", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238587] = {name = "Thunder Totem Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238589] = {name = "Stonebull Canoe", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238590] = {name = "Whitewash River Basket", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238591] = {name = "Small Highmountain Drum", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238593] = {name = "Warbrave's Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238594] = {name = "Riverbend Netting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238595] = {name = "Riverbend Jar", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238596] = {name = "Tauren Storage Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238597] = {name = "Skyhorn Storage Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238598] = {name = "Add Tauren Vertical Windmill to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238599] = {name = "Collect Banshee Queen's Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238600] = {name = "Lordaeron Banded Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238601] = {name = "Inert Blight Canister", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238602] = {name = "Add Tirisfal Wooden Chair to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238603] = {name = "Forsaken Spiked Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238604] = {name = "Lordaeron Banded Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238605] = {name = "Add Open Lordaeron Banded Crate to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238606] = {name = "Lordaeron Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238608] = {name = "Lordaeron Hanging Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238609] = {name = "Blightfire Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238610] = {name = "Blightfire Hanging Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238612] = {name = "Forsaken Studded Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238613] = {name = "Forsaken War Planning Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238614] = {name = "Forsaken Long Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238615] = {name = "Add Large Forsaken War Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238616] = {name = "Add Small Forsaken War Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238618] = {name = "Lordaeron Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238619] = {name = "Blightfire Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238620] = {name = "Lordaeron Torch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238621] = {name = "Blightfire Torch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238622] = {name = "Undercity Spiked Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238624] = {name = "Lordaeron Spiked Weapon Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238625] = {name = "Boralus-Style Lobster Platter", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238627] = {name = "Add Golden Zandalari Bed to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238628] = {name = "Tired Troll's Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238629] = {name = "Bookcase of Gonk", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238631] = {name = "Zandalari Rickshaw", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238632] = {name = "Zuldazar Stool", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238633] = {name = "Dazar'alor Forge", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238634] = {name = "Bwonsamdi's Golden Gong", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238637] = {name = "Idol of Rezan, Loa of Kings", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238639] = {name = "Idol of Pa'ku, Master of Winds", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238641] = {name = "Add Dazar'alor Market Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238643] = {name = "Small Mask of Bwonsamdi, Loa of Graves", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1238644] = {name = "On Guard", additional_info = nil}
+MultiLanguageSpellData['en'][1238645] = {name = "Golden Loa's Altar", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238647] = {name = "Gilded Zandalari Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238649] = {name = "Add Red Dazar'alor Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238650] = {name = "Venthyr Tome of Unforgiven Sins", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238651] = {name = "Brill Coffin", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238652] = {name = "Brill Coffin Lid", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238653] = {name = "Lordaeron Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238654] = {name = "Lordaeron Fencepost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1238656] = {name = "On Guard", additional_info = nil}
+MultiLanguageSpellData['en'][1238657] = {name = "Studded Wooden Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238658] = {name = "Pandaren Cooking Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238659] = {name = "Pandaren Stone Wall", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238661] = {name = "Pandaren Cradle Stool", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238662] = {name = "Square Pandaren Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238663] = {name = "Pandaren Wooden Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238664] = {name = "Add Gilnean Wooden Bed to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238665] = {name = "Gilnean Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238666] = {name = "Gilnean Cauldron", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238667] = {name = "Worgen's Chicken Coop", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238669] = {name = "Gilnean Celebration Keg", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238670] = {name = "Stone Zandalari Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238671] = {name = "Grand Mask of Bwonsamdi, Loa of Graves", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1238673] = {name = "Rune Carved Weapon", additional_info = "Instant\n[q]Empower Rune Weapon causes your next damaging Rune spending ability to cost no Runes, but now generates 20 less Runic Power."}
 MultiLanguageSpellData['en'][1238674] = {name = "Generic: Root Self for 30 seconds (Hufton)", additional_info = nil}
 MultiLanguageSpellData['en'][1238675] = {name = "Demon Soul", additional_info = "Instant\n[q]Havoc\nImmolation Aura deals 30% increased damage and increases Chaos Strike damage by 20% while active.\n\nVengeance\nImmolation Aura deals 30% increased damage and increases Soul Cleave damage by 20% while active."}
@@ -14508,6 +15123,8 @@ MultiLanguageSpellData['en'][1238707] = {name = "Leona Report on Adarus to Veran
 MultiLanguageSpellData['en'][1238713] = {name = "Gravity Shatter", additional_info = "12 yd range\n3.4 sec cast\n[q]Slams the ground creating a small void rift, inflicting Shadow damage to all enemies within 6 yards of the impact and pulling them in for 6 sec."}
 MultiLanguageSpellData['en'][1238726] = {name = "Gravity Shatter", additional_info = "100 yd range\nInstant\n[q]Slams the ground creating a small void rift, inflicting Shadow damage to all enemies within 6 yards of the impact and pulling them in for 6 sec."}
 MultiLanguageSpellData['en'][1238729] = {name = "Slag Basilisk", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Originally dwelling deep underground where their diet consisted of obsidian and basalt, the slag basilisks surfaced when their homes were disturbed by the Legion.\"\nWorld Event:\nWoW Remix: Legion"}
+MultiLanguageSpellData['en'][1238730] = {name = "Orgrimmar Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238731] = {name = "Rugged Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1238732] = {name = "Shattered Souls", additional_info = nil}
 MultiLanguageSpellData['en'][1238733] = {name = "Shattered Souls", additional_info = "Unlimited range\nInstant\n[q]Killing an enemy sometimes creates a Soul Fragment that is consumed when you approach it, healing you for 20% of maximum health .\n\n If the Soul Fragment came from a Demon, you will deal 20% increased damage for 15 sec."}
 MultiLanguageSpellData['en'][1238734] = {name = "Shattered Souls", additional_info = nil}
@@ -14515,6 +15132,7 @@ MultiLanguageSpellData['en'][1238737] = {name = "Essence Cleave", additional_inf
 MultiLanguageSpellData['en'][1238742] = {name = "Consume Soul", additional_info = "100 yd range\nInstant\n[q]Killing an enemy sometimes creates a Soul Fragment that is consumed when you approach it, healing you for 20% of maximum health .\n\n If the Soul Fragment came from a Demon, you will deal 20% increased damage for 15 sec."}
 MultiLanguageSpellData['en'][1238743] = {name = "Consume Soul", additional_info = "100 yd range\nInstant\n[q]Killing an enemy sometimes creates a Soul Fragment that is consumed when you approach it, healing you for 20% of maximum health .\n\n If the Soul Fragment came from a Demon, you will deal 20% increased damage for 15 sec."}
 MultiLanguageSpellData['en'][1238751] = {name = "Infusion Tether", additional_info = "Unlimited range\nInstant\n[q]Loom'ithar pulls several players to its location, binding them with silken strands that inflict 452533 Arcane damage each second, growing in intensity over time.\n\n Each strand snaps when drawn to 40 yards, creating a splotch of Living Silk at the player's location."}
+MultiLanguageSpellData['en'][1238752] = {name = "Frostwall Elevated Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1238761] = {name = "Siphon Discharge", additional_info = nil}
 MultiLanguageSpellData['en'][1238762] = {name = "Siphon Discharge", additional_info = nil}
 MultiLanguageSpellData['en'][1238763] = {name = "Siphon Discharge", additional_info = "Unlimited range\nInstant\n[q]Dark energy splashes the ground, inflicting 70 Shadow damage to players within 4 yards of impact."}
@@ -14532,6 +15150,7 @@ MultiLanguageSpellData['en'][1238786] = {name = "11.2 Delves - Ethereals - AI Be
 MultiLanguageSpellData['en'][1238795] = {name = "Overcharged Delves", additional_info = nil}
 MultiLanguageSpellData['en'][1238804] = {name = "BIG Burner Clock", additional_info = "1.5 sec cast\n[q]Add 60 seconds back to the Dastardly Duos clock."}
 MultiLanguageSpellData['en'][1238810] = {name = "Demonic Oculus", additional_info = "Instant\n[q]Affliction, Destruction\nCasting Chaos Bolt, Rain of Fire, or Shadowburn summons a Demonic Oculus, up to 3. Consuming Demonic Art flings your Demonic Oculi at your current target, exploding for (502.813% of Spell Power) Fire damage and (335.172% of Spell Power) Fire damage to enemies within 10 yds.\n\nDemonology\nHand of Gul'dan cast at full power summons a Demonic Oculus, up to 3. Consuming Demonic Art flings your Demonic Oculi at your current target, exploding for (502.813% of Spell Power) Fire damage and (335.172% of Spell Power) Fire damage to enemies within 10 yds."}
+MultiLanguageSpellData['en'][1238814] = {name = "Bark!", additional_info = nil}
 MultiLanguageSpellData['en'][1238834] = {name = "Echo Barrage", additional_info = "{Channeled (6 sec cast)} {3 sec cooldown}\n[q]The caster summons echoes that strike the ground beneath them, inflicting 11243065 Shadow damage to players within 4.5 yards and an additional 1124306 Shadow damage every 1 sec for 8 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1238838] = {name = "Echo Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][1238841] = {name = "Heroic World Tier", additional_info = "Instant\n[q]Eternus is experimenting with the timeline. Be prepared for anything."}
@@ -14561,15 +15180,23 @@ MultiLanguageSpellData['en'][1238904] = {name = "Heart of the Jade Serpent", add
 MultiLanguageSpellData['en'][1238906] = {name = "Echo Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][1238909] = {name = "Umbral Devastation", additional_info = "100 yd range\n3 sec cast\n[q]Voidripper roars, unleashing untold cosmic devastation on his enemies, inflicting 278826 Cosmic damage to all players."}
 MultiLanguageSpellData['en'][1238913] = {name = "Flotsam Harvester", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1238915] = {name = "Tiny Snow Buddy", additional_info = "Instant\n[q]Right Click to summon and dismiss the Tiny Snow Buddy."}
 MultiLanguageSpellData['en'][1238919] = {name = "Void Empowerment", additional_info = "100 yd range\n3 sec cast\n[q]Challnax channels energies from the cosmos into Voidripper, increases his damage done by 5% every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][1238921] = {name = "Void Empowerment", additional_info = "100 yd range\nInstant\n[q]Challnax channels energies from the cosmos into Voidripper, increases his damage done by 5% every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][1238922] = {name = "Void Empowerment", additional_info = "100 yd range\nInstant\n[q]Challnax channels energies from the cosmos into Voidripper, increases his damage done by 5% every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][1238923] = {name = "Infusion Tether", additional_info = "Instant\n[q]Loom'ithar pulls several players to its location, binding them with silken strands that inflict 452533 Arcane damage each second, growing in intensity over time.\n\n Each strand snaps when drawn to 40 yards, creating a splotch of Living Silk at the player's location."}
 MultiLanguageSpellData['en'][1238930] = {name = "Impale", additional_info = "40 yd range\n1 sec cast\n[q]Challnax impales his current target, inflicting 209120 Physical damage, and rooting them in place for 6 sec."}
+MultiLanguageSpellData['en'][1238933] = {name = "Orgrimmar Nightstand", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238935] = {name = "Durable Wooden Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238936] = {name = "Wide Charming Couch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238937] = {name = "Iron-Reinforced Cupboard", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1238938] = {name = "Trueshot Lodge Fireplace", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1238941] = {name = "Summon Goblin Trap", additional_info = nil}
 MultiLanguageSpellData['en'][1238942] = {name = "Trapper Missile", additional_info = nil}
 MultiLanguageSpellData['en'][1238945] = {name = "Zapper's Zapper", additional_info = nil}
 MultiLanguageSpellData['en'][1238947] = {name = "Zapped", additional_info = "Unlimited range\nInstant\n[q]Lose 11% of maximum health every 1 second."}
+MultiLanguageSpellData['en'][1238948] = {name = "Runed Dreamweaver Moonstone", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1238949] = {name = "Worker's Wooden Desk", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1238952] = {name = "Trapper Missile", additional_info = nil}
 MultiLanguageSpellData['en'][1238953] = {name = "Trapper Missile", additional_info = nil}
 MultiLanguageSpellData['en'][1238954] = {name = "Bonemelt", additional_info = "{3 sec cast} {10 sec cooldown}\n[q]The caster ejects a volley of acid globs at players, causing them to inflict 2108075 Nature damage to players within 4 yards every 1 sec for 10 sec."}
@@ -14593,6 +15220,13 @@ MultiLanguageSpellData['en'][1238984] = {name = "Vengeful Oath", additional_info
 MultiLanguageSpellData['en'][1238985] = {name = "Vengeful Oath", additional_info = "Unlimited range\nInstant\n[q]Oaths return to haunt their breakers, manifesting as ethereal spirits that dart into players. Failing to face a spirit returns an application of Oath-Bound ."}
 MultiLanguageSpellData['en'][1239000] = {name = "Impale", additional_info = "50 yd range\nInstant\n[q]Challnax impales his current target, inflicting 6 Physical damage, and rooting them in place for 6 sec."}
 MultiLanguageSpellData['en'][1239002] = {name = "Lesser Bulwark", additional_info = "100 yd range\nInstant\n[q]Will the Light to coalesce and become manifest as a Holy Armament, wielded by your friendly target.\n\n Holy Bulwark :\n\nWhile wielding a Holy Bulwark, gain an absorb shield for 15.0% of your max health and an additional 2.0% every 2 sec. Lasts 20 sec.\n\n Becomes Sacred Weapon after use."}
+MultiLanguageSpellData['en'][1239012] = {name = "Orgrimmar Tusked Bed", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1239013] = {name = "Iron-Reinforced Standing Mirror", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1239014] = {name = "Shaded Suramar Window", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239015] = {name = "Elaborate Suramar Window", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239016] = {name = "Octagonal Ochre Window", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239017] = {name = "Meadery Ochre Window", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239018] = {name = "Ornate Ochre Window", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1239023] = {name = "Impale", additional_info = "10 yd range\nInstant\n[q]Challnax impales his current target, inflicting 209120 Physical damage, and rooting them in place for 6 sec."}
 MultiLanguageSpellData['en'][1239024] = {name = "Bountiful", additional_info = nil}
 MultiLanguageSpellData['en'][1239027] = {name = "Fend", additional_info = "20 yd range\nInstant\n[q]Challnax charges to a player and rapidly jabs their spear upon landing, inflicting 12 Physical damage to players in front of them."}
@@ -14622,13 +15256,21 @@ MultiLanguageSpellData['en'][1239153] = {name = "Deeper Wounds", additional_info
 MultiLanguageSpellData['en'][1239154] = {name = "Arcane", additional_info = nil}
 MultiLanguageSpellData['en'][1239155] = {name = "Path of the All-Devouring", additional_info = "10 sec cast 8 hrs cooldown\n[q]Teleport to the entrance of Manaforge Omega."}
 MultiLanguageSpellData['en'][1239156] = {name = "Hero's Path", additional_info = nil}
+MultiLanguageSpellData['en'][1239159] = {name = "Add Bel'ameth Interior Wall to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1239160] = {name = "Add Bel'ameth Round Interior Pillar to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1239161] = {name = "Add Bel'ameth Interior Doorway to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1239162] = {name = "Add Bel'ameth Interior Narrow Wall to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1239166] = {name = "Explosive", additional_info = nil}
 MultiLanguageSpellData['en'][1239170] = {name = "Elemental Overflow", additional_info = "Instant\n[q]Elemental, Restoration\nAfter casting Downpour, your next Chain Heal, Healing Wave, or Healing Surge casts again at 150% effectiveness.\n\nEnhancement\nAfter casting Primordial Storm, your next Lava Lash or Fire Nova casts again at 150% effectiveness.\n\n(750ms cooldown)"}
 MultiLanguageSpellData['en'][1239175] = {name = "Open Portal", additional_info = nil}
+MultiLanguageSpellData['en'][1239176] = {name = "Rolling Snowball", additional_info = "{4 sec cast} {10 min cooldown}\n[q]Jump on a snowball and roll it! Cooldown reduced during Feast of Winter Veil."}
 MultiLanguageSpellData['en'][1239177] = {name = "Magma", additional_info = nil}
 MultiLanguageSpellData['en'][1239179] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1239182] = {name = "Tempestuous", additional_info = nil}
+MultiLanguageSpellData['en'][1239185] = {name = "Add Silvermoon Round Interior Pillar to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1239191] = {name = "Molten", additional_info = nil}
+MultiLanguageSpellData['en'][1239192] = {name = "Add Silvermoon Interior Narrow Wall to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1239193] = {name = "Add Silvermoon Interior Wall to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1239194] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1239198] = {name = "<DNT> Learn 1st and 2nd Durable Information Storage Container Abilities", additional_info = nil}
 MultiLanguageSpellData['en'][1239200] = {name = "Blistering", additional_info = nil}
@@ -14664,16 +15306,29 @@ MultiLanguageSpellData['en'][1239315] = {name = "Storm's Eye", additional_info =
 MultiLanguageSpellData['en'][1239316] = {name = "Entropic Rupture", additional_info = "300 yd range\nInstant\n[q]Pargoth ruptures space at several nearby locations, inflicting 40 Shadow damage to players within 4 yards and summoning Entropic Remnants."}
 MultiLanguageSpellData['en'][1239327] = {name = "Dematerialize", additional_info = "100 yd range\n1.5 sec cast\n[q]Attempt to tear a player apart at the atomic level over 8 sec, inflicting 12 Cosmic damage every 1 sec and reducing their movement speed by 60%."}
 MultiLanguageSpellData['en'][1239336] = {name = "Ascension", additional_info = "Instant\n[q]Shadow\nHalos generate an additional 10 Insanity over 5 sec and Resonant Energy additionally increases the damage of your Devouring Plague by 5.0%.\n\nDiscipline, Holy\nHalos reduce the cooldown of your Holy Word: Serenity and Holy Word: Sanctify by 5 sec and Resonant Energy additionally increases the healing of your Holy Words by 5.0%."}
+MultiLanguageSpellData['en'][1239337] = {name = "Frostwall Forge", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239338] = {name = "Ancestral Signal Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239339] = {name = "Gilnean Problem Solver", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239340] = {name = "Gilnean Noble's Trellis", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239342] = {name = "Arched Rose Trellis", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239343] = {name = "Gilnean Stone Wall", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1239350] = {name = "All Hands!", additional_info = "60 yd range\n1.5 sec cast\n[q]Captain Nil'hitan calls to his crew for assistance!"}
 MultiLanguageSpellData['en'][1239351] = {name = "Shoot", additional_info = "45 yd range\n{1 sec cast} {1.5 sec cooldown}\n[q]Inflicts 7 Physical damage to an enemy."}
 MultiLanguageSpellData['en'][1239356] = {name = "Blighted Arrow", additional_info = "40 yd range\n3 sec cast\n[q]An unholy arrow that deals (34% of Attack Power) Shadow damage. When consuming Sudden Doom, your Death Coil commands your archer to fire an additional Blighted Arrow at 80% effectiveness. Epidemic will instead cause Blighted Arrow to ricochet and hit up to 5 additional targets."}
 MultiLanguageSpellData['en'][1239358] = {name = "Phase Stabilization", additional_info = "Unlimited range\nInstant\n[q]Become temporarily invisible after using a waygate."}
+MultiLanguageSpellData['en'][1239364] = {name = "Hurricane Wing", additional_info = "{6 sec cast} {5 sec cooldown}\n[q]Upon reaching 100 energy, Raszageth summons a massive gust of wind. Inflicts 20 Nature damage to all players. Additionally, players are pushed away and suffer 3 Nature damage every 0.5 sec for 1.5 sec."}
+MultiLanguageSpellData['en'][1239368] = {name = "Lightning Breath", additional_info = "300 yd range\n3 sec cast\n[q]Raszageth exhales a beam of lightning in front of her, inflicting 55 Nature damage every 0.3 sec to players standing in the area."}
+MultiLanguageSpellData['en'][1239375] = {name = "Stormfury", additional_info = nil}
+MultiLanguageSpellData['en'][1239377] = {name = "Lingering Death", additional_info = nil}
 MultiLanguageSpellData['en'][1239384] = {name = "Blighted Arrow", additional_info = "Instant\n[q]An unholy arrow that deals (34% of Attack Power) Shadow damage. When consuming Sudden Doom, your Death Coil commands your archer to fire an additional Blighted Arrow at 80% effectiveness. Epidemic will instead cause Blighted Arrow to ricochet and hit up to 5 additional targets."}
 MultiLanguageSpellData['en'][1239385] = {name = "Blighted Arrow", additional_info = "Instant\n[q]An unholy arrow that deals (34% of Attack Power) Shadow damage. When consuming Sudden Doom, your Death Coil commands your archer to fire an additional Blighted Arrow at 80% effectiveness. Epidemic will instead cause Blighted Arrow to ricochet and hit up to 5 additional targets."}
 MultiLanguageSpellData['en'][1239390] = {name = "Phasing", additional_info = nil}
+MultiLanguageSpellData['en'][1239393] = {name = "Ride Snowball", additional_info = nil}
 MultiLanguageSpellData['en'][1239396] = {name = "Run Through", additional_info = "100 yd range\nInstant\n[q]Scallywag runs through a target, slowing the target by 5%, reducing healing taken by 5% and inflicting 174266 Cosmic damage. This effect stacks."}
 MultiLanguageSpellData['en'][1239401] = {name = "Cosmic Onslaught", additional_info = "100 yd range\nInstant\n[q]Your attacks have a high chance to unleash a cosmic onslaught, dealing ( 517 * 1 ) Cosmic damage to your target.\n\n Damage increased by 2% for every 1% health the target is missing, and nearby enemies take 50% of the damage dealt split between them."}
+MultiLanguageSpellData['en'][1239402] = {name = "Bradensbrook Smoke Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1239403] = {name = "Cosmic Radiation", additional_info = "100 yd range\nInstant\n[q]Your attacks have a high chance to unleash a cosmic onslaught, dealing ( 517 * 1 ) Cosmic damage to your target.\n\n Damage increased by 2% for every 1% health the target is missing, and nearby enemies take 50% of the damage dealt split between them."}
+MultiLanguageSpellData['en'][1239404] = {name = "Bradensbrook Thorned Well", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1239405] = {name = "Run Through", additional_info = "100 yd range\nInstant\n[q]Scallywag runs through a target, slowing the target by 5%, reducing healing taken by 5% and inflicting 174266 Cosmic damage. This effect stacks."}
 MultiLanguageSpellData['en'][1239407] = {name = "Run Through", additional_info = "100 yd range\n1.5 sec cast\n[q]Scallywag runs through a target, slowing the target by 5%, reducing healing taken by 5% and inflicting 174266 Cosmic damage. This effect stacks."}
 MultiLanguageSpellData['en'][1239409] = {name = "Void Echo", additional_info = nil}
@@ -14686,6 +15341,15 @@ MultiLanguageSpellData['en'][1239422] = {name = "Blighted Arrow", additional_inf
 MultiLanguageSpellData['en'][1239424] = {name = "Blighted Arrow", additional_info = "Instant\n[q]An unholy arrow that deals (34% of Attack Power) Shadow damage. When consuming Sudden Doom, your Death Coil commands your archer to fire an additional Blighted Arrow at 80% effectiveness. Epidemic will instead cause Blighted Arrow to ricochet and hit up to 5 additional targets."}
 MultiLanguageSpellData['en'][1239426] = {name = "Scuttle That One!", additional_info = "100 yd range\nInstant\n[q]Captain Nil'hitan marks a target, increasing their damage taken by 1%."}
 MultiLanguageSpellData['en'][1239427] = {name = "Scuttle That One!", additional_info = "100 yd range\n2 sec cast\n[q]Captain Nil'hitan marks a target, increasing their damage taken by 1%."}
+MultiLanguageSpellData['en'][1239430] = {name = "Gilnean Stocks", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239431] = {name = "Add Surwich Expedition Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239433] = {name = "Little Wolf's Loo", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239434] = {name = "Gilnean Wooden Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239435] = {name = "Gilnean Wall Shelf", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239436] = {name = "Gilnean Rocking Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239437] = {name = "Waning Wood Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239438] = {name = "Bel'ameth Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239440] = {name = "Elven Temple Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1239442] = {name = "Harmonic Surge", additional_info = "8 yd range\nInstant\n[q]Brewmaster\nGaining vitality has an increasing chance to cause your next Tiger Palm to unleash a Harmonic Surge, dealing [180 * (400% of Spell Power) / 100] Nature damage split between your target and other nearby enemies, and [20 * (500% of Spell Power) / 100] healing to up to 5 injured allies.\n\nWindwalker, Mistweaver\nGaining vitality has an increasing chance to cause your next Tiger Palm to unleash a Harmonic Surge, dealing [20 * (400% of Spell Power) / 100] Nature damage split between your target and other nearby enemies, and [90 * (500% of Spell Power) / 100] healing to up to 5 injured allies."}
 MultiLanguageSpellData['en'][1239443] = {name = "Harmonic Surge", additional_info = "Instant\n[q]Brewmaster\nGaining vitality has an increasing chance to cause your next Tiger Palm to unleash a Harmonic Surge, dealing [180 * (400% of Spell Power) / 100] Nature damage split between your target and other nearby enemies, and [20 * (500% of Spell Power) / 100] healing to up to 5 injured allies.\n\nWindwalker, Mistweaver\nGaining vitality has an increasing chance to cause your next Tiger Palm to unleash a Harmonic Surge, dealing [20 * (400% of Spell Power) / 100] Nature damage split between your target and other nearby enemies, and [90 * (500% of Spell Power) / 100] healing to up to 5 injured allies."}
 MultiLanguageSpellData['en'][1239445] = {name = "Broadside", additional_info = "100 yd range\n2.5 sec cast\n[q]Captain Nil'hitan commands his flagship to barrage a player's location, inflicting 871332 Cosmic damage. The barrage decimates the ground, leaving behind Cosmic Waste, inflicting 104560 cosmic damage every 1 sec."}
@@ -14694,10 +15358,15 @@ MultiLanguageSpellData['en'][1239483] = {name = "Potential Energy", additional_i
 MultiLanguageSpellData['en'][1239486] = {name = "Broadside", additional_info = "100 yd range\nInstant\n[q]Captain Nil'hitan commands his flagship to barrage a player's location, inflicting 871332 Cosmic damage. The barrage decimates the ground, leaving behind Cosmic Waste, inflicting 104560 cosmic damage every 1 sec."}
 MultiLanguageSpellData['en'][1239487] = {name = "Binding Javelin", additional_info = "100 yd range\nInstant\n[q]Taah'bat launches arcane javelins at targeted players, inflicting 2424449 Arcane damage to players within 8 yards of the targets and tethering all players struck.\n\n Each tether inflicts 606112 Arcane damage every 1 sec and reduces their movement speed by 50%, increasing in intensity every 5 seconds until the javelin is destroyed. This effect stacks."}
 MultiLanguageSpellData['en'][1239488] = {name = "Broadside", additional_info = "100 yd range\nInstant\n[q]Captain Nil'hitan commands his flagship to barrage a player's location, inflicting 871332 Cosmic damage. The barrage decimates the ground, leaving behind Cosmic Waste, inflicting 104560 cosmic damage every 1 sec."}
+MultiLanguageSpellData['en'][1239492] = {name = "Chaotic Incursion", additional_info = "Channeled (0 sec cast)\n[q]Unleash a torrent of erratic shadow blasts in all directions."}
+MultiLanguageSpellData['en'][1239493] = {name = "Chaotic Incursion", additional_info = nil}
 MultiLanguageSpellData['en'][1239494] = {name = "Cosmic Onslaught", additional_info = "100 yd range\nInstant\n[q]Your attacks have a high chance to unleash a cosmic onslaught, dealing ( 517 * 1 ) Cosmic damage to your target.\n\n Damage increased by 2% for every 1% health the target is missing, and nearby enemies take 50% of the damage dealt split between them."}
 MultiLanguageSpellData['en'][1239496] = {name = "Chromie Appears", additional_info = nil}
+MultiLanguageSpellData['en'][1239497] = {name = "Forlorn Lyre", additional_info = "Instant\n[q]Play a soothing melody."}
+MultiLanguageSpellData['en'][1239504] = {name = "Forlorn Lyre", additional_info = "Instant\n[q]Play a soothing melody."}
 MultiLanguageSpellData['en'][1239510] = {name = "Eye Blast", additional_info = "Unlimited range\nInstant\n[q]Affliction, Destruction\nCasting Chaos Bolt, Rain of Fire, or Shadowburn summons a Demonic Oculus, up to 3. Consuming Demonic Art flings your Demonic Oculi at your current target, exploding for (502.813% of Spell Power) Fire damage and (335.172% of Spell Power) Fire damage to enemies within 10 yds.\n\nDemonology\nHand of Gul'dan cast at full power summons a Demonic Oculus, up to 3. Consuming Demonic Art flings your Demonic Oculi at your current target, exploding for (502.813% of Spell Power) Fire damage and (335.172% of Spell Power) Fire damage to enemies within 10 yds."}
 MultiLanguageSpellData['en'][1239518] = {name = "10.1.0 Diablo Promo - Summon TG - Spawn Jump", additional_info = nil}
+MultiLanguageSpellData['en'][1239527] = {name = "Add Silvermoon Interior Doorway to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1239530] = {name = "A Portal Appears!", additional_info = "100 yd range\nInstant\n[q]An ominous portal appears..."}
 MultiLanguageSpellData['en'][1239533] = {name = "Cosmic Waste", additional_info = "100 yd range\nInstant\n[q]Captain Nil'hitan commands his flagship to barrage a player's location, inflicting 871332 Cosmic damage. The barrage decimates the ground, leaving behind Cosmic Waste, inflicting 104560 cosmic damage every 1 sec."}
 MultiLanguageSpellData['en'][1239534] = {name = "Chromie Leaves", additional_info = nil}
@@ -14716,6 +15385,14 @@ MultiLanguageSpellData['en'][1239601] = {name = "Wide Swipe", additional_info = 
 MultiLanguageSpellData['en'][1239608] = {name = "Prompt Prognosis", additional_info = "100 yd range\nInstant\n[q]Casting Prayer of Mending heals your target for (1400% of Spell Power)."}
 MultiLanguageSpellData['en'][1239609] = {name = "Visionary Velocity", additional_info = "Instant\n[q]Casting Premonition of Piety or Premonition of Solace grants 2 stacks of Premonition of Insight at 100% effectiveness. Consuming a stack of Premonition of Insight increases your Haste by 1.0% for 10 sec. Multiple applications may overlap."}
 MultiLanguageSpellData['en'][1239611] = {name = "Connected", additional_info = nil}
+MultiLanguageSpellData['en'][1239613] = {name = "Filigree Moon Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239614] = {name = "Wooden Gazebo", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1239615] = {name = "Stonework Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1239616] = {name = "Elwynn Cobblestone Round", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1239617] = {name = "Elwynn Cobblestone", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1239618] = {name = "Elwynn Cobblestone Pair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1239619] = {name = "Elwynn Cobblestone Cluster", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1239623] = {name = "Carved Wooden Bar Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1239638] = {name = "Waygate", additional_info = nil}
 MultiLanguageSpellData['en'][1239639] = {name = "Waygate", additional_info = nil}
 MultiLanguageSpellData['en'][1239640] = {name = "Astral Antenna", additional_info = "Instant\n[q]The antenna has a chance to detect and draw ambient arcane energy towards you, granting 167 Critical Strike for 10 sec. Multiple applications may overlap."}
@@ -14728,23 +15405,32 @@ MultiLanguageSpellData['en'][1239659] = {name = "Thrashing", additional_info = n
 MultiLanguageSpellData['en'][1239664] = {name = "Rough Kisses", additional_info = "100 yd range\n2 sec cast\n[q]Wanting attention, Chowdar fixates on an enemy and attempts to smother them in kisses inflicting 10 Physical damage every 1 sec to enemies within 8 yards in front of the caster."}
 MultiLanguageSpellData['en'][1239665] = {name = "Rough Kisses", additional_info = "{Instant} {2 sec cooldown}\n[q]Wanting attention, Chowdar fixates on an enemy and attempts to smother them in kisses inflicting 10 Physical damage every 1 sec to enemies within 8 yards in front of the caster."}
 MultiLanguageSpellData['en'][1239668] = {name = "Rough Kisses", additional_info = "100 yd range\nInstant\n[q]Wanting attention, Chowdar fixates on an enemy and attempts to smother them in kisses inflicting 10 Physical damage every 1 sec to enemies within 8 yards in front of the caster."}
+MultiLanguageSpellData['en'][1239671] = {name = "Arcane Barrage", additional_info = "40 yd range\nInstant\n[q]Launches bolts of arcane energy at the enemy targe."}
+MultiLanguageSpellData['en'][1239672] = {name = "Prismatic Barrier", additional_info = "{Instant} {25 sec cooldown}\n[q]Shields you with an arcane force, absorbing damage and reducing magic damage taken by 10% for 1 min."}
 MultiLanguageSpellData['en'][1239674] = {name = "Unyielding Netherprism", additional_info = "100 yd range\nInstant\n[q]Your harmful abilities draw focused void through the prism to deal ( 441 * 1 ) Cosmic damage split between your target and nearby enemies. Damage increased by 30% per enemy struck, up to 150%. This effect may occur every 10 sec and accumulates Latent Power within the prism, up to 18 times."}
 MultiLanguageSpellData['en'][1239675] = {name = "Latent Energy", additional_info = "100 yd range\nInstant\n[q]Your harmful abilities draw focused void through the prism to deal ( 441 * 1 ) Cosmic damage split between your target and nearby enemies. Damage increased by 30% per enemy struck, up to 150%. This effect may occur every 10 sec and accumulates Latent Power within the prism, up to 18 times."}
 MultiLanguageSpellData['en'][1239677] = {name = "Void Spray", additional_info = "20 yd range\n{3 sec cast} {13 sec cooldown}\n[q]Spit flames at enemies in front of you, inflicting 20 Fire damage."}
 MultiLanguageSpellData['en'][1239678] = {name = "Sic Em!", additional_info = "40 yd range\n1.5 sec cast\n[q]Caster summons a warhound to aid them in combat."}
+MultiLanguageSpellData['en'][1239679] = {name = "Orgrimmar Bureaucrat's Desk", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1239680] = {name = "Tidesage's Fireplace", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1239681] = {name = "Cleave in Twain", additional_info = "10 yd range\n{2 sec cast} {3 sec cooldown}\n[q]Inflicts Physical damage to an enemy.\n\n Knocks an enemy back."}
+MultiLanguageSpellData['en'][1239682] = {name = "Woodchopping", additional_info = nil}
 MultiLanguageSpellData['en'][1239688] = {name = "Rough Kisses", additional_info = "200 yd range\nInstant\n[q]Wanting attention, Chowdar fixates on an enemy and attempts to smother them in kisses inflicting 10 Physical damage every 1 sec to enemies within 8 yards in front of the caster."}
 MultiLanguageSpellData['en'][1239689] = {name = "Rampaging Demonic Soul", additional_info = "Unlimited range\nInstant\n[q]Shadow of Death unleashes your demonic soul to assault your current target for 9 sec, dealing (279.306% of Spell Power) Shadow damage and (186.209% of Spell Power) Shadow damage to enemies within 10 yds with each swipe."}
 MultiLanguageSpellData['en'][1239691] = {name = "Dread of the Unknown", additional_info = "Channeled\n[q]Soul-Scribe imbues marked players with dread. Upon expiration, the player erupts inflicting 2424449 Arcane damage to players within 9 yards of the eruption.\n\n Fates struck afflict their bound player with Wounded Fate ."}
 MultiLanguageSpellData['en'][1239693] = {name = "A Visitor Appears!", additional_info = "100 yd range\nInstant\n[q]The Treasure Goblin is here! Kill them for loot!"}
 MultiLanguageSpellData['en'][1239694] = {name = "Another Portal Appears!", additional_info = "100 yd range\nInstant\n[q]An ominous portal appears..."}
 MultiLanguageSpellData['en'][1239712] = {name = "A Portal Appears!", additional_info = "100 yd range\nInstant\n[q]An ominous portal appears..."}
+MultiLanguageSpellData['en'][1239713] = {name = "Turn Right", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1239714] = {name = "Soul Swipe", additional_info = "Melee Range\nInstant\n[q]Demonology\nDamage dealt by your demonic soul is increased by 10%.\n\n Consuming Demonic Core feeds the demonic entity within you, causing it to appear and deal [(240.402% of Spell Power) * 0.4] Shadow damage to your target.\n\nAffliction\nDamage dealt by your demonic soul is increased by 10%.\n\n Consuming Nightfall feeds the demonic entity within you, causing it to appear and deal (240.402% of Spell Power) Shadow damage to your target."}
 MultiLanguageSpellData['en'][1239715] = {name = "Demonic Soul", additional_info = "Instant\n[q]Demonology\nDamage dealt by your demonic soul is increased by 10%.\n\n Consuming Demonic Core feeds the demonic entity within you, causing it to appear and deal [(240.402% of Spell Power) * 0.4] Shadow damage to your target.\n\nAffliction\nDamage dealt by your demonic soul is increased by 10%.\n\n Consuming Nightfall feeds the demonic entity within you, causing it to appear and deal (240.402% of Spell Power) Shadow damage to your target."}
 MultiLanguageSpellData['en'][1239716] = {name = "Arcane Wave", additional_info = "20 yd range\n3 sec cast\n[q]Knocks all enemies within 8 yards of the caster back.\n Inflicts 20 Arcane damage to enemies within 8 yards."}
 MultiLanguageSpellData['en'][1239717] = {name = "K'areshi Memory Crystal", additional_info = "{Instant} {30 min cooldown}\n[q]Take on the appearance of a K'areshi."}
+MultiLanguageSpellData['en'][1239718] = {name = "Arcane Blast", additional_info = "40 yd range\n{Instant} {1.5 sec cooldown}\n[q]Blasts the target with energy."}
+MultiLanguageSpellData['en'][1239719] = {name = "Higher!", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1239721] = {name = "Throw Torch", additional_info = "30 yd range\n2 sec cast\n[q]Inflicts 7 Fire damage to an enemy.\n Inflicts 1 Fire damage to an enemy every 1 sec for 4 sec."}
 MultiLanguageSpellData['en'][1239725] = {name = "Flickergate", additional_info = nil}
+MultiLanguageSpellData['en'][1239726] = {name = "Parachute", additional_info = "Unlimited range\nInstant\n[q]A portable parachute, automatically activates when the caster begins falling."}
 MultiLanguageSpellData['en'][1239727] = {name = "Soulburst", additional_info = "10 yd range\nInstant\n[q]The caster bursts out of existence on death, inflicting Shadow damage to enemies within 5 yards."}
 MultiLanguageSpellData['en'][1239728] = {name = "Soulburst", additional_info = "10 yd range\nInstant\n[q]The caster bursts out of existence on death, inflicting Shadow damage to enemies within 5 yards."}
 MultiLanguageSpellData['en'][1239729] = {name = "Soulburst", additional_info = "Instant\n[q]The caster bursts out of existence on death, inflicting Arcane damage to enemies within 5 yards."}
@@ -14775,6 +15461,15 @@ MultiLanguageSpellData['en'][1239800] = {name = "Infusion Tether", additional_in
 MultiLanguageSpellData['en'][1239801] = {name = "Cheer Player", additional_info = nil}
 MultiLanguageSpellData['en'][1239809] = {name = "Naazindhri's Mystic Lash", additional_info = "100 yd range\nInstant\n[q]Your damaging spells have a high chance to lash your target with arcane power, dealing ( 644 * 1 ) Arcane damage split between your target and enemies caught in its path.\n\n Damage increased by 30% per additional enemy, up to 150%, and further increased by your Mastery."}
 MultiLanguageSpellData['en'][1239810] = {name = "Naazindhri's Mystic Lash", additional_info = "100 yd range\nInstant\n[q]Your damaging spells have a high chance to lash your target with arcane power, dealing ( 644 * 1 ) Arcane damage split between your target and enemies caught in its path.\n\n Damage increased by 30% per additional enemy, up to 150%, and further increased by your Mastery."}
+MultiLanguageSpellData['en'][1239813] = {name = "Add Shala'nir Feather Bed to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239814] = {name = "Kaldorei Stone Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239815] = {name = "Kaldorei Stone Fencepost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239816] = {name = "Kaldorei Cushioned Seat", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239817] = {name = "Elven Round Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239818] = {name = "Kaldorei Wall Shelf", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239819] = {name = "Kaldorei Treasure Trove", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239820] = {name = "Bel'ameth Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1239827] = {name = "Crescent Moon Lamppost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1239848] = {name = "Shattering Backhand", additional_info = nil}
 MultiLanguageSpellData['en'][1239859] = {name = "All Hands!", additional_info = "60 yd range\nInstant\n[q]Captain Nil'hitan calls to his crew for assistance!"}
 MultiLanguageSpellData['en'][1239876] = {name = "11.2 Delves - Ethereals01 - V04 - Energy: Destroy Item + Event (Hufton)", additional_info = nil}
@@ -14860,7 +15555,8 @@ MultiLanguageSpellData['en'][1240031] = {name = "Inner Fire", additional_info = 
 MultiLanguageSpellData['en'][1240032] = {name = "DNT Countdown Timer", additional_info = nil}
 MultiLanguageSpellData['en'][1240033] = {name = "Blessed Bladestorm", additional_info = "Channeled (6 sec cast)\n[q]Joseph wildly spins towards his target, inflicting 12 Holystrike damage to players caught in the way."}
 MultiLanguageSpellData['en'][1240034] = {name = "Blessed Bladestorm", additional_info = "100 yd range\nInstant\n[q]Joseph wildly spins towards his target, inflicting 12 Holystrike damage to players caught in the way."}
-MultiLanguageSpellData['en'][1240036] = {name = "Add Void-Corrupted Fountain to storage", additional_info = nil}
+MultiLanguageSpellData['en'][1240035] = {name = "Overgrown Arathi Trellis", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1240036] = {name = "Void-Corrupted Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1240043] = {name = "Sunder Armor", additional_info = "100 yd range\n1.5 sec cast\n[q]Causes an enemy to take 10% increased Physical damage for 30 sec."}
 MultiLanguageSpellData['en'][1240058] = {name = "Crusader Strike", additional_info = "Melee Range\n1.5 sec cast\n[q]Strikes the enemy with a weapon imbued with holy energy, inflicting Holy damage."}
 MultiLanguageSpellData['en'][1240060] = {name = "Rampaging Charge", additional_info = "Unlimited range\n3 sec cast\n[q]Charges at an enemy, inflicting Physical damage and knocking enemies away."}
@@ -14919,6 +15615,7 @@ MultiLanguageSpellData['en'][1240260] = {name = "Unbound Rage", additional_info 
 MultiLanguageSpellData['en'][1240264] = {name = "Remorseless Winter", additional_info = nil}
 MultiLanguageSpellData['en'][1240265] = {name = "Remorseless Winter", additional_info = nil}
 MultiLanguageSpellData['en'][1240266] = {name = "Remorseless Winter", additional_info = "Unlimited range\n{3 sec cast} {30 sec cooldown}\n[q]The Lich King channels a freezing storm inflicting 8 Frost damage to all players every 1 sec and pushing them away for 8 sec."}
+MultiLanguageSpellData['en'][1240268] = {name = "Sagehold Window", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1240273] = {name = "Etheric Brannmorpher", additional_info = nil}
 MultiLanguageSpellData['en'][1240279] = {name = "Defile", additional_info = "Unlimited range\n4 sec cast\n[q]The Remembered Lich King marks several players before defiling the ground beneath them. Any player within the effect suffers 10 Shadow damage every 1 sec and causes the area to grow."}
 MultiLanguageSpellData['en'][1240281] = {name = "Defile", additional_info = "Unlimited range\nInstant\n[q]The Remembered Lich King marks several players before defiling the ground beneath them. Any player within the effect suffers 10 Shadow damage every 1 sec and causes the area to grow."}
@@ -14944,6 +15641,8 @@ MultiLanguageSpellData['en'][1240343] = {name = "For the Brotherhood!", addition
 MultiLanguageSpellData['en'][1240344] = {name = "Throw Keg", additional_info = "100 yd range\nInstant\n[q]Throws a keg at the enemy's location, inflicting Physical damage to all enemies within 10 yards of the impact point."}
 MultiLanguageSpellData['en'][1240350] = {name = "Banana Whirl", additional_info = "{4 sec cast} {12 sec cooldown}\n[q]Knocks all enemies within 15 yards of the caster back.\n Inflicts 20 Physical damage to enemies within 15 yards."}
 MultiLanguageSpellData['en'][1240351] = {name = "Throw Keg", additional_info = "2.5 sec cast\n[q]Throws a keg at the enemy's location, inflicting Physical damage to all enemies within 10 yards of the impact point."}
+MultiLanguageSpellData['en'][1240354] = {name = "Orange Suramar Seat Cushion", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1240355] = {name = "Red Suramar Seat Cushion", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1240356] = {name = "Refracted Entropy (Broke)", additional_info = "Instant\n[q]The crystal nexus emits amplified void energy, inflicting 0 Shadow damage every 0.5 sec."}
 MultiLanguageSpellData['en'][1240361] = {name = "Electric Sapper", additional_info = "6 yd range\nInstant\n[q]Stepping on the Electric Sapper inflicts 4 Nature damage to an enemy every 1 sec for 3 sec."}
 MultiLanguageSpellData['en'][1240362] = {name = "Energy Crystal Beam", additional_info = nil}
@@ -14967,6 +15666,9 @@ MultiLanguageSpellData['en'][1240435] = {name = "Shadow Clone Spawn", additional
 MultiLanguageSpellData['en'][1240437] = {name = "Volatile Surge", additional_info = "Unlimited range\nInstant\n[q]The Manaforge radiates power, inflicting 2 Arcane damage every 1 sec for 6 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1240440] = {name = "Volatile Surge", additional_info = "Unlimited range\nInstant\n[q]The Manaforge radiates power, inflicting 2 Arcane damage every 1 sec for 6 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1240447] = {name = "Summon Challenge Room", additional_info = nil}
+MultiLanguageSpellData['en'][1240463] = {name = "High-Backed Orgrimmar Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1240464] = {name = "Iron-Reinforced Wooden Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1240465] = {name = "Stitched Leather Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1240468] = {name = "Temperature Control", additional_info = "Instant\n[q]Increase the heat of the stove."}
 MultiLanguageSpellData['en'][1240481] = {name = "Grain Masher", additional_info = "30 yd range\n{Instant} {2 sec cooldown}\n[q]Use a hammer to mash the grains."}
 MultiLanguageSpellData['en'][1240483] = {name = "Adding Hops", additional_info = nil}
@@ -15019,6 +15721,7 @@ MultiLanguageSpellData['en'][1240576] = {name = "Tachyon Slip", additional_info 
 MultiLanguageSpellData['en'][1240577] = {name = "Disruption Grenade", additional_info = "60 yd range\n{0.5 sec cast} {3 sec cooldown}\n[q]Hurls a Disruption Grenade at a location. When detonated, it inflicts Arcane damage to enemies within 4 yards and knocks them back."}
 MultiLanguageSpellData['en'][1240578] = {name = "Boon of the Oathsworn", additional_info = "100 yd range\nInstant\n[q]Become Oath-Bound to a nearby ally every 30 sec.\n\n Directly healing the ally fulfills the oath to grant you 94 Intellect for 12 sec and shields your ally for 100% of any overhealing done."}
 MultiLanguageSpellData['en'][1240579] = {name = "Disruption Grenade", additional_info = nil}
+MultiLanguageSpellData['en'][1240580] = {name = "Schmancy Goblin String Lights", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1240581] = {name = "Disruption Grenade", additional_info = "300 yd range\nInstant\n[q]Hurls a Disruption Grenade at a location. When detonated, it inflicts Arcane damage to enemies within 4 yards and knocks them back."}
 MultiLanguageSpellData['en'][1240584] = {name = "Healing Wave", additional_info = "40 yd range\n3 sec cast\n[q]Calls upon Nature magic to heal an ally for 11 health."}
 MultiLanguageSpellData['en'][1240585] = {name = "Healing Wave", additional_info = nil}
@@ -15036,6 +15739,7 @@ MultiLanguageSpellData['en'][1240700] = {name = "Mana-Seamster's Arcane-Needle",
 MultiLanguageSpellData['en'][1240705] = {name = "Astral Burn", additional_info = "Unlimited range\nInstant\n[q]Escaping energy from the manaforge inflicts 491884 Arcane damage every 1 sec for 12 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1240708] = {name = "Astral Burn", additional_info = "Unlimited range\nInstant\n[q]Escaping energy from the manaforge inflicts 491884 Arcane damage every 1 sec for 12 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1240709] = {name = "Twisting Blade", additional_info = "100 yd range\nInstant\n[q]Inflicts Arcane damage every 0.5 sec and silences the target."}
+MultiLanguageSpellData['en'][1240712] = {name = "Rolling Snowball", additional_info = "Instant\n[q]Jump on a snowball and roll it! Cooldown reduced during Feast of Winter Veil."}
 MultiLanguageSpellData['en'][1240713] = {name = "Cancel Astral Burn", additional_info = nil}
 MultiLanguageSpellData['en'][1240714] = {name = "Slicing Pursuit", additional_info = "{Instant} {2 sec cooldown}\n[q]Xy'vox fixates on an enemy and spins their blades inflicting 10 Physical damage every 1 sec to enemies within 8 yards in front of the caster."}
 MultiLanguageSpellData['en'][1240715] = {name = "Shadow Crash", additional_info = nil}
@@ -15050,7 +15754,9 @@ MultiLanguageSpellData['en'][1240728] = {name = "Shadow Crash", additional_info 
 MultiLanguageSpellData['en'][1240729] = {name = "Shadow Crash", additional_info = nil}
 MultiLanguageSpellData['en'][1240731] = {name = "Shadow Crash", additional_info = "100 yd range\nInstant\n[q]Fire shadowy missiles that inflict 25 Shadow damage."}
 MultiLanguageSpellData['en'][1240735] = {name = "Void Bolt Volley", additional_info = "50 yd range\n{3 sec cast} {2 sec cooldown}\n[q]Inflicts 12 Shadow damage to enemies within 40 yards."}
+MultiLanguageSpellData['en'][1240743] = {name = "Bel'ameth Wooden Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1240745] = {name = "Holy Smite", additional_info = "40 yd range\n2.5 sec cast\n[q]Smites an enemy, inflicting Holy damage."}
+MultiLanguageSpellData['en'][1240746] = {name = "Add Bel'ameth Crafter's Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1240754] = {name = "Spellburn", additional_info = "Instant\n[q]The Soulbinder Naazindhri radiates Arcane energy, inflicting 1124306 Arcane damage to all players every 2 sec."}
 MultiLanguageSpellData['en'][1240756] = {name = "Spellburn", additional_info = "Unlimited range\nInstant\n[q]The Soulbinder Naazindhri radiates Arcane energy, inflicting 1124306 Arcane damage to all players every 2 sec."}
 MultiLanguageSpellData['en'][1240763] = {name = "Spellburn", additional_info = "300 yd range\nInstant\n[q]The Soulbinder Naazindhri radiates Arcane energy, inflicting 1124306 Arcane damage to all players every 2 sec."}
@@ -15058,6 +15764,18 @@ MultiLanguageSpellData['en'][1240765] = {name = "Spellburn", additional_info = n
 MultiLanguageSpellData['en'][1240777] = {name = "Fel Raiser", additional_info = "Instant\n[q]Damage and health increased by 40%. Crowd control abilities suppress Fel Raiser for 8 sec."}
 MultiLanguageSpellData['en'][1240778] = {name = "Fel Raiser", additional_info = "Instant\n[q]Damage and health increased by 40%. Crowd control abilities suppress Fel Raiser for 8 sec."}
 MultiLanguageSpellData['en'][1240779] = {name = "Suppressed", additional_info = "Instant\n[q]Unable to benefit from Fel Raiser."}
+MultiLanguageSpellData['en'][1240787] = {name = "Add Small Bel'ameth Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1240788] = {name = "Small Wooden Stool", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1240789] = {name = "Large Covered Wooden Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1240790] = {name = "Small Wooden Nightstand", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1240791] = {name = "Carved Wooden Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1240792] = {name = "Sturdy Weapon Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1240793] = {name = "Wooden Chamberstick", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1240794] = {name = "Large Sturdy Wooden Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1240795] = {name = "Embellished Dwarven Tome", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1240796] = {name = "Open Carved Wooden Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1240797] = {name = "Add Filigree Moon Sconce to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1240798] = {name = "Shadowforge Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1240810] = {name = "Warp Strike", additional_info = "300 yd range\nInstant\n[q]A'wazj coalesces echoes of itself that warp towards marked targets, inflicting 2424449 Arcane damage to players in their path and causing them to suffer 363667 Arcane damage every 1 sec for 5 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1240811] = {name = "Energized Slam", additional_info = "100 yd range\nInstant\n[q]Caster charges his weapons and slams the ground, unleashing energy towards target enemy. The enegy erupts and inflict 15 Arcane damage to all enemies within 6 yards of impact."}
 MultiLanguageSpellData['en'][1240814] = {name = "Catalyst", additional_info = nil}
@@ -15066,9 +15784,14 @@ MultiLanguageSpellData['en'][1240821] = {name = "Energized Slam", additional_inf
 MultiLanguageSpellData['en'][1240833] = {name = "Adamant Defense", additional_info = "10 yd range\n{Instant} {2 sec cooldown}\n[q]Creates a 10 yard area that reduces damage taken by 30% for all allies for 10 sec. This effect is removed when exiting area."}
 MultiLanguageSpellData['en'][1240837] = {name = "Energized Slam", additional_info = nil}
 MultiLanguageSpellData['en'][1240845] = {name = "Dark Heart", additional_info = nil}
+MultiLanguageSpellData['en'][1240856] = {name = "Raging Storm", additional_info = "1 sec cast\n[q]Raszageth summons a raging storm that engulfs the platform over time. Players standing in the area are afflicted with Storm's Spite ."}
+MultiLanguageSpellData['en'][1240857] = {name = "Raging Storm", additional_info = "300 yd range\nInstant\n[q]Raszageth summons a raging storm that engulfs the platform over time. Players standing in the area are afflicted with Storm's Spite ."}
+MultiLanguageSpellData['en'][1240864] = {name = "Dragon Form", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1240865] = {name = "Soulfray Annihilation", additional_info = "Unlimited range\nInstant\n[q]The Soulbinder Naazindhri unleashes an orb in the direction of randomly targeted players, inflicting 11250162 Arcane damage to any player struck by the orb and causing them to take 15% increased damage for 20 sec.\n\n If a Binding Chamber is hit by the orb, its shield is destroyed and the Unbound Soul within takes 200% increased damage."}
 MultiLanguageSpellData['en'][1240870] = {name = "Phase Diving", additional_info = nil}
 MultiLanguageSpellData['en'][1240879] = {name = "Whispers of Fate", additional_info = "100 yd range\nInstant\n[q]Soul-Scribe shatters the fate of every player, summoning echoes of their Fate and causing them to suffer 2424449 Arcane damage."}
+MultiLanguageSpellData['en'][1240881] = {name = "Prismatic Barrier", additional_info = "{Instant} {25 sec cooldown}\n[q]Shields you with an arcane force, absorbing damage and reducing magic damage taken by 45% for 15 sec."}
+MultiLanguageSpellData['en'][1240884] = {name = "Arcane Breath", additional_info = "40 yd range\n{Instant} {15 sec cooldown}\n[q]Immobilizes an enemy for up to 3 sec.\n Inflicts 30 Arcane damage to all enemies in front of the caster."}
 MultiLanguageSpellData['en'][1240890] = {name = "Sigil of Chains", additional_info = "Instant\n[q]Ilyssa places a Sigil of Chains at their current target's location that activates after (5 / 2) sec.\n\n All players are pulled to its center and snared, reducing movement speed by 60% for 6 sec."}
 MultiLanguageSpellData['en'][1240891] = {name = "Sigil of Chains", additional_info = "2.5 sec cast\n[q]Ilyssa places a Sigil of Chains at their current target's location that activates after (5 / 2) sec.\n\n All players are pulled to its center and snared, reducing movement speed by 60% for 6 sec."}
 MultiLanguageSpellData['en'][1240896] = {name = "Eradicating Arcanocore", additional_info = "Instant\n[q]Your attacks have a high chance to charge the Arcanocore. At 10 charges, deploy a sentinel to arcanoblast your target for ( 3596 * 1 ) Arcane damage split between nearby enemies. Recover 2 charges if only one enemy is struck.\n\nDamage increased by 30% per additional enemy, up to 150%."}
@@ -15082,11 +15805,13 @@ MultiLanguageSpellData['en'][1240915] = {name = "Phasing Invocation", additional
 MultiLanguageSpellData['en'][1240916] = {name = "Eradicating Arcanoblast", additional_info = "100 yd range\nInstant\n[q]Your attacks have a high chance to charge the Arcanocore. At 10 charges, deploy a sentinel to arcanoblast your target for ( 3596 * 1 ) Arcane damage split between nearby enemies. Recover 2 charges if only one enemy is struck.\n\nDamage increased by 30% per additional enemy, up to 150%."}
 MultiLanguageSpellData['en'][1240925] = {name = "Erratic Barrage", additional_info = "100 yd range\n2.5 sec cast\n[q]Arcane energy ripples out around several players, each inflicting 20 Arcane damage to enemies with 3 yards."}
 MultiLanguageSpellData['en'][1240991] = {name = "Flickering Waygate", additional_info = nil}
+MultiLanguageSpellData['en'][1240993] = {name = "Arcane Dizziness", additional_info = nil}
 MultiLanguageSpellData['en'][1240995] = {name = "Flickering Waygate", additional_info = nil}
 MultiLanguageSpellData['en'][1240998] = {name = "Erratic Barrage", additional_info = nil}
 MultiLanguageSpellData['en'][1240999] = {name = "Unsolicited Power", additional_info = nil}
 MultiLanguageSpellData['en'][1241000] = {name = "Erratic Barrage", additional_info = "100 yd range\nInstant\n[q]Arcane energy ripples out around several players, each inflicting 20 Arcane damage to enemies with 3 yards."}
 MultiLanguageSpellData['en'][1241004] = {name = "Windforce", additional_info = "{Instant} {8 sec cooldown}\n[q]Summon a vortex of wind for 4 sec. The vortex inflicts 10 Nature damage, knocks enemies up, and slows falling speed for 5 sec."}
+MultiLanguageSpellData['en'][1241006] = {name = "Snowball Despawn Effect", additional_info = nil}
 MultiLanguageSpellData['en'][1241007] = {name = "Windforce", additional_info = nil}
 MultiLanguageSpellData['en'][1241008] = {name = "Windforce", additional_info = "100 yd range\nInstant\n[q]Summon a vortex of wind for 4 sec. The vortex inflicts 10 Nature damage, knocks enemies up, and slows falling speed for 5 sec."}
 MultiLanguageSpellData['en'][1241009] = {name = "Windforce", additional_info = "100 yd range\nInstant\n[q]Summon a vortex of wind for 4 sec. The vortex inflicts 10 Nature damage, knocks enemies up, and slows falling speed for 5 sec."}
@@ -15108,6 +15833,7 @@ MultiLanguageSpellData['en'][1241047] = {name = "A Visitor Appears!", additional
 MultiLanguageSpellData['en'][1241048] = {name = "Reinforcement Are Near!", additional_info = "100 yd range\nInstant\n[q]The Treasure Goblin summoned another portal!"}
 MultiLanguageSpellData['en'][1241059] = {name = "Celestial Infusion", additional_info = "{Instant} {45 sec cooldown}\n1 Charge\n[q]A strong herbal brew that coalesces purified chi escaping your body into a celestial guard, absorbing 30% of incoming damage, up to [(Attack Power * 11.34) * (1 + Versatility)] total.\n\n Purifying Stagger damage increases absorption by up to 200%."}
 MultiLanguageSpellData['en'][1241070] = {name = "Translocated Gorger", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Accidentally transported when the Brokers moved Tazavesh, this gorger has found a new world ripe with potential sources of energy, such as anima beacons...and riders.\"\nDrop:\nDevourer Swarms\nZone:\nTazavesh"}
+MultiLanguageSpellData['en'][1241073] = {name = "Pet Animal", additional_info = nil}
 MultiLanguageSpellData['en'][1241076] = {name = "Sthaarbs's Last Lunch", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"When one cosmically invasive threat meets another, sometimes the smaller will end up on the menu of the larger. At least cosmic observers don't always chew their meals.\"\nDrop:\nSthaarbs\nZone:\nK'aresh"}
 MultiLanguageSpellData['en'][1241078] = {name = "Offering of the Assassin", additional_info = "Instant\n[q]While out of combat, gain Assassin's Prowess .\n\nAssassin's Prowess :\nVanish from sight, entering stealth. Your next attack is guaranteed to be a critical strike."}
 MultiLanguageSpellData['en'][1241090] = {name = "Soulrend Orb", additional_info = "200 yd range\nInstant\n[q]An orb of energy that 15 sec."}
@@ -15123,6 +15849,7 @@ MultiLanguageSpellData['en'][1241106] = {name = "Tempest", additional_info = "{2
 MultiLanguageSpellData['en'][1241107] = {name = "Arcane Gust", additional_info = "2.4 sec cast\n[q]Knocks all enemies in front of the caster back.\n Inflicts 25 Arcane damage to all enemies in front of the caster."}
 MultiLanguageSpellData['en'][1241108] = {name = "Sorcerous Tempest", additional_info = nil}
 MultiLanguageSpellData['en'][1241109] = {name = "Niuzao's Resolve", additional_info = "Instant\n[q]Healing Spheres now heal over 10 sec, and their healing is increased by up to 80% based on your missing health."}
+MultiLanguageSpellData['en'][1241111] = {name = "Leave Advert", additional_info = nil}
 MultiLanguageSpellData['en'][1241112] = {name = "Flickering Waygate Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1241113] = {name = "Sorcerous Tempest", additional_info = "100 yd range\nInstant\n[q]Draws in enemies within 50 yards.\n\n A vortex of arcane winds draws in enemies and the caster casts Arcane Gust every 2.5 seconds for 10 sec."}
 MultiLanguageSpellData['en'][1241114] = {name = "Blistering Eruption", additional_info = "3 sec cast\n[q]Creates an eruption of missiles that inflict Shadowflame damage to players within 5 yards of the impact locations."}
@@ -15145,12 +15872,21 @@ MultiLanguageSpellData['en'][1241165] = {name = "Void Storage: Veilscrolls", add
 MultiLanguageSpellData['en'][1241166] = {name = "Void Storage: Veilscrolls", additional_info = nil}
 MultiLanguageSpellData['en'][1241172] = {name = "Phasing Invocation", additional_info = nil}
 MultiLanguageSpellData['en'][1241174] = {name = "Phasing Invocation", additional_info = "100 yd range\nInstant\n[q]Increases the caster's chance to block and deflect spells, casting speeds by 10% and Arcane damage done by 5%. This effect stacks."}
+MultiLanguageSpellData['en'][1241181] = {name = "Sprouting Lamppost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1241182] = {name = "Explosive", additional_info = nil}
+MultiLanguageSpellData['en'][1241183] = {name = "Short Orgrimmar Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241184] = {name = "Iron-Reinforced Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241185] = {name = "Weather-Treated Wooden Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241186] = {name = "Leather-Banded Wooden Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1241187] = {name = "Offering of Restoration", additional_info = "Instant\n[q]Increases Leech and maximum health by 20%.\n Greatly increases health and mana regeneration."}
 MultiLanguageSpellData['en'][1241188] = {name = "Endless Darkness", additional_info = "Instant\n[q]Dimensius consigns players to Oblivion from any distance if they're not protected by Soaring Reshii ."}
 MultiLanguageSpellData['en'][1241190] = {name = "Fortified Reshii", additional_info = "Instant\n[q]Xal'atath energizes players' Reshii Wraps, protecting them from Endless Darkness ."}
 MultiLanguageSpellData['en'][1241191] = {name = "Offering of Swiftness", additional_info = "Instant\n[q]Increases haste by 15% and increases movement speed by 50%."}
 MultiLanguageSpellData['en'][1241193] = {name = "Heroic World Tier", additional_info = "Instant\n[q]Eternus is experimenting with the timeline. Outdoor difficulty is significantly increased.\n\n Interact with the Console of Infinite Chaos at the Infinite Bazaar near Dalaran to return to the Normal World Tier."}
+MultiLanguageSpellData['en'][1241202] = {name = "Boralus String Lights", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1241203] = {name = "Cozy Hide-Covered Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241204] = {name = "Large Orgrimmar Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241205] = {name = "Small Leather Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1241210] = {name = "Sigil of Chains", additional_info = "Unlimited range\nInstant\n[q]Ilyssa places a Sigil of Chains at their current target's location that activates after (5 / 2) sec.\n\n All players are pulled to its center and snared, reducing movement speed by 60% for 6 sec."}
 MultiLanguageSpellData['en'][1241240] = {name = "Charged Crystal", additional_info = "[q]Your spells and attacks have a chance to send a Charged Bolt at your target that deals ( 1 * 965 ) Nature damage split between targets within 8 yds."}
 MultiLanguageSpellData['en'][1241241] = {name = "Energy Shield", additional_info = "[q]When you take damage, you have a chance to gain a Titan Energy Shield preventing up to 3662 damage for 10 sec. When the shield expires it deals 30% of the remaining absorb as Arcane damage split between enemies within 8 yds."}
@@ -15159,6 +15895,7 @@ MultiLanguageSpellData['en'][1241243] = {name = "Electric Current", additional_i
 MultiLanguageSpellData['en'][1241244] = {name = "Charged Bolts", additional_info = "[q]Your spells and abilities have a chance to turn you into a Lightning Rod striking a random enemy target within 40 yds for ( 1 * 167 ) Nature damage every 3 sec for 15 sec."}
 MultiLanguageSpellData['en'][1241245] = {name = "Cauterizing Bolts", additional_info = "[q]Your spells and abilities have a chance to turn you into a Lightning Rod causing strikes that heal the lowest health friendly target within 40 yds for 450 every 3 sec for 15 sec."}
 MultiLanguageSpellData['en'][1241246] = {name = "Critical Chain", additional_info = "[q]Your spells and abilities have a chance to trigger Critical Overload, increasing your Critical Strike by 31 every 2 sec for 20 sec."}
+MultiLanguageSpellData['en'][1241247] = {name = "Bark!", additional_info = nil}
 MultiLanguageSpellData['en'][1241250] = {name = "Static Charge", additional_info = "[q]Your spells and abilities have a chance to grant you Static Charge, increasing your Versatility by ( 14 * 20) for 30 sec. Each of your next spells and abilities reduce the Versatility bonus by 5%."}
 MultiLanguageSpellData['en'][1241251] = {name = "Spark Burst", additional_info = "[q]Your spells and abilities have a chance to trigger a Spark Burst granting you 139 Haste for 20 sec."}
 MultiLanguageSpellData['en'][1241254] = {name = "Blade Dance", additional_info = "Instant\n[q]Velaryn rapidly slashes at nearby locations, inflicting 17567289 Chaos damage to players caught in the effect."}
@@ -15178,6 +15915,7 @@ MultiLanguageSpellData['en'][1241312] = {name = "Arcane Burrow", additional_info
 MultiLanguageSpellData['en'][1241314] = {name = "[q4]Power Energy-pod", additional_info = "3 sec cast\nReagents:\nDevoured Energy-Pod (20)\n[q]Combine 20 Devoured Energy-pods to attract a devourer."}
 MultiLanguageSpellData['en'][1241316] = {name = "Feedback", additional_info = nil}
 MultiLanguageSpellData['en'][1241321] = {name = "K'areshi Memory Crystal", additional_info = "Instant\n[q]Take on the appearance of a K'aresh for 10 min."}
+MultiLanguageSpellData['en'][1241323] = {name = "Spiky Banded Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1241330] = {name = "Arcane Burrow", additional_info = "100 yd range\nInstant\n[q]The worm burrows towards a player, inflicting 40 Arcane damage in a line and knocking players away."}
 MultiLanguageSpellData['en'][1241334] = {name = "Dustcoil Burrow", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1241336] = {name = "Dustcoil Burrow", additional_info = "100 yd range\nInstant\n[q]The general slams his weapon into the ground and causes the earth to explode, inflicting Physical damage to players caught in the blast and stunning them for 3 sec."}
@@ -15191,6 +15929,7 @@ MultiLanguageSpellData['en'][1241360] = {name = "Rampaging Charge", additional_i
 MultiLanguageSpellData['en'][1241361] = {name = "Rampaging Charge", additional_info = nil}
 MultiLanguageSpellData['en'][1241362] = {name = "Rampaging Charge", additional_info = "Unlimited range\n3 sec cast\n[q]Charges at an enemy, inflicting Physical damage and knocking enemies away."}
 MultiLanguageSpellData['en'][1241363] = {name = "Rampaging Charge", additional_info = "100 yd range\nInstant\n[q]Charges toward an enemy, inflicting Physical damage and knocking back all enemies in their path."}
+MultiLanguageSpellData['en'][1241365] = {name = "Stormwind Beam Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1241366] = {name = "Legion Invasion Spawn", additional_info = nil}
 MultiLanguageSpellData['en'][1241367] = {name = "Demonic Hearthstone", additional_info = nil}
 MultiLanguageSpellData['en'][1241368] = {name = "Beacon of Chaos", additional_info = "Instant\n[q]Occasionally summons demonic allies in combat. Health increased by 10%."}
@@ -15204,6 +15943,25 @@ MultiLanguageSpellData['en'][1241377] = {name = "Beacon of Chaos", additional_in
 MultiLanguageSpellData['en'][1241378] = {name = "Beacon of Chaos", additional_info = nil}
 MultiLanguageSpellData['en'][1241380] = {name = "<DNT> Push Celestial Invitation", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1241382] = {name = "Ether-Plate", additional_info = nil}
+MultiLanguageSpellData['en'][1241383] = {name = "Stormwind Round Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241384] = {name = "Stormwind Large Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241385] = {name = "Stormwind Small Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241386] = {name = "Stormwind Angled Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241387] = {name = "Silvermoon Beam Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241388] = {name = "Silvermoon Large Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241389] = {name = "Silvermoon Small Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241390] = {name = "Silvermoon Angled Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241391] = {name = "Silvermoon Round Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241392] = {name = "Bel'ameth Beam Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241393] = {name = "Bel'ameth Large Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241394] = {name = "Bel'ameth Small Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241395] = {name = "Bel'ameth Angled Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241396] = {name = "Bel'ameth Round Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241397] = {name = "Orgrimmar Beam Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241398] = {name = "Orgrimmar Round Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241399] = {name = "Orgrimmar Large Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241400] = {name = "Orgrimmar Small Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1241401] = {name = "Orgrimmar Angled Platform", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1241414] = {name = "Coalesce", additional_info = "Instant\n[q]Fuses from the nether, becoming reborn as a void creature."}
 MultiLanguageSpellData['en'][1241417] = {name = "Traits", additional_info = nil}
 MultiLanguageSpellData['en'][1241425] = {name = "Temporal Retreat", additional_info = "10 sec cast\n[q]Return to the Normal World Tier."}
@@ -15312,6 +16070,7 @@ MultiLanguageSpellData['en'][1241918] = {name = "Mass Binding", additional_info 
 MultiLanguageSpellData['en'][1241927] = {name = "Mass Binding", additional_info = nil}
 MultiLanguageSpellData['en'][1241931] = {name = "Portal Problems", additional_info = nil}
 MultiLanguageSpellData['en'][1241938] = {name = "Souls of the Caw", additional_info = "100 yd range\nInstant\n[q]Your spells and abilities have a chance to summon a flock of spirit eagles that dive bomb nearby enemies, exploding on impact to heal allies and inflict [[2 * (368% Attack/Spell Power)]][[(368% Attack/Spell Power)]] Nature damage to enemies within 5 yards."}
+MultiLanguageSpellData['en'][1241939] = {name = "Cosmetic - SitChairLow and Eat Apple", additional_info = nil}
 MultiLanguageSpellData['en'][1241940] = {name = "Fracture", additional_info = "Unlimited range\nInstant\n[q]Ilyssa rapidly slashes her current target, inflicting 59728781 Physical damage and applying Shattered Soul .\n\n This strike cleaves the target's soul into fragments which each maintain Frailty on the target until another player collects the fragment."}
 MultiLanguageSpellData['en'][1241946] = {name = "Frailty", additional_info = "Unlimited range\nInstant\n[q]The fragment draws upon the target's soul, reducing their healing received by 33%. This effect stacks.\n\n Players other than the target can collect the fragment, suffering 843230 Chaos damage every 0.5 sec for 20 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1241957] = {name = "Offering of Brutality", additional_info = "Instant\n[q]Increases your damage dealt by 5% and an additional 5% for each enemy slain, stacking up to 10 times.\n\n When this expires, explode for (100% of Spell Power) Fire damage to nearby enemies, increased by (100% of Spell Power)% for each additional stack of Offering of Brutality ."}
@@ -15338,7 +16097,12 @@ MultiLanguageSpellData['en'][1242046] = {name = "Ceaseless Swarm", additional_in
 MultiLanguageSpellData['en'][1242048] = {name = "Shadowburst Lance", additional_info = "100 yd range\nInstant\n[q]The caster launches a shadowed spear at a random player, inflicting 6 Shadow damage on impact and tethering them for 25 sec.\n\n This tether inflicts 5 Shadow damage every 1.5 sec and reduces their movement speed by 80% until broken."}
 MultiLanguageSpellData['en'][1242049] = {name = "Impale", additional_info = nil}
 MultiLanguageSpellData['en'][1242051] = {name = "Arcane Focus", additional_info = nil}
-MultiLanguageSpellData['en'][1242068] = {name = "Add Light-Infused Rotunda to storage", additional_info = nil}
+MultiLanguageSpellData['en'][1242063] = {name = "Shadowforge Grinding Wheel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242064] = {name = "Dark Iron Table Saw", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242065] = {name = "Ironforge Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242066] = {name = "Small Ironforge Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242067] = {name = "Blackrock Lamppost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242068] = {name = "Light-Infused Rotunda", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1242070] = {name = "Shadowburst Lance", additional_info = nil}
 MultiLanguageSpellData['en'][1242071] = {name = "Arcane Expulsion", additional_info = "200 yd range\nInstant\n[q]The Soulbinder Naazindhri unleashes a devastating arcane shockwave, knocking all players back with explosive force. inflicting 3232381 Arcane damage and additional 843230 Arcane damage every 1 sec for 15 sec to them."}
 MultiLanguageSpellData['en'][1242072] = {name = "Intensifying Aggression", additional_info = "Instant\n(1s cooldown)"}
@@ -15354,9 +16118,19 @@ MultiLanguageSpellData['en'][1242095] = {name = "Massive Smash", additional_info
 MultiLanguageSpellData['en'][1242096] = {name = "Massive Smash", additional_info = nil}
 MultiLanguageSpellData['en'][1242097] = {name = "Massive Smash", additional_info = nil}
 MultiLanguageSpellData['en'][1242102] = {name = "Souls of the Caw", additional_info = "100 yd range\nInstant\n[q]Your spells and abilities have a chance to summon a flock of spirit eagles that dive bomb nearby enemies, exploding on impact to heal allies and inflict [[2 * (368% Attack/Spell Power)]][[(368% Attack/Spell Power)]] Nature damage to enemies within 5 yards."}
+MultiLanguageSpellData['en'][1242104] = {name = "Kharanos Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242105] = {name = "Stolen Ironforge Seat", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242106] = {name = "Thelsamar Hanging Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242107] = {name = "Wooden Ironforge Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242108] = {name = "Square Stormpike Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242109] = {name = "Round Dwarven Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242110] = {name = "Ornate Ironforge Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242111] = {name = "Dilapidated Wildhammer Well", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242112] = {name = "Overgrown Wildhammer Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1242114] = {name = "Dreamweaving", additional_info = "[q]Call of the Forest calls upon a Dreamweaver that empowers you and 4 nearby allies with Dreamweaving .\n\n Dreamweaving :\nYour abilities recharge 100% faster and you recover 10% of your class resource every 1 sec for 12 sec."}
 MultiLanguageSpellData['en'][1242115] = {name = "Dreamweaving", additional_info = nil}
 MultiLanguageSpellData['en'][1242116] = {name = "Dreamweaving", additional_info = "100 yd range\nInstant\n[q]Your abilities recharge 100% faster and you recover 10% of your class resource every 1 sec for 12 sec."}
+MultiLanguageSpellData['en'][1242117] = {name = "Dark Iron Chandelier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1242118] = {name = "Galvanic Tide", additional_info = nil}
 MultiLanguageSpellData['en'][1242119] = {name = "Waking Frenzy", additional_info = "[q]Souls of the Caw grants Waking Frenzy for 20 sec.\n\n Waking Frenzy :\nYour abilities grant you and your summoned companions 2% increased damage and healing for 20 sec, stacking up to 15 times."}
 MultiLanguageSpellData['en'][1242122] = {name = "Waking Frenzy", additional_info = "100 yd range\nInstant\n[q]Your abilities grant you and your summoned companions 2% increased damage and healing for 20 sec, stacking up to 15 times.\n(500ms cooldown)"}
@@ -15371,6 +16145,7 @@ MultiLanguageSpellData['en'][1242157] = {name = "Void Ray", additional_info = ni
 MultiLanguageSpellData['en'][1242162] = {name = "Portal Infusion", additional_info = "100 yd range\nInstant\n[q]Portalmaster Halsan uses a player as a conduit to conjure a portal, inflicting 69707 Arcane damage every 1.5 sec for 6 sec. When this expires a Shadowguard Portal is created at the players location."}
 MultiLanguageSpellData['en'][1242171] = {name = "Void Volley", additional_info = "Instant\n[q]Void Torrent is replaced with Void Volley for 20 sec after it is cast.\n\n Void Volley\nReleases a volley of pure void energy, firing 10 bolts at your target and 1 bolt at all enemies within 10 yards of your target for (106.049% of Spell Power) Shadow damage.\n\nGenerates 10 Insanity."}
 MultiLanguageSpellData['en'][1242173] = {name = "Void Volley", additional_info = "40 yd range\nInstant\n[q]Releases a volley of pure void energy, firing 10 bolts at your target and 1 bolt at all enemies within 10 yards of your target for (106.049% of Spell Power) Shadow damage.\n\nGenerates 10 Insanity."}
+MultiLanguageSpellData['en'][1242176] = {name = "Elegant Tied Curtain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1242177] = {name = "Empowered", additional_info = "Instant\n[q]Enemies have 60% more health and inflict 60% more damage."}
 MultiLanguageSpellData['en'][1242182] = {name = "Oppressive", additional_info = "Instant\n[q]Bosses have additional mechanics."}
 MultiLanguageSpellData['en'][1242185] = {name = "Portal Infusion", additional_info = "100 yd range\nInstant\n[q]Portalmaster Halsan uses a player as a conduit to conjure a portal, inflicting 69707 Arcane damage every 1.5 sec for 6 sec. When this expires a Shadowguard Portal is created at the players location."}
@@ -15415,6 +16190,19 @@ MultiLanguageSpellData['en'][1242304] = {name = "Expulsed Soul", additional_info
 MultiLanguageSpellData['en'][1242310] = {name = "Static Lightning", additional_info = "300 yd range\nInstant\n[q]The Great Exhaust rains lightning down when activated, inflicting 69 Nature damage to players in a 0 yard radius."}
 MultiLanguageSpellData['en'][1242325] = {name = "Flow Surge", additional_info = "Instant\n[q]A surge of arcane power rips into the enemy, decreasing their maximum health."}
 MultiLanguageSpellData['en'][1242326] = {name = "Cursed Stone Idol", additional_info = "{1 sec cast} {1.5 min cooldown}\n[q]Channel for 1 sec to invoke the wrath of the idol, increasing your Critical Strike by 247 for 15 sec. The force slams the earth, dealing 1503 Nature damage to all nearby enemies and increasing Critical Strike by 12 per enemy hit, up to a maximum of 308 ."}
+MultiLanguageSpellData['en'][1242327] = {name = "Gnomish T.O.O.L.B.O.X.", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242328] = {name = "Automated Gnomeregan Guardian", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242329] = {name = "Retired Industrial Gnomegrabber", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242330] = {name = "Mechanical Gnomish Lamppost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242331] = {name = "Redundant Reclamation Rig", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242332] = {name = "Mechagon Hanging Floodlight", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242333] = {name = "Add Mechagnome Sustenance Distributor to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242334] = {name = "Gnomish Tesla Mega-Coil", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242335] = {name = "Gnomish Tesla Coil", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242336] = {name = "Ironforge Chandelier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242337] = {name = "Collect Steel Ironforge Emblem", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242338] = {name = "Ironforge Fencepost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242339] = {name = "Ironforge Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1242340] = {name = "Speed Siphoner", additional_info = "Instant\n[q]Movement Speed inside Manaforge Omega increased while out of combat."}
 MultiLanguageSpellData['en'][1242341] = {name = "Speed Siphoner", additional_info = "Instant\n[q]The Vandals arm you with a Speed-Siphon Filter, converting ethereal essence into increased Movement Speed outside of combat within Manaforge Omega."}
 MultiLanguageSpellData['en'][1242342] = {name = "Speed Siphoner", additional_info = "Instant\n[q]The Vandals arm you with a Speed-Siphon Filter, converting ethereal essence into increased Movement Speed outside of combat within Manaforge Omega."}
@@ -15430,6 +16218,13 @@ MultiLanguageSpellData['en'][1242355] = {name = "Felbolt", additional_info = "40
 MultiLanguageSpellData['en'][1242356] = {name = "Thunderstruck", additional_info = nil}
 MultiLanguageSpellData['en'][1242357] = {name = "Tsunami of Arcane", additional_info = "200 yd range\nInstant\n[q]The Soulbinder releases a powerful arcane energy shockwave from his body, knocking back all players, inflicting 0 Arcane damage and additional 7 Arcane damage every 1 sec for 15 sec to them.\n\n When the player lands, residual Arcane silk is shaken loose, forming a lingering area. Inflicting 24 Arcane damage to all players inside every 1 sec."}
 MultiLanguageSpellData['en'][1242358] = {name = "Warp", additional_info = nil}
+MultiLanguageSpellData['en'][1242361] = {name = "Small Emergency Warning Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242362] = {name = "Emergency Warning Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242363] = {name = "Mechagon Eyelight Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242364] = {name = "Mechagon Miniature Artificial Sun", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242365] = {name = "Gnomish Safety Flamethrower", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1242366] = {name = "Charming Couch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1242367] = {name = "Large H.O.M.E. Cog", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1242368] = {name = "Call of the Legion: Infernal Flayer", additional_info = "100 yd range\nInstant\n[q]Summon an Infernal Flayer from the twisting nether to assist you in combat for 10 sec."}
 MultiLanguageSpellData['en'][1242371] = {name = "Infernal Leap", additional_info = "40 yd range\nInstant\n[q]The Infernal Flayer leaps through the air towards their target, inflicting 0 Fire damage to all enemies within 6 yards."}
 MultiLanguageSpellData['en'][1242372] = {name = "Knockback Trigger", additional_info = nil}
@@ -15523,7 +16318,9 @@ MultiLanguageSpellData['en'][1242784] = {name = "Arcane Lash", additional_info =
 MultiLanguageSpellData['en'][1242785] = {name = "Bracing Surge", additional_info = "60 yd range\nInstant\n[q]Deluges waves of river water in random locations that inflict Frost damage every 0.5 sec to players within the effect and pushes them in its direction."}
 MultiLanguageSpellData['en'][1242796] = {name = "Teleport", additional_info = "Instant\n[q]This will teleport you back to your capital city. You will be able to resume this Lorewalking Campaign again at any time, unless you start a different one.\n\n Do you wish to proceed?"}
 MultiLanguageSpellData['en'][1242804] = {name = "Ephemeral Firewind", additional_info = "100 yd range\n2.5 sec cast\n[q]Awakens the brazier's ephemeral powers inflicting Fire damage to all enemies every 1.5 sec. and pushing them back for 7.5 sec."}
+MultiLanguageSpellData['en'][1242811] = {name = "Short Orgrimmar Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1242812] = {name = "Ephemeral Firewind", additional_info = "60 yd range\nInstant\n[q]Inflicts Fire damage to all enemies within 50 yards of the impact."}
+MultiLanguageSpellData['en'][1242813] = {name = "Sturdy Wooden Trellis", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1242822] = {name = "Massive Smash", additional_info = nil}
 MultiLanguageSpellData['en'][1242823] = {name = "Living Mass", additional_info = nil}
 MultiLanguageSpellData['en'][1242824] = {name = "Umbra Bolt", additional_info = "20 yd range\n2 sec cast\n[q]Hurls a bolt of void energy at the target, inflicting 70 Shadow damage."}
@@ -15591,6 +16388,28 @@ MultiLanguageSpellData['en'][1243017] = {name = "Sand Crash", additional_info = 
 MultiLanguageSpellData['en'][1243019] = {name = "Untethered Sting", additional_info = nil}
 MultiLanguageSpellData['en'][1243023] = {name = "Untethered Sting", additional_info = nil}
 MultiLanguageSpellData['en'][1243027] = {name = "Untethered Sting", additional_info = "100 yd range\nInstant\n[q]Fires erratic energies at an enemy every 1.3 sec for 3.8 sec, inflicting Arcane damage to enemies within 0 yards of the impact.\n\n Also triggers Untethered Focus .\n\nUntethered Focus\n 100 yd range\n\nInstant Creates a sphere of volatile Arcane energy at a location, inflicting 5 Arcane damage and knocking back targets within 5 yards.\n\n This detonation can cause a chain reaction."}
+MultiLanguageSpellData['en'][1243031] = {name = "Gnomish Fencepost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243032] = {name = "Gnomish Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243033] = {name = "Perpetual Motion Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243034] = {name = "Screw-Sealed Stembarrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243035] = {name = "Self-Sealing Stembarrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243036] = {name = "Small Mechanical Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243037] = {name = "Bolt Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243038] = {name = "Small H.O.M.E. Cog", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243039] = {name = "Gnomish Cog Stack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243040] = {name = "Deactivated Atomic Recalibrator", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243041] = {name = "Mecha-Storage Mecha-Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243042] = {name = "Mechagon Armory Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243043] = {name = "Durable Hex Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1243044] = {name = "Long Leather-Clad Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1243045] = {name = "Orgrimmar Open Dresser", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1243046] = {name = "Razorwind Standing Mirror", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1243047] = {name = "Razorwind Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1243048] = {name = "Logger's Picnic Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1243049] = {name = "Long Durable Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1243050] = {name = "Razorwind Bar Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1243051] = {name = "Open Spiky Banded Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1243052] = {name = "Open Iron-Reinforced Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1243053] = {name = "Fists of the Voidlord", additional_info = "Instant\n[q]Dimensius' melee attacks disrupt the very fabric of space, forcing his target into melee range if they can't be reached and inflicting 8432299 Shadow damage to players within 8 yards of his target.\n\n The force of the impact knocks away other players within 8 yards of his target."}
 MultiLanguageSpellData['en'][1243054] = {name = "Fists of the Voidlord", additional_info = nil}
 MultiLanguageSpellData['en'][1243055] = {name = "Fists of the Voidlord", additional_info = "300 yd range\nInstant\n[q]Dimensius' melee attacks disrupt the very fabric of space, forcing his target into melee range if they can't be reached and inflicting 8432299 Shadow damage to players within 8 yards of his target.\n\n The force of the impact knocks away other players within 8 yards of his target."}
@@ -15636,6 +16455,10 @@ MultiLanguageSpellData['en'][1243347] = {name = "Veilbreak Buffet", additional_i
 MultiLanguageSpellData['en'][1243348] = {name = "Harbinger's Embrace", additional_info = nil}
 MultiLanguageSpellData['en'][1243349] = {name = "Take Off", additional_info = "Instant\n[q]Flap forward."}
 MultiLanguageSpellData['en'][1243351] = {name = "Volatile Outburst", additional_info = "150 yd range\nInstant\n[q]Digestive acid burns enemies standing within, inflicting 12 Shadow damage every 1.5 sec and reducing their movement speed by 50%."}
+MultiLanguageSpellData['en'][1243353] = {name = "Dwarven District Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243354] = {name = "Grummle Sleeping Bag", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243355] = {name = "Tusked Candleholder", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1243360] = {name = "Grand Elven Wall Curtain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1243365] = {name = "Trash Hacking I", additional_info = "Instant\n[q]Gain access to consoles near Loom'ithar and Soulbinder Naazindrhi, allowing you to significantly weaken non-boss enemies nearby."}
 MultiLanguageSpellData['en'][1243366] = {name = "Trash Hacking II", additional_info = "Instant\n[q]Extends Arcane Flow Control access to Technomancer's Terrace near Forgeweaver Araz, allowing you to significantly weaken non-boss enemies nearby."}
 MultiLanguageSpellData['en'][1243367] = {name = "Trash Hacking III", additional_info = "Instant\n[q]Assume direct control of all Manaforge consoles, allowing you unlimited weekly access and extending their reach further to enemies nearby Nexus-King Salhadaar and Dimensius."}
@@ -15645,6 +16468,7 @@ MultiLanguageSpellData['en'][1243380] = {name = "Phase Diving", additional_info 
 MultiLanguageSpellData['en'][1243388] = {name = "Disoriented", additional_info = "Instant\n[q]Trapped by ethereals."}
 MultiLanguageSpellData['en'][1243389] = {name = "Disoriented", additional_info = nil}
 MultiLanguageSpellData['en'][1243390] = {name = "Previs Area Trigger", additional_info = nil}
+MultiLanguageSpellData['en'][1243399] = {name = "Spying on Shadowlord Vesheen", additional_info = "Instant\n[q]Spying on Shadowlord Vesheen."}
 MultiLanguageSpellData['en'][1243406] = {name = "Skip to Phase 02", additional_info = nil}
 MultiLanguageSpellData['en'][1243409] = {name = "Devouring Lunge", additional_info = "150 yd range\n{1.5 sec cast} {5 sec cooldown}\n[q]Leaps to an enemy pinning them in place for 4 sec and engorges, inflicting Shadow damage every 1 sec to all players within 8 yards. Devouring Spittle flies out in random directions."}
 MultiLanguageSpellData['en'][1243410] = {name = "Skip to Phase 03", additional_info = nil}
@@ -15653,6 +16477,15 @@ MultiLanguageSpellData['en'][1243415] = {name = "Incorporeal Warpclaw", addition
 MultiLanguageSpellData['en'][1243416] = {name = "Teleported", additional_info = nil}
 MultiLanguageSpellData['en'][1243420] = {name = "Skip to Final Phase", additional_info = nil}
 MultiLanguageSpellData['en'][1243421] = {name = "Flight", additional_info = nil}
+MultiLanguageSpellData['en'][1243422] = {name = "Gnomish Steam-Powered Bed", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243423] = {name = "Gnomish Sprocket Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243424] = {name = "Double-Sprocket Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243425] = {name = "Caramel Mint Noodle Dish", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243426] = {name = "Elegant Dracthyr's Tea Cup", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243427] = {name = "Decorative Cinder Honeypot", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243428] = {name = "Dornic Sliced Mineloaf", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243429] = {name = "Earthen Hospitality Cheese-Like Brick", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243431] = {name = "Elegant Pillow Roll", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1243432] = {name = "Phase-Port", additional_info = nil}
 MultiLanguageSpellData['en'][1243437] = {name = "Phase-Port", additional_info = nil}
 MultiLanguageSpellData['en'][1243438] = {name = "Phase-Port", additional_info = nil}
@@ -15708,6 +16541,8 @@ MultiLanguageSpellData['en'][1243639] = {name = "Mindblast Barrage", additional_
 MultiLanguageSpellData['en'][1243641] = {name = "Void Surge", additional_info = "Unlimited range\nInstant\n[q]The Dark Singularity surges with energy if it contacts an Void Manifestation, inflicting 22623435 Shadow damage to all players and an additional 8572247 Shadow damage every 2 sec for 16 sec."}
 MultiLanguageSpellData['en'][1243642] = {name = "Mindblast Barrage", additional_info = "Unlimited range\nInstant\n[q]Blasts the structure, causing null fragments to fly off, inflicting 0 to enemies within 10 yards of the impact."}
 MultiLanguageSpellData['en'][1243649] = {name = "Flow Surge", additional_info = nil}
+MultiLanguageSpellData['en'][1243650] = {name = "Grummle Bedroll", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243651] = {name = "Tall Sturdy Wooden Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1243656] = {name = "Arcane Barrier", additional_info = "30 yd range\n3.5 sec cast\n[q]Caster erects a barrier absorbing 15% of the targets health."}
 MultiLanguageSpellData['en'][1243662] = {name = "Airborne", additional_info = nil}
 MultiLanguageSpellData['en'][1243663] = {name = "Flow Surge", additional_info = nil}
@@ -15754,7 +16589,13 @@ MultiLanguageSpellData['en'][1243772] = {name = "Ocular Blast", additional_info 
 MultiLanguageSpellData['en'][1243774] = {name = "Ocular Blast", additional_info = "100 yd range\nInstant\n[q]Glazer fires a ray of dark magic at their current target, inflicting 4848899 Shadow damage every 1 sec for 3 sec, pushing them away.\n\n Upon expiration, the target releases 5 volatile orbs of energy that bounce around the arena, inflicting 3636674 Shadow damage."}
 MultiLanguageSpellData['en'][1243776] = {name = "Infusion Tether", additional_info = "Unlimited range\nInstant\n[q]Loom'ithar pulls several players to its location, binding them with silken strands that inflict 452533 Arcane damage each second, growing in intensity over time.\n\n Each strand snaps when drawn to 40 yards, creating a splotch of Living Silk at the player's location."}
 MultiLanguageSpellData['en'][1243777] = {name = "Ocular Blast", additional_info = nil}
+MultiLanguageSpellData['en'][1243780] = {name = "[q2]Gnomish Fence", additional_info = "1.5 sec cast\nReagents:\nSpare Parts (100)\n1\n[q2]Gnomish Fence\nHousing Decor\n[q7]Binds to Warband\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1243781] = {name = "Crystal", additional_info = nil}
+MultiLanguageSpellData['en'][1243783] = {name = "[q2]Gnomish Fencepost", additional_info = "1.5 sec cast\nReagents:\nSpare Parts (150)\n1\n[q2]Gnomish Fencepost\nHousing Decor\n[q7]Binds to Warband\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243788] = {name = "[q2]Mechanical Gnomish Lamppost", additional_info = "1.5 sec cast\nReagents:\nS.P.A.R.E. Crate , Energy Cell\n3\n[q2]Mechanical Gnomish Lamppost\nHousing Decor\n[q7]Binds to Warband\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243793] = {name = "[q2]Perpetual Motion Crate", additional_info = "1.5 sec cast\nReagents:\nS.P.A.R.E. Crate (2)\n1\n[q2]Perpetual Motion Crate\nHousing Decor\n[q7]Binds to Warband\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243801] = {name = "[q3]Mechagon Armory Rack", additional_info = "1.5 sec cast\nReagents:\nS.P.A.R.E. Crate (2), Energy Cell (3), Galvanic Oscillator\n5\n[q3]Mechagon Armory Rack\nHousing Decor\n[q7]Binds to Warband\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1243803] = {name = "[q3]Mechagnome Sustenance Distributor", additional_info = "1.5 sec cast\nReagents:\nS.P.A.R.E. Crate (3), Energy Cell (9)\n3\n[q3]Mechagnome Sustenance Distributor\nHousing Decor\n[q7]Binds to Warband\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1243818] = {name = "Azhiccaran Parapodia", additional_info = "Approximately 2 procs per minute\n[q]Your damaging spells have a chance to attract mites to feast on your target, inflicting up to ( 158 * 5) Shadow damage over 5 sec. Well-fed mites share their meal with you, each increasing your Intellect by 44 for 30 sec."}
 MultiLanguageSpellData['en'][1243828] = {name = "Azhiccaran Mite", additional_info = "100 yd range\nInstant\n[q]Your damaging spells have a chance to attract mites to feast on your target, inflicting up to ( 158 * 5) Shadow damage over 5 sec. Well-fed mites share their meal with you, each increasing your Intellect by 44 for 30 sec."}
 MultiLanguageSpellData['en'][1243839] = {name = "Azhiccaran Mite", additional_info = nil}
@@ -15770,7 +16611,9 @@ MultiLanguageSpellData['en'][1243910] = {name = "Void Harvest", additional_info 
 MultiLanguageSpellData['en'][1243911] = {name = "Void Harvest", additional_info = nil}
 MultiLanguageSpellData['en'][1243912] = {name = "Void Harvest", additional_info = nil}
 MultiLanguageSpellData['en'][1243915] = {name = "Void Harvest", additional_info = nil}
+MultiLanguageSpellData['en'][1243930] = {name = "Add Zangarshroom Patch to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1243931] = {name = "Bite", additional_info = "10 yd range\n{2 sec cast} {2 sec cooldown}\n[q]Bites at an enemy, inflicting Physical damage."}
+MultiLanguageSpellData['en'][1243932] = {name = "Add Arched Wooden Bench to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1243939] = {name = "Peck", additional_info = "12 yd range\nInstant\n[q]Pecks at an enemy, inflicting Physical damage."}
 MultiLanguageSpellData['en'][1243941] = {name = "Erratic Rift", additional_info = "Unlimited range\nInstant\n[q]Allows nearby players to cross over into Untethered Space."}
 MultiLanguageSpellData['en'][1243942] = {name = "Shadow Fling", additional_info = "100 yd range\n2 sec cast\n[q]The caster inflicts 30 Shadow damage to a player."}
@@ -15811,6 +16654,44 @@ MultiLanguageSpellData['en'][1244109] = {name = "Errant Zap", additional_info = 
 MultiLanguageSpellData['en'][1244112] = {name = "Erratic Rift", additional_info = nil}
 MultiLanguageSpellData['en'][1244113] = {name = "Unseen Path of the Phase Stalker", additional_info = "1.5 sec cast\n[q]Summons a rideable phase-lost warp stalker in K'aresh. This is a very, VERY fast mount."}
 MultiLanguageSpellData['en'][1244116] = {name = "Phase Warp", additional_info = "{Instant} {5 sec cooldown}\n[q]Teleports you forwards up to 50 yds."}
+MultiLanguageSpellData['en'][1244117] = {name = "Tome of Shadowforge Cunning", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244118] = {name = "Tome of Pandaren Wisdom", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244119] = {name = "Tome of Draenei Faith", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244120] = {name = "Scribe's Working Notes", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244121] = {name = "Add \"Welcoming Pantry\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244122] = {name = "\"Fruit of the Arcan'dor\" Painting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244123] = {name = "\"Raising Your Eyes\" Painting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244124] = {name = "Add \"Healthy Conjuration\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244125] = {name = "Add \"The Water Lilies\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244126] = {name = "Add \"Broken Steps\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244127] = {name = "Add \"Through the Portal\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244128] = {name = "Add \"Smiling Suns\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244129] = {name = "Add \"Shu'halo Perspective\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244130] = {name = "Add \"Tidesage's Omen\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244131] = {name = "Add \"Fate of All Life\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244132] = {name = "Tome of Forsaken Resilience", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244133] = {name = "Add \"Tea and Sin\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244134] = {name = "Add \"Light's Vengeance\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244135] = {name = "Open Tome of the Dragon's Dedication", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244136] = {name = "Tome of the Lost Dragon", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244137] = {name = "Tome of Reliquary Insights", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244138] = {name = "Kaheti Scribe's Records", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244139] = {name = "Tome of Earthen Directives", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244140] = {name = "Wide Hide-Covered Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1244141] = {name = "Razorwind Wall Mirror", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1244142] = {name = "Add Farmer's Water Trough to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244143] = {name = "Add Hay-Filled Sturdy Feeding Trough to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244144] = {name = "Add Carved Stone Bench to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244146] = {name = "Add Sturdy Brazier to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244147] = {name = "Add Founder's Point Street Light to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244148] = {name = "Add Founder's Point Lamppost to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244149] = {name = "Add Sturdy Feeding Trough to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244151] = {name = "Tusked Hanging Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1244152] = {name = "Horned Banded Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1244153] = {name = "Open Horned Banded Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1244154] = {name = "Long Orgrimmar Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1244155] = {name = "Crude Banded Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1244156] = {name = "Open Crude Banded Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1244165] = {name = "Nexus Eruption", additional_info = nil}
 MultiLanguageSpellData['en'][1244170] = {name = "Nexus Eruption", additional_info = "Instant\n[q]Fractillus slams the ground, causing Crystal Nexus to erupt from the ground, and inflict 25 Shadow damage and applying Entropic Upheaval to all players."}
 MultiLanguageSpellData['en'][1244171] = {name = "Entropic Upheaval", additional_info = "Unlimited range\nInstant\n[q]Inflicts 5 Shadow damage to all enemies within 100 yards of the caster every 1 sec for 18 sec."}
@@ -15830,14 +16711,14 @@ MultiLanguageSpellData['en'][1244239] = {name = "Skiff Rider", additional_info =
 MultiLanguageSpellData['en'][1244240] = {name = "Skiff Rider", additional_info = nil}
 MultiLanguageSpellData['en'][1244241] = {name = "Skiff Rider", additional_info = nil}
 MultiLanguageSpellData['en'][1244244] = {name = "Teleport", additional_info = nil}
-MultiLanguageSpellData['en'][1244247] = {name = "Thunder-ridged Elekk", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Even infusion with demonic magics could not break the spirits of these majestic beasts, and their twisted forms were never integrated into the Legion's service.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1244247] = {name = "Thunder-Ridged Elekk", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Even infusion with demonic magics could not break the spirits of these majestic beasts, and their twisted forms were never integrated into the Legion's service.\"\nTrading Post"}
 MultiLanguageSpellData['en'][1244248] = {name = "Brittle", additional_info = "Instant\n[q]Encases all fire elementals in a deep freeze, preventing all actions and increasing the chance to be critically struck by 100% for 8 sec."}
 MultiLanguageSpellData['en'][1244249] = {name = "Charge Through", additional_info = "40 yd range\n3 sec cast\n[q]Caster charges through their target, inflicting 522799 Physical damage, and stunning players hit for 3 sec."}
 MultiLanguageSpellData['en'][1244252] = {name = "Charge Through", additional_info = "40 yd range\nInstant\n[q]Caster charges through their target, inflicting 522799 Physical damage, and stunning players hit for 3 sec."}
 MultiLanguageSpellData['en'][1244257] = {name = "Deepfreeze Containment", additional_info = "Instant\n[q]Activating a countermeasure floods the chamber with frost magic, causing Ash'golm and Living Embers to become Brittle .\n\n In addition, removes Searing Mountain from Ash'golm and causes Volcanic Eruption s to subside."}
-MultiLanguageSpellData['en'][1244259] = {name = "Cinder-seared Elekk", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The Burning Legion sought to destroy, steal or corrupt anything that brought joy to the draenei, and the elekks of Draneor were no exception.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1244259] = {name = "Cinder-Seared Elekk", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The Burning Legion sought to destroy, steal or corrupt anything that brought joy to the draenei, and the elekks of Draneor were no exception.\"\nTrading Post"}
 MultiLanguageSpellData['en'][1244260] = {name = "Void-Razed Elekk", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Their temperament is as wild as the twisted forces that warped their creation and they only serve who they choose.\"\nTrading Post"}
-MultiLanguageSpellData['en'][1244261] = {name = "Legion Forged Elekk", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The Burning Legion envied the draenei's bond with the elekks of Draenor. Many demonic beast-masters warped the breed to serve their needs, but none could control them.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1244261] = {name = "Legion-Forged Elekk", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The Burning Legion envied the draenei's bond with the elekks of Draenor. Many demonic beast-masters warped the breed to serve their needs, but none could control them.\"\nTrading Post"}
 MultiLanguageSpellData['en'][1244265] = {name = "Charge Through", additional_info = nil}
 MultiLanguageSpellData['en'][1244275] = {name = "Healing Aura", additional_info = nil}
 MultiLanguageSpellData['en'][1244280] = {name = "Arsenal: Ethereal Weaponry", additional_info = "Instant\n[q]Collect the appearances of the Ethereal Weaponry weapon set."}
@@ -15863,6 +16744,8 @@ MultiLanguageSpellData['en'][1244368] = {name = "Visual", additional_info = nil}
 MultiLanguageSpellData['en'][1244369] = {name = "Visual", additional_info = nil}
 MultiLanguageSpellData['en'][1244370] = {name = "Visual", additional_info = nil}
 MultiLanguageSpellData['en'][1244371] = {name = "Visual", additional_info = nil}
+MultiLanguageSpellData['en'][1244372] = {name = "Add Small Covered Wooden Table to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244373] = {name = "Add Small Sturdy Wooden Table to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1244387] = {name = "Resonant Epoch Memento", additional_info = "3 sec cast\n[q]Fuse this Epoch Memento with your artifact weapon, creating a ripple across all timelines and versions of \"you\".\n\n This powerful relic resonates with your Warband, permanently increasing all experience gains in Legion Remix by 1%."}
 MultiLanguageSpellData['en'][1244388] = {name = "Perfected Epoch Memento", additional_info = "3 sec cast\n[q]Fuse this Epoch Memento with your artifact weapon, creating a ripple across all timelines and versions of \"you\".\n\n This perfect relic resonates with your Warband, permanently increasing all experience gains in Legion Remix by 10%."}
 MultiLanguageSpellData['en'][1244402] = {name = "Essence-Hunter's Eyeglass", additional_info = "Approximately 10 procs per minute\n[q]Your harmful spells and ranged abilities critical strikes have a high chance to grant you Arcane Hunter up to 5 times, increasing your Critical Strike rating by 14 per stack for 8 sec."}
@@ -15873,9 +16756,10 @@ MultiLanguageSpellData['en'][1244410] = {name = "Incorporeal Essence-Gorger", ad
 MultiLanguageSpellData['en'][1244414] = {name = "Erratic Ritual", additional_info = "3 sec cast\n[q]The caster calls out to K'aresh causing ethereal spirits to travel outwards in erratic patterns, inflicting Arcane damage and stunning enemies caught in its path."}
 MultiLanguageSpellData['en'][1244415] = {name = "Erratic Ritual", additional_info = nil}
 MultiLanguageSpellData['en'][1244417] = {name = "Twisted Mana Sprite", additional_info = "Approximately 10 procs per minute\n[q]Your healing spell and abilities have a very high chance to summon a Twisted Mana Sprite to assist you in combat for 10 sec. Twisted Mana Sprite periodically heal a random nearby ally for ( 515 * 1 ). Overhealing is converted into an absorb shield for 5 sec."}
+MultiLanguageSpellData['en'][1244429] = {name = "Elegant Seat Cushion", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1244438] = {name = "Ensemble: Felrider's Azure Attire", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1244439] = {name = "Frozen", additional_info = nil}
-MultiLanguageSpellData['en'][1244440] = {name = "Ensemble: Felreaver's Legion Attire", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1244440] = {name = "Ensemble: Fashion of the Fanatic Felcyclist", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1244442] = {name = "Ensemble: Felreaver's Hellfire Attire", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1244443] = {name = "Force Multiplier", additional_info = "60 yd range\n4 sec cast\n[q]Caster lets out a power roar, inflicting 2424449 Sonic damage to all players within 60 yards and bolstering its allies, increasing their damage done by 2424449% for until canceled."}
 MultiLanguageSpellData['en'][1244444] = {name = "Perfidious Projector", additional_info = "100 yd range\nInstant\n[q]Compel an oathbound Shadowguard squad to annihilate your target and nearby enemies, dealing 27703 Cosmic damage split between them.\n\nDamage increased by 30% per additional enemy, up to 150%."}
@@ -15912,6 +16796,12 @@ MultiLanguageSpellData['en'][1244523] = {name = "REUSE", additional_info = nil}
 MultiLanguageSpellData['en'][1244525] = {name = "Shifting Shadows", additional_info = "Instant\n[q]Ky'veza and her Nether Phantoms rapidly dash through the arena."}
 MultiLanguageSpellData['en'][1244556] = {name = "Void Spittle", additional_info = "30 yd range\n2.5 sec cast\n[q]Inflicts Shadow damage to an enemy."}
 MultiLanguageSpellData['en'][1244563] = {name = "Infectious Solo", additional_info = "100 yd range\nInstant\n[q]Verethian charges towards his replacement and begins his infectious saxophone solo, lulling nearby enemies into dancing."}
+MultiLanguageSpellData['en'][1244573] = {name = "Mushan Dumpling Stack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244574] = {name = "Small Orgrimmar Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1244575] = {name = "Drake Kebab Platter", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244576] = {name = "Roast Riverbeast Platter", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244577] = {name = "Valdrakken Blossomfruit Platter", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1244579] = {name = "Bruffalon Rib Platter", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1244592] = {name = "Teleport", additional_info = "{1.5 sec cast} {1 sec cooldown}\n[q]Return to where you started."}
 MultiLanguageSpellData['en'][1244596] = {name = "Screeching Note", additional_info = "50 yd range\n2.5 sec cast\n[q]Unleashes a screeching note towards target enemy, inflicting 2909339 Sonic damage."}
 MultiLanguageSpellData['en'][1244599] = {name = "Shadow Eruption", additional_info = "Unlimited range\nInstant\n[q]Ky'veza expels overwhelming darkness, inflicting 500 Shadow damage to all players. This damage cannot be mitigated or avoided."}
@@ -15949,12 +16839,24 @@ MultiLanguageSpellData['en'][1244922] = {name = "Track Pets", additional_info = 
 MultiLanguageSpellData['en'][1244925] = {name = "Vanish", additional_info = "5 yd range\nInstant\n[q]Attempt to disrupt Ky'veza's disguise."}
 MultiLanguageSpellData['en'][1244930] = {name = "Geologist Field Journal", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1244932] = {name = "Checklist of Minor Pleasures", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1244954] = {name = "Elegant Carved Door", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1244955] = {name = "Elven Woodvine Trellis", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1244958] = {name = "Peck", additional_info = "12 yd range\nInstant\n[q]Pecks at an enemy, inflicting Physical damage."}
 MultiLanguageSpellData['en'][1244964] = {name = "Charge Through", additional_info = "40 yd range\nInstant\n[q]Caster charges through their target, inflicting 522799 Physical damage, and stunning players hit for 3 sec."}
 MultiLanguageSpellData['en'][1244998] = {name = "Astral Harvest", additional_info = "Unlimited range\nInstant\n[q]The Arcane Collector draws energy from several players, inflicting 2815741 Arcane damage every 1 sec for 4 sec. Upon expiration, an Arcane Manifestation forms at each player's location."}
 MultiLanguageSpellData['en'][1245002] = {name = "Void Harvest", additional_info = "Unlimited range\nInstant\n[q]The Dark Singularity draws energy from several players, inflicting 3515791 Shadow damage every 1 sec for 4 sec. Upon expiration, a Void Manifestation forms at each player's location"}
 MultiLanguageSpellData['en'][1245003] = {name = "Shifting Shadows", additional_info = "5 sec cast\n[q]Ky'veza and her Nether Phantoms rapidly dash through the arena."}
 MultiLanguageSpellData['en'][1245013] = {name = "Blistering Scales", additional_info = "Instant\n[q]Protect an ally with 0 explosive dragonscales, increasing their Armor by % of your own.\n\n Melee attacks against the target cause 1 scale to explode, dealing Volcanic damage to enemies near them. This damage can only occur every few sec.\n\n Blistering Scales can only be placed on one target at a time. Casts on your enemy's target if they have one."}
+MultiLanguageSpellData['en'][1245016] = {name = "Pandaren Signal Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245017] = {name = "Pandaren Scholar's Lectern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245019] = {name = "Pandaren Scholar's Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245020] = {name = "Add Jade Temple Incense Burner to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245021] = {name = "Gate of the Apexis", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245023] = {name = "Dalaran Pedestal", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245024] = {name = "MOTHER's Titanic Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245026] = {name = "N'Zoth's Captured Eye", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245027] = {name = "Lorewalker's Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245028] = {name = "Pandaren Pantry", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1245032] = {name = "Dark Massacre", additional_info = "Unlimited range\nInstant\n[q]Nether Phantoms ambush you and strike from the shadows, inflicting 26140 Shadow damage. Failing to face a phantom as it dashes instead inflicts 3485330 Shadow damage."}
 MultiLanguageSpellData['en'][1245033] = {name = "Dark Massacre", additional_info = "Unlimited range\nInstant\n[q]Nether Phantoms ambush you and strike from the shadows, inflicting 1 Shadow damage. Failing to face a phantom as it dashes instead inflicts 100 Shadow damage."}
 MultiLanguageSpellData['en'][1245034] = {name = "Dark Massacre", additional_info = "Unlimited range\nInstant\n[q]Nether Phantoms ambush you and strike from the shadows, inflicting 1 Shadow damage. Failing to face a phantom as it dashes instead inflicts 100 Shadow damage."}
@@ -15987,13 +16889,36 @@ MultiLanguageSpellData['en'][1245179] = {name = "Long Damage Visual Area Trigger
 MultiLanguageSpellData['en'][1245195] = {name = "Long Damage Visual Area Trigger", additional_info = nil}
 MultiLanguageSpellData['en'][1245196] = {name = "Long Damage Visual Area Trigger", additional_info = nil}
 MultiLanguageSpellData['en'][1245197] = {name = "The Headless Horseman's Chilling Charger", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Through the air you will fly, on your foes you descend, this charger will carry you to deliver their end.\"\nTrading Post"}
-MultiLanguageSpellData['en'][1245198] = {name = "The Headless Horseman's Ghoulish Charger", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Tricks have been played, your enemies beaten, this ghoulish charger awaits a treat, friend.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1245198] = {name = "The Headless Horseman's Ghoulish Charger", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Tricks have been played, your enemies beaten, this ghoulish charger awaits a treat, friend.\"\nDrop:\nLoot-Filled Pumpkin\nHoliday:\nHallow's End"}
 MultiLanguageSpellData['en'][1245202] = {name = "The Headless Horseman's Burning Charger", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The fires blaze on, in the steed's heart and soul, now take to the sky as a sight to behold.\"\nTrading Post"}
 MultiLanguageSpellData['en'][1245203] = {name = "Dark Massacre", additional_info = "Unlimited range\n1 sec cast\n[q]Nether Phantoms ambush you and strike from the shadows, inflicting 26140 Shadow damage. Failing to face a phantom as it dashes instead inflicts 3485330 Shadow damage."}
 MultiLanguageSpellData['en'][1245205] = {name = "The Headless Horseman's Hallowed Charger", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Your future's unknown, with ghosts in your past. With your steed at your side, how long can you last?\"\nTrading Post"}
 MultiLanguageSpellData['en'][1245208] = {name = "Monitor", additional_info = nil}
 MultiLanguageSpellData['en'][1245210] = {name = "Relocator", additional_info = nil}
+MultiLanguageSpellData['en'][1245211] = {name = "Iron Dragonmaw Gate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245212] = {name = "Pandaren Stone Post", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245213] = {name = "Pandaren Stone Lamppost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245214] = {name = "Red Crane Kite", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245215] = {name = "Add Hanging Paper Lanterns to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245216] = {name = "Lucky Hanging Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245217] = {name = "Halfhill Cookpot", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245218] = {name = "Paw'don Well", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1245219] = {name = "Nexus Daggers", additional_info = "Instant\n[q]Ky'veza flings regal knives in multiple directions, inflicting Shadow damage to any player struck."}
+MultiLanguageSpellData['en'][1245220] = {name = "Lucky Traveler's Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245221] = {name = "Jade Temple Dragon Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245222] = {name = "Stormstout Brew Keg", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245223] = {name = "Pandaren Meander Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245225] = {name = "Kotmogu Pedestal", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245226] = {name = "Kotmogu Orb of Power", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245227] = {name = "Add Timeless Dumpling Cart to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245229] = {name = "Collect Alliance Dueling Flag", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245230] = {name = "Collect Horde Dueling Flag", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245231] = {name = "Collect Silverwing Sentinels Flag", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245232] = {name = "Collect Warsong Outriders Flag", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245234] = {name = "Add Earthcrawl Mine Cart to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245235] = {name = "Deephaul Crystal", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245236] = {name = "Deactivated K'areshi Warp Cannon", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245237] = {name = "Pandaren Fireplace", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1245238] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1245240] = {name = "Nexus Daggers", additional_info = "Unlimited range\n2 sec cast\n[q]Ky'veza flings regal knives in multiple directions, inflicting Shadow damage to any player struck."}
 MultiLanguageSpellData['en'][1245241] = {name = "Nexus Daggers", additional_info = "Unlimited range\nInstant\n[q]Ky'veza flings regal knives in multiple directions, inflicting Shadow damage to any player struck."}
@@ -16002,6 +16927,21 @@ MultiLanguageSpellData['en'][1245243] = {name = "Devour", additional_info = nil}
 MultiLanguageSpellData['en'][1245245] = {name = "Titan Fragment Meld", additional_info = nil}
 MultiLanguageSpellData['en'][1245251] = {name = "Devour", additional_info = nil}
 MultiLanguageSpellData['en'][1245252] = {name = "Titan Fragment Meld", additional_info = nil}
+MultiLanguageSpellData['en'][1245253] = {name = "Challenger's Dueling Flag", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245254] = {name = "Collect Alliance Battlefield Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245255] = {name = "Fortified Alliance Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245256] = {name = "Collect Horde Battlefield Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245257] = {name = "Collect Fortified Horde Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245258] = {name = "Uncontested Battlefield Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245259] = {name = "Netherstorm Battlefield Flag", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245260] = {name = "Berserker's Empowerment", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245261] = {name = "Add Enigmatic Purple Crystal to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245262] = {name = "Healer's Empowerment", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245263] = {name = "Runner's Empowerment", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245264] = {name = "Wise Pandaren's Bed", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245265] = {name = "Guardian's Empowerment", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245266] = {name = "Chaotic Empowerment", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245267] = {name = "Mysterious Empowerment", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1245271] = {name = "Titan Fragment Meld", additional_info = nil}
 MultiLanguageSpellData['en'][1245289] = {name = "Devour", additional_info = "Instant\n[q]Upon reaching 100 energy Dimensius increases his Density, creating a powerful inward force that inflicts 1686460 Shadow damage every 1 for 5 sec and pulls in players, Voidstars, Black Holes, and the Accretion Disk.\n\n After 5 sec any player outside of a Voidstar's Gravity Well is immediately pulled into Dimensius and consigned to Oblivion ."}
 MultiLanguageSpellData['en'][1245291] = {name = "Nexus Daggers", additional_info = "Unlimited range\nInstant\n[q]Ky'veza flings regal knives in multiple directions, inflicting Shadow damage to any player struck."}
@@ -16045,6 +16985,7 @@ MultiLanguageSpellData['en'][1245389] = {name = "Infernal Slash", additional_inf
 MultiLanguageSpellData['en'][1245392] = {name = "Focus", additional_info = nil}
 MultiLanguageSpellData['en'][1245393] = {name = "Focus", additional_info = nil}
 MultiLanguageSpellData['en'][1245397] = {name = "Manaforged Aethercell", additional_info = "Instant\n[q]Your healing abilities have a chance to power the Aethercell increasing your Mastery by 239 , decreasing by ( 239 / 15) each sec. Lasts 15 sec."}
+MultiLanguageSpellData['en'][1245416] = {name = "Trespassing", additional_info = "Instant\n[q]You are inside another players plot without permission."}
 MultiLanguageSpellData['en'][1245418] = {name = "Focus", additional_info = nil}
 MultiLanguageSpellData['en'][1245422] = {name = "Tsunami of Arcane", additional_info = "Unlimited range\nInstant\n[q]The Soulbinder angrily strikes her primary target, inflicting 0 Arcane damage every 5.2 sec for until canceled to target. Player who hit by it increases Mystic Lash damage they taken by 40% and Physical damage by 15% for 45 sec."}
 MultiLanguageSpellData['en'][1245428] = {name = "Focused Beam", additional_info = nil}
@@ -16052,6 +16993,7 @@ MultiLanguageSpellData['en'][1245429] = {name = "Symbiotic Ethergauze", addition
 MultiLanguageSpellData['en'][1245430] = {name = "Arcane Infusion", additional_info = "Instant\n[q]The caster infuses players within 60 yards with arcane energy, inflicting 4918841 Arcane damage and an additional 1194576 Arcane damage every 1 sec for 10 sec.\n\n Additionally, Budding Silkworms within 60 yards receive Arcane Bites ."}
 MultiLanguageSpellData['en'][1245431] = {name = "Symbiotic Ethergauze", additional_info = "Instant\n[q]Blocking, parrying, or dodging has a chance to awaken the Gauze causing it to lash out dealing 1430 Arcane damage split between nearby enemies while shielding you for 8283 damage for 15 sec."}
 MultiLanguageSpellData['en'][1245434] = {name = "Focused Beam", additional_info = nil}
+MultiLanguageSpellData['en'][1245436] = {name = "Trespassed", additional_info = nil}
 MultiLanguageSpellData['en'][1245439] = {name = "Inspecting", additional_info = "5 sec cast\n[q]Inspect the simulacrum, revealing its true nature."}
 MultiLanguageSpellData['en'][1245440] = {name = "K'areshi Voidstone", additional_info = "2.5 sec cast\n[q]Infuse your armor with a faint echo of the void, unlocking additional visual effects for certain Manaforge Omega class set appearances.\n\n This effect is Warband-wide."}
 MultiLanguageSpellData['en'][1245467] = {name = "Investigating", additional_info = nil}
@@ -16085,8 +17027,13 @@ MultiLanguageSpellData['en'][1245591] = {name = "Nether Rift", additional_info =
 MultiLanguageSpellData['en'][1245594] = {name = "Nether Rift", additional_info = "Unlimited range\nInstant\n[q]Ky'veza tears open a rift to the Twisting Nether, inflicting 8713325 Shadow damage to players within 5 yards.\n\n The rift inflicts Shadow damage to all players every 1 sec for 4 sec and pulls players towards its center."}
 MultiLanguageSpellData['en'][1245595] = {name = "Nether Rift", additional_info = "Unlimited range\nInstant\n[q]Ky'veza tears open a rift to the Twisting Nether, inflicting 8713325 Shadow damage to players within 5 yards.\n\n The rift inflicts Shadow damage to all players every 1 sec for 4 sec and pulls players towards its center."}
 MultiLanguageSpellData['en'][1245596] = {name = "Nether Rift", additional_info = "Unlimited range\nInstant\n[q]Ky'veza tears open a rift to the Twisting Nether, inflicting 8713325 Shadow damage to players within 5 yards.\n\n The rift inflicts Shadow damage to all players every 1 sec for 4 sec and pulls players towards its center."}
+MultiLanguageSpellData['en'][1245601] = {name = "Nightborne Merchant's Stall", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1245602] = {name = "Piercing Strand", additional_info = nil}
+MultiLanguageSpellData['en'][1245603] = {name = "Add Deluxe Suramar Sleeper to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1245604] = {name = "Astral Aurochs", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Victory is not a simple matter of strength, but having the wisdom and ability to deliver the strength where it is needed most.\"\nIn-Game Shop"}
+MultiLanguageSpellData['en'][1245605] = {name = "Suramar Library", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245606] = {name = "Nightborne Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245607] = {name = "Arcwine Counter", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1245611] = {name = "Mana Salvo", additional_info = "1 sec cast\n[q]The caster launches arcane energy towards players, inflicting 9134990 Arcane damage to players within 3 yards of the impact zone."}
 MultiLanguageSpellData['en'][1245612] = {name = "Mana Salvo", additional_info = nil}
 MultiLanguageSpellData['en'][1245615] = {name = "Mana Salvo", additional_info = nil}
@@ -16100,6 +17047,9 @@ MultiLanguageSpellData['en'][1245639] = {name = "Satchel of Carved Ethereal Cres
 MultiLanguageSpellData['en'][1245640] = {name = "Power Manifested", additional_info = "Instant\n[q]Manifestations become empowered, reducing all incoming damage by 99%."}
 MultiLanguageSpellData['en'][1245643] = {name = "Arcane Insanity", additional_info = nil}
 MultiLanguageSpellData['en'][1245646] = {name = "Void Tear", additional_info = nil}
+MultiLanguageSpellData['en'][1245655] = {name = "Pandaren Lacquered Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245656] = {name = "Add Serenity Peak Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245657] = {name = "Shaohao Ceremonial Bell", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1245667] = {name = "Regurgitate Kobold", additional_info = "100 yd range\n3 sec cast\n[q]Caster spits a half digested Kobold at its primary target, inflicting 348533 Shadow damage, knocking the target back, and leaving behind Sludgy Flesh ."}
 MultiLanguageSpellData['en'][1245669] = {name = "Double Technique", additional_info = "15 sec cast\n[q]So'Azmi uses his secret two-part technique.\n Upon completion he hurls burning blades at all players, inflicting 7278779 Fire damage every 1 sec for 10 sec.\n This spell must be interrupted 2 times to prevent it from casting."}
 MultiLanguageSpellData['en'][1245677] = {name = "Double Technique", additional_info = "Instant\n[q]So'Azmi uses his secret two-part technique.\n Upon completion he hurls burning blades at all players, inflicting 7278779 Fire damage every 1 sec for 10 sec.\n This spell must be interrupted 2 times to prevent it from casting."}
@@ -16124,6 +17074,7 @@ MultiLanguageSpellData['en'][1245752] = {name = "Triple Technique", additional_i
 MultiLanguageSpellData['en'][1245756] = {name = "Triple Technique", additional_info = nil}
 MultiLanguageSpellData['en'][1245758] = {name = "Atomized", additional_info = "Unlimited range\nInstant\n[q]The Nether Rift vaporizes players pulled inside, inflicting 80 Shadow damage every 0.25 sec."}
 MultiLanguageSpellData['en'][1245760] = {name = "Atomized", additional_info = "Unlimited range\nInstant\n[q]The Nether Rift vaporizes players pulled inside, inflicting 80 Shadow damage every 0.25 sec."}
+MultiLanguageSpellData['en'][1245761] = {name = "Trespassing", additional_info = "Instant\n[q]You are inside another players house without permission."}
 MultiLanguageSpellData['en'][1245763] = {name = "Ethereal Empowerment", additional_info = nil}
 MultiLanguageSpellData['en'][1245765] = {name = "Fearsome Roar", additional_info = "100 yd range\n4 sec cast\n[q]Fears all enemies in front of the caster for 5 sec.\n Inflicts 348533 Shadow damage to all enemies in front of the caster."}
 MultiLanguageSpellData['en'][1245784] = {name = "Crumbling Slam", additional_info = "100 yd range\n3 sec cast\n[q]Caster slams the ground, inflicting 174266 Physical damage to all players, and creates Crumbling Rubble at a random location."}
@@ -16136,6 +17087,24 @@ MultiLanguageSpellData['en'][1245835] = {name = "The Hunt", additional_info = ni
 MultiLanguageSpellData['en'][1245846] = {name = "Crumbling Rubble", additional_info = "100 yd range\nInstant\n[q]Rubble falls to the ground, inflicting 15 Physical damage to players within 8 yards of impact, and an additional 2 Physical damage to all players. All players are knocked back from the rubble."}
 MultiLanguageSpellData['en'][1245850] = {name = "Zah'ran", additional_info = nil}
 MultiLanguageSpellData['en'][1245880] = {name = "Ensemble: The Horseman's Chilling Collection", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1245894] = {name = "Nightborne Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245895] = {name = "Suramar Fencepost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245896] = {name = "Suramar Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245897] = {name = "Shal'dorei Seat", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245898] = {name = "Large Traditional Shal'dorei Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245899] = {name = "Ornate Suramar Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245900] = {name = "Covered Ornate Suramar Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245901] = {name = "Square Suramar Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245902] = {name = "Covered Square Suramar Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245903] = {name = "Covered Small Suramar Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245904] = {name = "Nightborne Jeweler's Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245905] = {name = "Traditional Shal'dorei Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245906] = {name = "Circular Shal'dorei Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245907] = {name = "Nightborne Wall Shelf", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245908] = {name = "Suramar Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245909] = {name = "Suramar Containment Cell", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245910] = {name = "Suramar Street Light", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245912] = {name = "Suramar Storage Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1245926] = {name = "Harmonize", additional_info = "[q]All pet damage dealt increased by 4%."}
 MultiLanguageSpellData['en'][1245927] = {name = "Attunement Pod", additional_info = nil}
 MultiLanguageSpellData['en'][1245936] = {name = "Attunement Pod", additional_info = nil}
@@ -16146,10 +17115,14 @@ MultiLanguageSpellData['en'][1245955] = {name = "Destroy", additional_info = nil
 MultiLanguageSpellData['en'][1245962] = {name = "Voidlight Surger", additional_info = nil}
 MultiLanguageSpellData['en'][1245978] = {name = "Soul Tether", additional_info = "Channeled (24 sec cast)\n[q]The casters bind several players together for 24 sec, causing them to snap towards each other and suffer 8432299 Chaos damage if they move further than 14 yards apart."}
 MultiLanguageSpellData['en'][1245982] = {name = "Destroy", additional_info = nil}
+MultiLanguageSpellData['en'][1245993] = {name = "[q3]Dornic Mine and Cheese Platter", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (15), Stunning Sapphire (2), Chopped Mycobloom (25), Perfect Preservatives (10), Bismuth (15), Aqirite (5), Ironclaw Ore (5)\n[q]Use your knowledge of food preparation to create a model plate suitable for filling your home, not your stomach.\nVendor:\nAuditor Balwurz\nZone:\nDornogal\nCost:\n3000\n\n1\n[q3]Dornic Mine and Cheese Platter\nHousing Decor\n[q7]Binds to Warband\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245994] = {name = "[q2]Earthen Hospitality Cheese-Like Brick", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (5), Chopped Mycobloom (10), Perfect Preservatives (5), Bismuth (8)\n[q]Use your knowledge of food preparation to create a model plate suitable for filling your home, not your stomach.\nProfession Trainer:\nKhaz Algar Cooking (80)\nCost:\n500\n\n1\n[q2]Earthen Hospitality Cheese-Like Brick\nHousing Decor\n[q7]Binds to Warband\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1245995] = {name = "[q2]Dornic Sliced Mineloaf", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (10), Spiced Meat Stock (10), Perfect Preservatives (10), Bismuth (10), Ironclaw Ore (5)\n[q]Use your knowledge of food preparation to create a model plate suitable for filling your home, not your stomach.\nProfession Trainer:\nKhaz Algar Cooking (80)\nCost:\n500\n\n1\n[q2]Dornic Sliced Mineloaf\nHousing Decor\n[q7]Binds to Warband\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1245996] = {name = "Echoes", additional_info = nil}
 MultiLanguageSpellData['en'][1246003] = {name = "Unlocking Hidden Trove", additional_info = "5 yd range\n{Instant} {1.5 sec cooldown}\n[q]Opens a Hidden Trove in a Delve Treasure Room."}
 MultiLanguageSpellData['en'][1246019] = {name = "Destroy", additional_info = nil}
 MultiLanguageSpellData['en'][1246022] = {name = "Attuned Spillage", additional_info = "Unlimited range\nInstant\n[q]Spillage from the broken silk crate inflicts 15 Arcane damage every 1 sec."}
+MultiLanguageSpellData['en'][1246024] = {name = "Feather Fall", additional_info = "Instant\n[q]Protects the caster from falling damage."}
 MultiLanguageSpellData['en'][1246029] = {name = "Destroy", additional_info = nil}
 MultiLanguageSpellData['en'][1246036] = {name = "Ensemble: The Horseman's Ghoulish Collection", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1246039] = {name = "Ensemble: The Horseman's Burning Collection", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
@@ -16161,9 +17134,12 @@ MultiLanguageSpellData['en'][1246065] = {name = "Abyssal Polearm", additional_in
 MultiLanguageSpellData['en'][1246066] = {name = "Abyssal Bladestorm", additional_info = "Channeled (6 sec cast)\n[q]Whirl an Abyssal Polearm for 6 sec, dealing 14 Shadow damage to enemies within 5 yards every 0.5 sec."}
 MultiLanguageSpellData['en'][1246067] = {name = "Abyssal Bladestorm", additional_info = "Instant\n[q]Whirl an Abyssal Polearm for 6 sec, dealing 14 Shadow damage to enemies within 5 yards every 0.5 sec."}
 MultiLanguageSpellData['en'][1246068] = {name = "Abyssal Polearm", additional_info = nil}
+MultiLanguageSpellData['en'][1246069] = {name = "Suramar Window", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246070] = {name = "Add Shal'dorei Open-Air Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1246071] = {name = "Force Equip", additional_info = nil}
 MultiLanguageSpellData['en'][1246072] = {name = "Horde Banner", additional_info = nil}
 MultiLanguageSpellData['en'][1246074] = {name = "Alliance Banner", additional_info = nil}
+MultiLanguageSpellData['en'][1246075] = {name = "Trueshot Skeletal Dragon Trophy", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1246082] = {name = "Delver's Headquarters", additional_info = nil}
 MultiLanguageSpellData['en'][1246099] = {name = "Allegiance", additional_info = nil}
 MultiLanguageSpellData['en'][1246103] = {name = "Incrementing", additional_info = "Instant\n[q]You gain Electric Current upon entering combat, increasing your Mastery by 8 every 2 sec up to a maximum of (12 * 8 ) after 24 sec then cycling back down and repeating."}
@@ -16177,13 +17153,39 @@ MultiLanguageSpellData['en'][1246143] = {name = "Touch of Oblivion", additional_
 MultiLanguageSpellData['en'][1246145] = {name = "Touch of Oblivion", additional_info = "100 yd range\nInstant\n[q]The Voidlord's successful melee attacks apply Touch of Oblivion, inflicting 1405383 Shadow damage every 2 sec for 14 sec. This effect stacks.\n\n Upon reaching 10 applications, the target is consigned to Oblivion ."}
 MultiLanguageSpellData['en'][1246153] = {name = "Summon Za'hran", additional_info = nil}
 MultiLanguageSpellData['en'][1246159] = {name = "Repossessed", additional_info = nil}
+MultiLanguageSpellData['en'][1246181] = {name = "Add Pandaren Target Dummy to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1246187] = {name = "Flickergate Activated", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1246203] = {name = "Nexus Daggers", additional_info = "Unlimited range\nInstant\n[q]Ky'veza flings regal knives in multiple directions, inflicting Shadow damage to any player struck."}
 MultiLanguageSpellData['en'][1246204] = {name = "Dark Massacre", additional_info = "Unlimited range\nInstant\n[q]Nether Phantoms ambush you and strike from the shadows, inflicting 26140 Shadow damage. Failing to face a phantom as it dashes instead inflicts 3485330 Shadow damage."}
+MultiLanguageSpellData['en'][1246265] = {name = "Add Traditional Brewfest Stein to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246266] = {name = "Add Venthyr's Target Dummy to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246267] = {name = "Add Draconic Stone Table to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246268] = {name = "Pentagonal Stone Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246269] = {name = "Valdrakken Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246270] = {name = "Valdrakken Banded Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246271] = {name = "Valdrakken Storage Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246272] = {name = "Long Valdrakken Storage Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246273] = {name = "Valdrakken Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246274] = {name = "Valdrakken Fencepost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246275] = {name = "Verdant Valdrakken Vase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246276] = {name = "Add Valdrakken Garden Fountain to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246277] = {name = "Thaldraszus Telescope", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246278] = {name = "Draconic Nesting Bed", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246280] = {name = "Valdrakken Chandelier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246281] = {name = "Add Studious Dracthyr's Tomes to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246282] = {name = "Literature of the Blue Dragonflight", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246283] = {name = "Literature of the Green Dragonflight", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246284] = {name = "Literature of the Red Dragonflight", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246285] = {name = "Draconic Circular Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246286] = {name = "Add Non-Fatal One-Armed Bandit to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246288] = {name = "The Great Hoard", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246289] = {name = "Portal to Damnation", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1246295] = {name = "Delver's Cosmetic Surprise Bag", additional_info = nil}
 MultiLanguageSpellData['en'][1246296] = {name = "Delver's Starter Kit", additional_info = nil}
 MultiLanguageSpellData['en'][1246300] = {name = "Shadow Bind", additional_info = "100 yd range\nInstant\n[q]Reveal your true form."}
 MultiLanguageSpellData['en'][1246301] = {name = "Trapped!", additional_info = nil}
+MultiLanguageSpellData['en'][1246310] = {name = "AI Advert - Endeavor - Mechagon - Mechagnome Teleport", additional_info = nil}
+MultiLanguageSpellData['en'][1246311] = {name = "Push Action Set to Mechagnome Visitor", additional_info = nil}
 MultiLanguageSpellData['en'][1246323] = {name = "Phase Cutter", additional_info = "{Instant} {1 min cooldown}\n[q]Skim the surface of the Untethered Space, hurling forwards uncontrollably while taking 75% reduced damage and becoming immune to roots and snares.\n Creatures you pass through are damaged by the unstable energies."}
 MultiLanguageSpellData['en'][1246324] = {name = "Phase Cutter", additional_info = nil}
 MultiLanguageSpellData['en'][1246325] = {name = "Phase Skimmer", additional_info = nil}
@@ -16231,11 +17233,13 @@ MultiLanguageSpellData['en'][1246543] = {name = "Shadowguard's Twisted Harvester
 MultiLanguageSpellData['en'][1246544] = {name = "Shadowguard's Twisted Harvester", additional_info = nil}
 MultiLanguageSpellData['en'][1246545] = {name = "Shadowguard's Twisted Harvester", additional_info = "Instant\n[q]Taking damage has a chance to siphon chaos energies from the Twisting Nether granting you 153 Leech for 10 sec. Dropping below 40% health will unleash the Harvester immediately granting you 460 Leech for 10 sec. Can only occur every 120 sec."}
 MultiLanguageSpellData['en'][1246550] = {name = "Placing", additional_info = nil}
+MultiLanguageSpellData['en'][1246554] = {name = "Energized", additional_info = "Instant\n[q]A boost of Draconic Energy"}
 MultiLanguageSpellData['en'][1246614] = {name = "Fade to White", additional_info = nil}
 MultiLanguageSpellData['en'][1246616] = {name = "Erratic Rift", additional_info = "Unlimited range\nInstant\n[q]Phases an enemy into Untethered Space."}
 MultiLanguageSpellData['en'][1246632] = {name = "Gathering", additional_info = nil}
 MultiLanguageSpellData['en'][1246637] = {name = "Chaotic Nethergate", additional_info = nil}
 MultiLanguageSpellData['en'][1246641] = {name = "Collecting", additional_info = nil}
+MultiLanguageSpellData['en'][1246642] = {name = "Dismount", additional_info = "Instant\n[q]Dismount from your mount. Only works when on the ground."}
 MultiLanguageSpellData['en'][1246649] = {name = "Chaotic Nethergate", additional_info = nil}
 MultiLanguageSpellData['en'][1246661] = {name = "Gathering", additional_info = nil}
 MultiLanguageSpellData['en'][1246670] = {name = "Placing", additional_info = nil}
@@ -16252,15 +17256,17 @@ MultiLanguageSpellData['en'][1246760] = {name = "Flag Tracking Quest", additiona
 MultiLanguageSpellData['en'][1246761] = {name = "Exposed Core", additional_info = "Instant\n[q]The caster's exposed core vents Arcane Flurries for 1 min. While venting, the caster takes 150% increased damage and inflicts 2810766 Arcane damage to players within 60 yards every 2.5 sec for 1 min."}
 MultiLanguageSpellData['en'][1246766] = {name = "Fel Dampening Ward - Apply Shader Aura", additional_info = nil}
 MultiLanguageSpellData['en'][1246775] = {name = "Shatterpulse", additional_info = "Unlimited range\nInstant\n[q]A shattering Arcane Sigil sends out a pulse of energy, applying a 4634199 healing absorb shield to all players."}
+MultiLanguageSpellData['en'][1246777] = {name = "Razorwind Storage Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1246781] = {name = "Azure Void Flyer", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Twisted by the void, these winged creatures now rule the skies of K'aresh.\"\nAchievement:\nThe War Within Keystone Master: Season Three\nCategory:\nDungeons"}
+MultiLanguageSpellData['en'][1246784] = {name = "Safe Fall", additional_info = nil}
 MultiLanguageSpellData['en'][1246785] = {name = "Lightstrider Raiment", additional_info = "Instant\n[q]Collect the appearances of the Lightstrider Raiment."}
 MultiLanguageSpellData['en'][1246786] = {name = "Black Hole", additional_info = nil}
 MultiLanguageSpellData['en'][1246787] = {name = "Stellar Core", additional_info = nil}
 MultiLanguageSpellData['en'][1246796] = {name = "Temporal Tear", additional_info = nil}
-MultiLanguageSpellData['en'][1246797] = {name = "Out of Time", additional_info = "Instant\n[q]You are leaving the timeline, turn back!"}
-MultiLanguageSpellData['en'][1246803] = {name = "Abyssal Shatter", additional_info = "Melee Range\n{2.5 sec cast} {13 sec cooldown}\n[q]Knocks all enemies within 20 yards of the caster back.\n Inflicts 40 Physical damage to enemies within 20 yards."}
-MultiLanguageSpellData['en'][1246804] = {name = "Blazing Hellfire", additional_info = "Instant\n[q]Inflicts 15 Fire damage to enemies within 40 yards."}
-MultiLanguageSpellData['en'][1246805] = {name = "Blazing Hellfire", additional_info = "{Channeled (8 sec cast)} {6 sec cooldown}\n[q]Inflicts 250 Fire damage to enemies within 15 yards."}
+MultiLanguageSpellData['en'][1246797] = {name = "Lost in Time", additional_info = "Instant\n[q]Your temporal existence is being pulled apart, inflicting Chaos damage.\n Get away from the collapsing timeline!"}
+MultiLanguageSpellData['en'][1246803] = {name = "Abyssal Shatter", additional_info = "Melee Range\n{2.5 sec cast} {13 sec cooldown}\n[q]Knocks all enemies within 20 yards of the caster back.\n Inflicts 60 Physical damage to enemies within 20 yards."}
+MultiLanguageSpellData['en'][1246804] = {name = "Blazing Hellfire", additional_info = "Instant\n[q]Inflicts 30 Fire damage to enemies within 40 yards."}
+MultiLanguageSpellData['en'][1246805] = {name = "Blazing Hellfire", additional_info = "{Channeled (5 sec cast)} {6 sec cooldown}\n[q]Inflicts 250 Fire damage to enemies within 15 yards."}
 MultiLanguageSpellData['en'][1246806] = {name = "Entropic Conjunction", additional_info = "Instant\n[q]Crystalline Shockwave"}
 MultiLanguageSpellData['en'][1246807] = {name = "Phase Modulation", additional_info = nil}
 MultiLanguageSpellData['en'][1246808] = {name = "Summoning Heka'tamos", additional_info = nil}
@@ -16288,6 +17294,7 @@ MultiLanguageSpellData['en'][1246863] = {name = "Martin Fury", additional_info =
 MultiLanguageSpellData['en'][1246868] = {name = "Shadowguard's Twisted Harvester", additional_info = nil}
 MultiLanguageSpellData['en'][1246876] = {name = "Jug of Endless Mayonnaise", additional_info = "Unlimited range\nInstant\nApproximately 1.5 procs per minute\n[q]Occasionally summon a Blob of Mayonnaise to assist you in combat."}
 MultiLanguageSpellData['en'][1246879] = {name = "Jug of Endless Mayonnaise", additional_info = "100 yd range\nInstant\n[q]Occasionally summon a Blob of Mayonnaise to assist you in combat. ."}
+MultiLanguageSpellData['en'][1246888] = {name = "Celestial Firework", additional_info = "Instant\n[q]Shoots a firework into the air that bursts into a swirling orb."}
 MultiLanguageSpellData['en'][1246898] = {name = "Deploy Relocators", additional_info = nil}
 MultiLanguageSpellData['en'][1246913] = {name = "Lingering Felgaze", additional_info = nil}
 MultiLanguageSpellData['en'][1246915] = {name = "Lingering Felgaze", additional_info = "2 sec cast\n[q]Glazer releases lingering eyes that release felfire at random players, inflicting 1212225 Chaos damage to players within 6 every 0.5 sec for 6 sec.\n\n Upon expiration, it leaves a lingering pool of felfire, inflicting 4848899 Chaos damage every 1 to players within."}
@@ -16299,13 +17306,21 @@ MultiLanguageSpellData['en'][1246930] = {name = "Stellar Core", additional_info 
 MultiLanguageSpellData['en'][1246946] = {name = "Ensemble: Wildhammer's Ceremonial Collection", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1246948] = {name = "Shooting Star", additional_info = "100 yd range\nInstant\n[q]Smash concentrated stellar energy into the nearest Voidlord, inflicting Cosmic damage equal to 7% of the Voidlord's maximum health."}
 MultiLanguageSpellData['en'][1246951] = {name = "Ensemble: Dark Iron's Ceremonial Collection", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1246969] = {name = "Stormwind Footlocker", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246970] = {name = "Stormwind Large Wooden Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246971] = {name = "Stormwind Wooden Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246972] = {name = "Stormwind Wooden Stool", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246973] = {name = "Stormwind Wooden Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1246974] = {name = "Round-Top Boulder", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1246975] = {name = "Flat Boulder", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1246976] = {name = "Hilltop Boulder", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1246980] = {name = "Blindfolded", additional_info = "{Instant} {1 min cooldown}\n[q]Wear Adarus' spare blindfold, rendering you unable to see for 1 min."}
 MultiLanguageSpellData['en'][1246990] = {name = "Infusion Pylons", additional_info = nil}
 MultiLanguageSpellData['en'][1246991] = {name = "Infusion Pylons", additional_info = nil}
 MultiLanguageSpellData['en'][1246992] = {name = "Dissolve", additional_info = nil}
 MultiLanguageSpellData['en'][1246993] = {name = "Infusion Pylons", additional_info = "40 yd range\nInstant\n[q]The chamber's arcane pylons pump energy into Loom'ithar through arcane beams, triggering an Excess Nova on contact.\n\n Players standing within the beam block its path, suffering 606071 Arcane damage and gaining an application of Hyper Infusion every 1 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1247002] = {name = "Cosmic Collapse", additional_info = nil}
-MultiLanguageSpellData['en'][1247003] = {name = "Out of Time", additional_info = "Instant\n[q]Increases the caster's attacking and casting speed by 30% for until canceled.\n Increases the movement speed of the caster by 50% for until canceled."}
+MultiLanguageSpellData['en'][1247003] = {name = "Out of Time", additional_info = "Instant\n[q]Increases the movement speed of the caster by 50% for until canceled."}
 MultiLanguageSpellData['en'][1247004] = {name = "Legion's Wrath", additional_info = "100 yd range\nInstant\n[q]Conjure bolts of Holy magic and launch them in an area around you. Enemies hit by the bolts suffer 40 Holy Damage."}
 MultiLanguageSpellData['en'][1247005] = {name = "Legion's Wrath", additional_info = "Channeled (6 sec cast)\n[q]Conjure bolts of Holy magic and launch them in an area around you. Enemies hit by the bolts suffer 40 Holy Damage."}
 MultiLanguageSpellData['en'][1247006] = {name = "Legion's Wrath", additional_info = nil}
@@ -16319,6 +17334,8 @@ MultiLanguageSpellData['en'][1247038] = {name = "Phased", additional_info = nil}
 MultiLanguageSpellData['en'][1247045] = {name = "Hyper Infusion", additional_info = "Unlimited range\nInstant\n[q]Exposure to Infusion Pylons causes the target to take 100% increased damage from Infusion Pylons for 45 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1247048] = {name = "Levitate", additional_info = nil}
 MultiLanguageSpellData['en'][1247065] = {name = "Translocator", additional_info = nil}
+MultiLanguageSpellData['en'][1247068] = {name = "Add Founder's Point Signpost to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247069] = {name = "Ornamental Kaldorei Glaive", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1247079] = {name = "Translocator", additional_info = nil}
 MultiLanguageSpellData['en'][1247081] = {name = "Twisted Mana Sprite", additional_info = "Instant\n[q]Your healing spell and abilities have a very high chance to summon a Twisted Mana Sprite to assist you in combat for 10 sec. Twisted Mana Sprite periodically heal a random nearby ally for ( 515 * 1 ). Overhealing is converted into an absorb shield for 5 sec."}
 MultiLanguageSpellData['en'][1247091] = {name = "Shrouded in Shadows", additional_info = "{Instant} {5 min cooldown}\n[q]Slink into darkness and reduce the chance for enemies to detect your presence. Effect lasts for 20s-1 min (dependent on potion quality) or ends upon moving."}
@@ -16333,6 +17350,7 @@ MultiLanguageSpellData['en'][1247132] = {name = "Upgrade", additional_info = "In
 MultiLanguageSpellData['en'][1247133] = {name = "Upgrade", additional_info = "Instant\nReagents:\nTechnomancer's Gift"}
 MultiLanguageSpellData['en'][1247142] = {name = "Conquer", additional_info = "Unlimited range\nInstant\n[q]Salhadaar smashes his current target, inflicting 101187582 Physical damage and an additional 75890687 Shadow damage split among all players within 8 yards, knocking them upwards.\n\n Players struck lose a stack of Oath-Bound . Increases damage taken from Conquer by 500% for 20 sec."}
 MultiLanguageSpellData['en'][1247150] = {name = "Conquer", additional_info = "Unlimited range\nInstant\n[q]Salhadaar smashes his current target, inflicting 101187582 Physical damage and an additional 75890687 Shadow damage split among all players within 8 yards, knocking them upwards.\n\n Players struck lose a stack of Oath-Bound . Increases damage taken from Conquer by 500% for 20 sec."}
+MultiLanguageSpellData['en'][1247153] = {name = "Hold Bag", additional_info = nil}
 MultiLanguageSpellData['en'][1247156] = {name = "Mana Intake", additional_info = nil}
 MultiLanguageSpellData['en'][1247158] = {name = "Arcane Manifestation Death Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1247162] = {name = "Void Manifestation Death Cosmetic", additional_info = nil}
@@ -16343,6 +17361,8 @@ MultiLanguageSpellData['en'][1247187] = {name = "Teleport", additional_info = ni
 MultiLanguageSpellData['en'][1247188] = {name = "Rain from Above", additional_info = nil}
 MultiLanguageSpellData['en'][1247194] = {name = "Besiege", additional_info = "Unlimited range\nInstant\n[q]The Voidwing sweeps across the sky, exhaling a breath that inflicts 11945756 Cosmic damage every 0.3 sec to any player within the effect."}
 MultiLanguageSpellData['en'][1247195] = {name = "Rain from Above", additional_info = nil}
+MultiLanguageSpellData['en'][1247196] = {name = "Harrowing Arrow", additional_info = "20 yd range\nInstant\n[q]Causes an enemy to take 20% increased Physical damage for 12 sec."}
+MultiLanguageSpellData['en'][1247197] = {name = "Harrowing Arrow", additional_info = nil}
 MultiLanguageSpellData['en'][1247198] = {name = "Collision", additional_info = nil}
 MultiLanguageSpellData['en'][1247199] = {name = "Rain from Above", additional_info = nil}
 MultiLanguageSpellData['en'][1247201] = {name = "Rain from Above", additional_info = nil}
@@ -16355,9 +17375,57 @@ MultiLanguageSpellData['en'][1247215] = {name = "Fractal Claw", additional_info 
 MultiLanguageSpellData['en'][1247216] = {name = "Behead", additional_info = "Unlimited range\nInstant\n[q]The Voidwing shreds through a player with its claws, inflicting 9106882 Cosmic damage and dragging any player caught within their path."}
 MultiLanguageSpellData['en'][1247217] = {name = "Collective Gravity", additional_info = nil}
 MultiLanguageSpellData['en'][1247218] = {name = "Collective Gravity", additional_info = nil}
-MultiLanguageSpellData['en'][1247283] = {name = "Timerunner's Mayhem", additional_info = "Instant\n[q]Increases experience gained from killing monsters and completing quests by 3% and increases all secondary stats by 0%. This effect stacks up to 10 times.\n\n Completing Infinite Research assignments refreshes the duration."}
+MultiLanguageSpellData['en'][1247283] = {name = "Timerunner's Mayhem", additional_info = "Instant\n[q]Increases experience gained from killing monsters and completing quests by 3%. This effect stacks up to 10 times.\n\n Completing Infinite Research assignments refreshes the duration."}
 MultiLanguageSpellData['en'][1247297] = {name = "Twisted Mana Sprite", additional_info = nil}
+MultiLanguageSpellData['en'][1247323] = {name = "Stormwind Keg Stand", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247324] = {name = "Westfall Woven Basket", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247325] = {name = "Stormwind Gazebo", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247326] = {name = "Stormwind Trellis and Basin", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247327] = {name = "Stormwind Arched Trellis", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247328] = {name = "Wooden Outhouse", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247329] = {name = "Add Kaldorei Scribe's Shelf to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247331] = {name = "Add Cookout Campfire to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247332] = {name = "Razorwind Succulent Palm", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247333] = {name = "Razorwind Fighting Cactus", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247334] = {name = "Razorwind Tumbleweed", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247335] = {name = "Razorwind Palm Tree", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247336] = {name = "Nagrand Blueberry Bush", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247337] = {name = "Barrens Hosta Bush", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247338] = {name = "Azsharan Firespear Tree", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247339] = {name = "Hardy Razorwind Grass Patch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247340] = {name = "Flowering Durotar Cactus", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247341] = {name = "Razorwind Acacia Tree", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247342] = {name = "Elwynn Whitebrush", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247343] = {name = "Razorwind Gobtree", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247344] = {name = "Sunset Aster Flowers", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247345] = {name = "Pink Razorwind Paintbrush", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247346] = {name = "Gloomrose", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247347] = {name = "Duskberry Bush", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247348] = {name = "Duskwood Shadebrush", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247349] = {name = "Creeping Lattice Ivy", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247350] = {name = "Duskwood Sycamore Shrub", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247351] = {name = "Spiritbloom Flower", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247352] = {name = "Pink Gilnean Rose", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247353] = {name = "Silvermoon Sunrise Bush", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247354] = {name = "Founder's Point Blooming Grass Patch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247355] = {name = "Autumn Leaf Pile", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247356] = {name = "Young Chestnut Tree", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247357] = {name = "Razorwind Flamebrush", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247358] = {name = "Draconic Memorial Stone", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247359] = {name = "Dragon's Grand Mirror", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247360] = {name = "Valdrakken Stone Stool", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247361] = {name = "Valdrakken Gilded Throne", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247362] = {name = "Elegant Dracthyr's Tea Set", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247363] = {name = "Dragon's Hoard Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247364] = {name = "Add Valdrakken Market Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247365] = {name = "Elven Wood Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1247381] = {name = "Energy Cutter", additional_info = nil}
+MultiLanguageSpellData['en'][1247389] = {name = "Stormwind Workbench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247390] = {name = "Add Northshire Scribe's Desk to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247391] = {name = "Add Jewelcrafter's Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247392] = {name = "Wooden Doghouse", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247393] = {name = "Add Alliance Soldier's Bed to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247394] = {name = "Stormwind Peddler's Cart", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1247397] = {name = "Flow Surge", additional_info = nil}
 MultiLanguageSpellData['en'][1247398] = {name = "K'aresh World Quest", additional_info = nil}
 MultiLanguageSpellData['en'][1247415] = {name = "Weakened Prey", additional_info = "Unlimited range\nInstant\n[q]Velaryn exposes any players struck along the path of The Hunt , increasing their damage taken from standing in the path of The Hunt by 500% for 10 sec."}
@@ -16386,10 +17454,13 @@ MultiLanguageSpellData['en'][1247643] = {name = "Eternus' Trial: Sands of Time",
 MultiLanguageSpellData['en'][1247645] = {name = "Adarus' Spare Blindfold", additional_info = nil}
 MultiLanguageSpellData['en'][1247653] = {name = "Getsam", additional_info = "30 yd range\n2 sec cast\n[q]Slams the ground, destroying all nearby jetsam and inflicting 107 Frost damage to enemies."}
 MultiLanguageSpellData['en'][1247656] = {name = "Adarus' Spare Blindfold", additional_info = "2.5 sec cast\n[q]Pick up Adarus' spare blindfold, allowing you to wear it."}
+MultiLanguageSpellData['en'][1247660] = {name = "Relaxing Goblin Beach Chair with Cup Gripper", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247661] = {name = "Amirdrassil Stool", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1247662] = {name = "Brewfest Bomber", additional_info = "1.5 sec cast\n[q]Summons and dismisses a Brewfest Bomber. This mount changes depending on your Riding skill and location.\n[q]\"Careful not to consume the ammunition.\"\nDrop:\nCoren Direbrew\nHoliday:\nBrewfest"}
 MultiLanguageSpellData['en'][1247663] = {name = "Infusion Pylons", additional_info = nil}
 MultiLanguageSpellData['en'][1247664] = {name = "Infusion Pylons", additional_info = nil}
 MultiLanguageSpellData['en'][1247665] = {name = "Infusion Pylons", additional_info = nil}
+MultiLanguageSpellData['en'][1247666] = {name = "Lovely Elven Shelf", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1247667] = {name = "Sands of Time", additional_info = nil}
 MultiLanguageSpellData['en'][1247668] = {name = "Sands of Time", additional_info = nil}
 MultiLanguageSpellData['en'][1247671] = {name = "I See... Absolutely Nothing", additional_info = "Instant\n[q]The caster has worn Adarus' Spare Blindfold during the encounter."}
@@ -16413,9 +17484,15 @@ MultiLanguageSpellData['en'][1247707] = {name = "Waygate", additional_info = nil
 MultiLanguageSpellData['en'][1247708] = {name = "Waygate", additional_info = nil}
 MultiLanguageSpellData['en'][1247710] = {name = "Moratari's Calculation", additional_info = "20 yd range\n{Instant} {30 sec cooldown}\n[q]While Nostwin's Impatience is active, you take 99% reduced fall damage. Falling from a significant height inflicts [(500% Attack/Spell Power)] Physical damage to nearby enemies and increases your damage and healing by 20% for 10 sec."}
 MultiLanguageSpellData['en'][1247713] = {name = "Phase Cutter", additional_info = nil}
+MultiLanguageSpellData['en'][1247718] = {name = "Clear Catch Up", additional_info = nil}
+MultiLanguageSpellData['en'][1247722] = {name = "Launch The War Within Catch Up", additional_info = nil}
+MultiLanguageSpellData['en'][1247723] = {name = "Launch The War Within Catch Up", additional_info = "Instant\n[q]You are in the middle of a different Lorewalking or recap story. This will cause you to lose all progress for any related quests.\n\n Do you wish to proceed?"}
 MultiLanguageSpellData['en'][1247724] = {name = "Adarus' Spare Blindfold", additional_info = nil}
+MultiLanguageSpellData['en'][1247725] = {name = "Launch The War Within Catch Up", additional_info = nil}
+MultiLanguageSpellData['en'][1247726] = {name = "Launch The War Within Catch Up", additional_info = nil}
 MultiLanguageSpellData['en'][1247728] = {name = "Deep Breath", additional_info = "Instant\n[q]Take in a deep breath and fly to the targeted location, spewing molten cinders dealing (400% of Spell Power) Volcanic damage to enemies in your path.\n\n Removes all root effects. You are immune to movement impairing and loss of control effects while flying. [ Sands of Time : Increases the duration of your active Ebon Might effects by 5 sec ]"}
 MultiLanguageSpellData['en'][1247736] = {name = "Explorers' League Rope", additional_info = nil}
+MultiLanguageSpellData['en'][1247740] = {name = "Heal", additional_info = nil}
 MultiLanguageSpellData['en'][1247748] = {name = "Ensemble: Void-Scarred Captain's Plate", additional_info = "Instant\n[q]Collect the appearances of the Ensemble: Void-Scarred Captain's Plate armor set."}
 MultiLanguageSpellData['en'][1247749] = {name = "Ensemble: Void-Scarred Striker's Battlegear", additional_info = "Instant\n[q]Collect the appearances of the Ensemble: Void-Scarred Striker's Battlegear armor set."}
 MultiLanguageSpellData['en'][1247750] = {name = "Ensemble: Void-Scarred Blade's Attire", additional_info = "Instant\n[q]Collect the appearances of the Void-Scarred Blade's Attire armor set."}
@@ -16433,7 +17510,21 @@ MultiLanguageSpellData['en'][1247772] = {name = "Ensemble: Bundle of Ethereal Cl
 MultiLanguageSpellData['en'][1247773] = {name = "Allegiance", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1247776] = {name = "Ensemble: K'areshi Ribbon Stash", additional_info = "Instant\n[q]Collect the cloak appearances of the K'areshi Ribbon Stash."}
 MultiLanguageSpellData['en'][1247779] = {name = "Ensemble: Ethereal Sash Cache", additional_info = "Instant\n[q]Collect the cloak appearances of the Ethereal Sash Cache."}
-MultiLanguageSpellData['en'][1247795] = {name = "Add Void-Corrupted Rotunda to storage", additional_info = "[q0]Decor\n1 sec cast\n[q]Add this decor to your House Chest."}
+MultiLanguageSpellData['en'][1247780] = {name = "Elwynn Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247781] = {name = "Elwynn Fencepost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247782] = {name = "Goldshire Food Cart", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247783] = {name = "Add City Wanderer's Candleholder to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247784] = {name = "Northshire Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247785] = {name = "Wooden Storage Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247786] = {name = "Architect's Drafting Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247787] = {name = "Stormwind Weapon Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247788] = {name = "Elwynn Grass Patch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247789] = {name = "Elwynn Grass Spread", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1247793] = {name = "Nesingwary Shoveltusk Trophy", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247794] = {name = "Nesingwary Elk Trophy", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247795] = {name = "Void-Corrupted Rotunda", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247796] = {name = "Rough Wooden Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1247797] = {name = "Elwynn Small Grass Patch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1247800] = {name = "Sealing", additional_info = "10 yd range\n1.5 sec cast\n[q]Seal the gaps in Dalaran's defenses."}
 MultiLanguageSpellData['en'][1247900] = {name = "Eye Beam", additional_info = "Instant\n[q]Velaryn channels a torrent of Fel energy towards her current target for 4 sec, inflicting 5621532 Chaos damage and applying Fel-Singed every (1 / 2) sec to players within the beam and blasting them away.\n\n After the blast concludes, Velaryn will Felblade towards her current target."}
 MultiLanguageSpellData['en'][1247901] = {name = "Stabilized Time", additional_info = "100 yd range\nInstant\n[q]Eternus summons a Manifested Timeways that attempts to Destabilize Time , inflicting 30 Arcane damage to all players.\n\n Upon death, the Manifested Timeway splits into 3 smaller Manifested Timeways and grants players with Stabilized Time , increasing haste, critical strike chance, versatility and mastery for 30 sec."}
@@ -16447,6 +17538,18 @@ MultiLanguageSpellData['en'][1247994] = {name = "Eternus' Trial: Twilight Reflec
 MultiLanguageSpellData['en'][1248009] = {name = "Dark Terminus", additional_info = "300 yd range\n7 sec cast\n[q]Araz abandons the ritual at 15% health and opens a Dark Singularity , inflicting 9837682 Shadow damage to all players."}
 MultiLanguageSpellData['en'][1248019] = {name = "Flag Quest", additional_info = nil}
 MultiLanguageSpellData['en'][1248030] = {name = "Ethereal Stall", additional_info = nil}
+MultiLanguageSpellData['en'][1248037] = {name = "Golden Cloud Serpent Treasure Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1248038] = {name = "Catch Up Choice", additional_info = nil}
+MultiLanguageSpellData['en'][1248039] = {name = "Five Dawns Weapon Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1248040] = {name = "Five Dawns Shrine of the Smoking Fish", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1248041] = {name = "Add Ironpaw Stew Cart to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1248042] = {name = "Hooded Iron Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1248043] = {name = "Stormwind Lamppost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1248044] = {name = "Replica Felblood Altar", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1248046] = {name = "Five Dawns Planning Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1248047] = {name = "Black Harvest Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1248048] = {name = "Summon Tome", additional_info = nil}
+MultiLanguageSpellData['en'][1248049] = {name = "Consult the Tome", additional_info = "Instant\n[q]Consult with the Tome of History and ask a question, such as where to go next or for more information about the story."}
 MultiLanguageSpellData['en'][1248051] = {name = "Eternus' Trial: Twilight Reflections", additional_info = nil}
 MultiLanguageSpellData['en'][1248053] = {name = "Twilight Reflections", additional_info = "100 yd range\n3 sec cast\n[q]Eternus summons alternate evil party members. Eternus summons evil timeline versions of players that attempt to steal essence. If they reach their target, they cast Stolen Essence , reducing maximum health, damage done and healing done by 6% for 30 sec.\n\n The unstable copies are constantly Unravelling , suffering 5% maximum health as Arcane damage every 1 sec.\n\n Upon death, they instead cast Merged Essence and grant their target increased maximum health, damage done and healing done by 30% for 20 sec."}
 MultiLanguageSpellData['en'][1248054] = {name = "Twilight Reflections", additional_info = nil}
@@ -16457,23 +17560,32 @@ MultiLanguageSpellData['en'][1248064] = {name = "Merged Essence", additional_inf
 MultiLanguageSpellData['en'][1248066] = {name = "Translocation Boost", additional_info = "Instant\n[q]Residual energy from a Manaforge Translocator wraps around the user, increasing their movement speed by 25% for 1 min. Combat removes this effect."}
 MultiLanguageSpellData['en'][1248091] = {name = "Unlocking", additional_info = "5 yd range\n{1.5 sec cast} {1.5 sec cooldown}\n[q]Opens a Hidden Trove in a Delve Treasure Room."}
 MultiLanguageSpellData['en'][1248092] = {name = "TransportGUID", additional_info = nil}
+MultiLanguageSpellData['en'][1248096] = {name = "Teleport", additional_info = nil}
+MultiLanguageSpellData['en'][1248099] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1248105] = {name = "Nether-warped Seedling", additional_info = nil}
 MultiLanguageSpellData['en'][1248106] = {name = "Extract Fiber", additional_info = "{Instant} {1.5 sec cooldown}\n[q]Extract an infused fiber from the Reshii Wraps."}
 MultiLanguageSpellData['en'][1248107] = {name = "Nether-warped Seedling", additional_info = "Unlimited range\nInstant\n[q]"}
+MultiLanguageSpellData['en'][1248118] = {name = "Launch Harbinger", additional_info = nil}
 MultiLanguageSpellData['en'][1248123] = {name = "Unravelling", additional_info = "Instant\n[q]Eternus summons alternate evil party members. Eternus summons evil timeline versions of players that attempt to steal essence. If they reach their target, they cast Stolen Essence , reducing maximum health, damage done and healing done by 6% for 30 sec.\n\n The unstable copies are constantly Unravelling , suffering 5% maximum health as Arcane damage every 1 sec.\n\n Upon death, they instead cast Merged Essence and grant their target increased maximum health, damage done and healing done by 30% for 20 sec."}
 MultiLanguageSpellData['en'][1248128] = {name = "Galactic Smash", additional_info = "Unlimited range\nInstant\n[q]Images of Salhadaar emerge alongside him to smash their targets with galactic force, applying Twilight Scar and inflicting 12142510 Cosmic damage to all players. Players farther from each target take less damage.\n\n Salhadaar's primary target is Starshattered . A Dark Star forms at each impact location."}
 MultiLanguageSpellData['en'][1248132] = {name = "Galactic Smash", additional_info = "Unlimited range\nInstant\n[q]Images of Salhadaar emerge alongside him to smash their targets with galactic force, applying Twilight Scar and inflicting 12142510 Cosmic damage to all players. Players farther from each target take less damage.\n\n Salhadaar's primary target is Starshattered . A Dark Star forms at each impact location."}
 MultiLanguageSpellData['en'][1248133] = {name = "Void Tear", additional_info = nil}
 MultiLanguageSpellData['en'][1248134] = {name = "Dark Star", additional_info = "Unlimited range\nInstant\n[q]A star materializes from the Twisting Nether, pulling players towards its center for 5 sec.\n\n Upon emergence, players within the Dark Star are Atomized as Twilight Spikes ripple outward. Inflicts 56215 Cosmic damage to all players every 1 sec."}
+MultiLanguageSpellData['en'][1248136] = {name = "{DNT} Teleport to Northrend", additional_info = nil}
 MultiLanguageSpellData['en'][1248137] = {name = "Dark Star", additional_info = "Unlimited range\nInstant\n[q]A star materializes from the Twisting Nether, pulling players towards its center for 5 sec.\n\n Upon emergence, players within the Dark Star are Atomized as Twilight Spikes ripple outward. Inflicts 56215 Cosmic damage to all players every 1 sec."}
 MultiLanguageSpellData['en'][1248162] = {name = "Voidlight Surger", additional_info = nil}
 MultiLanguageSpellData['en'][1248163] = {name = "Voidlight Surger", additional_info = nil}
+MultiLanguageSpellData['en'][1248166] = {name = "Monastery Gong", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1248167] = {name = "Add Dreadscar Bookcase to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1248168] = {name = "Dreadscar Dais", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1248171] = {name = "Void Tear", additional_info = "Unlimited range\nInstant\n[q]The Arcane Collector creates a Void Tear capable of consuming large amounts of arcane power, inflicting 15459214 Shadow damage every 1 sec to players within them."}
+MultiLanguageSpellData['en'][1248181] = {name = "Out of Space", additional_info = nil}
 MultiLanguageSpellData['en'][1248195] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1248209] = {name = "Phase Slash", additional_info = "100 yd range\n1 sec cast\n[q]So'azmi steps into the shadow and slashes 3 random players, inflicting 2424449 Physical damage and causing them to bleed for 1212225 Physical damage every 2 sec for 8 sec."}
 MultiLanguageSpellData['en'][1248210] = {name = "Galactic Smash", additional_info = "Unlimited range\n0.5 sec cast\n[q]Images of Salhadaar emerge alongside him to smash their targets with galactic force, applying Twilight Scar and inflicting 12142510 Cosmic damage to all players. Players farther from each target take less damage.\n\n Salhadaar's primary target is Starshattered . A Dark Star forms at each impact location."}
 MultiLanguageSpellData['en'][1248211] = {name = "Phase Slash", additional_info = "100 yd range\nInstant\n[q]So'azmi steps into the shadow and slashes 3 random players, inflicting 2424449 Physical damage and causing them to bleed for 1212225 Physical damage every 2 sec for 8 sec."}
 MultiLanguageSpellData['en'][1248215] = {name = "Ensemble: Hollow Sentinel's Wingdrapes", additional_info = "Instant\n[q]Collect the appearances of the Manaforge Omega Death Knight Cloaks."}
+MultiLanguageSpellData['en'][1248217] = {name = "<DNT> Daily Credit", additional_info = nil}
 MultiLanguageSpellData['en'][1248220] = {name = "Ensemble: Charhound's Vicious Felcovers", additional_info = "Instant\n[q]Collect the appearances of the Manaforge Omega Demon Hunter Cloaks."}
 MultiLanguageSpellData['en'][1248221] = {name = "Ensemble: Plumes of the Mother Eagle", additional_info = "Instant\n[q]Collect the appearances of the Manaforge Omega Druid Cloaks."}
 MultiLanguageSpellData['en'][1248223] = {name = "Ensemble: Spellweaver's Immaculate Runecloaks", additional_info = "Instant\n[q]Collect the appearances of the Manaforge Omega Evoker Cloaks."}
@@ -16488,6 +17600,7 @@ MultiLanguageSpellData['en'][1248233] = {name = "Ensemble: Inquisitor's All-Seei
 MultiLanguageSpellData['en'][1248234] = {name = "Ensemble: Living Weapon's Capes", additional_info = "Instant\n[q]Collect the appearances of the Manaforge Omega Warrior Cloaks."}
 MultiLanguageSpellData['en'][1248235] = {name = "Voidstrider Raiment", additional_info = "Instant\n[q]Collect the appearances of the Voidstrider Raiment."}
 MultiLanguageSpellData['en'][1248236] = {name = "Soulbinder's Anger", additional_info = "300 yd range\nInstant\n[q]Each Little Unbound Soul lost fuels the Soulbinder's fury, increase her damage by 3%."}
+MultiLanguageSpellData['en'][1248238] = {name = "Tauren Hanging Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1248240] = {name = "Infinite Possibilities", additional_info = "Channeled (10 sec cast)\n[q]Whenever a Living Mass' health is depleted, it enters a state of Infinite Possibilities for 10 sec, then restores all Living Mass to full health.\n\n Depleting the health of all Living Mass at the same time interrupts this effect and leaves them with only one possibility: Death."}
 MultiLanguageSpellData['en'][1248241] = {name = "Quest Push", additional_info = nil}
 MultiLanguageSpellData['en'][1248242] = {name = "Quest Push", additional_info = nil}
@@ -16519,6 +17632,7 @@ MultiLanguageSpellData['en'][1248320] = {name = "Mercenary Contract", additional
 MultiLanguageSpellData['en'][1248321] = {name = "Sandstorm", additional_info = nil}
 MultiLanguageSpellData['en'][1248322] = {name = "Hunger from Beyond", additional_info = nil}
 MultiLanguageSpellData['en'][1248323] = {name = "Inhibiting Touch", additional_info = "Unlimited range\nInstant\n[q]Destroying an unprocessed silk crate coats the hands of the player with a tacky substance for 1 min, inflicting 1 Nature damage every 1 sec.\n\n While this effect persists, damage the player deals has a chance to encumber the target, reducing their damage done by 1% for 10 sec. This effect stacks to a maximum of 10 applications."}
+MultiLanguageSpellData['en'][1248330] = {name = "Black Harvest Orrery", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1248333] = {name = "Inhibiting Touch", additional_info = "Unlimited range\nInstant\n[q]The caster reduces the Haste of their target by 10%. This effect has a maximum of 10 applications."}
 MultiLanguageSpellData['en'][1248337] = {name = "Gamma Burst", additional_info = nil}
 MultiLanguageSpellData['en'][1248340] = {name = "[q3]Damaged Automatic Footbomb Dispenser", additional_info = "[q0]Anima Power\n100 yd range\nInstant\nApproximately 2 procs per minute\n[q]Brann's spells and abilities have a chance to drop 3 footbombs on the field for 10 sec.\n\n Running into a footbomb kicks it at your enemy target dealing significant Fire damage to all enemies in a 6-yard radius."}
@@ -16545,6 +17659,7 @@ MultiLanguageSpellData['en'][1248431] = {name = "[q3]Damaged Biofuel Rocket Gear
 MultiLanguageSpellData['en'][1248433] = {name = "Biofuel", additional_info = nil}
 MultiLanguageSpellData['en'][1248435] = {name = "Arcane Touch", additional_info = "Instant\n[q]Destroying an attuned silk crate coats the hands of the player with arcane energy for 1 min, inflicting 1 Arcane damage every 1 sec.\n\n While this effect persists, damage the player deals has a chance to make the target suffer 1 periodic Arcane damage every 1 sec for 10 sec. This effect stacks to a maximum of 10 applications.\n(Proc chance: 25%, 3s cooldown)"}
 MultiLanguageSpellData['en'][1248447] = {name = "Arcane Touch", additional_info = "Unlimited range\nInstant\n[q]Destroying an attuned silk crate coats the hands of the player with arcane energy for 1 min, inflicting 1 Arcane damage every 1 sec.\n\n While this effect persists, damage the player deals has a chance to make the target suffer 1 periodic Arcane damage every 1 sec for 10 sec. This effect stacks to a maximum of 10 applications."}
+MultiLanguageSpellData['en'][1248448] = {name = "Smoke Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1248462] = {name = "Voidlight Surger", additional_info = nil}
 MultiLanguageSpellData['en'][1248463] = {name = "Voidlight Surger", additional_info = nil}
 MultiLanguageSpellData['en'][1248464] = {name = "Mystic Lash", additional_info = "50 yd range\nInstant\n[q]The Soulbinder Naazindhri lashes out at her current target, inflicting 6605300 Arcane damage every 1 sec for 5 sec. [The blow brands the victim, increasing the damage of Mystic Lash by\n 40% and Physical damage by 15% for 45 sec.\n\n This effect stacks. ] [The blow brands the victim, increasing the damage of Mystic Lash by 12%.\n\n This effect stacks.]"}
@@ -16564,6 +17679,9 @@ MultiLanguageSpellData['en'][1248635] = {name = "Cosmetic Piece", additional_inf
 MultiLanguageSpellData['en'][1248638] = {name = "Create Trait Config", additional_info = nil}
 MultiLanguageSpellData['en'][1248654] = {name = "Cosmetic Piece", additional_info = nil}
 MultiLanguageSpellData['en'][1248656] = {name = "Cosmetic Piece", additional_info = nil}
+MultiLanguageSpellData['en'][1248660] = {name = "Ghost Gear", additional_info = "30 yd range\nInstant\n[q]Allows you to see spooky apparitions within the neighborhood."}
+MultiLanguageSpellData['en'][1248670] = {name = "Placing Rune", additional_info = nil}
+MultiLanguageSpellData['en'][1248683] = {name = "Punt", additional_info = nil}
 MultiLanguageSpellData['en'][1248698] = {name = "Consume Spirit", additional_info = "{Instant} {14 sec cooldown}\n[q]Calls forth a spirit and begins to consume it, reducing damage taken by 99 % for 9 sec. While consuming, every 3 sec the caster gains a shield absorbing damage equal to 10 % of their own maximum health for 30 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1248699] = {name = "Consume Spirit", additional_info = "100 yd range\n2 sec cast\n[q]Calls forth a spirit and begins to consume it, reducing damage taken by 99% for 9 sec. While consuming, every 3 sec the caster gains a shield absorbing damage equal to 10% of their own maximum health for 30 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1248700] = {name = "Evoke Spirit", additional_info = "100 yd range\nInstant\n[q]Calls forth a spirit and begins to consume it, reducing damage taken by 99% for 9 sec. While consuming, every 3 sec the caster gains a shield absorbing damage equal to 10% of their own maximum health for 30 sec. This effect stacks."}
@@ -16583,6 +17701,7 @@ MultiLanguageSpellData['en'][1248778] = {name = "Cosmetic Piece", additional_inf
 MultiLanguageSpellData['en'][1248795] = {name = "Expedient Arcanocrystal Shard", additional_info = "[q]Increases speed rating."}
 MultiLanguageSpellData['en'][1248798] = {name = "Dealbreaker", additional_info = nil}
 MultiLanguageSpellData['en'][1248816] = {name = "Void Forged Echo", additional_info = "300 yd range\nInstant\n[q]As the Void Forged Echo brims with energy, it becomes a delicious snack for a starved void god."}
+MultiLanguageSpellData['en'][1248821] = {name = "{DNT} Teleport to Magni", additional_info = nil}
 MultiLanguageSpellData['en'][1248851] = {name = "Disarming", additional_info = nil}
 MultiLanguageSpellData['en'][1248853] = {name = "Closing", additional_info = nil}
 MultiLanguageSpellData['en'][1248955] = {name = "Coffer of the Manaforge Omega Conqueror", additional_info = "1 sec cast\n[q]Contains powerful loot from Nexus-King Salhadaar or Dimensius, the All-Devouring. The coffer is extremely unlikely to grant items you have previously received."}
@@ -16591,20 +17710,40 @@ MultiLanguageSpellData['en'][1248965] = {name = "Manaforge Translocator", additi
 MultiLanguageSpellData['en'][1248972] = {name = "Clean Streets of Dalaran", additional_info = "Instant\n[q]Eternus accelerates the timeline to give Dalaran time to recover from the Legion's assault."}
 MultiLanguageSpellData['en'][1248976] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['en'][1248979] = {name = "Voidblade Ambush", additional_info = "300 yd range\nInstant\n[q]The Shadowguard Assassin targets a random player, vanishing into the shadows then reappearing behind them to deliver a devastating strike infused with Shadow energy, inflicting 3372919 Shadow damage and an additional 843230 Shadow damage every 1 sec for 30 sec to all players within the impact area."}
+MultiLanguageSpellData['en'][1248984] = {name = "Uninterrupted Working", additional_info = nil}
 MultiLanguageSpellData['en'][1248988] = {name = "Retrieve Stolen Tech", additional_info = "20 yd range\n3 sec cast\n[q]Lock in the location of stolen tech, calling down a teleportation beam to safely retrieve the goods."}
 MultiLanguageSpellData['en'][1249000] = {name = "Retrieve Stolen Tech", additional_info = "20 yd range\n3 sec cast\n[q]Lock in the location of stolen tech, calling down a teleportation beam to safely retrieve the goods."}
+MultiLanguageSpellData['en'][1249013] = {name = "Interruptable Shock", additional_info = nil}
+MultiLanguageSpellData['en'][1249021] = {name = "Interruptable Shock", additional_info = nil}
 MultiLanguageSpellData['en'][1249037] = {name = "Starkiller Swing", additional_info = "Unlimited range\nChanneled (6 sec cast)\n[q]Images of Salhadaar emerge alongside him to swing and erupt a galactic missile at their targets, inflicting 12648448 Cosmic damage to all players in its path and applying Twilight Scar .\n\n Salhadaar's primary target is Starshattered . Each missile detonates in a Starkiller Nova unless consumed by a Dark Star ."}
+MultiLanguageSpellData['en'][1249062] = {name = "Punt!", additional_info = "Melee Range\n{Instant} {1 sec cooldown}\n[q]Punt those nasty Greenchlings!"}
+MultiLanguageSpellData['en'][1249063] = {name = "Punt!", additional_info = "Melee Range\n{Instant} {1 sec cooldown}\n[q]Punt a Greenchling to take back stolen presents!"}
 MultiLanguageSpellData['en'][1249065] = {name = "Soulfire Convergence", additional_info = "300 yd range\nInstant\n[q]The Soulbinder Naazindhri courses arcane energy through the bodies of several players, inflicting 2108075 Arcane damage every 1 sec for 5 sec.\n\nUpon expiration, Soulrend Orbs explode from the target's body."}
 MultiLanguageSpellData['en'][1249068] = {name = "Soulfire Convergence", additional_info = "300 yd range\nInstant\n[q]The Soulbinder Naazindhri courses arcane energy through the bodies of several players, inflicting 2108075 Arcane damage every 1 sec for 5 sec.\n\nUpon expiration, Soulrend Orbs explode from the target's body."}
 MultiLanguageSpellData['en'][1249077] = {name = "Oblivion", additional_info = "Unlimited range\nInstant\n[q]Dimensius instantly devours any player who enters his body for any reason, killing them horribly."}
+MultiLanguageSpellData['en'][1249083] = {name = "Replica Cursed Forge of the Nathrezim", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249084] = {name = "Replica Forge of Odyn", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249085] = {name = "Illidari Glaiverest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249086] = {name = "Skyhold Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249087] = {name = "Skyhold War Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249088] = {name = "Illidari Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249089] = {name = "Illidari Skull Sentinel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249090] = {name = "Valarjar Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249091] = {name = "Add Valarjar Keg of Celebration to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249092] = {name = "Valarjar Shield Wall", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249104] = {name = "Zapped!", additional_info = nil}
+MultiLanguageSpellData['en'][1249105] = {name = "Invigorated", additional_info = nil}
+MultiLanguageSpellData['en'][1249106] = {name = "Activating", additional_info = "1.5 sec cast\n[q]Activate the fightbot."}
 MultiLanguageSpellData['en'][1249111] = {name = "Receive Wraps", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1249133] = {name = "Arcane Expulsion", additional_info = nil}
 MultiLanguageSpellData['en'][1249139] = {name = "Arena Smoke Bomb Aura", additional_info = nil}
 MultiLanguageSpellData['en'][1249144] = {name = "Combat Checker", additional_info = nil}
+MultiLanguageSpellData['en'][1249166] = {name = "{DNT} Teleport to Coreway", additional_info = nil}
 MultiLanguageSpellData['en'][1249168] = {name = "Monitor", additional_info = nil}
 MultiLanguageSpellData['en'][1249182] = {name = "Boss Death Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1249184] = {name = "Boss Death Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1249185] = {name = "Pactsworn", additional_info = "Instant\n[q]On death nearby Pactsworn allies are rallied by their Oath of Vengeance .\n\nOath of Vengeance :\nThe Wastelander swears an oath of vengeance after seeing their comrade fall, increasing damage done by 15% for 20 sec. ."}
+MultiLanguageSpellData['en'][1249188] = {name = "{DNT} Teleport to Meadery", additional_info = nil}
 MultiLanguageSpellData['en'][1249195] = {name = "Skiff Rider", additional_info = nil}
 MultiLanguageSpellData['en'][1249196] = {name = "Skiff Rider", additional_info = nil}
 MultiLanguageSpellData['en'][1249197] = {name = "Skiff Rider", additional_info = nil}
@@ -16612,22 +17751,34 @@ MultiLanguageSpellData['en'][1249198] = {name = "Unstable Soul", additional_info
 MultiLanguageSpellData['en'][1249199] = {name = "Echo Death Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1249200] = {name = "Echo Death Cosmetic", additional_info = nil}
 MultiLanguageSpellData['en'][1249203] = {name = "World in Twilight", additional_info = "Unlimited range\nInstant\n[q]Twilight Spikes close in from all sides, engulfing the arena in a sea of cosmic evisceration."}
+MultiLanguageSpellData['en'][1249205] = {name = "{DNT} Teleport to Taelloch", additional_info = nil}
 MultiLanguageSpellData['en'][1249206] = {name = "Massive Smash", additional_info = "1000 yd range\nInstant\n[q]Dimensius smashes his current target with devastating force, inflicting 37102113 Physical damage and 25296896 Cosmic damage to players within 20 yards and applying Mortal Fragility .\n\n The force of the attack ripples outward through space inflicting 8994452 Cosmic damage to all other players, knocking them away from the impact location, and scattering Living Mass."}
 MultiLanguageSpellData['en'][1249211] = {name = "Eradicating Salvo", additional_info = nil}
 MultiLanguageSpellData['en'][1249213] = {name = "World in Twilight", additional_info = "Unlimited range\nInstant\n[q]Twilight Spikes close in from all sides, engulfing the arena in a sea of cosmic evisceration."}
 MultiLanguageSpellData['en'][1249216] = {name = "World in Twilight", additional_info = "Unlimited range\nInstant\n[q]Twilight Spikes close in from all sides, engulfing the arena in a sea of cosmic evisceration."}
 MultiLanguageSpellData['en'][1249217] = {name = "World in Twilight", additional_info = "Unlimited range\nInstant\n[q]Twilight Spikes close in from all sides, engulfing the arena in a sea of cosmic evisceration."}
+MultiLanguageSpellData['en'][1249218] = {name = "Fel Hammer Scouting Map", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249225] = {name = "Preserver's Censer", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249226] = {name = "Add Dracthyr Weapon Rack to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249227] = {name = "Evoker's Elegant Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249228] = {name = "Add Augmenter's Opal Banner to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249229] = {name = "Draconic Crafter's Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249231] = {name = "Wind Rider Roost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1249232] = {name = "Skyhold Spear Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1249234] = {name = "World in Twilight", additional_info = "Unlimited range\nInstant\n[q]Twilight Spikes close in from all sides, engulfing the arena in a sea of cosmic evisceration."}
 MultiLanguageSpellData['en'][1249235] = {name = "World in Twilight", additional_info = "Unlimited range\nInstant\n[q]Twilight Spikes close in from all sides, engulfing the arena in a sea of cosmic evisceration."}
 MultiLanguageSpellData['en'][1249240] = {name = "King's Thrall", additional_info = "Unlimited range\nInstant\n[q]A player succumbs to their oath, becoming mind-controlled for 12 sec. The void invigorates the player, healing them to full health.\n\n Upon expiration, thrall explode inflicting 100 Shadow damage to all players."}
+MultiLanguageSpellData['en'][1249242] = {name = "Elven Standing Mirror", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1249246] = {name = "Voidwarding", additional_info = nil}
 MultiLanguageSpellData['en'][1249247] = {name = "Boundless", additional_info = nil}
 MultiLanguageSpellData['en'][1249248] = {name = "Boundless", additional_info = "Instant\n[q]After 18 sec, the Nullbinder becomes immune to all forms of crowd control."}
 MultiLanguageSpellData['en'][1249326] = {name = "Parachute", additional_info = "Instant\n[q]Protects the caster from falling damage."}
+MultiLanguageSpellData['en'][1249335] = {name = "{DNT} Teleport to Bronzebeards", additional_info = nil}
 MultiLanguageSpellData['en'][1249362] = {name = "Called Demon", additional_info = nil}
 MultiLanguageSpellData['en'][1249363] = {name = "Training Fatigue", additional_info = "Instant\n[q]You have recently begun training your withered army and must give them time to recover before you can attempt to train them again."}
 MultiLanguageSpellData['en'][1249365] = {name = "Argus Outro", additional_info = nil}
 MultiLanguageSpellData['en'][1249366] = {name = "Called Demon", additional_info = nil}
+MultiLanguageSpellData['en'][1249367] = {name = "Replica Tome of Fel Secrets", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1249423] = {name = "Mass Destruction", additional_info = "1000 yd range\n5 sec cast\n[q]Artoshion ejects superheated mass at random players after 5 sec, inflicting 8432299 Cosmic damage to all players in its path, knocking them back, and leaving behind a Debris Field ."}
 MultiLanguageSpellData['en'][1249424] = {name = "Mass Destruction", additional_info = nil}
 MultiLanguageSpellData['en'][1249425] = {name = "Mass Destruction", additional_info = "1000 yd range\nInstant\n[q]Artoshion ejects superheated mass at random players after 5 sec, inflicting 8432299 Cosmic damage to all players in its path, knocking them back, and leaving behind a Debris Field ."}
@@ -16650,15 +17801,25 @@ MultiLanguageSpellData['en'][1249472] = {name = "Om Dead Drop", additional_info 
 MultiLanguageSpellData['en'][1249473] = {name = "Cartel Transmorpher", additional_info = "Instant 1 hour cooldown\n[q]Disguise yourself as a Broker from Cartel Xy for a short period of time."}
 MultiLanguageSpellData['en'][1249482] = {name = "Phase Modulation", additional_info = nil}
 MultiLanguageSpellData['en'][1249518] = {name = "Venari's Portation Tag", additional_info = nil}
+MultiLanguageSpellData['en'][1249527] = {name = "{DNT} Teleport to Halls of Awakening", additional_info = nil}
+MultiLanguageSpellData['en'][1249533] = {name = "{DNT} Teleport to Dawntower", additional_info = nil}
+MultiLanguageSpellData['en'][1249535] = {name = "{DNT} Teleport to Memorial", additional_info = nil}
+MultiLanguageSpellData['en'][1249545] = {name = "Brushing", additional_info = nil}
+MultiLanguageSpellData['en'][1249546] = {name = "Brushing", additional_info = nil}
+MultiLanguageSpellData['en'][1249577] = {name = "{DNT} Teleport to Ship", additional_info = nil}
 MultiLanguageSpellData['en'][1249587] = {name = "Eye Sore", additional_info = "100 yd range\nInstant\n[q]The caster launches several eyes at their enemies, creating an Eye Sore at the point of impact. Players standing in these Eye Sores suffer 12 Fire damage every second for 15 sec."}
 MultiLanguageSpellData['en'][1249608] = {name = "Ensemble: The Noble's Winter Collection", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1249611] = {name = "Ensemble: The Seafarer's Winter Collection", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1249614] = {name = "Ensemble: The Drustvar Winter Collection", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1249617] = {name = "Kill Credit", additional_info = nil}
 MultiLanguageSpellData['en'][1249622] = {name = "Ensemble: The Kirin Tor Winter Collection", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1249624] = {name = "{DNT} Teleport to Orweyna", additional_info = nil}
+MultiLanguageSpellData['en'][1249628] = {name = "{DNT} Teleport to Weaver", additional_info = nil}
+MultiLanguageSpellData['en'][1249636] = {name = "{DNT} Teleport to Overlook", additional_info = nil}
 MultiLanguageSpellData['en'][1249651] = {name = "Boon of the Reshii", additional_info = "Instant\n[q]Imbue more energy into your Reshii Wraps, enhancing its power.\n\n Unlock the power for the wraps to attune to your specialization granting you Ethereal Reaping :\n\nYour harmful spells and abilities have a chance to focus latent energies around you to inflict Arcane damage split between your target and nearby enemies. Enemies below 35% health take 20% additional damage."}
 MultiLanguageSpellData['en'][1249658] = {name = "Breath of Sindragosa", additional_info = "60 Runic Power\n{Instant} {1.5 min cooldown}\n[q]Call upon Sindragosa's aid in battle for 8 sec, continuously dealing [(139.788% of Attack Power) * [(Attack Power * 0.98)][((Attack Power + Offhand Attack Power) * 2 / 3)] -- 2H, DW / Attack Power] Frost damage every 1 sec to enemies in a cone in front of you. Consuming Killing Machine or Rime increases the duration by 0.8 sec. Deals reduced damage to secondary targets.\n\nGrants a charge of Empower Rune Weapon at the start and 2 Runes at the end.\n(100ms cooldown)"}
 MultiLanguageSpellData['en'][1249679] = {name = "Phase Modulation", additional_info = nil}
+MultiLanguageSpellData['en'][1249693] = {name = "{DNT} Teleport to Edicts", additional_info = nil}
 MultiLanguageSpellData['en'][1249703] = {name = "Receive Fibers", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1249705] = {name = "Brittle", additional_info = nil}
 MultiLanguageSpellData['en'][1249715] = {name = "Eternus", additional_info = nil}
@@ -16672,9 +17833,16 @@ MultiLanguageSpellData['en'][1249744] = {name = "Dreamweaver Insignia", addition
 MultiLanguageSpellData['en'][1249745] = {name = "Court of Farondis Insignia", additional_info = "Instant\n[q]Grants 2000 reputation with the Court of Farondis."}
 MultiLanguageSpellData['en'][1249746] = {name = "Argussian Reach Insignia", additional_info = "Instant\n[q]Grants 2000 reputation with the Argussian Reach."}
 MultiLanguageSpellData['en'][1249771] = {name = "Call of the Legion", additional_info = "100 yd range\n[q]When your Infernal Dreadlord returns to the nether, they empower your critical strikes to generate applications of Call of the Legion for 30 sec. At 5 stacks, Call of the Legion is consumed to summon a subjugated demon from the twisting nether to assist you in combat for 10 sec. Multiple summons may overlap."}
+MultiLanguageSpellData['en'][1249777] = {name = "{DNT} Play Movie", additional_info = nil}
+MultiLanguageSpellData['en'][1249780] = {name = "{DNT} Teleport to Battle", additional_info = nil}
+MultiLanguageSpellData['en'][1249785] = {name = "{DNT} Play Movie", additional_info = nil}
+MultiLanguageSpellData['en'][1249807] = {name = "{DNT} Teleport to Undermine", additional_info = nil}
 MultiLanguageSpellData['en'][1249817] = {name = "Chain Lightning", additional_info = "100 yd range\nInstant\n[q]Strikes an enemy with a lightning bolt"}
 MultiLanguageSpellData['en'][1249827] = {name = "Elemental Arcane Shader - Visual - KM", additional_info = "Instant\n[q]Enter an ethereal state of energy."}
 MultiLanguageSpellData['en'][1249830] = {name = "Elemental Arcane Shader - Visual - KM", additional_info = "Instant\n[q]Enter an ethereal state of energy."}
+MultiLanguageSpellData['en'][1249842] = {name = "Add Founder's Point Street Sign to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249843] = {name = "Add Founder's Point Navigation Sign to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1249844] = {name = "Add Devastator's Brazier to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1249897] = {name = "Anima Vacuum", additional_info = nil}
 MultiLanguageSpellData['en'][1249898] = {name = "Waygate", additional_info = nil}
 MultiLanguageSpellData['en'][1249899] = {name = "Waygate", additional_info = nil}
@@ -16683,11 +17851,20 @@ MultiLanguageSpellData['en'][1249901] = {name = "Waygate", additional_info = nil
 MultiLanguageSpellData['en'][1249902] = {name = "Waygate", additional_info = nil}
 MultiLanguageSpellData['en'][1249905] = {name = "Anima Vacuum", additional_info = nil}
 MultiLanguageSpellData['en'][1249912] = {name = "Twilight Reflections", additional_info = nil}
+MultiLanguageSpellData['en'][1249913] = {name = "{DNT} Play Movie", additional_info = nil}
+MultiLanguageSpellData['en'][1249929] = {name = "Magic Broom [PH]", additional_info = "Instant\n[q]Summons and dismisses a rideable magical broom! This mount changes depending on your Riding skill and location."}
+MultiLanguageSpellData['en'][1249970] = {name = "{DNT} Teleport to Taz'avesh", additional_info = nil}
 MultiLanguageSpellData['en'][1249985] = {name = "Whispers of Fate", additional_info = "100 yd range\nInstant\n[q]Soul-Scribe shatters the fate of every player, summoning echoes of their Fate and causing them to suffer 2424449 Arcane damage."}
+MultiLanguageSpellData['en'][1249988] = {name = "{DNT} Teleport to K'aresh overlook", additional_info = nil}
 MultiLanguageSpellData['en'][1249990] = {name = "Infinite Potential", additional_info = "Unlimited range\nInstant\n[q]Imbue your artifact weapons with the power of infinite potential, significantly increasing their item levels."}
+MultiLanguageSpellData['en'][1249994] = {name = "{DNT} Teleport to Eco-Dome Primus", additional_info = nil}
 MultiLanguageSpellData['en'][1250003] = {name = "Remix Points Aura", additional_info = nil}
+MultiLanguageSpellData['en'][1250005] = {name = "{DNT} Teleport to Oasis", additional_info = nil}
 MultiLanguageSpellData['en'][1250008] = {name = "Shatterpulse", additional_info = "Unlimited range\nInstant\n[q]A shattering Arcane Sigil sends out a pulse of energy, applying a 4634199 healing absorb shield to all players."}
+MultiLanguageSpellData['en'][1250025] = {name = "{DNT} Teleport to Shadow Point", additional_info = nil}
 MultiLanguageSpellData['en'][1250044] = {name = "Taking Aim", additional_info = "Instant\n[q]The ethereal focuses on their target, becoming immune to crowd control effects."}
+MultiLanguageSpellData['en'][1250046] = {name = "Punt!", additional_info = "Melee Range\n{Instant} {1 sec cooldown}\n[q]Punt those nasty Greenchlings!"}
+MultiLanguageSpellData['en'][1250047] = {name = "Punt!", additional_info = "Melee Range\n{Instant} {1 sec cooldown}\n[q]Run into those angry fake presents!"}
 MultiLanguageSpellData['en'][1250048] = {name = "Energize", additional_info = nil}
 MultiLanguageSpellData['en'][1250049] = {name = "Energize", additional_info = nil}
 MultiLanguageSpellData['en'][1250050] = {name = "Energize", additional_info = "100 Energy\nInstant\n[q]Ky'veza and her Nether Phantoms rapidly dash through the arena."}
@@ -16695,7 +17872,10 @@ MultiLanguageSpellData['en'][1250051] = {name = "Antimatter", additional_info = 
 MultiLanguageSpellData['en'][1250052] = {name = "The Shadows", additional_info = "Unlimited range\nInstant\n[q]Haunting shadows surround the chamber, inflicting 5 Shadow damage every 1 sec to any players within them."}
 MultiLanguageSpellData['en'][1250054] = {name = "Voidgrasp", additional_info = nil}
 MultiLanguageSpellData['en'][1250055] = {name = "Voidgrasp", additional_info = "1000 yd range\nInstant\n[q]Dimensius warps space around random players, reducing their movement speed by 50% and inflicting 3513458 Cosmic damage every 1 sec for 8 sec."}
+MultiLanguageSpellData['en'][1250058] = {name = "Catch Ghost", additional_info = "20 yd range\n{Channeled (5 sec cast)} {5 sec cooldown}\n[q]Attempt to catch the ghost."}
+MultiLanguageSpellData['en'][1250059] = {name = "Catch Ghost [PH]", additional_info = nil}
 MultiLanguageSpellData['en'][1250068] = {name = "Stampede", additional_info = "40 yd range\nInstant\n[q]Summon a herd of stampeding animals from the wilds around you that deal [(300% of Attack Power) * 3] Physical damage to your enemies over 4 sec."}
+MultiLanguageSpellData['en'][1250072] = {name = "Spirits Collected", additional_info = nil}
 MultiLanguageSpellData['en'][1250078] = {name = "Infinite Potential", additional_info = "Unlimited range\nInstant\n[q]Imbue your artifact weapons with the power of infinite potential, increasing their item levels."}
 MultiLanguageSpellData['en'][1250083] = {name = "Ensemble: Villager's Forest Attire", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1250095] = {name = "Infinite Potential", additional_info = "Unlimited range\nInstant\n[q]Imbue your artifact weapons with the power of infinite potential, significantly increasing their item levels."}
@@ -16718,6 +17898,10 @@ MultiLanguageSpellData['en'][1250185] = {name = "Focusing Iris", additional_info
 MultiLanguageSpellData['en'][1250196] = {name = "Knockback Trigger", additional_info = nil}
 MultiLanguageSpellData['en'][1250198] = {name = "Knockback Trigger", additional_info = nil}
 MultiLanguageSpellData['en'][1250210] = {name = "Kill Bubbles", additional_info = nil}
+MultiLanguageSpellData['en'][1250219] = {name = "Add Small Wooden Footstool to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250220] = {name = "Tusked Weapon Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1250221] = {name = "Empty Orgrimmar Bathtub", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1250222] = {name = "Add Runed Stone Placard to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1250225] = {name = "Devour", additional_info = nil}
 MultiLanguageSpellData['en'][1250230] = {name = "Demon's Vigor", additional_info = "100 yd range\nInstant\n[q]Second Wind recharges 6666% faster."}
 MultiLanguageSpellData['en'][1250231] = {name = "Infinite Vigor", additional_info = "Instant\n[q]Flight speed increased by 300%."}
@@ -16740,9 +17924,31 @@ MultiLanguageSpellData['en'][1250314] = {name = "Phantom Bloom", additional_info
 MultiLanguageSpellData['en'][1250317] = {name = "Lush Phantom Bloom", additional_info = "5 yd range\n2.5 sec cast\n[q]Phantom Bloom are the energy remains of native K'areshi flora, impossible to incorporate into Algari recipes.\n\n You can instead exchange Phantom Bloom at the Resource Market for Algari materials. Their prices change every day, so patience can help you get the best deals!\n\n Some examples of Phantom Bloom have been found to be noticeably larger than expected. Once one of the few plants to survive the merciless wastes of the K'aresh deserts, it was known to thrive in larger varieties in the lush environments of the untamed forests."}
 MultiLanguageSpellData['en'][1250321] = {name = "Infinite Potential", additional_info = "Unlimited range\nInstant\n[q]Imbue your artifact weapons with the power of infinite potential, increasing their item levels."}
 MultiLanguageSpellData['en'][1250322] = {name = "Infinite Potential", additional_info = "Unlimited range\nInstant\n[q]Imbue your artifact weapons with the power of infinite potential, increasing their item levels."}
+MultiLanguageSpellData['en'][1250326] = {name = "Trueshot Lodge Weapon Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250327] = {name = "Replica Tome of the Ancients", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250328] = {name = "Ebon Blade Planning Map", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250329] = {name = "Ebon Blade Tome", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250330] = {name = "Acherus Worktable", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250332] = {name = "Ebon Blade Weapon Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250343] = {name = "\"Autumn's Eternal Bliss\" Painting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250344] = {name = "\"Heart of Quel'Thalas\" Painting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250345] = {name = "\"Citadel of Unending Void\" Painting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250346] = {name = "\"Forest's Bulwark\" Painting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250347] = {name = "\"The Verdant Underwild\" Painting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250348] = {name = "Replica Acherus Soul Forge", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250349] = {name = "Ebon Blade Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1250351] = {name = "Desolate Deposit", additional_info = "5 yd range\n2.5 sec cast\n[q]Miners seeking their fortune on K'aresh may find only the meager offerings of a devastated world. While this mineral has no use in Algari crafting, the residents of Tazavesh may find some value in what rubble can be gathered."}
+MultiLanguageSpellData['en'][1250352] = {name = "Replica Altar of the Eternal Hunt", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250353] = {name = "Unseen Path Archer's Gallery", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250354] = {name = "Replica Tales of the Hunt", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250355] = {name = "Banner of the Unseen Path", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1250356] = {name = "Rich Desolate Deposit", additional_info = "5 yd range\n2.5 sec cast\n[q]Miners seeking their fortune on K'aresh may find only the meager offerings of a devastated world. While this mineral has no use in Algari crafting, the residents of Tazavesh may find some value in what rubble can be gathered.\n\nSometimes abnormally large deposits emerge from beneath the surface, much to the delight of miners seeking the day's bread."}
 MultiLanguageSpellData['en'][1250388] = {name = "Piercing Strand", additional_info = nil}
+MultiLanguageSpellData['en'][1250389] = {name = "Tirisgarde Candle", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250390] = {name = "Add Tirisgarde War Map to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250391] = {name = "Tirisgarde Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250392] = {name = "Dreamweaver Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250393] = {name = "Seed of Ages Cutting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1250399] = {name = "Assassin Revealed", additional_info = nil}
 MultiLanguageSpellData['en'][1250402] = {name = "Death Cloak", additional_info = "Instant\n[q]Stealthed."}
 MultiLanguageSpellData['en'][1250403] = {name = "Death Cloak", additional_info = nil}
@@ -16753,12 +17959,29 @@ MultiLanguageSpellData['en'][1250482] = {name = "Ghastly Ur'zul", additional_inf
 MultiLanguageSpellData['en'][1250484] = {name = "Phased Diving Mount", additional_info = nil}
 MultiLanguageSpellData['en'][1250517] = {name = "Domestic Phaserover", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable Warforged Nightmare."}
 MultiLanguageSpellData['en'][1250552] = {name = "Infinite Power", additional_info = nil}
+MultiLanguageSpellData['en'][1250570] = {name = "Replica Altar of Ancient Kings", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250571] = {name = "Silver Hand Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250572] = {name = "Sanctum of Light Hallway Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250573] = {name = "Replica Libram of Ancient Kings", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250574] = {name = "Sanctum of Light Candelabra", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250575] = {name = "Silver Hand Tribute to the Fallen", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250576] = {name = "Add Silver Hand Weapon Rack to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1250578] = {name = "Phase-Lost Slateback", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"This Slateback got lost wandering into various phases as it followed some ethereals around.\"\nAchievement:\nPhase-Lost-and-Found\nCategory:\nWar Within"}
+MultiLanguageSpellData['en'][1250579] = {name = "Tirisgarde Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250592] = {name = "Add Founder's Point Gravestone to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250593] = {name = "Add Small Founder's Point Gravestone to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250594] = {name = "Add Founder's Point Gravestone Tower to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250595] = {name = "Add Large Founder's Point Gravestone to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1250600] = {name = "Void Lightning", additional_info = "Instant\n[q]Inflicts 15 Shadow damage to an enemy every 1 sec for until canceled."}
 MultiLanguageSpellData['en'][1250614] = {name = "Anomalous Force", additional_info = "Instant\n[q]Dimensius tightens his hold on Airborne players. They can only be pulled down by a number of players with Excess Mass equal to or greater than Dimensius' current Anomalous Force.\n\n This effect is reset when Dimensius casts Devour."}
 MultiLanguageSpellData['en'][1250630] = {name = "Felspike", additional_info = "[q]After using Twisted Crusade it becomes Felspike .\n\n \nFelspike\nViolently sacrifice your Infernal Dreadlord on a felspike, inflicting [(5213% Attack/Spell Power)] Chaos damage to nearby enemies within 30 yards. Enemies struck become Fel Touched ."}
 MultiLanguageSpellData['en'][1250635] = {name = "Phase Diving Mount", additional_info = nil}
 MultiLanguageSpellData['en'][1250671] = {name = "Arcanomatrix Sieve", additional_info = "Instant\n[q]The Arcane Sieve will Atomize all players who come in contact with it, and leave behind Arcane Radiation ."}
+MultiLanguageSpellData['en'][1250677] = {name = "Netherlight Conclave Voidwell", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250678] = {name = "Conclave Pedestal", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250679] = {name = "Netherlight Lightwell", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250680] = {name = "Conjured Altar of the Guardian", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250681] = {name = "Tome of the Corrupt", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1250683] = {name = "Collector's Bounty", additional_info = nil}
 MultiLanguageSpellData['en'][1250685] = {name = "Greedy Emissary", additional_info = nil}
 MultiLanguageSpellData['en'][1250687] = {name = "Eternus's Ambition", additional_info = "[q]While Nostwin's Impatience is active, entering combat generates 20% of your class resource.\n\n This effect can occur once every 10 sec."}
@@ -16785,7 +18008,13 @@ MultiLanguageSpellData['en'][1250850] = {name = "Nexus Daggers", additional_info
 MultiLanguageSpellData['en'][1250853] = {name = "Nexus Daggers", additional_info = "Unlimited range\n1.75 sec cast\n[q]Ky'veza flings regal knives in multiple directions, inflicting 90 Shadow damage to any player struck."}
 MultiLanguageSpellData['en'][1250854] = {name = "Nexus Daggers", additional_info = "Unlimited range\nInstant\n[q]Ky'veza flings regal knives in multiple directions, inflicting 90 Shadow damage to any player struck."}
 MultiLanguageSpellData['en'][1250855] = {name = "Nexus Daggers", additional_info = "Unlimited range\nInstant\n[q]Ky'veza flings regal knives in multiple directions, inflicting 90 Shadow damage to any player struck."}
+MultiLanguageSpellData['en'][1250856] = {name = "Vrykul Lord's Throne", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1250857] = {name = "Return to the Shadows", additional_info = nil}
+MultiLanguageSpellData['en'][1250858] = {name = "Legion's Holo-Communicator", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250859] = {name = "Hanging Felsteel Chain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250860] = {name = "Legion's Fel Torch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250861] = {name = "Corruption Pit", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1250862] = {name = "Legion's Fel Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1250864] = {name = "Add Keystone Affix: Dusk of the Infinite", additional_info = "Instant\n[q]Add the Dusk of the Infinite affix to a Mythic Keystone."}
 MultiLanguageSpellData['en'][1250865] = {name = "Add Keystone Affix: Timeways Manifested", additional_info = "Instant\n[q]Add the Timeways Manifested affix to a Mythic Keystone."}
 MultiLanguageSpellData['en'][1250866] = {name = "Add Keystone Affix: Twilight Reflections", additional_info = "Instant\n[q]Add the Twilight Reflections affix to a Mythic Keystone."}
@@ -16808,6 +18037,7 @@ MultiLanguageSpellData['en'][1250967] = {name = "Tinker", additional_info = nil}
 MultiLanguageSpellData['en'][1251008] = {name = "Eclipse", additional_info = "Unlimited range\nInstant\n[q]Ky'veza veils sections of the room with waves of darkness, inflicting 140 Shadow damage to any player caught within."}
 MultiLanguageSpellData['en'][1251013] = {name = "Eclipse", additional_info = "Unlimited range\nInstant\n[q]Ky'veza veils sections of the room with waves of darkness, inflicting 140 Shadow damage to any player caught within."}
 MultiLanguageSpellData['en'][1251015] = {name = "Eclipse", additional_info = "Unlimited range\nInstant\n[q]Ky'veza veils sections of the room with waves of darkness, inflicting 140 Shadow damage to any player caught within."}
+MultiLanguageSpellData['en'][1251031] = {name = "Vertical Felsteel Chain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1251032] = {name = "Infinite Potential", additional_info = "Unlimited range\nInstant\n[q]Imbue your artifact weapons with the power of infinite potential, increasing their item levels."}
 MultiLanguageSpellData['en'][1251035] = {name = "Waygate", additional_info = nil}
 MultiLanguageSpellData['en'][1251045] = {name = "Vindicator's Judgment", additional_info = "40 yd range\n{Instant} {1.5 min cooldown}\n[q]Artifact Ability\n\n Become Lightforged for 24 sec and call down a beam of heavenly light that follows targets, dealing up to [(200% Attack/Spell Power)] Holy damage to enemies and healing friendly targets for [(141% Attack/Spell Power)] every 0.5 sec for 12 sec within its area. Deals reduced damage and healing beyond 5 targets.\n\nLightforged\nEmpowers your artifact's other light traits."}
@@ -16816,6 +18046,12 @@ MultiLanguageSpellData['en'][1251049] = {name = "Vindicator's Judgment", additio
 MultiLanguageSpellData['en'][1251092] = {name = "Astral Burn", additional_info = nil}
 MultiLanguageSpellData['en'][1251138] = {name = "Burrow", additional_info = "30 yd range\n1 sec cast\n[q]The caster burrows into the ground and reemerges behind the target."}
 MultiLanguageSpellData['en'][1251149] = {name = "Ethereal Empowerment", additional_info = nil}
+MultiLanguageSpellData['en'][1251177] = {name = "Legion Torture Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251178] = {name = "Eredar Lord's Fel Torch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251179] = {name = "Add Tusked Leather Tapestry to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251180] = {name = "Add Razorwind Trophy Pelt to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251181] = {name = "Altar of the Corrupted Flames", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251193] = {name = "Ancient Weyrn Device", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1251215] = {name = "Arcane Blast", additional_info = "100 yd range\n{Instant} {1.5 sec cooldown}\n[q]Fires a powerful arcane blast into an area, dealing massive damage to any enemies within it."}
 MultiLanguageSpellData['en'][1251216] = {name = "Arcane Blast", additional_info = "100 yd range\nInstant\n[q]Fires a powerful arcane blast into an area, dealing massive damage to any enemies within it."}
 MultiLanguageSpellData['en'][1251233] = {name = "Conqueror's Cross", additional_info = nil}
@@ -16854,6 +18090,16 @@ MultiLanguageSpellData['en'][1251400] = {name = "Longhorned Beryl Talbuk", addit
 MultiLanguageSpellData['en'][1251408] = {name = "Vindicator's Judgment", additional_info = "[q]Artifact Ability\n\n Become Lightforged for 24 sec and call down a beam of heavenly light that follows targets, dealing up to [(200% Attack/Spell Power)] Holy damage to enemies and healing friendly targets for [(141% Attack/Spell Power)] every 0.5 sec for 12 sec within its area. Deals reduced damage and healing beyond 5 targets.\n\nLightforged\nEmpowers your artifact's other light traits."}
 MultiLanguageSpellData['en'][1251414] = {name = "Caught", additional_info = nil}
 MultiLanguageSpellData['en'][1251427] = {name = "Vindicator's Judgment", additional_info = "100 yd range\nInstant\n[q]Artifact Ability\n\n Become Lightforged for 24 sec and call down a beam of heavenly light that follows targets, dealing up to [(200% Attack/Spell Power)] Holy damage to enemies and healing friendly targets for [(141% Attack/Spell Power)] every 0.5 sec for 12 sec within its area. Deals reduced damage and healing beyond 5 targets.\n\nLightforged\nEmpowers your artifact's other light traits."}
+MultiLanguageSpellData['en'][1251442] = {name = "Uncrowned Apothecary's Cabinet", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251443] = {name = "Uncrowned Apothecary's Supplies", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251444] = {name = "Uncrowned Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251445] = {name = "Uncrowned Planning Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251446] = {name = "Replica Crucible of the Uncrowned", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251447] = {name = "Stolen Copy of the Blood Ledger", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251449] = {name = "Netherlight Conclave Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251450] = {name = "Replica Altar of Light and Shadow", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251451] = {name = "Replica Word of the Conclave", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251452] = {name = "Scroll of the Conclave", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1251545] = {name = "Ethereal Reaping", additional_info = "Instant\nApproximately 2 procs per minute\n[q]Your harmful spells and abilities have a chance to focus latent energies around you to inflict Arcane damage split between your target and nearby enemies. Enemies below 35% health take 20% additional damage.\n(100ms cooldown)"}
 MultiLanguageSpellData['en'][1251549] = {name = "Ethereal Reconstitution", additional_info = "Instant\nApproximately 2 procs per minute\n[q]Your helpful spells and abilities have a chance to gather dormant energy to heal an injured ally. Overhealing from this effect grants an absorb shield.\n(100ms cooldown)"}
 MultiLanguageSpellData['en'][1251551] = {name = "Portal to Tazavesh", additional_info = nil}
@@ -16868,7 +18114,15 @@ MultiLanguageSpellData['en'][1251631] = {name = "Ensemble: Villager's Forest Col
 MultiLanguageSpellData['en'][1251633] = {name = "Ensemble: Villager's Seaside Collection", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1251635] = {name = "Ensemble: Villager's Country Collection", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1251636] = {name = "Ensemble: Villager's City Collection", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1251637] = {name = "Add Draconic Crafter's Forge to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251638] = {name = "Small Razorwind Bar Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1251639] = {name = "Elemental Altar of the Maelstrom", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251640] = {name = "Replica Words of Wind and Earth", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251641] = {name = "Pedestal of the Maelstrom's Wisdom", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251642] = {name = "Add Farseer's Furs to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251643] = {name = "Maelstrom Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1251644] = {name = "Tinker", additional_info = nil}
+MultiLanguageSpellData['en'][1251656] = {name = "Horned Hanging Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1251666] = {name = "Light's Vengeance", additional_info = "Approximately 5 procs per minute\n[q]Your spells and abilities have a chance to manifest holy light, healing a nearby injured ally for [(242% Attack/Spell Power)] and dealing [(200% Attack/Spell Power)] Holy damage to enemies within 6 yards of them.\n\n Healing and damage are doubled while Lightforged ."}
 MultiLanguageSpellData['en'][1251667] = {name = "Light's Vengeance", additional_info = nil}
 MultiLanguageSpellData['en'][1251669] = {name = "Light's Vengeance", additional_info = nil}
@@ -16891,11 +18145,18 @@ MultiLanguageSpellData['en'][1251846] = {name = "Crystallized Memory", additiona
 MultiLanguageSpellData['en'][1251848] = {name = "Crystallized Memory", additional_info = "1.5 sec cast\n[q]Leave a Crystallized Memory containing a message for another player to discover while running this delve."}
 MultiLanguageSpellData['en'][1251850] = {name = "Crystallized Memory", additional_info = "1.5 sec cast\n[q]Leave a Crystallized Memory containing a message for another player to discover while running this delve."}
 MultiLanguageSpellData['en'][1251853] = {name = "Manifest Darkness", additional_info = "Instant\n[q]As Araz unravels, void energy cascades from him applying a Dark Boon to any Void Manifestation that comes within 7 yards of his location."}
+MultiLanguageSpellData['en'][1251879] = {name = "Add Painted Wood Scraps to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251880] = {name = "Add Painted Wood Scrap Pile to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251881] = {name = "Add Cenarion Arch to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251882] = {name = "Earthen Ring Scouting Map", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251884] = {name = "Maelstrom Chimes", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1251895] = {name = "Ensemble: Forged Warmonger's Cloth Armor", additional_info = "Instant\n[q]Collect the appearances of the Forged Warmonger's Cloth armor set."}
 MultiLanguageSpellData['en'][1251896] = {name = "Ensemble: Forged Warmonger's Leather Armor", additional_info = "Instant\n[q]Collect the appearances of the Forged Warmonger's Leather armor set."}
 MultiLanguageSpellData['en'][1251897] = {name = "Ensemble: Forged Warmonger's Mail Armor", additional_info = "Instant\n[q]Collect the appearances of the Forged Warmonger's Mail armor set."}
 MultiLanguageSpellData['en'][1251898] = {name = "Ensemble: Forged Warmonger's Plate Armor", additional_info = "Instant\n[q]Collect the appearances of the Forged Warmonger's Plate armor set."}
 MultiLanguageSpellData['en'][1251899] = {name = "Arsenal: Forged Warmonger's Weapons", additional_info = "Instant\n[q]Collect the appearances of the Forged Warmonger's weapon set."}
+MultiLanguageSpellData['en'][1251901] = {name = "Bel'ameth Traveler's Pack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1251912] = {name = "<DNT> Summon Treasure", additional_info = nil}
 MultiLanguageSpellData['en'][1251920] = {name = "Lightforged", additional_info = "Instant\n[q]Empowers your artifact's other light traits."}
 MultiLanguageSpellData['en'][1251951] = {name = "Death and Decay", additional_info = "100 yd range\nInstant\n[q]Corrupts the ground targeted by the Death Knight, causing Shadow damage every sec that targets remain in the area for 10 sec."}
 MultiLanguageSpellData['en'][1251977] = {name = "Delver's Headquarters", additional_info = nil}
@@ -16914,6 +18175,7 @@ MultiLanguageSpellData['en'][1252068] = {name = "Ensemble: Astral Warmonger's Le
 MultiLanguageSpellData['en'][1252069] = {name = "Ensemble: Astral Warmonger's Mail Armor", additional_info = "Instant\n[q]Collect the appearances of the Astral Warmonger's Mail armor set."}
 MultiLanguageSpellData['en'][1252070] = {name = "Ensemble: Astral Warmonger's Plate Armor", additional_info = "Instant\n[q]Collect the appearances of the Astral Warmonger's Plate armor set."}
 MultiLanguageSpellData['en'][1252071] = {name = "Arsenal: Astral Warmonger's Weapons", additional_info = "Instant\n[q]Collect the appearances of the Astral Warmonger's weapon set."}
+MultiLanguageSpellData['en'][1252088] = {name = "Dismiss Tome", additional_info = nil}
 MultiLanguageSpellData['en'][1252090] = {name = "Ensemble: Tidesoaked Battlegear", additional_info = "Instant\n[q]Collect the appearances of this armor set. Appearances only usable by Death Knights, Paladins, and Warriors."}
 MultiLanguageSpellData['en'][1252096] = {name = "Severe Thunder", additional_info = "Instant\n[q]Ionizing Strikes deal 100% more damage and when you trigger Ionizing Strikes, you gain a charge of Thunder Blast and your next Thunder Blast deals 100% additional damage."}
 MultiLanguageSpellData['en'][1252103] = {name = "Fists of the Voidlord", additional_info = nil}
@@ -16925,11 +18187,26 @@ MultiLanguageSpellData['en'][1252193] = {name = "Odyn's Chosen", additional_info
 MultiLanguageSpellData['en'][1252196] = {name = "Request Offering", additional_info = "Instant\n[q]You did not complete your offering to a Timewarped Obelisk. Restoration effects from Timewarped Obelisks are significantly reduced."}
 MultiLanguageSpellData['en'][1252198] = {name = "Empyreal Orders", additional_info = "[q]After using Vindicator's Judgment , it becomes Enter the Fray .\n\nEnter the Fray\nRush forward with zealous might, smiting all enemies in your path for [(168% Attack/Spell Power)] Holy damage.\n\n Becomes Lightbound Passage after use.\n\nLightbound Passage\nStep into a beam of light that deals up to [(168% Attack/Spell Power)] Holy damage to enemies and up to [(168% Attack/Spell Power)] healing to allies within 6 yds, teleporting you backwards 20 yds or until reaching an obstacle.\n\n Also while Lightforged , you gain Echo of Light .\n\nEcho of Light\nHoly light emanates off you and coalesces into motes every 3 sec. Touching the mote deals [(168% Attack/Spell Power)] Holy damage to nearby enemies or restores [(168% Attack/Spell Power)] health to nearby allies within 60 yds."}
 MultiLanguageSpellData['en'][1252375] = {name = "Void Explosion", additional_info = nil}
+MultiLanguageSpellData['en'][1252380] = {name = "Add Shadowmoon Open-Air Shed to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252381] = {name = "Draenic Fencepost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252382] = {name = "Draenic Ottoman", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1252394] = {name = "Spirit of K'aresh", additional_info = nil}
+MultiLanguageSpellData['en'][1252395] = {name = "Add Embroidered Embaari Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252396] = {name = "Draenic Wooden Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252397] = {name = "Square Draenic Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252398] = {name = "Add Shadowmoon Greenhouse to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252399] = {name = "Draenic Wooden Wall Shelf", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252400] = {name = "Add Elodor Armory Rack to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252401] = {name = "Draenei Stargazer's Telescope", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252402] = {name = "Draenethyst Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252403] = {name = "Add \"Dawning Hope\" Mosaic to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1252407] = {name = "Obliteration Arcanocannon", additional_info = "300 yd range\nInstant\n[q]The Plexus Sentinel marks its current target, then fires an arcane charge that inflicts 26702279 Arcane damage to players within 10 yards, and 25296896 Arcane damage to all other players. Players farther from the target receive less damage. This explosion leaves behind Potent Mana Residue .\n\n The impact causes the primary target to take 1000% damage from Obliteration Arcanocannon for 45 sec."}
 MultiLanguageSpellData['en'][1252420] = {name = "Grave Marker", additional_info = nil}
 MultiLanguageSpellData['en'][1252434] = {name = "Knockback", additional_info = nil}
 MultiLanguageSpellData['en'][1252435] = {name = "Reset Collector and Manaforge", additional_info = nil}
+MultiLanguageSpellData['en'][1252441] = {name = "Small Karabor Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252442] = {name = "Moon-Blessed Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252443] = {name = "Add Draenic Basin to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1252444] = {name = "Explosion", additional_info = nil}
 MultiLanguageSpellData['en'][1252447] = {name = "Exit", additional_info = "Instant\n[q]Stop repairing."}
 MultiLanguageSpellData['en'][1252448] = {name = "Arcane Explosion", additional_info = nil}
@@ -16947,6 +18224,14 @@ MultiLanguageSpellData['en'][1252577] = {name = "Void Rift Storm", additional_in
 MultiLanguageSpellData['en'][1252578] = {name = "Unstable Void Rift", additional_info = "20 yd range\nInstant\n[q]Inflicts Shadow damage and slows creatures within 3 yards of the impact for 3 sec."}
 MultiLanguageSpellData['en'][1252613] = {name = "Command Squadron", additional_info = "40 yd range\nInstant\n[q]While Deep Breathing and for until canceled after, you command a squadron of 2 Dracthyr who will attack your targets with Disintegrate and Azure Strike."}
 MultiLanguageSpellData['en'][1252635] = {name = "Telekinetic Collision", additional_info = nil}
+MultiLanguageSpellData['en'][1252639] = {name = "Telredor Recliner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252640] = {name = "Razorwind Cooking Grill", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1252647] = {name = "Argussian Circular Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252648] = {name = "Add Draenei Farmer's Trellis to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252649] = {name = "Draenic Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252651] = {name = "Emblem of the Naaru's Blessing", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252652] = {name = "Draenethyst Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252653] = {name = "Grand Draenethyst Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1252671] = {name = "Tome of Combat Training", additional_info = "Instant\nReagents:\n[q]Increases experience gained from kills by 25% for 10 min."}
 MultiLanguageSpellData['en'][1252685] = {name = "Enter the Fray", additional_info = "Instant\n[q]Rush forward with zealous might, smiting all enemies in your path for [(168% Attack/Spell Power)] Holy damage.\n\n Becomes Lightbound Passage after use."}
 MultiLanguageSpellData['en'][1252686] = {name = "Enter the Fray", additional_info = "Instant\n[q]Rush forward with zealous might, smiting all enemies in your path for [(168% Attack/Spell Power)] Holy damage.\n\n Becomes Lightbound Passage after use."}
@@ -16966,7 +18251,11 @@ MultiLanguageSpellData['en'][1252808] = {name = "Lightbound Passage", additional
 MultiLanguageSpellData['en'][1252810] = {name = "Lightbound Passage", additional_info = "100 yd range\nInstant\n[q]Step into a beam of light that deals up to [(168% Attack/Spell Power)] Holy damage to enemies and up to [(168% Attack/Spell Power)] healing to allies within 6 yds, teleporting you backwards 20 yds or until reaching an obstacle."}
 MultiLanguageSpellData['en'][1252819] = {name = "Event Horizon", additional_info = "4 sec cast\n[q]As his health is depleted, Dimensius begins to collapse in on himself."}
 MultiLanguageSpellData['en'][1252820] = {name = "Holy Dissolve Out", additional_info = nil}
+MultiLanguageSpellData['en'][1252835] = {name = "Netherlight Command Map", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252836] = {name = "Tusked Weapon Stand", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1252838] = {name = "Lightbound Passage", additional_info = "100 yd range\nInstant\n[q]Step into a beam of light that deals up to [(168% Attack/Spell Power)] Holy damage to enemies and up to [(168% Attack/Spell Power)] healing to allies within 6 yds, teleporting you backwards 20 yds or until reaching an obstacle."}
+MultiLanguageSpellData['en'][1252839] = {name = "Jagged Orgrimmar Trellis", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1252840] = {name = "Hide-Covered Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1252844] = {name = "Echo of Light", additional_info = nil}
 MultiLanguageSpellData['en'][1252847] = {name = "Learn Argent Pets", additional_info = nil}
 MultiLanguageSpellData['en'][1252850] = {name = "Echo of Light", additional_info = nil}
@@ -16974,16 +18263,28 @@ MultiLanguageSpellData['en'][1252851] = {name = "Echo of Light", additional_info
 MultiLanguageSpellData['en'][1252854] = {name = "Echo of Light", additional_info = "100 yd range\nInstant\n[q]Holy light emanates off you and coalesces into motes every 3 sec. Touching the mote deals [(168% Attack/Spell Power)] Holy damage to nearby enemies or restores [(168% Attack/Spell Power)] health to nearby allies within 60 yds."}
 MultiLanguageSpellData['en'][1252855] = {name = "Echo of Light", additional_info = "100 yd range\nInstant\n[q]Holy light emanates off you and coalesces into motes every 3 sec. Touching the mote deals [(168% Attack/Spell Power)] Holy damage to nearby enemies or restores [(168% Attack/Spell Power)] health to nearby allies within 60 yds."}
 MultiLanguageSpellData['en'][1252862] = {name = "Waiting", additional_info = nil}
+MultiLanguageSpellData['en'][1252870] = {name = "Draenic Forge", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1252891] = {name = "Forest Roots", additional_info = nil}
 MultiLanguageSpellData['en'][1252899] = {name = "Echo of Light", additional_info = nil}
 MultiLanguageSpellData['en'][1252907] = {name = "Echo of Light", additional_info = nil}
+MultiLanguageSpellData['en'][1252915] = {name = "Draenethyst Lamppost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252916] = {name = "Add Large Karabor Fountain to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252917] = {name = "Draenethyst String Lights", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1252951] = {name = "Punt!", additional_info = "Melee Range\n{Instant} {1 sec cooldown}\n[q]Punt a thief to take back stolen presents!"}
 MultiLanguageSpellData['en'][1252952] = {name = "Void Burst", additional_info = "200 yd range\n3 sec cast\n[q]The caster forth a burst of Void energy, inflicting 2951304 Shadow damage and additional 1405383 Shadow damage every 1 sec for 15 sec to target player."}
 MultiLanguageSpellData['en'][1252953] = {name = "Void Burst", additional_info = "200 yd range\nInstant\n[q]The caster forth a burst of Void energy, inflicting 2951304 Shadow damage and additional 1405383 Shadow damage every 1 sec for 15 sec to target player."}
+MultiLanguageSpellData['en'][1252977] = {name = "Punt!", additional_info = "5 yd range\n{Instant} {1 sec cooldown}\n[q]Punt those nasty present thieves!"}
+MultiLanguageSpellData['en'][1253089] = {name = "Punt!", additional_info = "Melee Range\n{Instant} {1 sec cooldown}\n[q]Punt a thief to take back stolen presents!"}
+MultiLanguageSpellData['en'][1253095] = {name = "Sentinel's Moonwing Gaze", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1253096] = {name = "Fel Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1253129] = {name = "Chestnut Courser", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Coursers make for excellent steeds. Just don't try to dismount from their front.\"\nWorld Event:\nWoW Remix: Legion"}
 MultiLanguageSpellData['en'][1253130] = {name = "Brimstone Courser", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The flames of a courser's hooves express their affinity for a particular school of magic.\"\nWorld Event:\nWoW Remix: Legion"}
 MultiLanguageSpellData['en'][1253136] = {name = "Xe'ra's Embrace", additional_info = "Instant\n[q]Xe'ra watches over you. When you fall below 40% health you gain her embrace, becoming Lightforged and reducing damage taken by 80% for 8 sec. Can only occur once every 1.5 min.\n\nLightforged\nEmpowers your artifact's other light traits."}
 MultiLanguageSpellData['en'][1253199] = {name = "Activating", additional_info = nil}
 MultiLanguageSpellData['en'][1253240] = {name = "Corruption of the Engorged", additional_info = "100 yd range\nInstant\n[q]Inflicts 2 Physical damage to an enemy every 1 sec for 10 sec."}
+MultiLanguageSpellData['en'][1253309] = {name = "Kill Credit - Dead Scar (NJS)", additional_info = nil}
+MultiLanguageSpellData['en'][1253319] = {name = "Cheer Enforcer", additional_info = "Unlimited range\nInstant\n[q]Bringing cheer!"}
+MultiLanguageSpellData['en'][1253323] = {name = "Cheer Enforcer", additional_info = nil}
 MultiLanguageSpellData['en'][1253373] = {name = "Tome of Combat Training", additional_info = nil}
 MultiLanguageSpellData['en'][1253467] = {name = "Cosmetic - WASit01 (Lower/Upper Body - High/Low Priority) (Anim Kit)", additional_info = nil}
 MultiLanguageSpellData['en'][1253497] = {name = "Fel Burst", additional_info = "100 yd range\nInstant\n[q]The targets bursts, damaging nearby enemies for 10% of damage taken over the last 5.2 seconds."}
@@ -16994,16 +18295,46 @@ MultiLanguageSpellData['en'][1253603] = {name = "Multi-Shot", additional_info = 
 MultiLanguageSpellData['en'][1253605] = {name = "Volley", additional_info = "100 yd range\nInstant\n[q]When multiple enemies are nearby, Brann will rain a volley of arrows down, dealing moderate Physical damage to enemies in the area."}
 MultiLanguageSpellData['en'][1253607] = {name = "Volley", additional_info = "40 yd range\nInstant\n[q]When multiple enemies are nearby, Brann will rain a volley of arrows down, dealing moderate Physical damage to enemies in the area."}
 MultiLanguageSpellData['en'][1253616] = {name = "Dark Matter", additional_info = nil}
+MultiLanguageSpellData['en'][1253617] = {name = "House Purchase Moment", additional_info = nil}
 MultiLanguageSpellData['en'][1253638] = {name = "Purifying Burst", additional_info = "100 yd range\nInstant\n[q]Hylbrande creates a ball of energy and splits it into 3 missiles, striking enemies for 3394229 Holy damage."}
 MultiLanguageSpellData['en'][1253680] = {name = "Invigorate", additional_info = nil}
+MultiLanguageSpellData['en'][1253706] = {name = "Hide-Covered Wall Shelf", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1253713] = {name = "Tusked Chandelier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1253714] = {name = "Tusked Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1253715] = {name = "Wolf Pelt Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1253720] = {name = "Elegant Elven Chandelier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1253747] = {name = "Has Learned Artifact Ability", additional_info = nil}
 MultiLanguageSpellData['en'][1253867] = {name = "Light's Vengeance", additional_info = "[q]Grants 1 additional rank of Light's Vengeance .\n\n Light's Vengeance\nYour spells and abilities have a chance to manifest holy light, healing a nearby injured ally for [(242% Attack/Spell Power)] and dealing [(200% Attack/Spell Power)] Holy damage to enemies within 6 yards of them.\n\n Healing and damage are doubled while Lightforged ."}
 MultiLanguageSpellData['en'][1253868] = {name = "Light's Vengeance", additional_info = "[q]Grants 2 additional ranks of Light's Vengeance .\n\n Light's Vengeance\nYour spells and abilities have a chance to manifest holy light, healing a nearby injured ally for [(242% Attack/Spell Power)] and dealing [(200% Attack/Spell Power)] Holy damage to enemies within 6 yards of them.\n\n Healing and damage are doubled while Lightforged ."}
 MultiLanguageSpellData['en'][1253869] = {name = "Light's Vengeance", additional_info = "[q]Grants 3 additional ranks of Light's Vengeance .\n\n Light's Vengeance\nYour spells and abilities have a chance to manifest holy light, healing a nearby injured ally for [(242% Attack/Spell Power)] and dealing [(200% Attack/Spell Power)] Holy damage to enemies within 6 yards of them.\n\n Healing and damage are doubled while Lightforged ."}
 MultiLanguageSpellData['en'][1253870] = {name = "Light's Vengeance", additional_info = "[q]Grants 4 additional ranks of Light's Vengeance .\n\n Light's Vengeance\nYour spells and abilities have a chance to manifest holy light, healing a nearby injured ally for [(242% Attack/Spell Power)] and dealing [(200% Attack/Spell Power)] Holy damage to enemies within 6 yards of them.\n\n Healing and damage are doubled while Lightforged ."}
 MultiLanguageSpellData['en'][1253871] = {name = "Light's Vengeance", additional_info = "[q]Grants 5 additional ranks of Light's Vengeance .\n\n Light's Vengeance\nYour spells and abilities have a chance to manifest holy light, healing a nearby injured ally for [(242% Attack/Spell Power)] and dealing [(200% Attack/Spell Power)] Holy damage to enemies within 6 yards of them.\n\n Healing and damage are doubled while Lightforged ."}
+MultiLanguageSpellData['en'][1253894] = {name = "Add Wooden Planter Pot to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1253895] = {name = "Add Wooden Planter Row to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1253896] = {name = "Add Founder's Point Fence to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1253897] = {name = "Add Long Founder's Point Fence to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1253898] = {name = "Add Razorwind Wheelbarrow to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1253922] = {name = "Ornate Ironforge Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1253947] = {name = "Illidan Costume", additional_info = "Instant\n[q]You are dressed as the Betrayer, Lord of the Illidari."}
+MultiLanguageSpellData['en'][1253957] = {name = "Yak Sized Maw", additional_info = "30 yd range\n2 sec cast\n[q]Caster inflcits physical damage to the target, and additional Physical damage every 5.2 sec over 6 sec."}
+MultiLanguageSpellData['en'][1253981] = {name = "Hangry", additional_info = "2.5 sec cast\n[q]Causes the caster to inflict 30% increased Physical damage."}
+MultiLanguageSpellData['en'][1253988] = {name = "Wikket Kick", additional_info = "30 yd range\n3 sec cast\n[q]Knocks an enemy back.\n Inflicts Physical damage to an enemy."}
+MultiLanguageSpellData['en'][1254013] = {name = "Banana Blast!", additional_info = "40 yd range\n2 sec cast\n[q]Caster blasts its target with a banana, inflicting 2 Nature damage, and leaving behind a Banana Trap ."}
 MultiLanguageSpellData['en'][1254022] = {name = "Boss Energize", additional_info = nil}
+MultiLanguageSpellData['en'][1254050] = {name = "Banana Blast!", additional_info = "40 yd range\nInstant\n[q]Caster blasts its target with a banana, inflicting 2 Nature damage, and leaving behind a Banana Trap ."}
+MultiLanguageSpellData['en'][1254052] = {name = "Banana Trap", additional_info = "100 yd range\nInstant\n[q]Banana Trap causes the target to slip, stunning them for 2 sec."}
+MultiLanguageSpellData['en'][1254058] = {name = "Mud Sling", additional_info = "1.5 sec cast\n[q]Caster ejects mud from its body, inflicting 15 Nature Damage to players within 3 yards, and leaving behind a Mud Puddle ."}
+MultiLanguageSpellData['en'][1254060] = {name = "Mud Sling", additional_info = "40 yd range\nInstant\n[q]Caster ejects mud from its body, inflicting 15 Nature Damage to players within 3 yards, and leaving behind a Mud Puddle ."}
+MultiLanguageSpellData['en'][1254062] = {name = "Mud Sling", additional_info = "40 yd range\nInstant\n[q]Caster ejects mud from its body, inflicting 15 Nature Damage to players within 3 yards, and leaving behind a Mud Puddle ."}
+MultiLanguageSpellData['en'][1254063] = {name = "Mud Sling", additional_info = "40 yd range\nInstant\n[q]Caster ejects mud from its body, inflicting 15 Nature Damage to players within 3 yards, and leaving behind a Mud Puddle ."}
+MultiLanguageSpellData['en'][1254064] = {name = "Mud Puddle", additional_info = "100 yd range\nInstant\n[q]Slows players by 60%."}
+MultiLanguageSpellData['en'][1254067] = {name = "Mud Sling", additional_info = "100 yd range\nInstant\n[q]Caster ejects mud from its body, inflicting 15 Nature Damage to players within 3 yards, and leaving behind a Mud Puddle ."}
+MultiLanguageSpellData['en'][1254084] = {name = "Mud Splatter", additional_info = "10 yd range\nInstant\n[q]Caster expels mud rapidly around them, inflicting Nature damage to enemies in 8 yards."}
+MultiLanguageSpellData['en'][1254099] = {name = "Boralus Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254100] = {name = "Tidesage's Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254101] = {name = "Add Covered Wooden Desk to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254102] = {name = "Add Sturdy Wooden Desk to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254106] = {name = "Dalaran Espresso Machine", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1254117] = {name = "Lightforged Phase Beacon", additional_info = "{10 sec cast} {30 min cooldown}\n1 Charge\n[q]Returns you to Hearthstone Location. Speak to an Innkeeper in a different place to change your home location."}
 MultiLanguageSpellData['en'][1254118] = {name = "Lightforged Phase Beacon", additional_info = "Instant\n[q]Returns you to Hearthstone Location. Speak to an Innkeeper in a different place to change your home location."}
 MultiLanguageSpellData['en'][1254162] = {name = "Lil' Chompers", additional_info = nil}
@@ -17012,13 +18343,25 @@ MultiLanguageSpellData['en'][1254207] = {name = "Fishmonger May", additional_inf
 MultiLanguageSpellData['en'][1254208] = {name = "Fishstick Keith", additional_info = nil}
 MultiLanguageSpellData['en'][1254212] = {name = "Festive Eve", additional_info = nil}
 MultiLanguageSpellData['en'][1254213] = {name = "Bundled-Up Bob", additional_info = nil}
+MultiLanguageSpellData['en'][1254236] = {name = "Shadow Strike", additional_info = "30 yd range\n2 sec cast\n[q]Caster inflicts Shadow damage to their target, and cause the target to have the next 10 healing absorbed."}
+MultiLanguageSpellData['en'][1254247] = {name = "Debilitate", additional_info = "50 yd range\nInstant\n[q]Reduces the movement speed of the target by 15% for 16 sec.\n Reduces attacking and casting speed by 10% for 16 sec.\n Inflicts 5 Shadow damage to an enemy every 3 sec for 16 sec."}
+MultiLanguageSpellData['en'][1254291] = {name = "Star Crash", additional_info = "100 yd range\nInstant\n[q]$spelldesc1254297"}
+MultiLanguageSpellData['en'][1254292] = {name = "Star Crash", additional_info = "100 yd range\n5 sec cast\n[q]$spelldesc1254297"}
+MultiLanguageSpellData['en'][1254293] = {name = "Star Crash", additional_info = "100 yd range\nInstant\n[q]$spelldesc1254297"}
+MultiLanguageSpellData['en'][1254297] = {name = "Star Crash", additional_info = "100 yd range\nInstant\n[q]Caster drops a star onto a location, inflicting 0 Shadow damage to players in a 8 yard area and stunning players for 4 sec."}
 MultiLanguageSpellData['en'][1254321] = {name = "Invoke Collector", additional_info = "Unlimited range\n2 sec cast\n[q]Araz triggers one of his Arcane Collectors to begin its Prime Sequence ."}
+MultiLanguageSpellData['en'][1254350] = {name = "Umbral Explosion", additional_info = "40 yd range\n2.5 sec cast\n[q]Inflicts 15 Shadow damage to enemies within 8 yards."}
 MultiLanguageSpellData['en'][1254363] = {name = "(PH LEGION REMIX MOUNT)", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The talbuks of Argus have grown long, coarse fur of brilliant colors that reflects the hues of their broken planet.\"\nWorld Event:\nWoW Remix: Legion"}
+MultiLanguageSpellData['en'][1254370] = {name = "Umbral Propulsion", additional_info = nil}
 MultiLanguageSpellData['en'][1254379] = {name = "Starshard", additional_info = nil}
 MultiLanguageSpellData['en'][1254381] = {name = "Fledgling Warden's Companion", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][1254382] = {name = "Starshard", additional_info = nil}
 MultiLanguageSpellData['en'][1254384] = {name = "Star Burst", additional_info = "Unlimited range\nInstant\n[q]When a Starshard hits a player already affected by Starshard , a cataclysmic explosion occurs inflicting 50593791 Cosmic damage to all players."}
 MultiLanguageSpellData['en'][1254385] = {name = "Starshard", additional_info = "Unlimited range\nInstant\n[q]Detonates violently on contact with a player, inflicting 2810766 Cosmic damage to players within 6 yards every 1 sec for 1 min and leaving behind a Debris Field .\n\n Whenever a player is hit by another Starshard while under this effect, a Star Burst occurs at their location."}
+MultiLanguageSpellData['en'][1254387] = {name = "Cosmic Deluge", additional_info = nil}
+MultiLanguageSpellData['en'][1254388] = {name = "Cosmic Deluge", additional_info = "40 yd range\nChanneled (6 sec cast)\n[q]Caster channels energy into their target, inflicting 1 Shadow damage every 1 sec, and leaving behind a puddle of Cosmic Sludge."}
+MultiLanguageSpellData['en'][1254389] = {name = "Cosmic Deluge", additional_info = "40 yd range\nInstant\n[q]Caster channels energy into their target, inflicting 1 Shadow damage every 1 sec, and leaving behind a puddle of Cosmic Sludge."}
+MultiLanguageSpellData['en'][1254392] = {name = "Cosmic Sludge", additional_info = "40 yd range\nInstant\n[q]Cosmic Sludge inflicts 3 Shadow damage every 2 sec to players standing in it."}
 MultiLanguageSpellData['en'][1254431] = {name = "Bronze", additional_info = "{Instant} {0.01 sec cooldown}\nReagents:\nBronze Cluster\n[q]Grants Bronze when looted."}
 MultiLanguageSpellData['en'][1254484] = {name = "Mass Binding", additional_info = nil}
 MultiLanguageSpellData['en'][1254487] = {name = "Mass Binding", additional_info = nil}
@@ -17026,6 +18369,36 @@ MultiLanguageSpellData['en'][1254488] = {name = "Mass Binding", additional_info 
 MultiLanguageSpellData['en'][1254489] = {name = "Mass Binding", additional_info = nil}
 MultiLanguageSpellData['en'][1254490] = {name = "Mass Binding", additional_info = nil}
 MultiLanguageSpellData['en'][1254539] = {name = "Combining", additional_info = "3.5 sec cast\nReagents:\nGem of Gul'dan (10)\n[q]Combine 10 of these to create an item belonging to the Nighthold."}
+MultiLanguageSpellData['en'][1254602] = {name = "Admiralty's Upholstered Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254603] = {name = "Boralus Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254604] = {name = "Boralus Fencepost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254605] = {name = "Proudmoore Shipping Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254606] = {name = "Small Hull'n'Home Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254607] = {name = "Large Hull'n'Home Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254608] = {name = "Admiral's Chandelier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254609] = {name = "Add Hull'n'Home Dresser to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254610] = {name = "Add Bowhull Bookcase to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254611] = {name = "Brennadam Coop", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254612] = {name = "Admiralty's Copper Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254613] = {name = "Brennadam Grinder", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254614] = {name = "Stormsong Water Pump", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254615] = {name = "Stormsong Stove", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254616] = {name = "Add Tiragarde Emblem to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254617] = {name = "Add Boralus Bookshelf to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254618] = {name = "Add Tidesage's Double Bookshelves to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254619] = {name = "Add Admiral's Bed to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254620] = {name = "Hull'n'Home Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254621] = {name = "Admiral's Low-Hanging Chandelier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254623] = {name = "Add Green Boralus Market Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254625] = {name = "Add Founder's Point Framed Torch to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254626] = {name = "Add Long Old Founder's Point Fence to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254627] = {name = "Add Old Founder's Point Fence to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254628] = {name = "Add Founder's Point Fencepost to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254629] = {name = "Add Old Founder's Point Fencepost to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254630] = {name = "Add Founder's Point Waterwheel to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254632] = {name = "Add Broken Founder's Point Fence to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254633] = {name = "Add Old Broken Founder's Point Fence to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254636] = {name = "Plush Cushioned Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1254694] = {name = "Siphon Essence", additional_info = nil}
 MultiLanguageSpellData['en'][1254697] = {name = "Sands of Time", additional_info = "Unlimited range\nInstant\n[q]Eternus manifests orbs of time above targeted locations which fall. Orbs that fail to hit a player inflict 60 Arcane damage to all players. These orbs fall faster when players stand underneath them.\n\n Players who are underneath an orb when it impacts recover ability cooldowns and cannot benefit from the effect again for until canceled."}
 MultiLanguageSpellData['en'][1254711] = {name = "Midnight Zeal", additional_info = "Instant\n[q]Increasing attack speed by 20%. This effect stacks."}
@@ -17039,8 +18412,15 @@ MultiLanguageSpellData['en'][1254724] = {name = "Twilight's Devotion", additiona
 MultiLanguageSpellData['en'][1254761] = {name = "Epoch Bolt Volley", additional_info = "3 sec cast"}
 MultiLanguageSpellData['en'][1254762] = {name = "Frailty", additional_info = "Unlimited range\nInstant\n[q]The fragment draws upon the target's soul, reducing their healing received by 33%. This effect stacks.\n\n Players other than the target can collect the fragment, suffering 843230 Chaos damage every 0.5 sec for 20 sec. This effect stacks."}
 MultiLanguageSpellData['en'][1254780] = {name = "Reset Collector and Manaforge", additional_info = nil}
+MultiLanguageSpellData['en'][1254817] = {name = "Shackling Bolt", additional_info = nil}
+MultiLanguageSpellData['en'][1254844] = {name = "Copper Stormsong Well", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254846] = {name = "Tiragarde Treasure Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254847] = {name = "Proudmoore Green Drape", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254848] = {name = "Copper Tidesage's Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1254849] = {name = "Opening", additional_info = nil}
 MultiLanguageSpellData['en'][1254850] = {name = "K'areshi Scientific Expedition Supply Surprise", additional_info = "Instant\n[q]Open the bag to see what's inside!"}
+MultiLanguageSpellData['en'][1254852] = {name = "Tied-Right Leather Curtains", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1254859] = {name = "Founder's Point Front Door", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1254877] = {name = "Research Surplus", additional_info = "Instant\n[q]Your Infinite Research tasks will be fully refreshed, allowing you to take up to 6 new quests."}
 MultiLanguageSpellData['en'][1254878] = {name = "Research Surplus", additional_info = "Instant\n[q]Your Infinite Research tasks will be fully refreshed, allowing you to take up to 12 new quests."}
 MultiLanguageSpellData['en'][1254879] = {name = "Research Surplus", additional_info = "Instant\n[q]Your Infinite Research tasks will be fully refreshed, allowing you to take up to 18 new quests."}
@@ -17052,39 +18432,102 @@ MultiLanguageSpellData['en'][1254891] = {name = "Twilight's Devotion", additiona
 MultiLanguageSpellData['en'][1254904] = {name = "Reshii Grace", additional_info = "[q]The powers of your Reshii Wraps are triggered 30% more frequently."}
 MultiLanguageSpellData['en'][1254905] = {name = "Reshii Grace", additional_info = "[q]The powers of your Reshii Wraps are triggered 40% more frequently."}
 MultiLanguageSpellData['en'][1254906] = {name = "Reshii Grace", additional_info = "[q]The powers of your Reshii Wraps are triggered 20% more frequently."}
-MultiLanguageSpellData['en'][1254913] = {name = "Add \"The High Exarch\" Painting to storage", additional_info = "[q0]Decor\n1 sec cast\n[q]Add this decor to your House Chest."}
-MultiLanguageSpellData['en'][1254914] = {name = "Add \"The Ranger of the Void\" Painting to storage", additional_info = "[q0]Decor\n1 sec cast\n[q]Add this decor to your House Chest."}
-MultiLanguageSpellData['en'][1254915] = {name = "Add \"The Harbinger\" Painting to storage", additional_info = "[q0]Decor\n1 sec cast\n[q]Add this decor to your House Chest."}
-MultiLanguageSpellData['en'][1254916] = {name = "Add \"The Redeemer\" Painting to storage", additional_info = "[q0]Decor\n1 sec cast\n[q]Add this decor to your House Chest."}
+MultiLanguageSpellData['en'][1254913] = {name = "\"The High Exarch\" Painting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254914] = {name = "\"The Ranger of the Void\" Painting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254915] = {name = "\"The Harbinger\" Painting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1254916] = {name = "\"The Redeemer\" Painting", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1254929] = {name = "Gloaming Veil", additional_info = "Unlimited range\nInstant\n[q]The Infinite Slayer shrouds themselves in arcane energy, reducing damage taken by 25% and causing 2 Arcane damage to attackers when hit for 15 sec."}
+MultiLanguageSpellData['en'][1254960] = {name = "Catching Up", additional_info = "Instant\n[q]Listen to a story."}
+MultiLanguageSpellData['en'][1255153] = {name = "Exit Recap", additional_info = "Instant\n[q]End the story and exit the Recap, returning to the normal world."}
+MultiLanguageSpellData['en'][1255154] = {name = "Exit Catch Up", additional_info = "Instant\n[q]If you are lost, try using Peruse Tome to be teleported to the right area.\n\n Leaving Catch Up will teleport you back to your capital city. You will be able to resume this Catch Up Campaign again at any time, unless you start a different one.\n\n Do you wish to proceed?"}
+MultiLanguageSpellData['en'][1255155] = {name = "Exit Catch Up", additional_info = "Instant\n[q]End the Lorewalking Campaign and return to your capital city."}
+MultiLanguageSpellData['en'][1255159] = {name = "Mechanical Prototype Panther MK-0", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"When Gadgetzan citizens pried open Gazlowe palace's underground lab, caged beasts' roars were suffocating. Undermine tech fused combat modules onto these panthers, granting superhuman strength and speed. Rustbolt engineers reprogrammed them exclusively for warriors campaigning in K'aresh. Remember to swap modules at the Morphing Forum before deployment.\"\nIn-Game Shop"}
+MultiLanguageSpellData['en'][1255165] = {name = "Consult the Tome", additional_info = "{Instant} {4 sec cooldown}\n[q]Query the Tome as to where to go next or for more information."}
+MultiLanguageSpellData['en'][1255179] = {name = "Steel Prototype Panther MK-0", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The first Steel Horde soldiers crossing the Dark Portal captured a ferocious nightsaber. Blackrock artisans armed it with magma armor, transforming it into a combat weapon. Warriors may customize its parts at the Morphing Forum to suit their fighting style and dominate the battlefield.\"\nIn-Game Shop"}
+MultiLanguageSpellData['en'][1255212] = {name = "Demonic Storage Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255213] = {name = "Seaworthy Boralus Bell", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255214] = {name = "Dornogal Framed Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255215] = {name = "Stonelight Countertop", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255216] = {name = "Boulder Springs Recliner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255217] = {name = "Boulder Springs Hot Tub", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255221] = {name = "Housing Decor Placeholder", additional_info = nil}
+MultiLanguageSpellData['en'][1255243] = {name = "Bees!", additional_info = nil}
 MultiLanguageSpellData['en'][1255244] = {name = "Twilight Slash", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1255245] = {name = "Twilight Slash", additional_info = "Unlimited range\nInstant\n[q]The Infinite Slayer steps through twilight to appear behind their target and slash, inflicting 2 Physical damage and bleeding them for an additional 0 Physical damage every 1.5 sec for 9 sec."}
-MultiLanguageSpellData['en'][1255264] = {name = "Felscorned Vilebrood Vanquisher", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Felscorned Vilebrood Vanquisher. This mount is only available to Death Knights.\n[q]\"This flying almalgamation of the forces of death and fel pierces the skies with a bone-chilling screech.\"\nWorld Event:\nWoW Remix: Legion"}
+MultiLanguageSpellData['en'][1255246] = {name = "Starspark Netherdrake", additional_info = "1.5 sec cast\n[q]Summons and dismisses this flying mount.\n[q]\"After flying you to the ends of Outland and beyond, the netherwing drake was eventually drawn to the blue skies of Azeroth as well.\"\nPromotion:\nBurning Crusade Classic"}
+MultiLanguageSpellData['en'][1255264] = {name = "Felscorned Vilebrood Vanquisher", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Felscorned Vilebrood Vanquisher. This mount is only available to Death Knights.\n[q]\"This flying amalgamation of the forces of death and fel pierces the skies with a bone-chilling screech.\"\nWorld Event:\nWoW Remix: Legion"}
 MultiLanguageSpellData['en'][1255265] = {name = "Nemesis Invader Repelled", additional_info = nil}
+MultiLanguageSpellData['en'][1255266] = {name = "Picking Berries", additional_info = nil}
+MultiLanguageSpellData['en'][1255268] = {name = "Bewitched", additional_info = "20 yd range\nInstant\n[q]You've been bewitched!"}
+MultiLanguageSpellData['en'][1255334] = {name = "haunted", additional_info = "Unlimited range\nInstant\n[q]You're being haunted."}
+MultiLanguageSpellData['en'][1255381] = {name = "{DNT} Teleport to Anduin", additional_info = nil}
+MultiLanguageSpellData['en'][1255411] = {name = "Brawler's Healing Brute Punch", additional_info = "{Instant} {1 min cooldown}\n[q]Restores 25% of your maximum health. Only usable in a Brawler's Guild arena."}
 MultiLanguageSpellData['en'][1255423] = {name = "Epoch Bolt Volley", additional_info = "100 yd range\nInstant\n[q]The Infinite Magus shoots a bolt at their target, inflicting 10 Arcane damage and causing them to absorb 10 healing for 20 sec."}
-MultiLanguageSpellData['en'][1255431] = {name = "Slayer's Felscorned Shrieker", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Torn from the heavens by only the most cunning of Demon Hunters.\"\nWorld Event:\nWoW Remix: Legion"}
+MultiLanguageSpellData['en'][1255431] = {name = "Slayer's Felscorned Shrieker", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Slayer's Felscorned Shrieker. This mount is only available to Demon Hunters.\n[q]\"Torn from the heavens by only the most cunning of Demon Hunters.\"\nWorld Event:\nWoW Remix: Legion"}
+MultiLanguageSpellData['en'][1255432] = {name = "Brawler's Fight Tonic of Strength", additional_info = "{Instant} {1 sec cooldown}\n[q]Increases your Strength by 25% for 25 sec. Only usable in Brawler's Guild arena."}
+MultiLanguageSpellData['en'][1255439] = {name = "Brawler's Fight Tonic of Agility", additional_info = "{Instant} {1 sec cooldown}\n[q]Increases your Agility by 25% for 25 sec. Only usable in a Brawler's Guild arena."}
+MultiLanguageSpellData['en'][1255440] = {name = "Brawler's Fight Tonic of Intellect", additional_info = "{Instant} {1 sec cooldown}\n[q]Increases your Intellect by 25% for 25 sec. Only usable in a Brawler's Guild arena."}
+MultiLanguageSpellData['en'][1255442] = {name = "Add Founder's Point Standing Torch to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255443] = {name = "Add Razorwind Banded Planter to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255445] = {name = "Earthen Etched Throne", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255446] = {name = "Freywold Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255447] = {name = "Add Dornogal Bookcase to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255448] = {name = "Add Rambleshire Resting Platform to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1255450] = {name = "Arcanoshield", additional_info = "Instant\n[q]"}
-MultiLanguageSpellData['en'][1255451] = {name = "Feldruid's Scornwing Form", additional_info = "1.5 sec cast\n[q]Teaches the Scornwing flight form. This mount is only available to Druids."}
+MultiLanguageSpellData['en'][1255451] = {name = "Feldruid's Scornwing Form", additional_info = "1.5 sec cast\n[q]Unlocks the Scornwing Flight Form in the Barber Shop. Only Druids can use this shapeshift form."}
 MultiLanguageSpellData['en'][1255456] = {name = "Felscorned Wolfhawk", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Felscorned Wolfhawk. This mount is only available to Hunters.\n[q]\"Scarred by the war across the Broken Isles, this Wolfhawk deserves a good home.\"\nWorld Event:\nWoW Remix: Legion"}
 MultiLanguageSpellData['en'][1255463] = {name = "Archmage's Felscorned Disc", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Archmage's Felscorned Disc. This mount is only available to Mages.\n[q]\"Some mages say fel magics are \"volatile\" or \"corruptive\" or \"forbidden\". Some mages are wrong.\"\nWorld Event:\nWoW Remix: Legion"}
 MultiLanguageSpellData['en'][1255467] = {name = "Felscorned Grandmaster's Companion", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Felscorned Grandmaster's Companion. This mount is only available to Monks.\n[q]\"A twisted visage of a beloved companion.\"\nWorld Event:\nWoW Remix: Legion"}
-MultiLanguageSpellData['en'][1255471] = {name = "Felscorned Highlord's Charger", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Felscorned Highlord's Charger. This mount is only available to Paladins.\n[q]\"This horse has been irreversably scarred by the Legion's corrupt magics.\"\nWorld Event:\nWoW Remix: Legion"}
+MultiLanguageSpellData['en'][1255471] = {name = "Felscorned Highlord's Charger", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Felscorned Highlord's Charger. This mount is only available to Paladins.\n[q]\"This horse has been irreversibly scarred by the Legion's corrupt magics.\"\nWorld Event:\nWoW Remix: Legion"}
 MultiLanguageSpellData['en'][1255475] = {name = "High Priest's Felscorned Seeker", additional_info = "1.5 sec cast\n[q]Summons and dismisses your High Priest's Felscorned Seeker. This mount is only available to Priests.\n[q]\"This fel-infused feathered friend flaps its wings at a frenetic pace to remain far above the frenzy below.\"\nWorld Event:\nWoW Remix: Legion"}
 MultiLanguageSpellData['en'][1255477] = {name = "Shadowblade's Felscorned Omen", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Shadowblade's Felscorned Omen. This mount is only available to Rogues.\n[q]\"Your enemies will know fear before their end.\"\nWorld Event:\nWoW Remix: Legion"}
 MultiLanguageSpellData['en'][1255478] = {name = "Farseer's Felscorned Tempest", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Farseer's Felscorned Tempest. This mount is only available to Shamans.\n[q]\"Fel flavored fury.\"\nWorld Event:\nWoW Remix: Legion"}
 MultiLanguageSpellData['en'][1255480] = {name = "Felscorned Netherlord's Dreadsteed", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Felscorned Netherlord's Dreadsteed. This mount is only available to Warlocks.\n[q]\"Simply oozing with potential.\"\nWorld Event:\nWoW Remix: Legion"}
 MultiLanguageSpellData['en'][1255482] = {name = "Felscorned War Wyrm", additional_info = "1.5 sec cast\n[q]Summons and dismisses your Felscorned War Wyrm. This mount is only available to Warriors.\n[q]\"The heavens tremble in anticipation of your arrival.\"\nWorld Event:\nWoW Remix: Legion"}
+MultiLanguageSpellData['en'][1255490] = {name = "Fallside Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255491] = {name = "Freywold Seat", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255492] = {name = "Freywold Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255493] = {name = "Dornogal Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255494] = {name = "Dornogal Hanging Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255495] = {name = "Dornogal Hanging Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255496] = {name = "Coreway Sentinel Lamppost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255497] = {name = "Frozen Solid", additional_info = nil}
+MultiLanguageSpellData['en'][1255498] = {name = "Snow Roller", additional_info = "Instant\n[q]Bringing cheer!"}
+MultiLanguageSpellData['en'][1255501] = {name = "Rolling Snowball", additional_info = "{Instant} {30 sec cooldown}\n[q]Jump on a snowball and roll it!"}
 MultiLanguageSpellData['en'][1255527] = {name = "Overwhelming Threat", additional_info = "Instant\n[q]You are not prepared for the dangers of Argus! An average item level of 623 is recommended for this zone."}
 MultiLanguageSpellData['en'][1255528] = {name = "Overwhelming Threat", additional_info = "Instant\n[q]You are not prepared for the dangers of Argus! An average item level of 623 is recommended for this zone."}
 MultiLanguageSpellData['en'][1255630] = {name = "Moratari's Infinite Wisdom", additional_info = "Instant\n[q]Increases experience gained from kills and quests by 250%."}
 MultiLanguageSpellData['en'][1255692] = {name = "Reading", additional_info = nil}
+MultiLanguageSpellData['en'][1255714] = {name = "Add Earthen Chain Wall Shelf to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255715] = {name = "Add Fallside Storage Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255716] = {name = "Algari Fence", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255717] = {name = "Algari Fencepost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255718] = {name = "Freywold Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255719] = {name = "Forgeground Market Bins", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255720] = {name = "Earthen Storage Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255721] = {name = "Meadery Storage Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255722] = {name = "Earthen Contender's Target", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255723] = {name = "Replica Awakening Machine Stasis Pod", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255724] = {name = "Gundargaz Grand Keg", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255725] = {name = "Meadery Storage Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255732] = {name = "Elegant Elven Canopy Bed", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1255733] = {name = "Gemmed Elven Chest", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1255767] = {name = "Timeways Manifested", additional_info = nil}
 MultiLanguageSpellData['en'][1255777] = {name = "Felscorned Scythe of the Unmaker", additional_info = "Instant\n[q]Collect the appearances of the Felscorned Scythe of the Unmaker."}
+MultiLanguageSpellData['en'][1255787] = {name = "{DNT} Play Movie", additional_info = nil}
+MultiLanguageSpellData['en'][1255788] = {name = "{DNT} Play Movie", additional_info = nil}
 MultiLanguageSpellData['en'][1255825] = {name = "Combining", additional_info = "3.5 sec cast\nReagents:\nCorrupted Thorn of the Dream (10)\n[q]Combine 10 of these to create an item belonging to the Emerald Nightmare."}
 MultiLanguageSpellData['en'][1255826] = {name = "Combining", additional_info = "3.5 sec cast\nReagents:\nFractal Felshard (10)\n[q]Combine 10 of these to create an item belonging to Tomb of Sargeras."}
 MultiLanguageSpellData['en'][1255827] = {name = "Combining", additional_info = "3.5 sec cast\nReagents:\nMote of a Broken Time (10)\n[q]Combine 10 of these to create an item belonging to an available raid in Legion: Remix."}
 MultiLanguageSpellData['en'][1255828] = {name = "Combining", additional_info = "3.5 sec cast\nReagents:\nFlawless Thread of Time (10)\n[q]Combine 10 of these to create an item of incredible potential."}
 MultiLanguageSpellData['en'][1255831] = {name = "Fallen King's Corrupted Blades", additional_info = "Instant\n[q]Collect the appearances of the Fallen King's Corrupted Blades."}
+MultiLanguageSpellData['en'][1255873] = {name = "Add Reliquary Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255876] = {name = "Horde Warlord's Throne", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255877] = {name = "Add Bel'ameth Front Door to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255900] = {name = "Tirisfal Hollow Campfire", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255901] = {name = "Blightfire Candle", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255902] = {name = "Replica Rumbling Wastes Drill Pod", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1255903] = {name = "Gundargaz Candelabra", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1255962] = {name = "Uber Strike", additional_info = "Melee Range\n1 sec cast\n[q]Strikes the enemy for 100% weapon damage as Shadow, and increases damage dealt by 20% for 20 sec."}
 MultiLanguageSpellData['en'][1255968] = {name = "Scythe of the Unmaker", additional_info = "Instant\n[q]Collect the appearances of the Scythe of the Unmaker."}
 MultiLanguageSpellData['en'][1255977] = {name = "Scythe of the Unmaker", additional_info = "Instant\n[q]Collect the appearances of the Scythe of the Unmaker."}
@@ -17092,29 +18535,124 @@ MultiLanguageSpellData['en'][1256063] = {name = "Ensemble: Sargerei Commander's 
 MultiLanguageSpellData['en'][1256064] = {name = "Ensemble: Sargerei Commander's Lightbound Regalia", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1256065] = {name = "Ensemble: Sargerei Commander's Hellforged Regalia", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1256066] = {name = "Ensemble: Sargerei Commander's Voidscarred Regalia", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1256081] = {name = "Sign of Azeroth", additional_info = "Instant\n[q]Shadowlands reputation gains from combat and quests increased by 50%."}
 MultiLanguageSpellData['en'][1256110] = {name = "Illusion: Felshatter", additional_info = "1.5 sec cast\n[q]Collect the weapon enchantment appearance of Felshatter."}
+MultiLanguageSpellData['en'][1256123] = {name = "{DNT} Teleport to Rookery Quest", additional_info = nil}
 MultiLanguageSpellData['en'][1256126] = {name = "Amazing Fortitude", additional_info = nil}
+MultiLanguageSpellData['en'][1256136] = {name = "Fire", additional_info = nil}
 MultiLanguageSpellData['en'][1256149] = {name = "Ensemble: Tideskorn Hunter's Munitions", additional_info = "Instant\n[q]Collect the appearances of the Tideskorn Hunter's Munitions."}
-MultiLanguageSpellData['en'][1256152] = {name = "Ensemble: Windrunner Quivers", additional_info = "Instant\n[q]Collect the appearances of the Windrunner Quivers."}
+MultiLanguageSpellData['en'][1256152] = {name = "Ensemble: Windrunner Quivers", additional_info = "Instant\n[q]Collect the appearances of the Windrunner Quivers. Appearances only usable by Hunters."}
 MultiLanguageSpellData['en'][1256156] = {name = "Arsenal: Arms of the Felforged Knight", additional_info = "Instant\n[q]Collect the appearances of the Arms of the Felforged Knight."}
 MultiLanguageSpellData['en'][1256159] = {name = "Ensemble: Mantles of the Nightwell", additional_info = "Instant\n[q]Collect the appearances of the Mantles of the Nightwell."}
 MultiLanguageSpellData['en'][1256166] = {name = "Hero's Path", additional_info = nil}
+MultiLanguageSpellData['en'][1256178] = {name = "Re-gloop", additional_info = nil}
+MultiLanguageSpellData['en'][1256179] = {name = "Re-gloop", additional_info = "Channeled (2.4 sec cast)\n[q]Glorp pulls in a all spilt Gloop."}
+MultiLanguageSpellData['en'][1256181] = {name = "Gloop", additional_info = "Instant\n[q]Glorp loses Gloop every 3 secs, increasing damage taken."}
+MultiLanguageSpellData['en'][1256182] = {name = "Gloop", additional_info = "25 Energy"}
+MultiLanguageSpellData['en'][1256183] = {name = "Gloop", additional_info = nil}
+MultiLanguageSpellData['en'][1256184] = {name = "Gloop", additional_info = nil}
+MultiLanguageSpellData['en'][1256185] = {name = "Gloop", additional_info = "100 yd range\nInstant\n[q]The ground is glooped for until canceled, inflicting 20 Nature damage every 0.5 sec."}
+MultiLanguageSpellData['en'][1256193] = {name = "Gloopsie", additional_info = "6 sec cast\n[q]Glorp makes a Gloopsie that stuns players and inflicts 75 Plague damage."}
+MultiLanguageSpellData['en'][1256262] = {name = "{DNT} Teleport to Kill A Queen", additional_info = nil}
 MultiLanguageSpellData['en'][1256316] = {name = "Souls of the Caw", additional_info = "100 yd range\nInstant\n[q]Your spells and abilities have a chance to summon a flock of spirit eagles that dive bomb nearby enemies, exploding on impact to heal allies and inflict [[2 * (368% Attack/Spell Power)]][[(368% Attack/Spell Power)]] Nature damage to enemies within 5 yards."}
 MultiLanguageSpellData['en'][1256319] = {name = "Echo of Light", additional_info = nil}
 MultiLanguageSpellData['en'][1256320] = {name = "Echo of Light", additional_info = nil}
 MultiLanguageSpellData['en'][1256360] = {name = "Infinite Portal", additional_info = nil}
+MultiLanguageSpellData['en'][1256430] = {name = "Elegant Covered Bench", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1256432] = {name = "Elegant Carved Bench", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1256434] = {name = "Grand Elven Bookcase", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1256473] = {name = "Small Elegant Padded Chair", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1256484] = {name = "Elegant Elven Desk", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1256487] = {name = "Carved Elven Bookcase", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1256489] = {name = "Grand Elven Bench", additional_info = "[q0]Decor\nInstant\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1256509] = {name = "SL Timewalking Marker", additional_info = nil}
+MultiLanguageSpellData['en'][1256517] = {name = "SL Timewalking Marker", additional_info = nil}
 MultiLanguageSpellData['en'][1256520] = {name = "Heroic Leap", additional_info = nil}
 MultiLanguageSpellData['en'][1256525] = {name = "Heroic Leap", additional_info = nil}
+MultiLanguageSpellData['en'][1256534] = {name = "Shadowlands Timewalking Marker", additional_info = nil}
+MultiLanguageSpellData['en'][1256544] = {name = "Renegade Looter", additional_info = nil}
+MultiLanguageSpellData['en'][1256549] = {name = "Searing Axe", additional_info = "15 yd range\n1.5 sec cast\n[q]Slam down a molten axe, spewing molten lava forward inflicting 80 Fire damage and knocks back enemies struck."}
+MultiLanguageSpellData['en'][1256550] = {name = "Shockwave Bomb", additional_info = "Unlimited range\nInstant\n[q]The Renegade Looter throws a Shockwave Bomb at the ground, knocking them and players away."}
+MultiLanguageSpellData['en'][1256551] = {name = "Shockwave Bomb", additional_info = "Unlimited range\n1 sec cast\n[q]The Renegade Looter throws a Shockwave Bomb at the ground, knocking them and players away."}
+MultiLanguageSpellData['en'][1256552] = {name = "Shockwave Bomb", additional_info = "Unlimited range\nInstant"}
+MultiLanguageSpellData['en'][1256554] = {name = "Shockwave Bomb", additional_info = "Unlimited range\nInstant\n[q]The Renegade Looter throws a Shockwave Bomb at the ground, knocking them and players away."}
+MultiLanguageSpellData['en'][1256558] = {name = "Repel", additional_info = "8 yd range\n2.5 sec cast\n[q]Knockback enemies around the caster."}
+MultiLanguageSpellData['en'][1256567] = {name = "Towering", additional_info = "Unlimited range\nInstant\n[q]The Renegade Swabbie rapidly constructs a tower to gain the high ground."}
+MultiLanguageSpellData['en'][1256568] = {name = "Towering", additional_info = "Unlimited range\nInstant\n[q]The Renegade Swabbie rapidly constructs a tower to gain the high ground."}
+MultiLanguageSpellData['en'][1256569] = {name = "Towering", additional_info = "Unlimited range\n2 sec cast\n[q]The Renegade Swabbie rapidly constructs a tower to gain the high ground."}
+MultiLanguageSpellData['en'][1256570] = {name = "Towering", additional_info = "Unlimited range\n3 sec cast\n[q]The Renegade Swabbie rapidly constructs a tower to gain the high ground."}
+MultiLanguageSpellData['en'][1256571] = {name = "Towering", additional_info = "Unlimited range\nInstant\n[q]The Renegade Swabbie rapidly constructs a tower to gain the high ground."}
+MultiLanguageSpellData['en'][1256574] = {name = "High Ground", additional_info = nil}
+MultiLanguageSpellData['en'][1256575] = {name = "Slurp Brew", additional_info = "Channeled (30 sec cast)\n[q]Slurps refreshing juice, healing for 1% health every 2 sec. Immune to damage."}
+MultiLanguageSpellData['en'][1256578] = {name = "Towering", additional_info = "Unlimited range\nInstant\n[q]The Renegade Swabbie rapidly constructs a tower to gain the high ground."}
+MultiLanguageSpellData['en'][1256582] = {name = "Towering", additional_info = "Unlimited range\nInstant\n[q]The Renegade Swabbie rapidly constructs a tower to gain the high ground."}
+MultiLanguageSpellData['en'][1256583] = {name = "Towering", additional_info = "Unlimited range\nInstant\n[q]The Renegade Swabbie rapidly constructs a tower to gain the high ground."}
+MultiLanguageSpellData['en'][1256595] = {name = "Goldshire Wardrobe", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256596] = {name = "Add Iskaaran Open-Air Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256597] = {name = "Iskaaran Smith's Anvil", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256598] = {name = "Iskaaran Cookpot", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256599] = {name = "Add Iskaaran Hanging Lampfish to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256600] = {name = "Iskaaran Hanging Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256601] = {name = "Iskaaran Standing Lantern", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256602] = {name = "Tuskarr Meditative Incense Burner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256603] = {name = "Tuskarr Crabber's Basket", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256604] = {name = "Fur-Adorned Iskaaran Worktable", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256605] = {name = "Tuskarr Postbag", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256606] = {name = "Finned Iskaaran Teapot", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256607] = {name = "Iskaaran Charcuterie Board", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256608] = {name = "Big Kinook's Legendary Soup Pot", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1256609] = {name = "Arch of Iskaara", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1256620] = {name = "Arsenal: Mo'arg Swords", additional_info = "Instant\n[q]Collect the appearances of the Mo'arg Swords."}
 MultiLanguageSpellData['en'][1256623] = {name = "Arsenal: Bone Scythes", additional_info = "Instant\n[q]Collect the appearances of the Bone Scythes."}
 MultiLanguageSpellData['en'][1256624] = {name = "Arsenal: Immortal Maces", additional_info = "Instant\n[q]Collect the appearances of the Immortal Maces."}
 MultiLanguageSpellData['en'][1256625] = {name = "Arsenal: Mo'arg Hornmaces", additional_info = "Instant\n[q]Collect the appearances of the Mo'arg Hornmaces."}
 MultiLanguageSpellData['en'][1256626] = {name = "Arsenal: Gems of the Lightforged Draenei", additional_info = "Instant\n[q]Collect the appearances of the Gems of the Lightforged Draenei."}
 MultiLanguageSpellData['en'][1256635] = {name = "Frostwyrm's Fury", additional_info = nil}
+MultiLanguageSpellData['en'][1256643] = {name = "Supply Drop", additional_info = nil}
+MultiLanguageSpellData['en'][1256644] = {name = "Supply Drop", additional_info = nil}
+MultiLanguageSpellData['en'][1256645] = {name = "Supply Drop", additional_info = "5 yd range\n1 sec cast\n[q]Open the supply drop."}
+MultiLanguageSpellData['en'][1256646] = {name = "Supply Drop", additional_info = nil}
+MultiLanguageSpellData['en'][1256647] = {name = "Supply Drop", additional_info = nil}
+MultiLanguageSpellData['en'][1256648] = {name = "The Storm", additional_info = "100 yd range\nInstant\n[q]The Storm inflicts 10 Nature damage every 0.5 sec to players not within its eye."}
+MultiLanguageSpellData['en'][1256649] = {name = "The Storm", additional_info = "Unlimited range\nInstant\n[q]The Storm inflicts 10 Nature damage every 0.5 sec to players not within its eye."}
+MultiLanguageSpellData['en'][1256650] = {name = "The Storm", additional_info = "Unlimited range\nInstant\n[q]The Storm inflicts 10 Nature damage every 0.5 sec to players not within its eye."}
+MultiLanguageSpellData['en'][1256651] = {name = "Quad Rocket", additional_info = "Unlimited range\nInstant\n[q]Launch a barrage of four rockets at the target over 1 sec, each inflicting 10 Fire Damage."}
+MultiLanguageSpellData['en'][1256652] = {name = "Quad Rocket", additional_info = "100 yd range\nInstant\n[q]Launch a barrage of four rockets at the target over 1 sec, each inflicting 10 Fire Damage."}
+MultiLanguageSpellData['en'][1256653] = {name = "Quad Rocket", additional_info = "100 yd range\nChanneled (1 sec cast)\n[q]Launch a barrage of four rockets at the target over 1 sec, each inflicting 10 Fire Damage."}
+MultiLanguageSpellData['en'][1256654] = {name = "Quad Rocket", additional_info = "Instant\n[q]Launch a barrage of four rockets at the target over 1 sec, each inflicting 10 Fire Damage."}
 MultiLanguageSpellData['en'][1256655] = {name = "Frostwyrm's Fury", additional_info = nil}
+MultiLanguageSpellData['en'][1256656] = {name = "Glug Jug", additional_info = "1.5 sec cast\n[q]Consume the Glug Jug to restore full health."}
+MultiLanguageSpellData['en'][1256657] = {name = "Glug Jug", additional_info = "Instant\n[q]Consume the Glug Jug to restore full health."}
+MultiLanguageSpellData['en'][1256658] = {name = "Disco Bomb", additional_info = "Instant\n[q]The Disco Bomb explodes, causing anyone within 3.5 yards to dance uncontrollably and increase damage taken by 50% for 5 sec."}
+MultiLanguageSpellData['en'][1256660] = {name = "Disco Bomb", additional_info = "Unlimited range\nInstant\n[q]The Disco Bomb explodes, causing anyone within 3.5 yards to dance uncontrollably and increase damage taken by 50% for 5 sec."}
+MultiLanguageSpellData['en'][1256661] = {name = "Disco Bomb", additional_info = "100 yd range\nInstant\n[q]The Disco Bomb explodes, causing anyone within 3.5 yards to dance uncontrollably and increase damage taken by 50% for 5 sec."}
+MultiLanguageSpellData['en'][1256671] = {name = "Supply Drop", additional_info = nil}
 MultiLanguageSpellData['en'][1256677] = {name = "Cobalt Phase-Hunter", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Due to the otherworldly energies that irradiated Draenor, these creatures can shift through space at will. As such, they are rarely seen... until it is too late.\"\nPromotion:\nBurning Crusade Classic"}
 MultiLanguageSpellData['en'][1256686] = {name = "Everlasting Rock", additional_info = "Instant\n[q]"}
+MultiLanguageSpellData['en'][1256697] = {name = "Find Lumber", additional_info = "{Instant} {1.5 sec cooldown}\n[q]"}
+MultiLanguageSpellData['en'][1256729] = {name = "Grow", additional_info = nil}
+MultiLanguageSpellData['en'][1256730] = {name = "Sun Blast", additional_info = "60 yd range\n1 sec cast\n[q]Sunny blasts its target with the power of the sun, inflicting 4 Fire damage and an additional 1 Fire damage every 1 sec. This effect stacks."}
+MultiLanguageSpellData['en'][1256731] = {name = "DNT - Kill Credit", additional_info = nil}
+MultiLanguageSpellData['en'][1256732] = {name = "Germinate", additional_info = nil}
+MultiLanguageSpellData['en'][1256734] = {name = "Germinate", additional_info = "Channeled (3 sec cast)\n[q]Sunny creates a Sunling every 0.8 sec for 3 sec. Sunlings prevent damage to Sunny."}
+MultiLanguageSpellData['en'][1256739] = {name = "Germinate", additional_info = nil}
+MultiLanguageSpellData['en'][1256741] = {name = "Germinate", additional_info = nil}
+MultiLanguageSpellData['en'][1256743] = {name = "Germinate", additional_info = nil}
+MultiLanguageSpellData['en'][1256746] = {name = "Sunling", additional_info = nil}
+MultiLanguageSpellData['en'][1256750] = {name = "Germinate", additional_info = nil}
+MultiLanguageSpellData['en'][1256751] = {name = "Germinate", additional_info = nil}
+MultiLanguageSpellData['en'][1256753] = {name = "Germinate", additional_info = "Unlimited range\nInstant\n[q]Sunny creates a Sunling every 0.8 sec for 3 sec. Sunlings prevent damage to Sunny."}
+MultiLanguageSpellData['en'][1256754] = {name = "Germinate", additional_info = nil}
+MultiLanguageSpellData['en'][1256759] = {name = "Germinate", additional_info = nil}
+MultiLanguageSpellData['en'][1256770] = {name = "Sunny", additional_info = nil}
+MultiLanguageSpellData['en'][1256772] = {name = "Thorn Eruption", additional_info = nil}
+MultiLanguageSpellData['en'][1256773] = {name = "Thorn Eruption", additional_info = nil}
+MultiLanguageSpellData['en'][1256775] = {name = "Thorn Eruption", additional_info = "100 yd range\nInstant\n[q]Sunny makes large thorns that inflict 125 Nature damage to players they contact, stunning and knocking them upwards."}
 MultiLanguageSpellData['en'][1256805] = {name = "Ensemble: World-Defiler's Battle Armor", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1256806] = {name = "Short Wooden Cabinet", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1256807] = {name = "Coal-Fired Stovetop", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1256808] = {name = "Sturdy Wooden Washbasin", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1256809] = {name = "Sturdy Wooden Bathtub", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1256810] = {name = "Ensemble: Zealous Felslingers Battle Armor", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1256864] = {name = "Teleport Self", additional_info = nil}
 MultiLanguageSpellData['en'][1256865] = {name = "Teleport Self", additional_info = nil}
@@ -17124,13 +18662,38 @@ MultiLanguageSpellData['en'][1257001] = {name = "Summon Treasure", additional_in
 MultiLanguageSpellData['en'][1257002] = {name = "Summon Treasure", additional_info = nil}
 MultiLanguageSpellData['en'][1257064] = {name = "Shine of the Righteous", additional_info = "3 Holy Power Melee Range\n{Instant} {1 sec cooldown}\n[q]Blasts enemies in front of you with holy light, causing (102.7% of Attack Power) Holy damage, and reducing the cooldown of Crusader Strike by 1.5 sec.\n\n Benefits from all talents that affect Shield of the Righteous.\n\nProtection\n[q]Shield of the Righteous increases your Strength and Stamina by 2% for 10 sec, stacking up to 3."}
 MultiLanguageSpellData['en'][1257066] = {name = "Shine of the Righteous", additional_info = "Instant\n[q]Blasts enemies in front of you with holy light, causing (102.7% of Attack Power) Holy damage, and reducing the cooldown of Crusader Strike by 1.5 sec.\n\n Benefits from all talents that affect Shield of the Righteous.\n\nProtection\n[q]Shield of the Righteous increases your Strength and Stamina by 2% for 10 sec, stacking up to 3."}
+MultiLanguageSpellData['en'][1257069] = {name = "Starshard Whelpling", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1257166] = {name = "Add A Farewell to Arms Decor Rewards to storage", additional_info = "Instant\n[q]Add MOTHER's Titanic Brazier and N'Zoth's Captured Eye to your decor collection."}
 MultiLanguageSpellData['en'][1257172] = {name = "Temporal Retaliation", additional_info = nil}
 MultiLanguageSpellData['en'][1257179] = {name = "Insignia of the Broken Isles", additional_info = "Instant\n[q]Grants 1500 reputation with every faction that protects the Broken Isles."}
+MultiLanguageSpellData['en'][1257187] = {name = "Tentickles", additional_info = "100 yd range\nInstant\n[q]The Quacken calls for tentacles to erupt from the ground, inflicting 75 Shadow damage to all players within 4.5 yards and knocking them up into the air."}
+MultiLanguageSpellData['en'][1257188] = {name = "Tentickles", additional_info = "100 yd range\nInstant\n[q]The Quacken calls for tentacles to erupt from the ground, inflicting 75 Shadow damage to all players within 4.5 yards and knocking them up into the air."}
+MultiLanguageSpellData['en'][1257189] = {name = "Tentickles", additional_info = "100 yd range\nInstant\n[q]The Quacken calls for tentacles to erupt from the ground, inflicting 75 Shadow damage to all players within 4.5 yards and knocking them up into the air."}
+MultiLanguageSpellData['en'][1257190] = {name = "Hydro Cannon", additional_info = "50 yd range\n2.5 sec cast\n[q]The Quacken unleashes a torrent of water at all players, inflicting 15 Frost damage every 0.8 sec and pushing them back for 6 sec."}
+MultiLanguageSpellData['en'][1257191] = {name = "Hydro Cannon", additional_info = "50 yd range\nInstant\n[q]The Quacken unleashes a torrent of water at all players, inflicting 15 Frost damage every 0.8 sec and pushing them back for 6 sec."}
+MultiLanguageSpellData['en'][1257193] = {name = "Hydro Cannon", additional_info = "50 yd range\nInstant\n[q]The Quacken unleashes a torrent of water at all players, inflicting 15 Frost damage every 0.8 sec and pushing them back for 6 sec."}
+MultiLanguageSpellData['en'][1257195] = {name = "Hydro Cannon", additional_info = "50 yd range\nInstant\n[q]The Quacken unleashes a torrent of water at all players, inflicting 15 Frost damage every 0.8 sec and pushing them back for 6 sec."}
+MultiLanguageSpellData['en'][1257207] = {name = "Fury of the Quacken", additional_info = "50 yd range\n2.5 sec cast\n[q]The Quacken unleashes his fury... of the Quacken."}
+MultiLanguageSpellData['en'][1257208] = {name = "Fowl Play", additional_info = "30 yd range\n2 sec cast\n[q]You have turned into a duck! Quack to run faster!"}
+MultiLanguageSpellData['en'][1257209] = {name = "Quack!", additional_info = "{Instant} {10 sec cooldown}"}
+MultiLanguageSpellData['en'][1257212] = {name = "Fury of the Quacken", additional_info = "50 yd range\nInstant\n[q]The player is marked for the Fury of the Quacken."}
+MultiLanguageSpellData['en'][1257215] = {name = "Tentickles", additional_info = "100 yd range\nInstant\n[q]The Quacken calls for tentacles to erupt from the ground, inflicting 75 Shadow damage to all players within 4.5 yards and knocking them up into the air."}
+MultiLanguageSpellData['en'][1257232] = {name = "Tentickles", additional_info = "100 yd range\nInstant\n[q]The Quacken calls for tentacles to erupt from the ground, inflicting 75 Shadow damage to all players within 4.5 yards and knocking them up into the air."}
+MultiLanguageSpellData['en'][1257334] = {name = "Fury of the Quacken", additional_info = "Channeled (10 sec cast)\n[q]The Quacken unleashes bursts of dark energy, inflicting 8 Shadow damage to all player every 1 sec for 10 sec."}
+MultiLanguageSpellData['en'][1257335] = {name = "Fury of the Quacken", additional_info = "50 yd range\nInstant\n[q]The Quacken unleashes bursts of dark energy, inflicting 8 Shadow damage to all player every 1 sec for 10 sec."}
 MultiLanguageSpellData['en'][1257531] = {name = "Forest's Bloom", additional_info = "150 yd range\nInstant\n[q]Increases attack and casting speed by 5% for 15 sec."}
+MultiLanguageSpellData['en'][1257533] = {name = "{DNT} Teleport to Coreway", additional_info = nil}
+MultiLanguageSpellData['en'][1257537] = {name = "Summon Tome", additional_info = nil}
 MultiLanguageSpellData['en'][1257554] = {name = "Epoch Memento", additional_info = "{Instant} {0.01 sec cooldown}\nReagents:\nFragmented Memento of Epoch Challenges\n[q]Your artifact weapon automatically absorbs this memento to gain Infinite Power and Stamina."}
 MultiLanguageSpellData['en'][1257555] = {name = "Memento of Epoch Challenges", additional_info = "{1.5 sec cast} {1 sec cooldown}\nReagents:\nFragmented Memento of Epoch Challenges (100)\n[q]Combine 100 of these to gain a significant amount of Infinite Power and Stamina."}
+MultiLanguageSpellData['en'][1257559] = {name = "First Rate Mate", additional_info = nil}
+MultiLanguageSpellData['en'][1257565] = {name = "Violent Lightning", additional_info = nil}
+MultiLanguageSpellData['en'][1257566] = {name = "Violent Lightning", additional_info = "100 yd range\nInstant\n[q]When the Renegade Swabbie has the high ground the Storm intensifies and lighting strikes around the Tower inflicting 30 Nature damage to nearby enemies."}
+MultiLanguageSpellData['en'][1257569] = {name = "Violent Lightning", additional_info = nil}
+MultiLanguageSpellData['en'][1257576] = {name = "Violent Lightning", additional_info = nil}
 MultiLanguageSpellData['en'][1257586] = {name = "Infinite Power", additional_info = "[q]% Versatility]"}
 MultiLanguageSpellData['en'][1257606] = {name = "Twisted Crusade", additional_info = nil}
+MultiLanguageSpellData['en'][1257615] = {name = "Repel", additional_info = nil}
 MultiLanguageSpellData['en'][1257664] = {name = "Exit Phase Diving", additional_info = nil}
 MultiLanguageSpellData['en'][1257665] = {name = "Exit Phase Diving", additional_info = "1 sec cast\n[q]This World Quest cannot be completed in Untethered Space. Exit Phase Diving."}
 MultiLanguageSpellData['en'][1257668] = {name = "Conqueror's Astral Varnish", additional_info = "Instant\n[q]Increase the minimum item level of Manaforge Omega set helm, chestpiece, or leg armor to 730 in Arenas and Battlegrounds.\n\n Helms will not become eligible for additional sockets from Astral Jeweler's Settings."}
@@ -17139,13 +18702,39 @@ MultiLanguageSpellData['en'][1257670] = {name = "Upgrade", additional_info = nil
 MultiLanguageSpellData['en'][1257671] = {name = "Upgrade", additional_info = "Instant\n[q]Are you sure you want to upgrade this item?"}
 MultiLanguageSpellData['en'][1257678] = {name = "Upgrade", additional_info = "Instant\nReagents:\nConqueror's Astral Varnish"}
 MultiLanguageSpellData['en'][1257679] = {name = "Upgrade", additional_info = "Instant\nReagents:\nConqueror's Astral Lacquer"}
+MultiLanguageSpellData['en'][1257685] = {name = "Cheerbringer", additional_info = nil}
+MultiLanguageSpellData['en'][1257688] = {name = "Small Orgrimmar Tusked Bed", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1257698] = {name = "Visions of the Past", additional_info = "Instant\n[q]Allows the imbiber to track timewarped herbs and ores."}
 MultiLanguageSpellData['en'][1257703] = {name = "Precise Shots", additional_info = "Instant\n[q]Aimed Shot causes your next [ Chimaera Shot / Arcane Shot] or Multi-Shot to deal 100% more damage, cost 40% less Focus, and have its global cooldown reduced by 50%.\n\n Your Auto Shot damage is increased by 100% but the time between your Auto Shots is increased by 2.0 sec."}
+MultiLanguageSpellData['en'][1257730] = {name = "Tentickle Monster", additional_info = nil}
 MultiLanguageSpellData['en'][1257733] = {name = "Unstable Goods", additional_info = nil}
-MultiLanguageSpellData['en'][1257742] = {name = "Exodar Miniature", additional_info = "Instant\n[q]Summon a replica of the Exodar to travel alongside you."}
+MultiLanguageSpellData['en'][1257742] = {name = "Exodar Replica", additional_info = "Instant\n[q]Summon a replica of the Exodar to travel alongside you."}
+MultiLanguageSpellData['en'][1257777] = {name = "Fowl Play", additional_info = nil}
+MultiLanguageSpellData['en'][1257929] = {name = "Razorwind Smith's Hammer", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1257930] = {name = "Razorwind Miner's Pickaxe", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1257931] = {name = "Razorwind Woodworker's Hand Saw", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1257932] = {name = "Razorwind Crafter's Chisel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1257933] = {name = "Razorwind Peon's Shovel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1257945] = {name = "Chuck Coal", additional_info = nil}
+MultiLanguageSpellData['en'][1257946] = {name = "Chuck Coal", additional_info = nil}
+MultiLanguageSpellData['en'][1257955] = {name = "Sticky Lever", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1257956] = {name = "Dual-Action Turbo Pro Lever", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1257957] = {name = "Mechanical Gauge", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1257959] = {name = "Lively Pistons", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1258013] = {name = "{DNT} Teleport to Foundation Hall", additional_info = nil}
+MultiLanguageSpellData['en'][1258142] = {name = "View Next Adventure", additional_info = "Instant\n[q]Investigate where you could go next."}
+MultiLanguageSpellData['en'][1258212] = {name = "Small Razorwind Square Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1258240] = {name = "Not Again", additional_info = nil}
+MultiLanguageSpellData['en'][1258261] = {name = "Kill Credit - Remember the Sunwell (NJS)", additional_info = nil}
 MultiLanguageSpellData['en'][1258336] = {name = "Final Warning", additional_info = "100 yd range\nInstant\n[q]Zo'gron surrounds himself in a barrier that absorbs incoming damage while casting Final Warning. Upon completion, the barrier pulses 1212225 Arcane damage to all players every 1 sec until it is destroyed."}
+MultiLanguageSpellData['en'][1258421] = {name = "Add Razorwind Logger's Axe to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1258473] = {name = "Shambling Sprint", additional_info = "Instant\n[q]Surges with energy, increasing melee attack speed by 100%."}
+MultiLanguageSpellData['en'][1258476] = {name = "Teleport to Founder's Point", additional_info = "10 sec cast\n[q][DNT] Teleport to Founder's Point."}
+MultiLanguageSpellData['en'][1258484] = {name = "Teleport to Razorwind Shores", additional_info = "10 sec cast\n[q][DNT] Teleport to Razorwind Shores."}
+MultiLanguageSpellData['en'][1258511] = {name = "Melee", additional_info = "5 yd range\nInstant\n[q]Inflicts 100% weapon damage on enemy target."}
+MultiLanguageSpellData['en'][1258512] = {name = "Melee", additional_info = nil}
+MultiLanguageSpellData['en'][1258528] = {name = "Mastery of Timeways", additional_info = "Instant\n[q]Increases experience gained from killing monsters and completing quests by 30%.\n\n Completing Timewalking dungeons refreshes the duration."}
+MultiLanguageSpellData['en'][1258529] = {name = "Knowledge of Timeways", additional_info = "Instant\n[q]Increases experience gained from killing monsters and completing quests by 5%.\n\n Completing Timewalking dungeons increases the effect and refreshes the duration.\n\n Upon reaching 4 applications, transforms to Mastery of Timeways , increasing that effect to 30%."}
 MultiLanguageSpellData['en'][1258544] = {name = "Precious Jewelry", additional_info = "Instant\n[q]Gain a powerful ring, necklace, or trinket."}
 MultiLanguageSpellData['en'][1258587] = {name = "Brewing Storm", additional_info = "[q]You may move while casting.\n\n While standing still in combat, generate a stack of Brewing Storm every 3 sec, up to 10 stacks.\n\n When you move, the Brewing Storm inflicts [(60% Attack/Spell Power)] per stack, split between nearby enemies."}
 MultiLanguageSpellData['en'][1258589] = {name = "Brewing Storm", additional_info = nil}
@@ -17155,66 +18744,1020 @@ MultiLanguageSpellData['en'][1258593] = {name = "Brewing Storm", additional_info
 MultiLanguageSpellData['en'][1258612] = {name = "Ensemble: Triumvirate High Guard's Battlegear", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1258614] = {name = "Ensemble: Forgotten Conservatory Clothes", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1258617] = {name = "Ensemble: Eredath Lightseeker's Regalia", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1258618] = {name = "Extra Grumpy!", additional_info = "Instant\n[q]The minions of the Greench will now damage the tree at an alarming rate."}
+MultiLanguageSpellData['en'][1258627] = {name = "Commendation of the Court of Harvesters", additional_info = "Instant\n[q]Increases your reputation with the Court of Harvesters by 300."}
+MultiLanguageSpellData['en'][1258629] = {name = "Commendation of the Wild Hunt", additional_info = "Instant\n[q]Increases your reputation with the Wild Hunt by 300."}
+MultiLanguageSpellData['en'][1258631] = {name = "Commendation of the Undying Army", additional_info = "Instant\n[q]Increases your reputation with the Undying Army by 300."}
+MultiLanguageSpellData['en'][1258633] = {name = "Commendation of the Ascended", additional_info = "Instant\n[q]Increases your reputation with the Ascended by 300."}
+MultiLanguageSpellData['en'][1258634] = {name = "Commendation of Ve'nari", additional_info = "Instant\n[q]Increases your reputation with Ve'nari by 300."}
+MultiLanguageSpellData['en'][1258635] = {name = "Commendation of the Avowed", additional_info = "Instant\n[q]Increases your reputation with the Avowed by 300."}
+MultiLanguageSpellData['en'][1258636] = {name = "Commendation of the Court of Night", additional_info = "Instant\n[q]Increases your reputation with the Court of Night by 300."}
+MultiLanguageSpellData['en'][1258637] = {name = "Commendation of the Ember Court", additional_info = "Instant\n[q]Increases your reputation with the Ember Court by 300."}
+MultiLanguageSpellData['en'][1258642] = {name = "Commendation of the Stitchmasters", additional_info = "Instant\n[q]Increases your reputation with the Stitchmasters by 300."}
+MultiLanguageSpellData['en'][1258645] = {name = "Commendation of Marasmius", additional_info = "Instant\n[q]Increases your reputation with Marasmius by 300."}
+MultiLanguageSpellData['en'][1258648] = {name = "Commendation of the Death's Advance", additional_info = "Instant\n[q]Increases your reputation with the Death's Advance by 300."}
+MultiLanguageSpellData['en'][1258652] = {name = "Commendation of the Archivist's Codex", additional_info = "Instant\n[q]Increases your reputation with the Archivist's Codex by 300."}
+MultiLanguageSpellData['en'][1258653] = {name = "Commendation of the Enlightened", additional_info = "Instant\n[q]Increases your reputation with the Enlightened by 300."}
+MultiLanguageSpellData['en'][1258763] = {name = "Speed Boost", additional_info = "100 yd range\nInstant\n[q]Increases the broom's movement speed."}
 MultiLanguageSpellData['en'][1258767] = {name = "Brewing Storm", additional_info = "[q]Grants 5 additional ranks of Brewing Storm .\n\n Brewing Storm\nYou may move while casting.\n\n While standing still in combat, generate a stack of Brewing Storm every 3 sec, up to 10 stacks.\n\n When you move, the Brewing Storm inflicts [(60% Attack/Spell Power)] per stack, split between nearby enemies."}
 MultiLanguageSpellData['en'][1258768] = {name = "Brewing Storm", additional_info = "[q]Grants 4 additional ranks of Brewing Storm .\n\n Brewing Storm\nYou may move while casting.\n\n While standing still in combat, generate a stack of Brewing Storm every 3 sec, up to 10 stacks.\n\n When you move, the Brewing Storm inflicts [(60% Attack/Spell Power)] per stack, split between nearby enemies."}
 MultiLanguageSpellData['en'][1258769] = {name = "Brewing Storm", additional_info = "[q]Grants 3 additional ranks of Brewing Storm .\n\n Brewing Storm\nYou may move while casting.\n\n While standing still in combat, generate a stack of Brewing Storm every 3 sec, up to 10 stacks.\n\n When you move, the Brewing Storm inflicts [(60% Attack/Spell Power)] per stack, split between nearby enemies."}
 MultiLanguageSpellData['en'][1258770] = {name = "Brewing Storm", additional_info = "[q]Grants 2 additional ranks of Brewing Storm .\n\n Brewing Storm\nYou may move while casting.\n\n While standing still in combat, generate a stack of Brewing Storm every 3 sec, up to 10 stacks.\n\n When you move, the Brewing Storm inflicts [(60% Attack/Spell Power)] per stack, split between nearby enemies."}
 MultiLanguageSpellData['en'][1258771] = {name = "Brewing Storm", additional_info = "[q]Grants 1 additional rank of Brewing Storm .\n\n Brewing Storm\nYou may move while casting.\n\n While standing still in combat, generate a stack of Brewing Storm every 3 sec, up to 10 stacks.\n\n When you move, the Brewing Storm inflicts [(60% Attack/Spell Power)] per stack, split between nearby enemies."}
+MultiLanguageSpellData['en'][1258776] = {name = "Dismount", additional_info = "Instant\n[q]Dismount your magic broom."}
+MultiLanguageSpellData['en'][1258794] = {name = "Smell Wall", additional_info = "Instant\n[q]Reduces damage taken from area of effect attacks by 50%."}
+MultiLanguageSpellData['en'][1258810] = {name = "Twin Emperor Penguins", additional_info = "Unlimited range\nInstant\n[q]Shares damage with Dippy!"}
+MultiLanguageSpellData['en'][1258811] = {name = "Twin Emperor Penguins", additional_info = "Unlimited range\nInstant\n[q]Shares damage with Doopy!"}
+MultiLanguageSpellData['en'][1258852] = {name = "P.O.S.T. Assistant", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
 MultiLanguageSpellData['en'][1258892] = {name = "Brewing Storm", additional_info = nil}
+MultiLanguageSpellData['en'][1258902] = {name = "Large Razorwind Gazebo", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1258970] = {name = "Taeshalach", additional_info = "Instant\n[q]Collect the appearances of Taeshalach."}
 MultiLanguageSpellData['en'][1258983] = {name = "Arsenal: Odyn's Spears", additional_info = "Instant\n[q]Collect the appearances of Odyn's Spears."}
+MultiLanguageSpellData['en'][1259083] = {name = "Dino Dash", additional_info = "100 yd range\nInstant\n[q]Charges forward, dealing damage."}
+MultiLanguageSpellData['en'][1259085] = {name = "Dino Dash", additional_info = "60 yd range\n3 sec cast\n[q]Charges forward, dealing damage."}
+MultiLanguageSpellData['en'][1259109] = {name = "Melee", additional_info = "Melee Range\nInstant\n[q]Inflicts Physical damage to an enemy."}
+MultiLanguageSpellData['en'][1259113] = {name = "Infected Wounds", additional_info = "100 yd range\nInstant\n[q]Causes an enemy to take 20% increased Physical damage for 4 sec."}
+MultiLanguageSpellData['en'][1259119] = {name = "Dash", additional_info = "Instant\n[q]Increases movement speed by 125% for 1 sec."}
+MultiLanguageSpellData['en'][1259131] = {name = "Present Delivery!", additional_info = nil}
+MultiLanguageSpellData['en'][1259136] = {name = "Undermine Mechanic's Hanging Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259137] = {name = "Undermine Alleyway Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259138] = {name = "Add Silvermoon Barrel to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259139] = {name = "Elwynn Apple Tree", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1259140] = {name = "Pulling Out Of Door", additional_info = "Melee Range\n1.5 sec cast\n[q]Pull an ogre out of a door."}
+MultiLanguageSpellData['en'][1259154] = {name = "Petting", additional_info = "3 yd range\n4 sec cast\n[q]Pet a cute creature!"}
+MultiLanguageSpellData['en'][1259156] = {name = "Challenge Broker's Gambit", additional_info = nil}
+MultiLanguageSpellData['en'][1259157] = {name = "Wrapping A Cheerful Gift", additional_info = "Channeled (10 sec cast)\n[q]Infusing the Winter Veil spirit into a delicately wrapped gift!"}
+MultiLanguageSpellData['en'][1259161] = {name = "Founder's Point Apple Tree", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1259162] = {name = "Spring-Powered Pointer", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259165] = {name = "Elegant Table Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1259195] = {name = "[q2]Draconic Nesting Bed", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (45), Khaz'gorite Ore (10), Illimited Diamond (5), Dense Hide (10), Mireslush Hide (2)\n[q]Create a Draconic Nesting Bed, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Leatherworking (80)\nCost:\n5\n\n5\n[q2]Draconic Nesting Bed\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259233] = {name = "[q2]Valdrakken Market Tent", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (40), Wildercloth (6), Khaz'gorite Ore (7), Resilient Leather (60)\n[q]Create a Valdrakken Market Tent, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Leatherworking (80)\nCost:\n5\n\n5\n[q2]Valdrakken Market Tent\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259247] = {name = "[q2]Draconic Circular Rug", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (35), Serevite Ore (16), Spool of Wilderthread (12), Wildercloth Bolt (20), Blazing Ink (5)\n[q]Create a Draconic Circular Rug, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Tailoring (80)\nCost:\n5\n\n5\n[q2]Draconic Circular Rug\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259251] = {name = "Gnomish Tesla Tower", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259252] = {name = "Moonclasp Satchel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259253] = {name = "Incontinental Table Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1259257] = {name = "Burning Pitch", additional_info = nil}
+MultiLanguageSpellData['en'][1259311] = {name = "First Aid", additional_info = nil}
+MultiLanguageSpellData['en'][1259312] = {name = "Add Razorwind Iron Chandelier to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259315] = {name = "Add Low-Hanging Razorwind Iron Chandelier to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259316] = {name = "Small Jagged Orgrimmar Trellis", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1259318] = {name = "First Aid", additional_info = nil}
+MultiLanguageSpellData['en'][1259320] = {name = "Add Razorwind Shores Canoe to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259369] = {name = "[q2]Valdrakken Gilded Throne", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragonpine Lumber (26), Khaz'gorite Ore (6), Illimited Diamond , Glossy Stone (10)\n[q]Create a Valdrakken Gilded Throne, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Jewelcrafting (80)\nCost:\n5\n\n3\n[q2]Valdrakken Gilded Throne\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259384] = {name = "[q2]Valdrakken Fence", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragonpine Lumber (15), Fractured Glass (2), Serevite Ore (18), Glossy Stone (4)\n[q]Create a Valdrakken Fence, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Jewelcrafting (80)\nCost:\n5\n\n1\n[q2]Valdrakken Fence\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259386] = {name = "[q2]Valdrakken Fencepost", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDragonpine Lumber (10), Serevite Ore (8), Glossy Stone (4)\n[q]Create a Valdrakken Fencepost, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Jewelcrafting (80)\nCost:\n5\n\n1\n[q2]Valdrakken Fencepost\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259404] = {name = "[q2]Thaldraszus Telescope", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nDragonpine Lumber (25), Frameless Lens (2), Handful of Serevite Bolts (4), Shock-Spring Coil (4), Reinforced Machine Chassis (4)\n[q]Create a Thaldraszus Telescope, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Engineering (80)\nCost:\n5\n\n5\n[q2]Thaldraszus Telescope\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259422] = {name = "[q2]Literature of the Blue Dragonflight", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (15), Glittering Parchment (15), Blazing Ink (3), Flourishing Ink (4), Serene Ink (5)\n[q]Create Literature of the Blue Dragonflight, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Inscription (80)\nCost:\n5\n\n1\n[q2]Literature of the Blue Dragonflight\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259424] = {name = "Frosty Visage", additional_info = "Instant\n[q]As frosty on the outside as their cold little hearts on the inside."}
 MultiLanguageSpellData['en'][1259428] = {name = "Ensemble: Fireplume Regalia", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1259429] = {name = "[q2]Literature of the Red Dragonflight", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (16), Glittering Parchment (16), Blazing Ink (7), Serene Ink (5)\n[q]Create Literature of the Red Dragonflight, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Inscription (80)\nCost:\n5\n\n1\n[q2]Literature of the Red Dragonflight\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1259430] = {name = "Ensemble: Sprite Darter's Wings", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1259433] = {name = "[q2]Literature of the Green Dragonflight", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (16), Glittering Parchment (16), Blazing Ink (2), Flourishing Ink (6), Serene Ink (3)\n[q]Create Literature of the Green Dragonflight, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Inscription (80)\nCost:\n5\n\n1\n[q2]Literature of the Green Dragonflight\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259441] = {name = "[q2]Valdrakken Banded Barrel", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (10), Serevite Ore (8), Flourishing Ink (3)\n[q]Create a Valdrakken Banded Barrel, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Inscription (80)\nCost:\n5\n\n1\n[q2]Valdrakken Banded Barrel\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259451] = {name = "[q2]Valdrakken Storage Crate", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (10), Serevite Ore (8), Blazing Ink (4)\n[q]Create a Valdrakken Storage Crate, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Inscription (80)\nCost:\n5\n\n1\n[q2]Valdrakken Storage Crate\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1259454] = {name = "Interact Dummy", additional_info = nil}
+MultiLanguageSpellData['en'][1259456] = {name = "Ice Rink", additional_info = nil}
+MultiLanguageSpellData['en'][1259458] = {name = "Furniture", additional_info = nil}
+MultiLanguageSpellData['en'][1259461] = {name = "[q2]Long Valdrakken Storage Crate", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (14), Serevite Ore (10), Blazing Ink (6)\n[q]Create a Long Valdrakken Storage Crate, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Inscription (80)\nCost:\n5\n\n3\n[q2]Long Valdrakken Storage Crate\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1259468] = {name = "Ensemble: Celestial Observer", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1259474] = {name = "Collection: Wings of Awakening", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1259484] = {name = "Collection: Baby Murloc Satch-Shells", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1259488] = {name = "Icy Patch", additional_info = nil}
+MultiLanguageSpellData['en'][1259617] = {name = "Champion Brawler's Gloves", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259673] = {name = "[q2]Boulder Springs Hot Tub", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (34), Profaned Tinderbox (4), Distilled Algari Freshwater (12), Crystalline Powder (6), Harmonious Horticulture\n[q]Create a Boulder Springs Hot Tub, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Alchemy (75)\nCost:\n150\n\n5\n[q2]Boulder Springs Hot Tub\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259675] = {name = "[q2]Rusting Bolted Bench", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nDornic Fir Lumber (15), Handful of Bismuth Bolts (4), Core Alloy (5)\n[q]Create a Rusting Bolted Bench, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Blacksmithing (75)\nCost:\n150\n\n3\n[q2]Rusting Bolted Bench\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259681] = {name = "[q2]Shredderwheel Storage Chest", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nDornic Fir Lumber (30), Coreforged Skeleton Key , Whimsical Wiring , Core Alloy (5), Charged Alloy\n[q]Create a Shredderwheel Storage Chest, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Blacksmithing (75)\nCost:\n150\n\n3\n[q2]Shredderwheel Storage Chest\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259690] = {name = "[q2]Replica Awakening Machine Stasis Pod", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nDornic Fir Lumber (40), Ringing Deeps Ingot (6), Crystalline Powder (5), Refulgent Crystal (8), Gyrating Gear (6)\n[q]Create a Replica Awakening Machine Stasis Pod, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Enchanting (80)\nCost:\n200\n\n5\n[q2]Replica Awakening Machine Stasis Pod\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259715] = {name = "[q2]Dornogal Hanging Sconce", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nDornic Fir Lumber (10), Gleaming Shard (4), Core Alloy (2), Oil of Beledar's Grace (2)\n[q]Create a Dornogal Hanging Sconce, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Enchanting (80)\nCost:\n200\n\n3\n[q2]Dornogal Hanging Sconce\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259724] = {name = "[q2]Schmancy Goblin String Lights", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nDornic Fir Lumber (12), Glittering Glass (6), Whimsical Wiring (6), Chaos Circuit\n[q]Create Schmancy Goblin String Lights, which can be placed in your house or sold on the Auction House\nProfession Trainer:\nKhaz Algar Engineering (80)Cost:\n200\n\n1\n[q2]Schmancy Goblin String Lights\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259725] = {name = "Destructolaser", additional_info = "Instant\n[q]Blasts the target with Fire damage."}
 MultiLanguageSpellData['en'][1259728] = {name = "Severed Threads Commendation", additional_info = "Instant\n[q]Awards 2500 Reputation with the Severed Threads faction of your choice."}
 MultiLanguageSpellData['en'][1259730] = {name = "The Weaver", additional_info = "{Instant} {5 sec cooldown}\nReagents:\nSevered Threads Commendation"}
 MultiLanguageSpellData['en'][1259734] = {name = "The General", additional_info = "{Instant} {5 sec cooldown}\nReagents:\nSevered Threads Commendation"}
 MultiLanguageSpellData['en'][1259735] = {name = "The Vizier", additional_info = "{Instant} {5 sec cooldown}\nReagents:\nSevered Threads Commendation"}
+MultiLanguageSpellData['en'][1259736] = {name = "Destructolaser", additional_info = "100 yd range\nInstant\n[q]Blasts the target inflicting 12 Fire damage every 0.3 sec."}
+MultiLanguageSpellData['en'][1259778] = {name = "[q2]Replica Rumbling Wastes Drill Pod", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nDornic Fir Lumber (42), Vial of Kaheti Oils , Ambivalent Amber , Handful of Bismuth Bolts (18), Gyrating Gear (6), Entropy Enhancer (10), Core Alloy (15)\n[q]Create a Replica Rumbling Wastes Drill Pod, which can be placed in your house or sold on the Auction House\nProfession Trainer:\nKhaz Algar Engineering (80)\nCost:\n200\n\n5\n[q2]Replica Rumbling Wastes Drill Pod\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259780] = {name = "Destructolaser", additional_info = nil}
+MultiLanguageSpellData['en'][1259784] = {name = "[q2]Forgeground Market Bins", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (18), Core Alloy (2), Shadow Ink (2)\n[q]Create Forgeground Market Bins, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Inscription (80)\nCost:\n200\n\n3\n[q2]Forgeground Market Bins\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259793] = {name = "Burned Tree", additional_info = "Instant\n[q]The smoldering remains of a once joyful tree.\n(Proc chance: 10%, 3m cooldown)"}
+MultiLanguageSpellData['en'][1259796] = {name = "[q2]Dornogal Bookcase", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (50), Fresh Parchment (30), Stunning Sapphire (2), Codified Greenwood (4), Apricate Ink (9)\n[q]Create a Dornogal Bookcase, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Inscription (80)\nCost:\n200\n\n5\n[q2]Dornogal Bookcase\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259804] = {name = "Gale Blast", additional_info = nil}
+MultiLanguageSpellData['en'][1259805] = {name = "[q2]Meadery Storage Chest", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (26), Coreforged Skeleton Key , Stormcharged Leather (2), Core Alloy (5), Shadow Ink (3)\n[q]Create a Meadery Storage Chest, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Inscription (80)\nCost:\n200\n\n3\n[q2]Meadery Storage Chest\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259818] = {name = "[q2]Freywold Table", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (35), Ringing Deeps Ingot (3), Codified Greenwood (6), Boundless Cipher (3)\n[q]Create a Freywold Table, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Inscription (80)\nCost:\n200\n\n5\n[q2]Freywold Table\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259822] = {name = "Smoke Bomb", additional_info = nil}
+MultiLanguageSpellData['en'][1259841] = {name = "Add Silvermoon Gemmed Chair to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259843] = {name = "Add Silvermoon Bench to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259844] = {name = "Add Silvermoon Fencepost to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259847] = {name = "Add Sin'dorei Sleeper to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1259849] = {name = "Razorwind Shores Front Door", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1259952] = {name = "Challenge Mode Start", additional_info = nil}
+MultiLanguageSpellData['en'][1260005] = {name = "[q2]Algari Fence", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (15), Core Alloy , Shadow Ink (2)\n[q]Create an Algari Fence, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Inscription (80)\nCost:\n200\n\n1\n[q2]Algari Fence\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260044] = {name = "[q2]Algari Fencepost", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (10), Core Alloy , Shadow Ink\n[q]Create an Algari Fencepost, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Inscription (80)\nCost:\n200\n\n1\n[q2]Algari Fencepost\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260067] = {name = "Draconic Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260068] = {name = "Add Valdrakken Oven to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260069] = {name = "Draconic Scribe's Basin", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260070] = {name = "Five Flights' Grimoire", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260071] = {name = "Add Silvermoon Fence to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260072] = {name = "Add Silvermoon Front Door to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260096] = {name = "[q2]Octagonal Ochre Window", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDornic Fir Lumber (16), Ambivalent Amber (4), Ringing Deeps Ingot , Marbled Stone (5)\n[q]Create an Octagonal Ochre Window, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Jewelcrafting (80)\nCost:\n200\n\n3\n[q2]Octagonal Ochre Window\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260172] = {name = "[q2]Gundargaz Candelabra", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDornic Fir Lumber (25), Ambivalent Amber (7), Crushed Gemstones (14), Inverted Prism , Core Alloy (2)\n[q]Create a Gundargaz Candelabra, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Jewelcrafting (80)\nCost:\n200\n\n5\n[q2]Gundargaz Candelabra\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260215] = {name = "[q2]Dornogal Framed Rug", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (30), Mosswool Thread (12), Apricate Ink (4), Duskweave (6)\n[q]Create a Dornogal Framed Rug, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Tailoring (80)\nCost:\n200\n\n5\n[q2]Dornogal Framed Rug\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260218] = {name = "Open Rust-Plated Storage Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260219] = {name = "Leftover Undermine Takeout", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260220] = {name = "Add Razorwind Standing Tusk to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260221] = {name = "Kharanos Stone Bed", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260222] = {name = "Shadowforge Lamppost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260241] = {name = "Ornate Dwarven Wardrobe", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260274] = {name = "Qalashi Goulash", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260275] = {name = "Add Sunsmoke Censer to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260276] = {name = "Razorwind Porch Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1260309] = {name = "Slingshot", additional_info = nil}
+MultiLanguageSpellData['en'][1260315] = {name = "To Heavy To Punt", additional_info = "Instant\n[q]These gnomes are to heavy to punt! There must be another way..."}
+MultiLanguageSpellData['en'][1260317] = {name = "Stretch Elastic!", additional_info = "20 yd range\nChanneled (20 sec cast)\n[q]Stretching the elastic to fling away those Rotten Pummelers!"}
+MultiLanguageSpellData['en'][1260318] = {name = "Stretch Elastic!", additional_info = "20 yd range\nChanneled (20 sec cast)\n[q]Stretching the elastic to fling away those Rotten Pummelers!"}
+MultiLanguageSpellData['en'][1260320] = {name = "Teleport to Arathi Highlands", additional_info = "{10 sec cast} {30 sec cooldown}\n[q]Travel to the Arathi Highlands."}
+MultiLanguageSpellData['en'][1260326] = {name = "[q2]Undermine Bean Bag Chair", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (20), Mosswool Thread (20), Weavercloth Bolt (6), Weavercloth (2)\n[q]Create an Undermine Bean Bag Chair, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Tailoring (75)\nCost:\n200\n\n1\n[q2]Undermine Bean Bag Chair\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260327] = {name = "<DNT> Summon Treasure", additional_info = nil}
+MultiLanguageSpellData['en'][1260328] = {name = "[q2]Zhevra-Stripe Rug", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (30), Mosswool Thread (10), Thunderous Hide , Sporecoated Hide (2)\n[q]Create a Zhevra-Stripe Rug, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Leatherworking (80)\nCost:\n200\n\n5\n[q2]Zhevra-Stripe Rug\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260331] = {name = "[q2]Valdrakken Blossomfruit Platter", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (22), Wild Dragon Fruit (5), Pebbled Rock Salts (6), Perfect Preservatives (15), Khaz'gorite Ore (4)\n[q]Use your knowledge of food preparation to create a model plate suitable for filling your home, not your stomach.\nProfession Trainer:\nDragon Isles Cooking (80)\nCost:\n2\n\n3\n[q2]Valdrakken Blossomfruit Platter\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260333] = {name = "[q2]Bruffalon Rib Platter", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (25), Basilisk Eggs (2), Charred Hornswog Steaks (3), Thrice-Spiced Mammoth Kabob (4), Perfect Preservatives (15), Khaz'gorite Ore (4)\n[q]Use your knowledge of food preparation to create a model plate suitable for filling your home, not your stomach.\nProfession Trainer:\nDragon Isles Cooking (80)\nCost:\n2\n\n3\n[q2]Bruffalon Rib Platter\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260334] = {name = "[q2]Caramel Mint Noodle Dish", additional_info = "2 sec cast\nReagents:\nArden Lumber (8), Solenium Ore (4), Iridescent Ravioli with Apple Sauce (5), Phantasmal Haunch (6), Perfect Preservatives (5)\n[q]Use your knowledge of food preparation to create a model plate suitable for filling your home, not your stomach.\nProfession:\nShadowlands Cooking (60)\nTrainer:\nChef Au'krut\nZone:\nOribos\nCost:\n4\n\n1\n[q2]Caramel Mint Noodle Dish\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260337] = {name = "[q2]Boralus-Style Lobster Platter", additional_info = "2 sec cast\nReagents:\nDarkpine Lumber (8), Storm Silver Ore (4), Spiced Snapper (5), Aromatic Fish Oil (2), Perfect Preservatives (5)\n[q]Use your knowledge of food preparation to create a model plate suitable for filling your home, not your stomach.\nProfession Trainer:\nBattle for Azeroth Cooking (140)\nCost:\n4\n\n1\n[q2]Boralus-Style Lobster Platter\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260349] = {name = "[q2]Deactivated Atomic Recalibrator", additional_info = "2 sec cast\nReagents:\nDarkpine Lumber (42), Storm Silver Ore (30), Monelite Ore (35), Insulated Wiring (20), Energy Cell (5)\n[q]Create a Deactivated Atomic Recalibrator, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Engineering (140)\nCost:\n40\n\n5\n[q2]Deactivated Atomic Recalibrator\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260352] = {name = "[q2]Gnomish Tesla Mega-Coil", additional_info = "2 sec cast\nReagents:\nDarkpine Lumber (45), Insulated Wiring (18), Chemical Blasting Cap (15), Storm Silver Ore (10), Monelite Ore (20), Energy Cell\n[q]Create a Gnomish Tesla Mega-Coil, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Engineering (140)\nCost:\n40\n\n5\n[q2]Gnomish Tesla Mega-Coil\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260360] = {name = "Shadowforge Stone Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260363] = {name = "Wingrest Signal Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260364] = {name = "Add Valdrakken Hanging Lamp to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260365] = {name = "Add Valdrakken Lamppost to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260366] = {name = "Valdrakken Hanging Cauldron", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260425] = {name = "[q2]Mechagon Miniature Artificial Sun", additional_info = "2 sec cast\nReagents:\nDarkpine Lumber (16), Insulated Wiring (6), Storm Silver Ore (8), Monelite Ore (8), Amberblaze\n[q]Create a Mechagon Miniature Artificial Sun, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Engineering (140)\nCost:\n40\n\n1\n[q2]Mechagon Miniature Artificial Sun\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260458] = {name = "[q2]Red Dazar'alor Rug", additional_info = "2 sec cast\nReagents:\nDarkpine Lumber (30), Tidespray Linen (30), Nylon Thread (12), Crimson Ink (5)\n[q]Create a Red Dazar'alor Rug, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Tailoring (140)\nCost:\n40\n\n3\n[q2]Red Dazar'alor Rug\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260475] = {name = "[q2]Zanchuli Tapestry", additional_info = "2 sec cast\nReagents:\nDarkpine Lumber (35), Embroidered Deep Sea Satin (16), Platinum Ore (2), Nylon Thread (20)\n[q]Create a Zanchuli Tapestry, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Tailoring (140)\nCost:\n40\n\n3\n[q2]Zanchuli Tapestry\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260485] = {name = "[q2]Zandalari Ritual Drum", additional_info = "2 sec cast\nReagents:\nDarkpine Lumber (40), Tempest Hide (30), Platinum Ore (5), Blood-Stained Bone (12)\n[q]Create a Zandalari Ritual Drum, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Leatherworking (140)\nCost:\n40\n\n5\n[q2]Zandalari Ritual Drum\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260486] = {name = "Stretch Elastic! 2", additional_info = "20 yd range\nChanneled (20 sec cast)\n[q]Stretching the elastic to fling away those Rotten Pummelers!"}
+MultiLanguageSpellData['en'][1260487] = {name = "Slingshot", additional_info = nil}
+MultiLanguageSpellData['en'][1260492] = {name = "[q2]Zandalari Skullfire Lamp", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDarkpine Lumber (40), Monelite Ore (30), Amberblaze (3), Platinum Ore (5)\n[q]Create a Zandalari Skullfire Lamp, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Jewelcrafting (140)\nCost:\n40\n\n3\n[q2]Zandalari Skullfire Lamp\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260501] = {name = "[q2]Small Mask of Bwonsamdi, Loa of Graves", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nDarkpine Lumber (20), Owlseye (2), Ultramarine Ink (6), Platinum Ore (10)\n[q]Create a Small Mask of Bwonsamdi, Loa of Graves, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Jewelcrafting (140)\nCost:\n40\n\n1\n[q2]Small Mask of Bwonsamdi, Loa of Graves\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260508] = {name = "[q2]Zuldazar Fencepost", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nDarkpine Lumber (10), Monelite Ore (6), Crimson Ink (4)\n[q]Create a Zuldazar Fencepost, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Inscription (140)\nCost:\n40\n\n1\n[q2]Zuldazar Fencepost\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260564] = {name = "[q2]Zuldazar Fence", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nDarkpine Lumber (15), Monelite Ore (18), Crimson Ink (8)\n[q]Create a Zuldazar Fence, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Inscription (140)\nCost:\n40\n\n1\n[q2]Zuldazar Fence\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260570] = {name = "Stretch Elastic!", additional_info = "20 yd range\nChanneled (20 sec cast)\n[q]Stretching the elastic to fling away those Rotten Pummelers!"}
+MultiLanguageSpellData['en'][1260575] = {name = "Slingshot", additional_info = nil}
+MultiLanguageSpellData['en'][1260577] = {name = "[q2]Gilded Zandalari Table", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nDarkpine Lumber (35), Ultramarine Ink (20), Monelite Ore (24)\n[q]Create a Gilded Zandalari Table, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Inscription (140)\nCost:\n40\n\n3\n[q2]Gilded Zandalari Table\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260583] = {name = "[q2]Boralus Barrel", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nDarkpine Lumber (6), Aromatic Fish Oil (5), Tidespray Linen (10)\n[q]Create a Boralus Barrel, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Inscription (140)\nCost:\n40\n\n1\n[q2]Boralus Barrel\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1260587] = {name = "Cancel Volatile Surge", additional_info = nil}
+MultiLanguageSpellData['en'][1260593] = {name = "[q2]Proudmoore Shipping Crate", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nDarkpine Lumber (8), Ultramarine Ink (5), Aromatic Fish Oil (5)\n[q]Create a Proudmoore Shipping Crate, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Inscription (140)\nCost:\n40\n\n3\n[q2]Proudmoore Shipping Crate\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260596] = {name = "[q2]Boralus Bookshelf", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nDarkpine Lumber (8), Tidespray Linen (8), Monelite Ore (8), Aromatic Fish Oil\n[q]Create a Boralus Bookshelf, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Inscription (140)\nCost:\n40\n\n3\n[q2]Boralus Bookshelf\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260598] = {name = "Snowy Delivery!", additional_info = nil}
+MultiLanguageSpellData['en'][1260646] = {name = "Gnome Punter Knockback Aura", additional_info = nil}
+MultiLanguageSpellData['en'][1260649] = {name = "Gnome Punter Knockback Aura 01", additional_info = nil}
+MultiLanguageSpellData['en'][1260651] = {name = "Stormwind Forge", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260652] = {name = "Conjured Archive of the Tirisgarde", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260653] = {name = "Add Illidari Tent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260654] = {name = "Replica Hammer of Khaz'goroth", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260655] = {name = "Large Legion Candle", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260656] = {name = "Small Legion Candle", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260657] = {name = "Replica Chronicle of Ages", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260659] = {name = "Arcan'dor Cutting Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260660] = {name = "Nightspire Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260661] = {name = "Magistrix's Garden Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260672] = {name = "Crafting the Perfect Snowball", additional_info = "Channeled (10 sec cast)\n[q]Infusing the Winter Veil spirit into a perfect snowball!"}
+MultiLanguageSpellData['en'][1260691] = {name = "[q2]Brennadam Grinder", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nDarkpine Lumber (18), Storm Silver Ore (20), Meaty Haunch (15)\n[q]Create a Brennadam Grinder, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Blacksmithing (140)\nCost:\n40\n\n3\n[q2]Brennadam Grinder\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260692] = {name = "[q2]Stormsong Stove", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nDarkpine Lumber (20), Storm Silver Ore (25), Durable Flux (10)\n[q]Create a Stormsong Stove, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Blacksmithing (140)\nCost:\n40\n\n3\n[q2]Stormsong Stove\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260693] = {name = "[q2]Suramar Fence", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nFel-Touched Lumber (15), Demonsteel Bar (10), Leylight Shard\n[q]Create a Suramar Fence, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nLegion Blacksmithing (80)\nCost:\n40\n\n1\n[q2]Suramar Fence\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260695] = {name = "[q2]Suramar Fencepost", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nFel-Touched Lumber (10), Demonsteel Bar (5), Leylight Shard\n[q]Create a Suramar Fencepost, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nLegion Blacksmithing (80)\nCost:\n40\n\n1\n[q2]Suramar Fencepost\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260698] = {name = "[q2]Tauren Soup Pot", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nFel-Touched Lumber (35), Demonsteel Bar (20), Flaked Sea Salt (3), Highmountain Salmon (5), River Onion (3), Dalapeño Pepper (3)\n[q]Create a Tauren Soup Pot, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nLegion Blacksmithing (80)\nCost:\n40\n\n3\n[q2]Tauren Soup Pot\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260700] = {name = "[q2]Suramar Containment Cell", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nFel-Touched Lumber (34), Chaos Crystal (16), Demonsteel Bar (10), Blood of Sargeras (2)\n[q]Create a Suramar Containment Cell, which can be placed in your house or sold on the Auction House.\nProfession:\nLegion Enchanting (80)\nTrainer:\nEnchanter Nalthanis\nZone:\nDalaran\nCost:\n40\n\n5\n[q2]Suramar Containment Cell\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260704] = {name = "[q2]Tauren Storage Chest", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nFel-Touched Lumber (15), Roseate Pigment (10), Sallow Pigment (15), Shal'dorei Silk (8)\n[q]Create a Tauren Storage Chest, which can be placed in your house or sold on the Auction House.\nProfession:\nLegion Inscription (80)\nTrainer:\nProfessor Pallin\nZone:\nDalaran\nCost:\n40\n\n3\n[q2]Tauren Storage Chest\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260705] = {name = "House Purchase Moment", additional_info = nil}
+MultiLanguageSpellData['en'][1260711] = {name = "[q2]Covered Square Suramar Table", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nFel-Touched Lumber (35), Roseate Pigment (25), Imbued Silkweave (6), Demonsteel Bar (15)\n[q]Create a Covered Square Suramar Table, which can be placed in your house or sold on the Auction House.\nProfession:\nLegion Inscription (80)\nTrainer:\nProfessor Pallin\nZone:\nDalaran\nCost:\n40\n\n3\n[q2]Covered Square Suramar Table\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260719] = {name = "[q2]Nightborne Jeweler's Table", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nFel-Touched Lumber (28), Sallow Pigment (20), Roseate Pigment (10), Demonsteel Bar (5), Imbued Silkweave (3), Gem Chip (5)\n[q]Create a Nightborne Jeweler's Table, which can be placed in your house or sold on the Auction House.\nProfession:\nLegion Inscription (80)\nTrainer:\nProfessor Pallin\nZone:\nDalaran\nCost:\n40\n\n1\n[q2]Nightborne Jeweler's Table\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260730] = {name = "[q2]Suramar Storage Crate", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nFel-Touched Lumber (20), Sallow Pigment (20), Demonsteel Bar (12)\n[q]Create a Suramar Storage Crate, which can be placed in your house or sold on the Auction House.\nProfession:\nLegion Inscription (80)\nTrainer:\nProfessor Pallin\nZone:\nDalaran\nCost:\n40\n\n1\n[q2]Suramar Storage Crate\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260737] = {name = "[q2]Suramar Dresser", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nFel-Touched Lumber (30), Sallow Pigment (25), Imbued Silkweave (6), Demonsteel Bar (15), Roseate Pigment (10)\n[q]Create a Suramar Dresser, which can be placed in your house or sold on the Auction House.\nProfession:\nLegion Inscription (80)\nTrainer:\nProfessor Pallin\nZone:\nDalaran\nCost:\n40\n\n3\n[q2]Suramar Dresser\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260755] = {name = "Melee", additional_info = "5 yd range\nInstant\n[q]Inflicts 75% weapon damage on enemy target."}
+MultiLanguageSpellData['en'][1260757] = {name = "[q2]Shaded Suramar Window", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nFel-Touched Lumber (25), Imbued Silkweave (3), Demonsteel Bar (10), Gem Chip (20)\n[q]Create a Shaded Suramar Window, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nLegion Jewelcrafting (80)\nCost:\n40\n\n3\n[q2]Shaded Suramar Window\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260762] = {name = "[q2]Tauren Leather Fence", additional_info = "2 sec cast\nReagents:\nFel-Touched Lumber (20), Stonehide Leather (20), Unbroken Claw (5)\n[q]Create a Tauren Leather Fence, which can be placed in your house or sold on the Auction House.\nProfession:\nLegion Leatherworking (80)\nTrainer:\nNamha Moonwater\nZone:\nDalaran\nCost:\n40\n\n1\n[q2]Tauren Leather Fence\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260765] = {name = "[q2]Tauren Fencepost", additional_info = "2 sec cast\nReagents:\nFel-Touched Lumber (15), Stonehide Leather (10), Unbroken Claw (5)\n[q]Create a Tauren Fencepost, which can be placed in your house or sold on the Auction House.\nProfession:\nLegion Leatherworking (80)\nTrainer:\nNamha Moonwater\nZone:\nDalaran\nCost:\n40\n\n1\n[q2]Tauren Fencepost\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260769] = {name = "[q2]Shal'dorei Open-Air Tent", additional_info = "2 sec cast\nReagents:\nFel-Touched Lumber (40), Imbued Silkweave (20), Demonsteel Bar (12), Runic Catgut (12)\n[q]Create a Shal'dorei Open-Air Tent, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nLegion Tailoring (80)\nCost:\n40\n\n5\n[q2]Shal'dorei Open-Air Tent\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260774] = {name = "[q2]Circular Shal'dorei Rug", additional_info = "2 sec cast\nReagents:\nFel-Touched Lumber (30), Shal'dorei Silk (40), Roseate Pigment (15), Runic Catgut (8)\n[q]Create a Circular Shal'dorei Rug, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nLegion Tailoring (80)\nCost:\n40\n\n3\n[q2]Circular Shal'dorei Rug\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260775] = {name = "Slingshot - Generic", additional_info = nil}
+MultiLanguageSpellData['en'][1260784] = {name = "Steward's Bauble", additional_info = "{Instant} {15 min cooldown}\n[q]Transform into a helpful steward."}
+MultiLanguageSpellData['en'][1260809] = {name = "Steward's Bauble", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1260815] = {name = "Steward's Bauble", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1260864] = {name = "Wretched Dredger's Brand", additional_info = "{Instant} {15 min cooldown}\n[q]Transform into a disgusting wretch."}
+MultiLanguageSpellData['en'][1260869] = {name = "X-treme Winter Blaster", additional_info = "1000 yd range\nInstant\n[q]Unleash a barage of snowballs on the Greench's minions!"}
+MultiLanguageSpellData['en'][1260871] = {name = "Winter Blast!", additional_info = "7 yd range\nInstant 1 min recharge\n10 Charges\n[q]Cast a snowball at minions in front of you."}
+MultiLanguageSpellData['en'][1260882] = {name = "Winter Blast!", additional_info = nil}
+MultiLanguageSpellData['en'][1260891] = {name = "Smoke Lamppost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260897] = {name = "Gilnean Banded Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260901] = {name = "Small Gilnean Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260903] = {name = "Replica Tome of Blighted Implements", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260911] = {name = "Tauren Jeweler's Roller", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260915] = {name = "Zandalari War Chandelier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260926] = {name = "Add Pentagonal Valdrakken Tapestry to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260985] = {name = "[q2]Wine Barrel", additional_info = "2 sec cast\nReagents:\nShadowmoon Lumber (16), Sorcerous Water (6), Gorgrond Grapes (6), Alchemical Catalyst (10)\n[q]Create a Wine Barrel, which can be placed in your house or sold on the Auction House.\nVendor:\nJoshua Alvarez\nZone:\nWarspear\nCost:\n1\n\nVendor:\nKatherine Joplin\nZone:\nStormshield\nCost:\n1\n\n1\n[q2]Wine Barrel\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260987] = {name = "[q2]Frostwall Forge", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nShadowmoon Lumber (45), True Iron Ore (50), Sorcerous Fire (25), Primal Spirit (5), Blackrock Ore (25)\n[q]Create a Frostwall Forge, which can be placed in your house or sold on the Auction House.\nVendor:\nNonn Threeratchet\nZone:\nWarspear\nCost:\n1\n\nVendor:\nRoyce Bigbeard\nZone:\nStormshield\nCost:\n1\n\n5\n[q2]Frostwall Forge\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260988] = {name = "[q2]Blackrock Weapon Rack", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nShadowmoon Lumber (40), Blackrock Ore (30), Raw Beast Hide (15), Savage Blood (5)\n[q]Create a Blackrock Weapon Rack, which can be placed in your house or sold on the Auction House.\nVendor:\nNonn Threeratchet\nZone:\nWarspear\nCost:\n1\n\nVendor:\nRoyce Bigbeard\nZone:\nStormshield\nCost:\n1\n\n3\n[q2]Blackrock Weapon Rack\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1260990] = {name = "[q2]Ancestral Signal Brazier", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nShadowmoon Lumber (30), Temporal Crystal (12), Sorcerous Fire (8), Sorcerous Earth (4)\n[q]Create an Ancestral Signal Brazier, which can be placed in your house or sold on the Auction House.\nVendor:\nBob\nZone:\nStormshield\nCost:\n1\n\nVendor:\nGed'kah\nZone:\nWarspear\nCost:\n1\n\n3\n[q2]Ancestral Signal Brazier\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261008] = {name = "[q2]Draenethyst String Lights", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nShadowmoon Lumber (10), Luminous Shard (6), Blackrock Ore (5), Sumptuous Fur (5)\n[q]Create Draenethyst String Lights, which can be placed in your house or sold on the Auction House.\nVendor:\nBob\nZone:\nStormshield\nCost:\n1\n\nVendor:\nGed'kah\nZone:\nWarspear\nCost:\n1\n\n\n5\n[q2]Draenethyst String Lights\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261025] = {name = "[q2]Draenei Stargazer's Telescope", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nShadowmoon Lumber (20), Blackrock Ore (20), Temporal Crystal (3), Sorcerous Air (12)\n[q]Create a Draenei Stargazer's Telescope, which can be placed in your house or sold on the Auction House.\nVendor:\nNik Steelrings\nZone:\nWarspear\nCost:\n1\n\nVendor:\nSean Catchpole\nZone:\nStormshield\nCost:\n1\n\n3\n[q2]Draenei Stargazer's Telescope\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261027] = {name = "[q2]Frostwall Architect's Table", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nShadowmoon Lumber (25), True Iron Ore (15), Blackrock Ore (10), Cerulean Pigment (5), Light Parchment (2)\n[q]Create a Frostwall Architect's Table, which can be placed in your house or sold on the Auction House.\nVendor:\nNik Steelrings\nZone:\nWarspear\nCost:\n1\n\nVendor:\nSean Catchpole\nZone:\nStormshield\nCost:\n1\n\n3\n[q2]Frostwall Architect's Table\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261032] = {name = "[q2]Frostwall Elevated Brazier", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nShadowmoon Lumber (25), True Iron Ore (20), Savage Blood (10), Sorcerous Fire (6)\n[q]Create a Frostwall Elevated Brazier, which can be placed in your house or sold on the Auction House.\nVendor:\nJoao Calhandro\nZone:\nStormshield\nCost:\n1\n\nVendor:\nMaru'sa\nZone:\nWarspear\nCost:\n1\n\n3\n[q2]Frostwall Elevated Brazier\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261045] = {name = "[q2]Wooden Shipping Crate", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nShadowmoon Lumber (8), Blackrock Ore (12), Cerulean Pigment (10), Sorcerous Earth (6)\n[q]Create a Wooden Shipping Crate, which can be placed in your house or sold on the Auction House.\nVendor:\nJoao Calhandro\nZone:\nStormshield\nCost:\n1\n\nVendor:\nMaru'sa\nZone:\nWarspear\nCost:\n1\n\n1\n[q2]Wooden Shipping Crate\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261066] = {name = "[q2]Orcish Banded Barrel", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nShadowmoon Lumber (6), Blackrock Ore (8), Cerulean Pigment (6), Sorcerous Earth (4)\n[q]Create an Orcish Banded Barrel, which can be placed in your house or sold on the Auction House.\nVendor:\nJoao Calhandro\nZone:\nStormshield\nCost:\n1\n\nVendor:\nMaru'sa\nZone:\nWarspear\nCost:\n1\n\n1\n[q2]Orcish Banded Barrel\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1261068] = {name = "Cosmic Hearthstone", additional_info = "Instant\n[q]Returns you to Hearthstone Location. Speak to an Innkeeper in a different place to change your home location."}
+MultiLanguageSpellData['en'][1261071] = {name = "[q2]Draenic Basin", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nShadowmoon Lumber (25), Blackrock Ore (20), Sorcerous Water (12), Greater Haste Taladite\n[q]Create a Draenic Basin, which can be placed in your house or sold on the Auction House.\nVendor:\nArtificer Harlaan\nZone:\nStormshield\nCost:\n1\n\nVendor:\nKaevan Highwit\nZone:\nWarspear\nCost:\n1\n\n5\n[q2]Draenic Basin\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261075] = {name = "[q2]Draenethyst Sconce", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nShadowmoon Lumber (8), Blackrock Ore (10), Sumptuous Fur (4), Sorcerous Fire (2), Mastery Taladite\n[q]Create a Draenethyst Sconce, which can be placed in your house or sold on the Auction House.\nVendor:\nArtificer Harlaan\nZone:\nStormshield\nCost:\n1\n\nVendor:\nKaevan Highwit\nZone:\nWarspear\nCost:\n1\n\n1\n[q2]Draenethyst Sconce\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261081] = {name = "[q2]Blackrock Bunkbed", additional_info = "2 sec cast\nReagents:\nShadowmoon Lumber (40), Raw Beast Hide (45), True Iron Ore (20), Sumptuous Fur (15), Primal Spirit (5)\n[q]Create a Blackrock Bunkbed, which can be placed in your house or sold on the Auction House.\nVendor:\nGarm Gladestride\nZone:\nWarspear\nCost:\n1\n\nVendor:\nLeara Moonsilk\nZone:\nStormshield\nCost:\n1\n\n5\n[q2]Blackrock Bunkbed\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261084] = {name = "Bronze Banner of the Exiled", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261085] = {name = "Draenei Smith's Anvil", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261086] = {name = "Draenei Holo-Dais", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261087] = {name = "Draenei Holo-Path", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261088] = {name = "Draenei Crystal Forge", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261089] = {name = "Dalaran Runic Anvil", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261090] = {name = "Stoppered Black Potion", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261091] = {name = "Gilnean Pitchfork", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261092] = {name = "Pandaren Alchemist's Retort", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261093] = {name = "Orcish Felblood Cauldron", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261094] = {name = "Starry Scrying Pool", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261096] = {name = "Boralus Bottle Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261097] = {name = "Zandalari Bottle Shipment", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261098] = {name = "Aspirant's Meditation Pool", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261099] = {name = "Bejeweled Venthyr Chalice", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261100] = {name = "Veil-Secured Animacone", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261101] = {name = "Sintallow Candles", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261102] = {name = "Dragon's Elixir Bottle", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261103] = {name = "Tapestry of the Five Flights", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1261118] = {name = "Terror From Below", additional_info = "100 yd range\nInstant\n[q]Your abilities periodically draw the attention of a behemoth from the deep that seeks your enemy, inflicting [(440% Attack/Spell Power)] Nature damage split evenly between all enemies nearby.\n\n When Terror From Below strikes a Fel Touched enemy it causes Deepsurge Crash , damaging all nearby enemies for [(440% Attack/Spell Power)] nature damage."}
+MultiLanguageSpellData['en'][1261122] = {name = "[q2]Orcish Sleeping Cot", additional_info = "2 sec cast\nReagents:\nShadowmoon Lumber (22), Raw Beast Hide (30), True Iron Ore (15)\n[q]Create an Orcish Sleeping Cot, which can be placed in your house or sold on the Auction House.\nVendor:\nGarm Gladestride\nZone:\nWarspear\nCost:\n1\n\nVendor:\nLeara Moonsilk\nZone:\nStormshield\nCost:\n1\n\n3\n[q2]Orcish Sleeping Cot\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261179] = {name = "Enrage", additional_info = "Instant\n[q]Lets out a guttural howl, increasing damage done by 20% for 15 sec."}
+MultiLanguageSpellData['en'][1261183] = {name = "Sticky Legs", additional_info = "30 yd range\nInstant\n[q]Casters attacks slow targets, and inflict and additional 1 Nature damage.\n(1.5s cooldown)"}
+MultiLanguageSpellData['en'][1261184] = {name = "Sticky Legs", additional_info = nil}
+MultiLanguageSpellData['en'][1261194] = {name = "Aldor Stellar Console", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261195] = {name = "Mark of the Mages' Eye", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261196] = {name = "Twilight Fire Canister", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261197] = {name = "Pandaren Table Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261198] = {name = "Intense Mogu Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261199] = {name = "Venthyr Anima Bottle", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261200] = {name = "Razorwind Covered Well", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1261201] = {name = "Add Apothecary's Worktable to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261204] = {name = "Stampwhistle's Postal Portal", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261205] = {name = "Nerubian Alchemist's Retort", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261231] = {name = "[q2]Argussian Circular Rug", additional_info = "2 sec cast\nReagents:\nShadowmoon Lumber (30), Sumptuous Fur (40), Cerulean Pigment (15), Blackrock Ore (10), Primal Spirit (5)\n[q]Create an Argussian Circular Rug, which can be placed in your house or sold on the Auction House.\nVendor:\nPetir Starocean\nZone:\nWarspear\nCost:\n1\n\nVendor:\nSteven Cochrane\nZone:\nStormshield\nCost:\n1\n\n5\n[q2]Argussian Circular Rug\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261232] = {name = "[q2]Karabor Bed", additional_info = "2 sec cast\nReagents:\nShadowmoon Lumber (35), Sumptuous Fur (50), Cerulean Pigment (12)\n[q]Create a Karabor Bed, which can be placed in your house or sold on the Auction House.\nVendor:\nPetir Starocean\nZone:\nWarspear\nCost:\n1\n\nVendor:\nSteven Cochrane\nZone:\nStormshield\nCost:\n1\n\n5\n[q2]Karabor Bed\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261233] = {name = "[q2]Pandaren Alchemist's Retort", additional_info = "2 sec cast\nReagents:\nBamboo Lumber (6), Ghost Iron Bar (6), Rain Poppy (8), Spirit of Harmony (2)\n[q]Create a Pandaren Alchemist's Retort, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nPandaria Alchemy (60)\nCost:\n1\n\n1\n[q2]Pandaren Alchemist's Retort\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261234] = {name = "[q2]Pandaren Fireplace", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nBamboo Lumber (40), Trillium Bar (35), Spirit of Harmony (6)\n[q]Create a Pandaren Fireplace, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nPandaria Blacksmithing (60)\nCost:\n1\n\n5\n[q2]Pandaren Fireplace\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261235] = {name = "[q2]Pandaren Signal Brazier", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nBamboo Lumber (25), Living Steel (3), Blood Spirit (4), Coal (5)\n[q]Create a Pandaren Signal Brazier, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nPandaria Blacksmithing (60)\nCost:\n1\n\n1\n[q2]Pandaren Signal Brazier\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261236] = {name = "[q2]Halfhill Cookpot", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nBamboo Lumber (30), Trillium Bar (20), Ghost Iron Bolts (12), Spirit of Harmony (8), Coal (10)\n[q]Create a Halfhill Cookpot, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nPandaria Engineering (60)\nCost:\n1\n\n3\n[q2]Halfhill Cookpot\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261237] = {name = "[q2]Hanging Paper Lanterns", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nBamboo Lumber (15), Starlight Ink (5), Bolt of Windwool Cloth (2)\n[q]Create Hanging Paper Lanterns, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nPandaria Inscription (60)\nCost:\n1\n\n5\n[q2]Hanging Paper Lanterns\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261238] = {name = "[q2]Pandaren Wooden Table", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nBamboo Lumber (25), Ink of Dreams (6), Spirit of Harmony (4), Desecrated Oil (5)\n[q]Create a Pandaren Wooden Table, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nPandaria Inscription (60)\nCost:\n1\n\n3\n[q2]Pandaren Wooden Table\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261239] = {name = "[q2]Square Pandaren Table", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nBamboo Lumber (20), Ink of Dreams (6), Spirit of Harmony (4)\n[q]Create a Square Pandaren Table, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nPandaria Inscription (60)\nCost:\n1\n\n1\n[q2]Square Pandaren Table\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261240] = {name = "[q2]Lucky Traveler's Bench", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nBamboo Lumber (20), Ink of Dreams (6), Desecrated Oil (5)\n[q]Create a Lucky Traveler's Bench, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nPandaria Inscription (60)\nCost:\n1\n\n1\n[q2]Lucky Traveler's Bench\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261241] = {name = "[q2]Lorewalker's Bookcase", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nBamboo Lumber (45), Starlight Ink (20), Spirit of Harmony (8), Living Steel (4), Light Parchment (18)\n[q]Create a Lorewalker's Bookcase, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nPandaria Inscription (60)\nCost:\n1\n\n5\n[q2]Lorewalker's Bookcase\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261242] = {name = "[q2]Jade Temple Dragon Fountain", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nBamboo Lumber (50), Orb of Mystery , Trillium Bar (30), Spirit of Harmony (6), Serpent's Eye (2)\n[q]Create a Jade Temple Dragon Fountain, which can be placed in your house or sold on the Auction House.\nProfession:\nPandaria Jewelcrafting (60)\nTrainer:\nMai the Jade Shaper\nZone:\nThe Jade Forest\nCost:\n1\n\n5\n[q2]Jade Temple Dragon Fountain\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261243] = {name = "[q2]Pandaren Stone Wall", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nBamboo Lumber (15), Ghost Iron Bar (10), Spirit of Harmony (2)\n[q]Create a Pandaren Stone Wall, which can be placed in your house or sold on the Auction House.\nProfession:\nPandaria Jewelcrafting (60)\nTrainer:\nMai the Jade Shaper\nZone:\nThe Jade Forest\nCost:\n1\n\n1\n[q2]Pandaren Stone Wall\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261244] = {name = "[q2]Pandaren Stone Post", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nBamboo Lumber (10), Ghost Iron Bar (6), Spirit of Harmony (2)\n[q]Create a Pandaren Stone Post, which can be placed in your house or sold on the Auction House.\nProfession:\nPandaria Jewelcrafting (60)\nTrainer:\nMai the Jade Shaper\nZone:\nThe Jade Forest\nCost:\n1\n\n1\n[q2]Pandaren Stone Post\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261245] = {name = "[q2]Serenity Peak Tent", additional_info = "2 sec cast\nReagents:\nBamboo Lumber (40), Magnificent Hide (8), Starlight Ink (5), Spirit of Harmony (5)\n[q]Create a Serenity Peak Tent, which can be placed in your house or sold on the Auction House.\nProfession:\nPandaria Leatherworking (60)\nTrainer:\nClean Pelt\nZone:\nKun-Lai Summit\nCost:\n1\n\n5\n[q2]Serenity Peak Tent\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261248] = {name = "[q2]Wise Pandaren's Bed", additional_info = "2 sec cast\nReagents:\nBamboo Lumber (30), Magnificent Hide (6), Ink of Dreams (5), Spirit of Harmony (3)\n[q]Create a Wise Pandaren's Bed, which can be placed in your house or sold on the Auction House.\nProfession:\nPandaria Leatherworking (60)\nTrainer:\nClean Pelt\nZone:\nKun-Lai Summit\nCost:\n1\n\n3\n[q2]Wise Pandaren's Bed\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261250] = {name = "[q2]Pandaren Meander Rug", additional_info = "2 sec cast\nReagents:\nBamboo Lumber (25), Bolt of Windwool Cloth (15), Greater Pearlescent Spellthread (2)\n[q]Create Pandaren Meander Rug, which can be placed in your house or sold on the Auction House.\nProfession:\nPandaria Tailoring (60)\nTrainer:\nSilkmaster Tsai\nZone:\nValley of the Four Winds\nCost:\n1\n\n5\n[q2]Pandaren Meander Rug\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261255] = {name = "[q2]Gilnean Cauldron", additional_info = "2 sec cast\nReagents:\nAshwood Lumber (30), Obsidium Bar (16), Volatile Water (40), Deepstone Oil (6), Living Ember\n[q]Create a Gilnean Cauldron, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Alchemy (60)\nCost:\n5\n\n1\n[q2]Gilnean Cauldron\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261256] = {name = "[q2]Gilnean Pitchfork", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nAshwood Lumber (8), Elementium Bar (12), Volatile Earth (6)\n[q]Create a Gilnean Pitchfork, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Blacksmithing (60)\nCost:\n5\n\n1\n[q2]Gilnean Pitchfork\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261258] = {name = "[q2]Gilnean Problem Solver", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nAshwood Lumber (40), Hardened Elementium Bar (4), Handful of Obsidium Bolts (8), Embersilk Cloth (6)\n[q]Create a Gilnean Problem Solver, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Engineering (60)\nCost:\n5\n\n5\n[q2]Gilnean Problem Solver\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261259] = {name = "[q2]Gilnean Wooden Table", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nAshwood Lumber (25), Inferno Ink (8), Volatile Earth (6), Deepstone Oil (4)\n[q]Create a Gilnean Wooden Table, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Inscription (60)\nCost:\n5\n\n3\n[q2]Gilnean Wooden Table\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1261262] = {name = "Arcane Explosion", additional_info = "Instant\n[q]Sends out a blast wave of magic, inflicting Arcane damage to nearby enemies."}
+MultiLanguageSpellData['en'][1261278] = {name = "[q2]Gilnean Rocking Chair", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nAshwood Lumber (25), Inferno Ink (8), Volatile Air (6), Deepstone Oil (4)\n[q]Create a Gilnean Rocking Chair, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Inscription (60)\nCost:\n5\n\n1\n[q2]Gilnean Rocking Chair\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1261283] = {name = "Waterspout", additional_info = nil}
 MultiLanguageSpellData['en'][1261284] = {name = "Waterspout", additional_info = nil}
+MultiLanguageSpellData['en'][1261288] = {name = "[q2]Gilnean Wall Shelf", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nAshwood Lumber (10), Blackfallow Ink (4), Elementium Bar (2)\n[q]Create a Gilnean Wall Shelf, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Inscription (60)\nCost:\n5\n\n3\n[q2]Gilnean Wall Shelf\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261305] = {name = "[q2]Smoke Sconce", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nAshwood Lumber (12), Obsidium Bar (10), Ember Topaz (4), Embersilk Cloth (4), Chaos Orb (2)\n[q]Create a Smoke Sconce, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Jewelcrafting (60)\nCost:\n5\n\n1\n[q2]Smoke Sconce\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261317] = {name = "[q2]Surwich Expedition Tent", additional_info = "2 sec cast\nReagents:\nAshwood Lumber (35), Bolt of Embersilk Cloth (20), Obsidium Bar (6), Powerful Ghostly Spellthread (4)\n[q]Create a Surwich Expedition Tent, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Tailoring (60)\nCost:\n5\n\n5\n[q2]Surwich Expedition Tent\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261327] = {name = "[q2]Dalaran Runic Anvil", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nColdwind Lumber (40), Titansteel Bar (8), Runed Orb (6), Eternal Earth (4)\n[q]Create a Dalaran Runic Anvil, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Blacksmithing (60)\nCost:\n3\n\n3\n[q2]Dalaran Runic Anvil\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261331] = {name = "[q2]Draenei Holo-Dais", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nOlemba Lumber (20), Large Prismatic Shard (4), Greater Planar Essence (4), Arcane Dust (12)\n[q]Create a Draenei Holo-Dais, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Enchanting (60)\nCost:\n2\n50\n\n1\n[q2]Draenei Holo-Dais\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261340] = {name = "[q2]Draenei Holo-Path", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nOlemba Lumber (20), Large Prismatic Shard (4), Greater Planar Essence (4), Arcane Dust (12)\n[q]Create a Draenei Holo-Path, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Enchanting (60)\nCost:\n2\n50\n\n1\n[q2]Draenei Holo-Path\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261347] = {name = "[q2]Bronze Banner of the Exiled", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nOlemba Lumber (20), Khorium Bar (8), Primal Earth (4), Primal Mooncloth (2)\n[q]Create a Bronze Banner of the Exiled, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Blacksmithing (60)\nCost:\n2\n50\n\n3\n[q2]Bronze Banner of the Exiled\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261359] = {name = "[q2]Draenei Crystal Forge", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nOlemba Lumber (50), Hardened Adamantite Bar (8), Khorium Bar (10), Primal Fire (10), Skyfire Diamond (2)\n[q]Create a Draenei Crystal Forge, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Blacksmithing (60)\nCost:\n2\n50\n\n3\n[q2]Draenei Crystal Forge\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261383] = {name = "[q2]Draenei Smith's Anvil", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nOlemba Lumber (25), Hardened Adamantite Bar (4), Khorium Bar (6), Primal Earth (4)\n[q]Create a Draenei Smith's Anvil, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Blacksmithing (60)\nCost:\n2\n50\n\n3\n[q2]Draenei Smith's Anvil\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1261444] = {name = "Epocheric Orb", additional_info = nil}
 MultiLanguageSpellData['en'][1261461] = {name = "Area", additional_info = nil}
 MultiLanguageSpellData['en'][1261462] = {name = "Area", additional_info = nil}
+MultiLanguageSpellData['en'][1261465] = {name = "Naaru Crystal Icon", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261467] = {name = "Tale of the Penultimate Lich King", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261468] = {name = "Large Brazier of Elune", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261469] = {name = "Drained Dark Heart of Galakrond", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261470] = {name = "Scroll of K'aresh's Fall", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261473] = {name = "Tome of the Survivor", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261477] = {name = "Slate Cobblestone Pair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1261495] = {name = "[q2]Stoppered Black Potion", additional_info = "2 sec cast\nReagents:\nIronwood Lumber (10), Dark Rune (2), Black Dye (2), Crystal Vial\n[q]Create a Stoppered Black Potion, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Alchemy (240)\nCost:\n60\n\n1\n[q2]Stoppered Black Potion\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261497] = {name = "[q2]Shadowforge Sconce", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nIronwood Lumber (10), Dark Iron Bar (12), Lava Core (4), Large Brilliant Shard (2)\n[q]Create a Shadowforge Sconce, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Blacksmithing (240)\nCost:\n60\n\n1\n[q2]Shadowforge Sconce\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261499] = {name = "[q2]Steel Ironforge Emblem", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nIronwood Lumber (20), Dark Iron Bar (20), Arcanite Bar (8), Enchanted Leather (4)\n[q]Create a Steel Ironforge Emblem, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Blacksmithing (240)\nCost:\n60\n\n3\n[q2]Steel Ironforge Emblem\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261501] = {name = "[q2]Tirisfal Hollow Campfire", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nIronwood Lumber (20), Greater Eternal Essence (12), Dense Stone (12), Fiery Core (5)\n[q]Create a Tirisfal Hollow Campfire, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Enchanting (240)\nCost:\n60\n\n1\n[q2]Tirisfal Hollow Campfire\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261504] = {name = "[q2]Gnomish Steam-Powered Bed", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nIronwood Lumber (25), Thorium Tube (4), Delicate Arcanite Converter (4), Essence of Fire (4), Bolt of Runecloth (8)\n[q]Create a Gnomish Steam-Powered Bed, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Engineering (240)\nCost:\n60\n\n1\n[q2]Gnomish Steam-Powered Bed\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261506] = {name = "Slate Cobblestone", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1261507] = {name = "Iron-Reinforced Wooden Window", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1261508] = {name = "Slate Cobblestone Path", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1261509] = {name = "[q2]Dark Iron Table Saw", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nIronwood Lumber (40), Dark Iron Bar (12), Delicate Arcanite Converter (8), Essence of Earth (8), Thorium Widget (6)\n[q]Create a Dark Iron Table Saw, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Engineering (240)\nCost:\n60\n\n3\n[q2]Dark Iron Table Saw\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261510] = {name = "Slate Cobblestone Trio", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1261511] = {name = "Add Suramar Stepping Stone to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261513] = {name = "Zandalari War Torch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261514] = {name = "Add Trueshot Lodge Food Nook to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261515] = {name = "Replica Saga of the Valarjar", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261516] = {name = "Tauren Storyteller's Frame", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261517] = {name = "Add \"Portrait of the Artist as a Young Goblin\" Painting to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261518] = {name = "Zandalari War Brazier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261523] = {name = "Highmountain Tanner's Frame", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261524] = {name = "Skyhorn Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261527] = {name = "\"Unity of Thorns\" Tapestry", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261528] = {name = "Maelstrom Lava Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261529] = {name = "Pyrewood Glass Bottle", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261533] = {name = "Baradin Bay Fishing Rack", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261537] = {name = "Smoke Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261538] = {name = "Standing Smoke Lamp", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261539] = {name = "Stoppered Gilnean Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261542] = {name = "Add Ornate Sin'dorei Sconce to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261544] = {name = "Sin'dorei Crafter's Forge", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261545] = {name = "Add Silvermoon Spire Fountain to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261547] = {name = "Add Bejeweled Silvermoon Chandelier to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261548] = {name = "Gilded Sunfury Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261549] = {name = "[q2]Brill Coffin Lid", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nIronwood Lumber (15), Essence of Undeath (4), Essence of Earth (4), Ink of the Sky (2)\n[q]Create a Brill Coffin Lid, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Inscription (240)\nCost:\n60\n\n3\n[q2]Brill Coffin Lid\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261572] = {name = "[q2]Brill Coffin", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nIronwood Lumber (25), Essence of Undeath (8), Essence of Earth (8), Ink of the Sky (5)\n[q]Create a Brill Coffin, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Inscription (240)\nCost:\n60\n\n3\n[q2]Brill Coffin\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261587] = {name = "[q2]Kharanos Bookcase", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nIronwood Lumber (50), Scroll of Intellect IV (50), Dense Stone (24), Thorium Bar (12)\n[q]Create a Kharanos Bookcase, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Inscription (240)\nCost:\n60\n\n5\n[q2]Kharanos Bookcase\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261644] = {name = "[q2]Wooden Ironforge Table", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nIronwood Lumber (45), Truesilver Bar (12), Royal Ink (8), Enchanted Leather (8), Mithril Filigree (4)\n[q]Create a Wooden Ironforge Table, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Inscription (240)\nCost:\n60\n\n3\n[q2]Wooden Ironforge Table\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1261647] = {name = "Fragment of Despair", additional_info = nil}
+MultiLanguageSpellData['en'][1261659] = {name = "[q2]Ironforge Chandelier", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nIronwood Lumber (30), Truesilver Bar (12), Mithril Filigree (8), Large Opal (8)\n[q]Create an Ironforge Chandelier, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Jewelcrafting (240)\nCost:\n60\n\n1\n[q2]Ironforge Chandelier\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261661] = {name = "Summon Broom", additional_info = "100 yd range\n6 sec cast\n[q]Animates a broom to fight for the caster."}
+MultiLanguageSpellData['en'][1261667] = {name = "[q2]Blackrock Lamppost", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nIronwood Lumber (40), Dark Iron Bar (16), Star Ruby (20), Lava Core (6)\n[q]Create a Blackrock Lamppost, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Jewelcrafting (240)\nCost:\n60\n\n3\n[q2]Blackrock Lamppost\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261668] = {name = "Bronze Wilderling", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The regal wilderlings twist through the sky, free as the unbound magic that sustains their flight.\"\nAchievement:\nMaster of the Turbulent Timeways IV\nCategory:\nTimewalking"}
+MultiLanguageSpellData['en'][1261671] = {name = "Bronze Aquilon", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The reliable steeds of Bastion are designed to mirror the proud and noble warriors of the Ascended.\"\nAchievement:\nMaster of the Turbulent Timeways IV\nCategory:\nTimewalking"}
+MultiLanguageSpellData['en'][1261672] = {name = "[q2]Loch Modan Bearskin Rug", additional_info = "2 sec cast\nReagents:\nIronwood Lumber (15), Rugged Leather (12), Cured Rugged Hide (2), Rune Thread (2)\n[q]Create a Loch Modan Bearskin Rug, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Leatherworking (240)\nCost:\n60\n\n5\n[q2]Loch Modan Bearskin Rug\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1261676] = {name = "Lil' Coalee", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1261677] = {name = "Bronze Corpsefly", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"It takes a great deal of effort to decorate a corpsefly, but some would say the efforts are worth it.\"\nAchievement:\nMaster of the Turbulent Timeways IV\nCategory:\nTimewalking"}
+MultiLanguageSpellData['en'][1261681] = {name = "Bronze Gravewing", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"While dark and ominous is the preferred aesthetic of those who reside in Revendreth, there are some who still favor gleaming luster.\"\nAchievement:\nMaster of the Turbulent Timeways IV\nCategory:\nTimewalking"}
 MultiLanguageSpellData['en'][1261687] = {name = "Lil' Ashlee", additional_info = "Instant\n[q]Right Click to summon and dismiss this companion."}
+MultiLanguageSpellData['en'][1261688] = {name = "[q2]Elder Rise Rug", additional_info = "2 sec cast\nReagents:\nIronwood Lumber (18), Bolt of Runecloth (12), Red Dye (4), Rune Thread (2)\n[q]Create an Elder Rise Rug, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Tailoring (240)\nCost:\n60\n\n3\n[q2]Elder Rise Rug\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261695] = {name = "[q2]Dwarven District Banner", additional_info = "2 sec cast\nReagents:\nIronwood Lumber (25), Mooncloth (12), Yellow Dye (20), Rune Thread (4), Golden Pearl (2)\n[q]Create a Dwarven District Banner, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Tailoring (240)\nCost:\n60\n\n5\n[q2]Dwarven District Banner\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1261696] = {name = "Monitor", additional_info = nil}
+MultiLanguageSpellData['en'][1261767] = {name = "Add \"That Thing What You've Always Needed\" Advertisement to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261768] = {name = "Suramar Stepping Stone Set", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1261772] = {name = "Loot", additional_info = nil}
 MultiLanguageSpellData['en'][1261800] = {name = "Essence Implosion", additional_info = "300 yd range\nInstant\n[q]The Binding Chamber expires and bursts outward, inflicting 7 Arcane damage."}
+MultiLanguageSpellData['en'][1261802] = {name = "Height Advantage", additional_info = nil}
+MultiLanguageSpellData['en'][1261850] = {name = "Add Small Gilnean Windmill to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261851] = {name = "Elegant Padded Chaise", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1261852] = {name = "Open Elegant Elven Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1261853] = {name = "Elegant Curved Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1261857] = {name = "Add Snowfall Tribe Scare-Totem to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261858] = {name = "Add Gilnean Green Potion to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261859] = {name = "Add Gilnean Postbox to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261860] = {name = "Add Gilnean Map to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261878] = {name = "[q2]Nerubian Alchemist's Retort", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (8), Viridian Charmcap (2), Gilded Vial , Slumbering Soul Serum (3)\n[q]Create a Nerubian Alchemist's Retort, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Alchemy (80)\nCost:\n200\n\n1\n[q2]Nerubian Alchemist's Retort\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261882] = {name = "[q2]Dragon's Elixir Bottle", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (7), Scribe's Fastened Quill , Aerated Mana Potion (3), Draconic Vial\n[q]Create a Dragon's Elixir Bottle, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Alchemy (80)\nCost:\n5\n\n1\n[q2]Dragon's Elixir Bottle\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261885] = {name = "[q2]Verdant Valdrakken Vase", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (28), Awakened Earth (4), Khaz'gorite Ore (3), Omnium Draconis (6), Glossy Stone (6)\n[q]Create a Verdant Valdrakken Vase, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Alchemy (80)\nCost:\n5\n\n3\n[q2]Verdant Valdrakken Vase\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261892] = {name = "[q2]Valdrakken Hanging Cauldron", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nDragonpine Lumber (46), Rot Resistant Cauldron , Wildercloth (4), Khaz'gorite Ore (9), Potion of Frozen Focus (5)\n[q]Create a Valdrakken Hanging Cauldron, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Blacksmithing (80)\nCost:\n5\n\n5\n[q2]Valdrakken Hanging Cauldron\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261896] = {name = "[q2]Wingrest Signal Brazier", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nDragonpine Lumber (42), Primal Molten Alloy (12), Queen's Ruby , Mystic Sapphire , Vibrant Emerald , Sundered Onyx , Eternity Amber\n[q]Create a Wingrest Signal Brazier, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Blacksmithing (80)\nCost:\n5\n\n5\n[q2]Wingrest Signal Brazier\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261911] = {name = "Fear", additional_info = nil}
+MultiLanguageSpellData['en'][1261919] = {name = "[q2]Five Flights' Grimoire", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nDragonpine Lumber (16), Wildercloth (2), Awakened Air , Glittering Parchment (4), Vibrant Shard (6)\n[q]Create a Five Flights' Grimoire, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Enchanting (80)\nCost:\n5\n\n3\n[q2]Five Flights' Grimoire\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261933] = {name = "[q3]Draconic Scribe's Basin", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nDragonpine Lumber (50), Five Flights' Grimoire , Resonant Crystal (5), Glittering Parchment (9), Khaz'gorite Ore (10)\n[q]Create a Draconic Scribe's Basin, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Enchanting (80)\nCost:\n5\n\n5\n[q3]Draconic Scribe's Basin\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261940] = {name = "[q2]Tapestry of the Five Flights", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (28), Fractured Glass (3), Serevite Ore (3), Chronocloth Bolt , Azureweave Bolt , Frozen Spellthread (2)\n[q]Create a Tapestry of the Five Flights, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Tailoring (80)\nCost:\n5\n\n1\n[q2]Tapestry of the Five Flights\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261949] = {name = "Skyhorn Arrow Kite", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261950] = {name = "Hanging Arrow Kite", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261951] = {name = "Skyhorn Eagle Kite", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261952] = {name = "Add Bloodtotem Banner to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261953] = {name = "Camp Narache Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261958] = {name = "[q2]Veil-Secured Animacone", additional_info = "2 sec cast\nReagents:\nArden Lumber (12), Ground Nightshade (3), Twilight Bark (2), Essence of Rebirth (2)\n[q]Create a Veil-Secured Animacone, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Alchemy (140)\nTrainer:\nElixirist Au'pyr\nZone:\nOribos\nCost:\n5\n\n3\n[q2]Veil-Secured Animacone\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261972] = {name = "[q2]Sintallow Candles", additional_info = "2 sec cast\nReagents:\nArden Lumber (9), Ground Widowbloom (4), Sealing Wax (6), Shrouded Cloth (2)\n[q]Create Sintallow Candles, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Alchemy (140)\nTrainer:\nElixirist Au'pyr\nZone:\nOribos\nCost:\n5\n\n1\n[q2]Sintallow Candles\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261980] = {name = "[q2]Bejeweled Venthyr Chalice", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nArden Lumber (8), Sinvyr Ore (3), Laestrite Ore (5), Angerseye , Essence of Torment\n[q]Create a Bejeweled Venthyr Chalice, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Blacksmithing (80)\nTrainer:\nSmith Au'berk\nZone:\nOribos\nCost:\n5\n\n1\n[q2]Bejeweled Venthyr Chalice\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261982] = {name = "[q2]Aspirant's Meditation Pool", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nArden Lumber (45), Enchanted Elethium Bar (15), Laestrite Ore (20), Aerated Water (20), Essence of Valor (5)\n[q]Create an Aspirant's Meditation Pool, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Blacksmithing (80)\nTrainer:\nSmith Au'berk\nZone:\nOribos\nCost:\n5\n\n5\n[q2]Aspirant's Meditation Pool\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1261998] = {name = "[q2]Venthyr Anima Bottle", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nArden Lumber (6), Soul Dust (4), Sinvyr Ore (3)\n[q]Create a Venthyr Anima Bottle, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Enchanting (90)\nTrainer:\nImbuer Au'vresh\nZone:\nOribos\nCost:\n5\n\n1\n[q2]Venthyr Anima Bottle\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262005] = {name = "[q2]Boralus Bottle Lamp", additional_info = "2 sec cast\nReagents:\nDarkpine Lumber (5), Crystal Vial , Sea Stalk (8), Tidespray Linen (4)\n[q]Create a Boralus Bottle Lamp, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nShadowlands Alchemy (140)\nCost:\n5\n\n1\n[q2]Boralus Bottle Lamp\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1262008] = {name = "Tentacle Strike", additional_info = "Unlimited range\nInstant\n[q]Helya's tentacle emerges at the front or back of the platform.\n\n The tentacle strikes the ground after several seconds, inflicting 71011 Nature damage, divided amongst all enemies struck.\n\n If the tentacle impacts the ground without resistance, it sends shockwaves across the platform, inflicting 71011 Nature damage to all players."}
+MultiLanguageSpellData['en'][1262010] = {name = "Stampede", additional_info = nil}
+MultiLanguageSpellData['en'][1262011] = {name = "[q2]Orcish Felblood Cauldron", additional_info = "2 sec cast\nReagents:\nShadowmoon Lumber (25), Felblight (15), True Iron Ore (10), Alchemical Catalyst (20)\n[q]Create an Orcish Felblood Cauldron, which can be placed in your house or sold on the Auction House.\nVendor:\nJoshua Alvarez\nZone:\nWarspear\nCost:\n1\n\nVendor:\nKatherine Joplin\nZone:\nStormshield\nCost:\n1\n\n1\n[q2]Orcish Felblood Cauldron\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262026] = {name = "Scorched", additional_info = nil}
+MultiLanguageSpellData['en'][1262038] = {name = "Blaster Delivery!", additional_info = nil}
+MultiLanguageSpellData['en'][1262045] = {name = "Scorched", additional_info = nil}
+MultiLanguageSpellData['en'][1262048] = {name = "X-Treme Winter Blaster", additional_info = nil}
+MultiLanguageSpellData['en'][1262064] = {name = "Stampede", additional_info = "30 yd range\nInstant\n[q]Charge forward while trampling enemies, inflicting 0 Physical damage."}
+MultiLanguageSpellData['en'][1262090] = {name = "Stampede", additional_info = "30 yd range\nInstant\n[q]Knocks an enemy back.\n Inflicts 45 Physical damage to an enemy."}
+MultiLanguageSpellData['en'][1262122] = {name = "Add Dalaran Kafa Press to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262136] = {name = "Add Scaled Twilight Mosaic to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262151] = {name = "[q2]Zandalari Bottle Shipment", additional_info = "2 sec cast\nReagents:\nDarkpine Lumber (12), Crystal Vial (3), Anchor Weed (3)\n[q]Create a Zandalari Bottle Shipment, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Alchemy (140)\nCost:\n5\n\n1\n[q2]Zandalari Bottle Shipment\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262152] = {name = "[q2]Starry Scrying Pool", additional_info = "2 sec cast\nReagents:\nFel-Touched Lumber (18), Arkhana (12), Starlight Rose (2), Ancient Mana Potion (5)\n[q]Create a Starry Scrying Pool, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nLegion Alchemy (80)\nCost:\n40\n\n3\n[q2]Starry Scrying Pool\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262154] = {name = "[q2]Arcan'dor Cutting Fountain", additional_info = "2 sec cast\nReagents:\nFel-Touched Lumber (50), Demonsteel Bar (25), Felwort (5), Ancient Mana Potion (15), Sylvan Elixir (20)\n[q]Create an Arcan'dor Cutting Fountain, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nLegion Alchemy (80)\nCost:\n40\n\n5\n[q2]Arcan'dor Cutting Fountain\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262217] = {name = "Drustvar", additional_info = nil}
+MultiLanguageSpellData['en'][1262238] = {name = "[q2]Nightspire Fountain", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nFel-Touched Lumber (48), Demonsteel Bar (25), Leylight Shard (25), Ancient Mana Potion (10), Blood of Sargeras (3)\n[q]Create a Nightspire Fountain, which can be placed in your house or sold on the Auction House.\nProfession:\nLegion Enchanting (80)\nTrainer:\nEnchanter Nalthanis\nZone:\nDalaran\nCost:\n40\n\n5\n[q2]Nightspire Fountain\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262242] = {name = "Lightweight", additional_info = nil}
 MultiLanguageSpellData['en'][1262257] = {name = "Return", additional_info = "40 yd range\n10 sec cast\n[q]Brings a dead party member back to life with 35% health and mana. Cannot be cast when in combat."}
+MultiLanguageSpellData['en'][1262260] = {name = "Lightweight", additional_info = nil}
+MultiLanguageSpellData['en'][1262273] = {name = "[q2]Highmountain Tanner's Frame", additional_info = "2 sec cast\nReagents:\nFel-Touched Lumber (34), Stonehide Leather (25), Felhide (5), Unbroken Claw (10)\n[q]Create a Highmountain Tanner's Frame, which can be placed in your house or sold on the Auction House.\nProfession:\nLegion Leatherworking (80)\nTrainer:\nNamha Moonwater\nZone:\nDalaran\nCost:\n40\n\n3\n[q2]Highmountain Tanner's Frame\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1262285] = {name = "<DNT> Placeholder Text", additional_info = nil}
+MultiLanguageSpellData['en'][1262301] = {name = "Maximal Magnitude", additional_info = nil}
+MultiLanguageSpellData['en'][1262302] = {name = "[q2]Intense Mogu Brazier", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nBamboo Lumber (30), Sha Crystal (15), Haunting Spirit (4), Coal (5)\n[q]Create an Intense Mogu Brazier, which can be placed in your house or sold on the Auction House.\nProfession:\nPandaria Enchanting (60)\nTrainer:\nLai the Spellpaw\nZone:\nThe Jade Forest\nCost:\n1\n\n3\n[q2]Intense Mogu Brazier\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262306] = {name = "[q2]Pandaren Table Lamp", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nBamboo Lumber (8), Ethereal Shard (9), Windwool Cloth (4), Spirit of Harmony (2)\n[q]Create a Pandaren Table Lamp, which can be placed in your house or sold on the Auction House.\nProfession:\nPandaria Enchanting (60)\nTrainer:\nLai the Spellpaw\nZone:\nThe Jade Forest\nCost:\n1\n\n1\n[q2]Pandaren Table Lamp\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262308] = {name = "[q2]Standing Smoke Lamp", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nAshwood Lumber (35), Obsidium Bar (20), Ember Topaz (8), Chaos Orb (4)\n[q]Create a Standing Smoke Lamp, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Blacksmithing (60)\nCost:\n5\n\n1\n[q2]Standing Smoke Lamp\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262318] = {name = "[q2]Twilight Fire Canister", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nAshwood Lumber (20), Maelstrom Crystal (8), Volatile Air (20), Hardened Elementium Bar (2), Living Ember\n[q]Create a Twilight Fire Canister, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Enchanting (60)\nCost:\n5\n\n1\n[q2]Twilight Fire Canister\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262331] = {name = "[q2]Pyrewood Glass Bottle", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nAshwood Lumber (8), Crystal Vial , Hypnotic Dust (6), Volatile Fire (3)\n[q]Create a Pyrewood Glass Bottle, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Enchanting (60)\nCost:\n5\n\n1\n[q2]Pyrewood Glass Bottle\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262340] = {name = "[q2]Small Gilnean Windmill", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nAshwood Lumber (50), Obsidium Bar (15), Handful of Obsidium Bolts (6), Savage Leather (12), Electrified Ether (5)\n[q]Create a Small Gilnean Windmill, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Engineering (60)\nCost:\n5\n\n5\n[q2]Small Gilnean Windmill\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262357] = {name = "[q2]Smoke Lamp", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nAshwood Lumber (8), Obsidium Bar (6), Ember Topaz (4), Chaos Orb (2)\n[q]Create a Smoke Lamp, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Jewelcrafting (60)\nCost:\n5\n\n1\n[q2]Smoke Lamp\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262370] = {name = "[q2]\"Unity of Thorns\" Tapestry", additional_info = "2 sec cast\nReagents:\nAshwood Lumber (26), Dreamcloth (2), Obsidium Bar (2), Eternium Thread (8), Inferno Ink (6)\n[q]Create a \"Unity of Thorns\" Tapestry, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Tailoring (60)\nCost:\n5\n\n3\n[q2]&quot;Unity of Thorns&quot; Tapestry\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262462] = {name = "Add Pandaren Wooden Cart to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262463] = {name = "Add Grummle Kafa Refinery to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262464] = {name = "Add Hyjal Climbing Vine to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262465] = {name = "Add Ancient Zandalari Ritual Scroll to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262467] = {name = "Add Commander's Kafa Mug to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262468] = {name = "Add Open Sack of Roasted Kafa to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262469] = {name = "Add Kafa Creamer to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262470] = {name = "Add Legerdemain Lounge Sign Board to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262471] = {name = "Add Dalaran Kafa Grinder to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262472] = {name = "Add Pylon Fragment to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262474] = {name = "Add Dalaran Kafa Table to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262476] = {name = "Add Ornamental Proudmoore Anchor to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262482] = {name = "Add Gnomeregan Recyli-Kiln to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262485] = {name = "Add Green Thumb's Watering Can to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262486] = {name = "Add Forbidden Fork to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262487] = {name = "Add Draconic Auctioneer's Lectern to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262488] = {name = "Add Obsidian Warder Pennant to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262489] = {name = "Add Roasted Ram Leg to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262490] = {name = "Add Draconic Trader's Cart to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262491] = {name = "Add War Creche Teaching Crystal to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1262502] = {name = "Document", additional_info = "70 yd range\nInstant\n[q]Stand still to take pictures of nearby flora or fauna."}
+MultiLanguageSpellData['en'][1262572] = {name = "Ensemble: Sorcerer's Midnight Garb", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262576] = {name = "Ensemble: Sorcerer's Azure Garb", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262584] = {name = "Ensemble: Sorcerer's Sepia Garb", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262585] = {name = "Ensemble: Sorcerer's Grassy Garb", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262591] = {name = "Ensemble: Sorcerer's Cloudy Garb", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262592] = {name = "Ensemble: Sorcerer's Deep Garb", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262613] = {name = "Ensemble: Sorcerer's Camo Garb", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262615] = {name = "Ensemble: Sorcerer's Brick Garb", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262632] = {name = "Frangible Field", additional_info = nil}
+MultiLanguageSpellData['en'][1262634] = {name = "Lightweight", additional_info = "Instant\n(Proc chance: 80%)"}
+MultiLanguageSpellData['en'][1262639] = {name = "Ensemble: Sorcerer's Lively Garb", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262640] = {name = "Ensemble: Sorcerer's Faded Garb", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262641] = {name = "Ensemble: Sorcerer's Carrot Garb", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262642] = {name = "Ensemble: Sorcerer's Rosy Garb", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262644] = {name = "Ensemble: Sorcerer's Plum Raiment", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262674] = {name = "Return", additional_info = nil}
+MultiLanguageSpellData['en'][1262725] = {name = "Ensemble: Sorcerer's Crimson Raiment", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262728] = {name = "Ensemble: Sorcerer's Violet Raiment", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262729] = {name = "Ensemble: Sorcerer's Aquatic Raiment", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262730] = {name = "Ensemble: Sorcerer's Snowy Raiment", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1262732] = {name = "Ensemble: Sorcerer's Sunny Raiment", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1262734] = {name = "Argus Explorer", additional_info = "Instant\n[q]Increases mounted movement speed on Argus by 20%."}
+MultiLanguageSpellData['en'][1262824] = {name = "[q2]Mark of the Mages' Eye", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nColdwind Lumber (12), Abyss Crystal (2), Greater Cosmic Essence (6), Infinite Dust (8)\n[q]Create a Mark of the Mages' Eye, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Enchanting (60)\nCost:\n4\n\n1\n[q2]Mark of the Mages' Eye\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262825] = {name = "[q2]Stampwhistle's Postal Portal", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nColdwind Lumber (20), Abyss Crystal (3), Greater Cosmic Essence (3), Titanium Bar (4), Bolt of Frostweave (6)\n[q]Create Stampwhistle's Postal Portal, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Enchanting (60)\nCost:\n4\n\n1\n[q2]Stampwhistle's Postal Portal\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262828] = {name = "[q2]Aldor Stellar Console", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nOlemba Lumber (40), Void Crystal (6), Large Prismatic Shard (6), Greater Planar Essence (8), Arcane Dust (20)\n[q]Create a Aldor Stellar Console, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Enchanting (60)\nCost:\n2\n50\n\n3\n[q2]Aldor Stellar Console\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262829] = {name = "[q2]Apothecary's Worktable", additional_info = "2 sec cast\nReagents:\nIronwood Lumber (40), Essence of Undeath (16), Arcanite Bar (12), Black Lotus (8), Crystal Vial (6)\n[q]Create an Apothecary's Worktable, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Alchemy (240)\nCost:\n60\n\n3\n[q2]Apothecary's Worktable\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262867] = {name = "Add Nazjatar Framing Post to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262868] = {name = "Add Spirit Anemones to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262869] = {name = "Add Elegant Silvermoon Dessert Tray to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262870] = {name = "Eversong Party Platter", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262871] = {name = "Empty Lorewalker's Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262872] = {name = "Orgrimmar Bathtub", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1262886] = {name = "Geargrinder Mk. 11", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Undergoes a new iteration each time it explodes!\"\nAchievement:\nWorldsoul-Searching\nCategory:\nExpansion Features"}
+MultiLanguageSpellData['en'][1262890] = {name = "Pile of Candy", additional_info = nil}
+MultiLanguageSpellData['en'][1262915] = {name = "Ensemble: Corrupted Regalia of the Crusader", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
 MultiLanguageSpellData['en'][1262928] = {name = "Teleport: Dalaran", additional_info = nil}
 MultiLanguageSpellData['en'][1262934] = {name = "Check", additional_info = nil}
 MultiLanguageSpellData['en'][1262938] = {name = "Check", additional_info = nil}
+MultiLanguageSpellData['en'][1262944] = {name = "Outland Mag'har Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262945] = {name = "Arakkoa Decoy Scarecrow", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262946] = {name = "Talon King's Totem", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262947] = {name = "Draenei Holo-Projector Pedestal", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262948] = {name = "Tempest Keep Cryo-Pod", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262949] = {name = "Draenei Weaver's Loom", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262950] = {name = "Draenei Transmitter", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262951] = {name = "Crystal Signpost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262952] = {name = "Gilded Draenei Round Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262953] = {name = "Aldor Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262954] = {name = "Shattrath Sconce", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262955] = {name = "Shattrath Lamppost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262956] = {name = "Grand Drape of the Exiles", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262957] = {name = "Silver Dalaran Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262958] = {name = "Dalaran Post", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262960] = {name = "Wolvar Postbag", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262963] = {name = "Gilded Dalaran Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262964] = {name = "Add Dalaran Scholar's Bookcase to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262965] = {name = "Kirin Tor Sun Chandelier", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262966] = {name = "Kirin Tor Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262968] = {name = "Dalaran Street Sign", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262969] = {name = "Kirin Tor Glass Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262970] = {name = "San'layn Blood Orb", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262971] = {name = "Icecrown Plague Canister", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262976] = {name = "Pandaren Alchemist's Kit", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262977] = {name = "Halaa Bench", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262979] = {name = "Reconstructed Mogu Lightning Drill", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262991] = {name = "Add Driftwood Barrel to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262992] = {name = "Add Murloc Driftwood Hut to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262993] = {name = "Add Driftwood Junk Pile to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262994] = {name = "Add Shellscale Standard to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1262995] = {name = "Add Murloc's Wind Chimes to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263003] = {name = "Duskwood", additional_info = nil}
+MultiLanguageSpellData['en'][1263006] = {name = "Dalaran Display Shelves", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263007] = {name = "Failed Failure Detection Pylon", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263008] = {name = "Dalaran Auto-Hammer", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263009] = {name = "Suramar Jeweler's Assortment", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263010] = {name = "Add Naga's Scale Bag to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263011] = {name = "Add Azshara's Eternal Prize to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263012] = {name = "Add Azsharan Brazier to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263013] = {name = "Aspiring Soul's Chair", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263014] = {name = "Ardenweald Lamppost", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263015] = {name = "Maldraxxian Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263016] = {name = "Tome of Maldraxxian Rituals", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263017] = {name = "Kyrian Anima Barrel", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263018] = {name = "Hollow Night Fae Shrine", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263019] = {name = "Broker's Hex Table", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263020] = {name = "Ardenweald Hanging Baskets", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263021] = {name = "Large Revendreth Storage Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263022] = {name = "Margrave's Stitched Leather Rug", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263025] = {name = "Cartel Ta Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263029] = {name = "Cartel Xy Capture Crate", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263030] = {name = "Ensemble: Twilight Regalia of the Crusader", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1263035] = {name = "Titanic Tyrhold Fountain", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263037] = {name = "Add Kobold Digger's Chair to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263038] = {name = "Add Kobold Candle Trio to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263039] = {name = "Add Kobold Wagon to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263040] = {name = "Add Candle-Festooned Wooden Awning to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263042] = {name = "Add Waxmaster's Candle Rack to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263043] = {name = "Ensemble: Vengeful Regalia of the Crusader", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1263084] = {name = "Toggle Find Lumber", additional_info = "{Instant} {1.5 sec cooldown}\n[q]Activate to show lumber nodes on the minimap."}
+MultiLanguageSpellData['en'][1263085] = {name = "Add Thunder Bluff Totem to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263122] = {name = "Kirin Tor Skyline Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263123] = {name = "Hanging Felsteel Cage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263124] = {name = "Add Sparse Razorwind Fisher's Rack to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263125] = {name = "Gilnean Washing Line", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263126] = {name = "Pandaren Fishing Net", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263127] = {name = "Beloved Elekk Plushie", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263128] = {name = "Add Flying Skyhorn Eagle Kite to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263132] = {name = "Add K'areshi Warp Platform to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263133] = {name = "Add Razorwind Fisher's Rack to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263138] = {name = "Petting", additional_info = "3 yd range\n4 sec cast\n[q]Pet a cute creature!"}
+MultiLanguageSpellData['en'][1263140] = {name = "Ensemble: Pious Regalia of the Crusader", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1263150] = {name = "Add Naakroan Brazier to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263151] = {name = "Add Shadowguard Collection Pylon to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263152] = {name = "Add K'areshi Protectorate Portal to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263153] = {name = "Add Shadowguard Energy Siphon to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263159] = {name = "Security's Held Clipboard", additional_info = nil}
+MultiLanguageSpellData['en'][1263237] = {name = "[q2]Titanic Tyrhold Fountain", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nDragonpine Lumber (50), Awakened Order (4), Iridescent Water (20), Glowing Titan Orb (2), Handful of Serevite Bolts (8), Greased-Up Gears (7), Reinforced Machine Chassis (9)\n[q]Create a Titanic Tyrhold Fountain, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Engineering (80)\nCost:\n5\n\n5\n[q2]Titanic Tyrhold Fountain\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263238] = {name = "[q2]Ardenweald Lamppost", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nArden Lumber (30), Eternal Crystal (8), Soul Dust (15), Twilight Bark (6)\n[q]Create an Ardenweald Lamppost, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Enchanting (90)\nTrainer:\nImbuer Au'vresh\nZone:\nOribos\nCost:\n5\n\n3\n[q2]Ardenweald Lamppost\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263239] = {name = "[q2]Kyrian Anima Barrel", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nArden Lumber (18), Solenium Ore (6), Umbryl (2), Porous Polishing Abrasive (4), Essence of Valor (2)\n[q]Create a Kyrian Anima Barrel, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Engineering (80)\nTrainer:\nMachinist Au'gur\nZone:\nOribos\nCost:\n5\n\n1\n[q2]Kyrian Anima Barrel\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263240] = {name = "[q2]Cartel Xy Capture Crate", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nArden Lumber (42), Laestrite Skeleton Key , Handful of Laestrite Bolts (8), Shadowghast Ingot (15), Mortal Coiled Spring (6), Porous Polishing Abrasive (4)\n[q]Create a Cartel Xy Capture Crate, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Engineering (80)\nTrainer:\nMachinist Au'gur\nZone:\nOribos\nCost:\n5\n\n5\n[q2]Cartel Xy Capture Crate\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263241] = {name = "[q2]Broker's Hex Table", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nArden Lumber (24), Lightless Silk (8), Laestrite Ore (8), Luminous Ink (8)\n[q]Create a Broker's Hex Table, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Inscription (80)\nTrainer:\nScribe Au'tehshi\nZone:\nOribos\nCost:\n5\n\n1\n[q2]Broker's Hex Table\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263243] = {name = "[q2]Cartel Ta Bookcase", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nArden Lumber (35), Solenium Ore (10), Luminous Ink (16), Umbryl\n[q]Create a Cartel Ta Bookcase, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Inscription (80)\nTrainer:\nScribe Au'tehshi\nZone:\nOribos\nCost:\n5\n\n1\n[q2]Cartel Ta Bookcase\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263247] = {name = "[q2]Ardenweald Hanging Baskets", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nArden Lumber (16), Shrouded Cloth (5), Twilight Bark (5)\n[q]Create Ardenweald Hanging Baskets, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Inscription (80)\nTrainer:\nScribe Au'tehshi\nZone:\nOribos\nCost:\n5\n\n3\n[q2]Ardenweald Hanging Baskets\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263264] = {name = "Umbra Bolt", additional_info = "20 yd range\n2 sec cast\n[q]Hurls a bolt of void energy at the target, inflicting Shadow damage."}
+MultiLanguageSpellData['en'][1263271] = {name = "Flipping Out", additional_info = nil}
+MultiLanguageSpellData['en'][1263272] = {name = "[q2]Aspiring Soul's Chair", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nArden Lumber (28), Luminous Ink (15), Umbryl (2)\n[q]Create an Aspiring Soul's Chair, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Inscription (80)\nTrainer:\nScribe Au'tehshi\nZone:\nOribos\nCost:\n5\n\n3\n[q2]Aspiring Soul's Chair\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263273] = {name = "Housing", additional_info = "Instant\n[q]Unlocks access to your very own house."}
+MultiLanguageSpellData['en'][1263275] = {name = "Flipping Out", additional_info = "Instant\n[q]Knocks all enemies within 3 yards of the impact back.\n Inflicts 65 Physical damage to enemies within 3 yards of the impact."}
+MultiLanguageSpellData['en'][1263278] = {name = "[q2]Large Revendreth Storage Crate", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nArden Lumber (20), Sinvyr Ore (5), Umbral Ink (10)\n[q]Create a Large Revendreth Storage Crate, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Inscription (80)\nTrainer:\nScribe Au'tehshi\nZone:\nOribos\nCost:\n5\n\n3\n[q2]Large Revendreth Storage Crate\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263281] = {name = "Flipping Out", additional_info = "2 sec cast\n[q]Watch out, Doomflipper is losing it! Run!"}
+MultiLanguageSpellData['en'][1263285] = {name = "[q2]Tome of Maldraxxian Rituals", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nArden Lumber (10), Tranquil Ink (5), Straddling Jewel Doublet , Pallid Bone (8), Dark Parchment (10), Essence of Servitude (2)\n[q]Create a Tome of Maldraxxian Rituals, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Inscription (80)\nTrainer:\nScribe Au'tehshi\nZone:\nOribos\nCost:\n5\n\n1\n[q2]Tome of Maldraxxian Rituals\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1263286] = {name = "Ensemble: Wooly Wendigo", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1263293] = {name = "[q2]Hollow Night Fae Shrine", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nArden Lumber (50), Tranquil Ink (25), Soul Dust (15), Essence of Rebirth (8), Shrouded Cloth (4), Twilight Bark (4)\n[q]Create a Hollow Night Fae Shrine, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Inscription (80)\nTrainer:\nScribe Au'tehshi\nZone:\nOribos\nCost:\n5\n\n5\n[q2]Hollow Night Fae Shrine\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263308] = {name = "[q2]Margrave's Stitched Leather Rug", additional_info = "2 sec cast\nReagents:\nArden Lumber (30), Desolate Leather (14), Gaunt Sinew (5), Penumbra Thread (5)\n[q]Create a Margrave's Stitched Leather Rug, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nShadowlands Leatherworking (80)\nCost:\n5\n\n3\n[q2]Margrave's Stitched Leather Rug\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263310] = {name = "Ghost Gear", additional_info = "Instant\n[q]Allows you to see spooky apparitions within the neighborhood."}
+MultiLanguageSpellData['en'][1263313] = {name = "[q2]Maldraxxian Crate", additional_info = "2 sec cast\nReagents:\nArden Lumber (18), Oxxein Ore (6), Desolate Leather (12), Pallid Bone (12)\n[q]Create a Maldraxxian Crate, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nShadowlands Leatherworking (80)\nCost:\n5\n\n3\n[q2]Maldraxxian Crate\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263319] = {name = "[q2]Dalaran Auto-Hammer", additional_info = "2 sec cast\nReagents:\nFel-Touched Lumber (22), Auto-Hammer , Demonsteel Bar (15)\n[q]Create a Dalaran Auto-Hammer, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nLegion Engineering (80)\nCost:\n35\n\n3\n[q2]Dalaran Auto-Hammer\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263338] = {name = "[q2]Failed Failure Detection Pylon", additional_info = "2 sec cast\nReagents:\nFel-Touched Lumber (28), Demonsteel Bar (20), Oversized Blasting Cap (15), Loose Trigger (10), Shadowruby (3)\n[q]Create a Failed Failure Detection Pylon, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nLegion Engineering (80)\nCost:\n35\n\n3\n[q2]Failed Failure Detection Pylon\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263344] = {name = "[q2]Dalaran Display Shelves", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nFel-Touched Lumber (22), Roseate Pigment (15), Astral Glory (10), Straszan Mark\n[q]Create Dalaran Display Shelves, which can be placed in your house or sold on the Auction House.\nProfession:\nLegion Inscription (80)\nTrainer:\nProfessor Pallin\nZone:\nDalaran\nCost:\n40\n\n5\n[q2]Dalaran Display Shelves\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263351] = {name = "[q2]Suramar Jeweler's Assortment", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nFel-Touched Lumber (12), Skystone (4), Argulite (2), Pandemonite (2), Chemirine , Maelstrom Sapphire , Imbued Silkweave\n[q]Create a Suramar Jeweler's Assortment, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nLegion Jewelcrafting (80)\nCost:\n40\n\n1\n[q2]Suramar Jeweler's Assortment\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263360] = {name = "[q2]Beloved Elekk Plushie", additional_info = "2 sec cast\nReagents:\nShadowmoon Lumber (8), Sumptuous Fur (16), Cerulean Pigment (5), Temporal Crystal (2)\n[q]Create a Beloved Elekk Plushie, which can be placed in your house or sold on the Auction House.\nVendor:\nPetir Starocean\nZone:\nWarspear\nCost:\n1\n\nVendor:\nSteven Cochrane\nZone:\nStormshield\nCost:\n1\n\n1\n[q2]Beloved Elekk Plushie\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263369] = {name = "Skypaw Glimmerfur Prowler", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"A Glimmerfur's coat takes on properties of its environment much like a camouflage. Patterns of bright blue skies and majestic white clouds have earned this glimmerfur the nickname \"Skypaw.\"\"\nVendor:\nCollector Ta'steld\nZone:\nOribos\nCost:\n5000"}
+MultiLanguageSpellData['en'][1263383] = {name = "Gruesome Flayedwing", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount."}
+MultiLanguageSpellData['en'][1263384] = {name = "Darkspawn Flayedwing", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount."}
+MultiLanguageSpellData['en'][1263387] = {name = "Crimson Lupine", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Once, the First Ones desired creations with fierce devotion they could mold to their purposes. The lupine of Zerith Mortis are one of their many creations, and those bearing crimson forms are said to be the most powerful of all.\"\nVendor:\nCollector Ta'steld\nZone:\nOribos\nCost:\n5000"}
+MultiLanguageSpellData['en'][1263444] = {name = "Smash and Bash", additional_info = "Melee Range\nInstant\n[q]Inflicts Physical damage to an enemy."}
+MultiLanguageSpellData['en'][1263476] = {name = "Hot Footed", additional_info = nil}
+MultiLanguageSpellData['en'][1263485] = {name = "Beloved Raptor Plushie", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263486] = {name = "Sandfury Diplomat's Banner", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263487] = {name = "Tidesage's Totem", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263488] = {name = "Drust Enchanter's Rod", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263489] = {name = "Kyrian Aspirant's Rolled Cushion", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263490] = {name = "Hot Foot Burning", additional_info = nil}
+MultiLanguageSpellData['en'][1263491] = {name = "Hot Footed", additional_info = nil}
+MultiLanguageSpellData['en'][1263548] = {name = "[q2]Pandaren Alchemist's Kit", additional_info = "2 sec cast\nReagents:\nBamboo Lumber (16), Green Tea Leaf (12), Master Mana Potion (5), Golden Lotus (3), Crystal Vial\n[q]Create a Pandaren Alchemist's Kit, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nPandaria Alchemy (60)\nCost:\n1\n\n1\n[q2]Pandaren Alchemist's Kit\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263551] = {name = "[q2]Reconstructed Mogu Lightning Drill", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nBamboo Lumber (50), Trillium Bar (40), High-Explosive Gunpowder (30), Ghost Iron Bolts (16), Desecrated Oil (4)\n[q]Create a Reconstructed Mogu Lightning Drill, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nPandaria Engineering (60)\nCost:\n1\n\n5\n[q2]Reconstructed Mogu Lightning Drill\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263553] = {name = "[q2]Pandaren Fishing Net", additional_info = "2 sec cast\nReagents:\nBamboo Lumber (8), Bolt of Windwool Cloth (5), Golden Carp (10)\n[q]Create a Pandaren Fishing Net, which can be placed in your house or sold on the Auction House.\nProfession:\nPandaria Tailoring (60)\nTrainer:\nSilkmaster Tsai\nZone:\nValley of the Four Winds\nCost:\n1\n\n5\n[q2]Pandaren Fishing Net\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263558] = {name = "[q2]San'layn Blood Orb", additional_info = "2 sec cast\nReagents:\nColdwind Lumber (20), Lichbloom (10), Eternal Shadow (4), Frost Lotus (3), Crystal Vial\n[q]Create a San'layn Blood Orb, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Alchemy (60)\nCost:\n3\n\n3\n[q2]San'layn Blood Orb\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263559] = {name = "[q2]Icecrown Plague Canister", additional_info = "2 sec cast\nReagents:\nColdwind Lumber (40), Crazy Alchemist's Potion (5), Runic Healing Potion (10), Frost Lotus (5), Eternal Life (2), Frozen Orb\n[q]Create a Icecrown Plague Canister, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Alchemy (60)\nCost:\n3\n\n5\n[q2]Icecrown Plague Canister\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263562] = {name = "[q2]Silver Dalaran Bench", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nColdwind Lumber (18), Titansteel Bar (4), Snowfall Ink (10)\n[q]Create a Silver Dalaran Bench, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Inscription (60)\nCost:\n3\n\n3\n[q2]Silver Dalaran Bench\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263564] = {name = "[q2]Dalaran Street Sign", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nColdwind Lumber (10), Titanium Bar (6), Ink of the Sea (5), Light Parchment (10)\n[q]Create a Dalaran Street Sign, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Inscription (60)\nCost:\n3\n\n1\n[q2]Dalaran Street Sign\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263570] = {name = "[q2]Dalaran Scholar's Bookcase", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nColdwind Lumber (45), Titansteel Bar (12), Snowfall Ink (6), Ink of the Sea (6), Ametrine (4)\n[q]Create a Dalaran Scholar's Bookcase, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Inscription (60)\nCost:\n3\n\n3\n[q2]Dalaran Scholar's Bookcase\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263574] = {name = "[q2]Kirin Tor Crate", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nColdwind Lumber (6), Ametrine (2), Snowfall Ink (3)\n[q]Create a Kirin Tor Crate, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Inscription (60)\nCost:\n3\n\n1\n[q2]Kirin Tor Crate\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263575] = {name = "[q2]Dalaran Post", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nColdwind Lumber (12), Cobalt Bar (6), Ink of the Sea (3)\n[q]Create a Dalaran Post, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Inscription (60)\nCost:\n3\n\n1\n[q2]Dalaran Post\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263577] = {name = "[q2]Kirin Tor Glass Table", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nColdwind Lumber (22), Cobalt Bar (8), Dragon's Eye (4)\n[q]Create a Kirin Tor Glass Table, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Jewelcrafting (60)\nCost:\n3\n\n3\n[q2]Kirin Tor Glass Table\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263591] = {name = "Booster Bonk", additional_info = "2.25 sec cast\n[q]Bonks all enemies in front of them, inflicting Physical damage and knocking them back."}
+MultiLanguageSpellData['en'][1263605] = {name = "[q2]Kirin Tor Sun Chandelier", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nColdwind Lumber (8), Cobalt Bar (6), Skyflare Diamond (4)\n[q]Create a Kirin Tor Sun Chandelier, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Jewelcrafting (60)\nCost:\n3\n\n3\n[q2]Kirin Tor Sun Chandelier\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1263611] = {name = "Teleport", additional_info = nil}
+MultiLanguageSpellData['en'][1263613] = {name = "[q2]Wolvar Postbag", additional_info = "2 sec cast\nReagents:\nColdwind Lumber (18), Heavy Borean Leather (14), Eternal Air (4), Eternal Earth (2)\n[q]Create a Wolvar Postbag, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Leatherworking (60)\nCost:\n3\n\n1\n[q2]Wolvar Postbag\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263617] = {name = "Red Asphalt", additional_info = nil}
+MultiLanguageSpellData['en'][1263620] = {name = "[q2]Gilded Dalaran Banner", additional_info = "2 sec cast\nReagents:\nColdwind Lumber (10), Spellweave (8), Blue Dye (2), Red Dye (2), Majestic Zircon\n[q]Create a Gilded Dalaran Banner, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Tailoring (60)\nCost:\n3\n\n3\n[q2]Gilded Dalaran Banner\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263627] = {name = "[q2]Kirin Tor Skyline Banner", additional_info = "2 sec cast\nReagents:\nColdwind Lumber (40), Spellweave (8), Moonshroud (8), Red Dye (4), Blue Dye (4)\n[q]Create a Kirin Tor Skyline Banner, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Tailoring (60)\nCost:\n3\n\n3\n[q2]Kirin Tor Skyline Banner\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263633] = {name = "[q2]Camp Narache Rug", additional_info = "2 sec cast\nReagents:\nIronwood Lumber (18), Devilsaur Leather (8), Red Dye (2), Purple Dye (2), Rune Thread (2)\n[q]Create a Camp Narache Rug, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Leatherworking (240)\nCost:\n60\n\n1\n[q2]Camp Narache Rug\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263643] = {name = "[q2]Tempest Keep Cryo-Pod", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nOlemba Lumber (50), Icy Blasting Primers (50), Handful of Fel Iron Bolts (12), Khorium Power Core (4), Hardened Adamantite Tube (3)\n[q]Create a Tempest Keep Cryo-Pod, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Engineering (60)\nCost:\n1\n\n5\n[q2]Tempest Keep Cryo-Pod\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263654] = {name = "[q2]Draenei Holo-Projector Pedestal", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nOlemba Lumber (25), Felsteel Stabilizer (6), Khorium Power Core (2)\n[q]Create a Draenei Holo-Projector Pedestal, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Engineering (60)\nCost:\n1\n\n5\n[q2]Draenei Holo-Projector Pedestal\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263655] = {name = "Housing Reaction Debug - Show Table - (STM)", additional_info = nil}
+MultiLanguageSpellData['en'][1263659] = {name = "Housing Reaction Debug - Erase Table", additional_info = nil}
+MultiLanguageSpellData['en'][1263663] = {name = "[q2]Draenei Transmitter", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nOlemba Lumber (15), Handful of Fel Iron Bolts (6), Fel Iron Casing (4)\n[q]Create a Draenei Transmitter, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Engineering (60)\nCost:\n1\n\n1\n[q2]Draenei Transmitter\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263665] = {name = "Ensemble: Heritage of the Wandering Isle", additional_info = "Instant\n[q]Collect the appearances of the Pandaren heritage armor. This includes the Tushui, Huojin, and Wandering Isle sets. These appearances can only be used by Pandaren characters."}
+MultiLanguageSpellData['en'][1263669] = {name = "[q2]Grand Drape of the Exiles", additional_info = "2 sec cast\nReagents:\nOlemba Lumber (18), Bolt of Imbued Netherweave (4), Primal Mana (3), Rune Thread (3)\n[q]Create a Grand Drape of the Exiles, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Tailoring (60)\nCost:\n1\n\n5\n[q2]Grand Drape of the Exiles\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263692] = {name = "[q2]Draenei Weaver's Loom", additional_info = "2 sec cast\nReagents:\nOlemba Lumber (35), Spellcloth (4), Primal Mooncloth (4), Shadowcloth (4)\n[q]Create a Draenei Weaver's Loom, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Tailoring (60)\nCost:\n1\n\n3\n[q2]Draenei Weaver's Loom\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263719] = {name = "Ensemble: Heritage of the Wandering Isle", additional_info = "Instant\n[q]Collect the appearances of the Pandaren heritage armor. This includes the Tushui, Huojin, and Wandering Isle sets. These appearances can only be used by Pandaren characters."}
+MultiLanguageSpellData['en'][1263736] = {name = "Elwynn Autumn Apple Tree", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1263737] = {name = "Founder's Point Autumn Apple Tree", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1263745] = {name = "Bare Knuckle Brawling", additional_info = nil}
+MultiLanguageSpellData['en'][1263792] = {name = "Add Razorwind River Paddle to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263793] = {name = "Add Tusk-Adorned Stitched Rug to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263794] = {name = "Add Small Stitched Rug to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263795] = {name = "Add Ethereal Pipe Segment to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263796] = {name = "Add Angled Ethereal Pipe Segment to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263797] = {name = "Add Long Ethereal Pipe Segment to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263798] = {name = "Add Corner Ethereal Pipe Segment to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263799] = {name = "Empty Wooden Bathtub", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1263810] = {name = "[q2]Aldor Bookcase", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nOlemba Lumber (25), Scroll of Intellect VI (50), Ethereal Ink (10), Primal Earth (4)\n[q]Create an Aldor Bookcase, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Inscription (60)\nCost:\n1\n\n3\n[q2]Aldor Bookcase\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263811] = {name = "[q2]Gilded Draenei Round Table", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nOlemba Lumber (20), Heavy Knothide Leather (3), Khorium Bar (2)\n[q]Create a Gilded Draenei Round Table, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Inscription (60)\nCost:\n1\n\n3\n[q2]Gilded Draenei Round Table\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263812] = {name = "[q2]Halaa Bench", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nOlemba Lumber (20), Heavy Knothide Leather (3), Primal Mana (2)\n[q]Create a Halaa Bench, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Inscription (60)\nCost:\n1\n\n3\n[q2]Halaa Bench\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263813] = {name = "[q2]Crystal Signpost", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nOlemba Lumber (12), Greater Planar Essence (4), Darkflame Ink (3), Light Parchment\n[q]Create a Crystal Signpost, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Inscription (60)\nCost:\n1\n\n5\n[q2]Crystal Signpost\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263814] = {name = "[q2]Talon King's Totem", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nOlemba Lumber (10), Ethereal Ink (3), Primal Life (2)\n[q]Create a Talon King's Totem, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Inscription (60)\nCost:\n1\n\n3\n[q2]Talon King's Totem\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263815] = {name = "[q2]Shattrath Lamppost", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nOlemba Lumber (20), Mercurial Adamantite (6), Shadowsong Amethyst (2)\n[q]Create a Shattrath Lamppost, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Jewelcrafting (60)\nCost:\n1\n\n3\n[q2]Shattrath Lamppost\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263817] = {name = "[q2]Shattrath Sconce", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nOlemba Lumber (10), Mercurial Adamantite (3), Nightseye (3)\n[q]Create a Shattrath Sconce, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Jewelcrafting (60)\nCost:\n1\n\n1\n[q2]Shattrath Sconce\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263818] = {name = "[q2]Arakkoa Decoy Scarecrow", additional_info = "2 sec cast\nReagents:\nOlemba Lumber (20), Heavy Knothide Leather (6), Cobra Scales (4), Rune Thread (3)\n[q]Create a Arakkoa Decoy Scarecrow, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Leatherworking (60)\nCost:\n1\n\n3\n[q2]Arakkoa Decoy Scarecrow\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263819] = {name = "[q2]Outland Mag'har Banner", additional_info = "2 sec cast\nReagents:\nOlemba Lumber (12), Thick Clefthoof Leather (8), Primal Earth (2), Primal Life (2)\n[q]Create an Outland Mag'har Banner, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Leatherworking (60)\nCost:\n1\n\n3\n[q2]Outland Mag'har Banner\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263853] = {name = "[q2]Kyrian Aspirant's Rolled Cushion", additional_info = "2 sec cast\nReagents:\nArden Lumber (14), Shrouded Cloth (12), Penumbra Thread (5)\n[q]Create a Kyrian Aspirant's Rolled Cushion, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Tailoring (80)\nTrainer:\nStitcher Au'phes\nZone:\nOribos\nCost:\n6\n\n1\n[q2]Kyrian Aspirant's Rolled Cushion\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263858] = {name = "[q2]Beloved Raptor Plushie", additional_info = "2 sec cast\nReagents:\nFel-Touched Lumber (8), Shal'dorei Silk (15), Roseate Pigment (5), Chaotic Spinel (2), Runic Catgut (2)\n[q]Create a Beloved Raptor Plushie, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nLegion Tailoring (80)\nCost:\n40\n\n1\n[q2]Beloved Raptor Plushie\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263859] = {name = "[q2]Sandfury Diplomat's Banner", additional_info = "2 sec cast\nReagents:\nDarkpine Lumber (22), Coarse Leather (20), Storm Silver Ore (15), Amber Tanning Oil (4)\n[q]Create a Sandfury Diplomat's Banner, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Leatherworking (140)\nCost:\n40\n\n5\n[q2]Sandfury Diplomat's Banner\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263870] = {name = "[q2]Tidesage's Totem", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nDarkpine Lumber (35), Osmenite Ore (30), Veiled Crystal (2), Gloom Dust (15), Distilled Water (10)\n[q]Create a Tidesage's Totem, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Enchanting (140)\nCost:\n4\n\n1\n[q2]Tidesage's Totem\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263877] = {name = "[q2]Drust Enchanter's Rod", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nDarkpine Lumber (6), Umbra Shard (4), Coarse Leather (2), Calcified Bone\n[q]Create a Drust Enchanter's Rod, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nBattle for Azeroth Enchanting (140)\nCost:\n4\n\n1\n[q2]Drust Enchanter's Rod\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263887] = {name = "Forlorn Lyre", additional_info = "60 yd range\nInstant\n[q]Play a soothing melody."}
+MultiLanguageSpellData['en'][1263888] = {name = "Forlorn Lyre", additional_info = "60 yd range\nInstant\n[q]Play a soothing melody."}
+MultiLanguageSpellData['en'][1263889] = {name = "Forlorn Lyre", additional_info = "60 yd range\nInstant\n[q]Play a soothing melody."}
+MultiLanguageSpellData['en'][1263891] = {name = "Forlorn Lyre", additional_info = "60 yd range\nInstant\n[q]Play a soothing melody."}
+MultiLanguageSpellData['en'][1263897] = {name = "Forlorn Longing", additional_info = "Instant\n[q]Following a forlorn melody to a place of promised rest."}
+MultiLanguageSpellData['en'][1263925] = {name = "Add Glorious Pendant of Rukhmar to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263926] = {name = "Add Writings of Reshad the Outcast to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263927] = {name = "Add Scroll of the Adherent to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263928] = {name = "Add Arakkoan Alchemy Tools to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263929] = {name = "Add Skyreach Circular Table to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263930] = {name = "Add High Arakkoan Library Shelf to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263931] = {name = "Add High Arakkoan Alchemist's Shelf to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263932] = {name = "Add High Arakkoan Shelf to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263933] = {name = "Add \"Rising Glory of Rukhmar\" Statue to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263936] = {name = "Add Uncorrupted Eye of Terokk to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263973] = {name = "Hull'n'Home Window", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263974] = {name = "Add Exposed Corner Ethereal Pipe Segment to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1263975] = {name = "Add Exposed Long Ethereal Pipe Segment to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1264004] = {name = "Ensemble: South Guard's Silver Raiment", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1264009] = {name = "Ensemble: South Guard's Golden Raiment", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1264011] = {name = "Ensemble: South Guard's Copper Raiment", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1264013] = {name = "Ensemble: South Guard's Iron Raiment", additional_info = "Instant\n[q]Collect the appearances of this armor set."}
+MultiLanguageSpellData['en'][1264045] = {name = "Add Exposed Intersecting Ethereal Pipe Segment to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1264046] = {name = "Add Reinforced Corner Ethereal Pipe Segment to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1264195] = {name = "Add Exposed Angled Ethereal Pipe Segment to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1264210] = {name = "11.0 Delves - Fungarians01 - V04 - Lil Leacher: Say Something (Hufton)", additional_info = nil}
+MultiLanguageSpellData['en'][1264211] = {name = "11.0 Delves - Fungarians01 - V04 - Lil Leacher: Spawn Spell (Hufton)", additional_info = nil}
 MultiLanguageSpellData['en'][1264215] = {name = "Throw", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1264225] = {name = "Solar Beam", additional_info = "100 yd range\nInstant\n[q]You summon a beam of solar light over an enemy target's location, interrupting the target and silencing all enemies under the beam while it is active. Solar Beam lasts for 10 sec."}
+MultiLanguageSpellData['en'][1264226] = {name = "Solar Beam", additional_info = "100 yd range\nInstant\n[q]You summon a beam of solar light over an enemy target's location, interrupting the target and silencing all enemies under the beam while it is active. Solar Beam lasts for 10 sec."}
+MultiLanguageSpellData['en'][1264227] = {name = "Solar Beam", additional_info = "100 yd range\nInstant\n[q]You summon a beam of solar light over an enemy target's location, interrupting the target and silencing all enemies under the beam while it is active. Solar Beam lasts for 10 sec."}
+MultiLanguageSpellData['en'][1264243] = {name = "Charrrrrrge!", additional_info = nil}
+MultiLanguageSpellData['en'][1264244] = {name = "Teleporter", additional_info = nil}
+MultiLanguageSpellData['en'][1264260] = {name = "11.2 Delves - Fungarians01 - V04 - Teleporter: Area Trigger A (Hufton)", additional_info = nil}
+MultiLanguageSpellData['en'][1264261] = {name = "Teleporter", additional_info = nil}
+MultiLanguageSpellData['en'][1264262] = {name = "11.2 Delves - Fungarians01 - V04 - Teleporter: Area Trigger B (Hufton)", additional_info = nil}
+MultiLanguageSpellData['en'][1264267] = {name = "Teleporter", additional_info = nil}
+MultiLanguageSpellData['en'][1264268] = {name = "11.2 Delves - Fungarians01 - V04 - Teleporter: Area Trigger E (Hufton)", additional_info = nil}
+MultiLanguageSpellData['en'][1264306] = {name = "Rain Dance", additional_info = "40 yd range\n{3 sec cast} {3 sec cooldown}\n[q]Conjures forth a rain of water, inflicting Frost damage to an area upon impact."}
+MultiLanguageSpellData['en'][1264307] = {name = "Torrent", additional_info = "40 yd range\n{3 sec cast} {3 sec cooldown}\n[q]Inflicts 5% of target's max health in Frost damage every 0.5 for 6 sec."}
+MultiLanguageSpellData['en'][1264316] = {name = "Rain Dance", additional_info = nil}
+MultiLanguageSpellData['en'][1264317] = {name = "Rain Dance", additional_info = nil}
+MultiLanguageSpellData['en'][1264318] = {name = "Rain Dance", additional_info = "100 yd range\nInstant\n[q]Conjures forth a rain of water, inflicting 35% of the target's maximum health in Frost damage to enemies in a 2.5 yard radius."}
+MultiLanguageSpellData['en'][1264332] = {name = "Fuse", additional_info = nil}
+MultiLanguageSpellData['en'][1264333] = {name = "Fuse Fire", additional_info = nil}
+MultiLanguageSpellData['en'][1264334] = {name = "Fuse Fire", additional_info = nil}
+MultiLanguageSpellData['en'][1264335] = {name = "Fuse", additional_info = nil}
+MultiLanguageSpellData['en'][1264396] = {name = "Brawler's Guild Punching Bag", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1264469] = {name = "Warm Teak Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1264473] = {name = "test (Hufton)", additional_info = nil}
+MultiLanguageSpellData['en'][1264575] = {name = "Read Scroll", additional_info = nil}
+MultiLanguageSpellData['en'][1264579] = {name = "UseKneeling", additional_info = nil}
+MultiLanguageSpellData['en'][1264580] = {name = "Use - Upper Body Only", additional_info = nil}
+MultiLanguageSpellData['en'][1264621] = {name = "Brawlin' Bruno", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Said to be leaner and potentially even meaner than the venerable Bruce. Bruno's legacy is yet to be written.\"\nVendor:\nUlaani\nZone:\nBizmo's Brawlpub\n\nVendor:\nTiana Nevermorn\nZone:\nBrawl'gar Arena\n\nCost:\n4000"}
+MultiLanguageSpellData['en'][1264643] = {name = "Ballistic Bronco", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"Ideal transportation for a Brawler that always hits their mark.\"\nVendor:\nUlaani\nZone:\nBizmo's Brawlpub\n\nVendor:\nTiana Nevermorn\nZone:\nBrawl'gar Arena\n\nCost:\n10000"}
+MultiLanguageSpellData['en'][1264712] = {name = "Dark Iron Dye", additional_info = "1.25 sec cast\nReagents:\nBlack Dye Pigment"}
+MultiLanguageSpellData['en'][1264713] = {name = "Bone-White Dye", additional_info = "1.25 sec cast\nReagents:\nWhite Dye Pigment"}
+MultiLanguageSpellData['en'][1264715] = {name = "Kirin Tor Violet Dye", additional_info = "1.25 sec cast\nReagents:\nPurple Dye Pigment"}
+MultiLanguageSpellData['en'][1264717] = {name = "Vortex Teal Dye", additional_info = "1.25 sec cast\nReagents:\nTeal Dye Pigment"}
+MultiLanguageSpellData['en'][1264719] = {name = "Alliance Blue Dye", additional_info = "1.25 sec cast\nReagents:\nBlue Dye Pigment"}
+MultiLanguageSpellData['en'][1264720] = {name = "Lush Green Dye", additional_info = "1.25 sec cast\nReagents:\nGreen Dye Pigment"}
+MultiLanguageSpellData['en'][1264721] = {name = "Gold Dye", additional_info = "1.25 sec cast\nReagents:\nYellow Dye Pigment"}
+MultiLanguageSpellData['en'][1264722] = {name = "Elwynn Pumpkin Dye", additional_info = "1.25 sec cast\nReagents:\nOrange Dye Pigment"}
+MultiLanguageSpellData['en'][1264725] = {name = "Firebloom Red Dye", additional_info = "1.25 sec cast\nReagents:\nRed Dye Pigment"}
+MultiLanguageSpellData['en'][1264760] = {name = "Gold Dye", additional_info = "1.25 sec cast\nReagents:\nYellow Dye Pigment"}
+MultiLanguageSpellData['en'][1264885] = {name = "Obsidium Black Dye", additional_info = "1.25 sec cast\nReagents:\nBlack Dye Pigment"}
+MultiLanguageSpellData['en'][1264886] = {name = "Stormheim Grey Dye", additional_info = "1.25 sec cast\nReagents:\nBlack Dye Pigment"}
+MultiLanguageSpellData['en'][1264889] = {name = "Dusk Lily Grey Dye", additional_info = "1.25 sec cast\nReagents:\nBlue Dye Pigment"}
+MultiLanguageSpellData['en'][1264891] = {name = "Zephras Blue Dye", additional_info = "1.25 sec cast\nReagents:\nBlue Dye Pigment"}
+MultiLanguageSpellData['en'][1264894] = {name = "Midnight Blue Dye", additional_info = "1.25 sec cast\nReagents:\nBlue Dye Pigment"}
+MultiLanguageSpellData['en'][1264895] = {name = "Nazjatar Navy Dye", additional_info = "1.25 sec cast\nReagents:\nBlue Dye Pigment"}
+MultiLanguageSpellData['en'][1264912] = {name = "Basic Birch Dye", additional_info = "1.25 sec cast\nReagents:\nWhite Dye Pigment"}
+MultiLanguageSpellData['en'][1264913] = {name = "Highland Birch Dye", additional_info = "1.25 sec cast\nReagents:\nWhite Dye Pigment"}
+MultiLanguageSpellData['en'][1264914] = {name = "Highborne Marble Dye", additional_info = "1.25 sec cast\nReagents:\nWhite Dye Pigment"}
+MultiLanguageSpellData['en'][1264916] = {name = "Mesquite Brown Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1264921] = {name = "Darkwood Dye", additional_info = "1.25 sec cast\nReagents:\nBlack Dye Pigment"}
+MultiLanguageSpellData['en'][1264924] = {name = "Pale Umber Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1264926] = {name = "Mahogany Dye", additional_info = "1.25 sec cast\nReagents:\nRed Dye Pigment"}
+MultiLanguageSpellData['en'][1264928] = {name = "Heartwood Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1264936] = {name = "Dark Gold Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1264938] = {name = "Earthen Brown Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1264940] = {name = "Kodohide Brown Dye", additional_info = "1.25 sec cast\nReagents:\nOrange Dye Pigment"}
+MultiLanguageSpellData['en'][1264942] = {name = "Vol'dun Taupe Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1264944] = {name = "Ratchet Rust Dye", additional_info = "1.25 sec cast\nReagents:\nRed Dye Pigment"}
+MultiLanguageSpellData['en'][1264945] = {name = "Timbermaw Brown Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1264950] = {name = "Earthroot Dye", additional_info = "1.25 sec cast\nReagents:\nGreen Dye Pigment"}
+MultiLanguageSpellData['en'][1264952] = {name = "Copper Dye", additional_info = "1.25 sec cast\nReagents:\nOrange Dye Pigment"}
+MultiLanguageSpellData['en'][1264954] = {name = "Bronze Dye", additional_info = "1.25 sec cast\nReagents:\nOrange Dye Pigment"}
+MultiLanguageSpellData['en'][1264955] = {name = "Kalimdor Sand Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1264968] = {name = "Electric Dynamite", additional_info = "100 yd range\nInstant\n[q]Inflicts Fire damage to all enemies in a selected area and leaves behind electrified shrapnel, inflicting Nature damage every 0.5 sec."}
+MultiLanguageSpellData['en'][1264988] = {name = "Snowpaw Glimmerfur Prowler", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"The snowpaw inhabit the frigid afterlives of the Shadowlands, reveling in their frosty environment. Travelers thought lost to the deadly blizzards of Northrend would sometimes miraculously be found alive, proclaiming that they owe their lives to the mysterious foxes that protected them.\"\nVendor:\nCollector Ta'steld\nZone:\nOribos\nCost:\n5000"}
+MultiLanguageSpellData['en'][1265009] = {name = "Death Grip", additional_info = "30 yd range\n{Instant} {1 sec cooldown}\n[q]Harness the unholy energy that surrounds and binds all matter, drawing the target toward the caster."}
+MultiLanguageSpellData['en'][1265014] = {name = "Death Grip", additional_info = nil}
+MultiLanguageSpellData['en'][1265031] = {name = "Add Rolled Razorwind Leathers to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1265032] = {name = "Add Low-Hanging Razorwind Ropes to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1265033] = {name = "Add Knotted Hanging Razorwind Ropes to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1265034] = {name = "Add Tusked Hanging Razorwind Ropes to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1265035] = {name = "Add Plain Hanging Razorwind Ropes to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1265036] = {name = "Add Adorned Hanging Razorwind Ropes to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1265037] = {name = "Add Lightly Adorned Hanging Razorwind Ropes to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1265077] = {name = "Ironclaw Dye", additional_info = "1.25 sec cast\nReagents:\nBlack Dye Pigment"}
+MultiLanguageSpellData['en'][1265078] = {name = "Silversage Green Dye", additional_info = "1.25 sec cast\nReagents:\nGreen Dye Pigment"}
+MultiLanguageSpellData['en'][1265079] = {name = "Un'Goro Green Dye", additional_info = "1.25 sec cast\nReagents:\nTeal Dye Pigment"}
+MultiLanguageSpellData['en'][1265080] = {name = "Dustwallow Green Dye", additional_info = "1.25 sec cast\nReagents:\nGreen Dye Pigment"}
+MultiLanguageSpellData['en'][1265081] = {name = "Gravemoss Green Dye", additional_info = "1.25 sec cast\nReagents:\nGreen Dye Pigment"}
+MultiLanguageSpellData['en'][1265082] = {name = "Grizzly Hills Green Dye", additional_info = "1.25 sec cast\nReagents:\nGreen Dye Pigment"}
+MultiLanguageSpellData['en'][1265084] = {name = "Netherstorm Fuchsia Dye", additional_info = "1.25 sec cast\nReagents:\nPurple Dye Pigment"}
+MultiLanguageSpellData['en'][1265085] = {name = "Void Violet Dye", additional_info = "1.25 sec cast\nReagents:\nPurple Dye Pigment"}
+MultiLanguageSpellData['en'][1265086] = {name = "Nightsong Lilac Dye", additional_info = "1.25 sec cast\nReagents:\nPurple Dye Pigment"}
+MultiLanguageSpellData['en'][1265087] = {name = "Arcwine Dye", additional_info = "1.25 sec cast\nReagents:\nPurple Dye Pigment"}
+MultiLanguageSpellData['en'][1265088] = {name = "Moonberry Amethyst Dye", additional_info = "1.25 sec cast\nReagents:\nPurple Dye Pigment"}
+MultiLanguageSpellData['en'][1265089] = {name = "Forsaken Plum Dye", additional_info = "1.25 sec cast\nReagents:\nPurple Dye Pigment"}
+MultiLanguageSpellData['en'][1265091] = {name = "Horde Red Dye", additional_info = "1.25 sec cast\nReagents:\nRed Dye Pigment"}
+MultiLanguageSpellData['en'][1265092] = {name = "Gilnean Rose Dye", additional_info = "1.25 sec cast\nReagents:\nRed Dye Pigment"}
+MultiLanguageSpellData['en'][1265093] = {name = "Deep Mageroyal Red Dye", additional_info = "1.25 sec cast\nReagents:\nMageroyal (10)"}
+MultiLanguageSpellData['en'][1265094] = {name = "Hinterlands Hickory Dye", additional_info = "1.25 sec cast\nReagents:\nRed Dye Pigment"}
+MultiLanguageSpellData['en'][1265097] = {name = "Rain Poppy Red Dye", additional_info = "1.25 sec cast\nReagents:\nRed Dye Pigment"}
+MultiLanguageSpellData['en'][1265098] = {name = "Emerald Dreaming Dye", additional_info = "1.25 sec cast\nReagents:\nGreen Dye Pigment"}
+MultiLanguageSpellData['en'][1265099] = {name = "Stormsteel Dye", additional_info = "1.25 sec cast\nReagents:\nBlack Dye Pigment"}
+MultiLanguageSpellData['en'][1265100] = {name = "Kul Tiran Steel Dye", additional_info = "1.25 sec cast\nReagents:\nTeal Dye Pigment"}
+MultiLanguageSpellData['en'][1265101] = {name = "Tidesage Teal Dye", additional_info = "1.25 sec cast\nReagents:\nTeal Dye Pigment"}
+MultiLanguageSpellData['en'][1265102] = {name = "Pinewood Dye", additional_info = "1.25 sec cast\nReagents:\nYellow Dye Pigment"}
+MultiLanguageSpellData['en'][1265103] = {name = "Holy Oak Tan Dye", additional_info = "1.25 sec cast\nReagents:\nYellow Dye Pigment"}
+MultiLanguageSpellData['en'][1265104] = {name = "Zandalari Gold Dye", additional_info = "1.25 sec cast\nReagents:\nYellow Dye Pigment"}
+MultiLanguageSpellData['en'][1265105] = {name = "Brass Dye", additional_info = "1.25 sec cast\nReagents:\nYellow Dye Pigment"}
+MultiLanguageSpellData['en'][1265106] = {name = "Sandfury Yellow Dye", additional_info = "1.25 sec cast\nReagents:\nYellow Dye Pigment"}
+MultiLanguageSpellData['en'][1265107] = {name = "Sungrass Yellow Dye", additional_info = "1.25 sec cast\nReagents:\nYellow Dye Pigment"}
+MultiLanguageSpellData['en'][1265109] = {name = "Savannah Gold Dye", additional_info = "1.25 sec cast\nReagents:\nYellow Dye Pigment"}
+MultiLanguageSpellData['en'][1265111] = {name = "Dark Gold Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1265112] = {name = "Dark Iron Dye", additional_info = "1.25 sec cast\nReagents:\nBlack Dye Pigment"}
+MultiLanguageSpellData['en'][1265113] = {name = "Ironclaw Dye", additional_info = "1.25 sec cast\nReagents:\nBlack Dye Pigment"}
+MultiLanguageSpellData['en'][1265114] = {name = "Copper Dye", additional_info = "1.25 sec cast\nReagents:\nOrange Dye Pigment"}
+MultiLanguageSpellData['en'][1265115] = {name = "Bronze Dye", additional_info = "1.25 sec cast\nReagents:\nOrange Dye Pigment"}
+MultiLanguageSpellData['en'][1265116] = {name = "Stormsteel Dye", additional_info = "1.25 sec cast\nReagents:\nBlack Dye Pigment"}
+MultiLanguageSpellData['en'][1265117] = {name = "Kul Tiran Steel Dye", additional_info = "1.25 sec cast\nReagents:\nTeal Dye Pigment"}
+MultiLanguageSpellData['en'][1265119] = {name = "Zandalari Gold Dye", additional_info = "1.25 sec cast\nReagents:\nYellow Dye Pigment"}
+MultiLanguageSpellData['en'][1265120] = {name = "Brass Dye", additional_info = "1.25 sec cast\nReagents:\nYellow Dye Pigment"}
+MultiLanguageSpellData['en'][1265121] = {name = "Gilnean Rose Dye", additional_info = "1.25 sec cast\nReagents:\nRed Dye Pigment"}
+MultiLanguageSpellData['en'][1265122] = {name = "Deep Mageroyal Red Dye", additional_info = "1.25 sec cast\nReagents:\nRed Dye Pigment"}
+MultiLanguageSpellData['en'][1265142] = {name = "Visit House", additional_info = "10 sec cast\n[q]Visit a house."}
+MultiLanguageSpellData['en'][1265314] = {name = "Death Grip", additional_info = "Instant\n[q]Stuns the caster, rendering it unable to move or attack for 2 sec."}
+MultiLanguageSpellData['en'][1265374] = {name = "Hold Hammer", additional_info = nil}
+MultiLanguageSpellData['en'][1265379] = {name = "Cancel Conversation", additional_info = nil}
+MultiLanguageSpellData['en'][1265491] = {name = "Shadow Bolt", additional_info = "40 yd range\n{3 sec cast} {1 sec cooldown}\n[q]Hurls a bolt of dark magic at an enemy, inflicting Shadow damage."}
+MultiLanguageSpellData['en'][1265509] = {name = "Melee", additional_info = "Melee Range\nInstant\n[q]Inflicts 50 Physical damage to an enemy."}
 MultiLanguageSpellData['en'][1265990] = {name = "Revitalizing Voodoo Totem", additional_info = nil}
 MultiLanguageSpellData['en'][1266048] = {name = "Blast Waves", additional_info = "Unlimited range\n2.5 sec cast\n[q]Inflicts 70 Fire damage to enemies within 30 yards."}
 MultiLanguageSpellData['en'][1266065] = {name = "Blast Waves", additional_info = "2.5 sec cast\n[q]Inflicts 0 Fire damage to enemies within 0 yards."}
 MultiLanguageSpellData['en'][1266067] = {name = "Blast Waves", additional_info = "Unlimited range\n2.5 sec cast\n[q]Inflicts 70 Fire damage to enemies within 8 yards."}
+MultiLanguageSpellData['en'][1266104] = {name = "Shadow Strikes", additional_info = "{1 sec cast} {1 sec cooldown}\n[q]Infuses the caster's weapons with dark energy, increasing melee damage."}
+MultiLanguageSpellData['en'][1266140] = {name = "Cosmetic - Pandaren Drink PA Gourd - Sit Ground", additional_info = nil}
+MultiLanguageSpellData['en'][1266144] = {name = "Eating Soup NO SOUND", additional_info = "100 yd range\nInstant\n[q]The customer starts eating their noodle soup."}
+MultiLanguageSpellData['en'][1266199] = {name = "Cosmetic - Combat Attack 1H", additional_info = nil}
+MultiLanguageSpellData['en'][1266209] = {name = "Valdrakken Bookcase", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266232] = {name = "Lumberjack", additional_info = "[q]Able to spot lumber nodes in the world to harvest lumber.\n\n Lumber can be used in professions to craft various decor for homes."}
+MultiLanguageSpellData['en'][1266243] = {name = "Displaced Sunwhisker", additional_info = nil}
+MultiLanguageSpellData['en'][1266248] = {name = "Savage Crimson Battle Turtle", additional_info = "1.5 sec cast\n[q]Summons and dismisses a rideable Savage Crimson Battle Turtle. This mount swims fast and can't move very quickly on land, but it doesn't need to. It has cannons.\n[q]\"This savage turtle sees red at every turn. Though slow in speed, it is vital to remember that nothing can outrun a cannon.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1266306] = {name = "Stealth", additional_info = "Instant\n[q]Puts the caster in stealth mode. Lasts until cancelled."}
+MultiLanguageSpellData['en'][1266324] = {name = "Stealth", additional_info = "Instant\n[q]Puts the caster in stealth mode. Lasts until cancelled."}
+MultiLanguageSpellData['en'][1266426] = {name = "Add Large Razorwind Farmer's Hay Pile to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266427] = {name = "Add Razorwind Farmer's Hay Pile to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266428] = {name = "Add Small Razorwind Farmer's Hay Pile to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
 MultiLanguageSpellData['en'][1266436] = {name = "Bag of Brewfest Merchandise [PH]", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1266437] = {name = "Bag of Brewfest Merchandise [PH]", additional_info = "Instant"}
 MultiLanguageSpellData['en'][1266438] = {name = "Bag of Brewfest Merchandise [PH]", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1266501] = {name = "Feeding", additional_info = "10 yd range\n3 sec cast\nReagents:\nBubblefilled Flounder"}
+MultiLanguageSpellData['en'][1266507] = {name = "Egg", additional_info = nil}
+MultiLanguageSpellData['en'][1266509] = {name = "Burp", additional_info = nil}
+MultiLanguageSpellData['en'][1266517] = {name = "Placing", additional_info = "10 yd range\n3 sec cast\nReagents:\nDuck Egg"}
+MultiLanguageSpellData['en'][1266536] = {name = "Gift of Oddsight", additional_info = "40 yd range\n{3 sec cast} {3 sec cooldown}\n[q]Imbue the target with oddsight for 3 hrs."}
+MultiLanguageSpellData['en'][1266541] = {name = "[q2]Kaheti Predator's Assortment", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (25), Ringing Deeps Ingot (4), Azj-Kahet Special , Roasted Mycobloom (2), Outsider's Provisions (2), Perfect Preservatives (15)\n[q]Use your knowledge of food preparation to create a model plate suitable for filling your home, not your stomach.\nProfession Trainer:\nKhaz Algar Cooking (80)\nCost:\n500\n\n1\n[q2]Kaheti Predator's Assortment\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266542] = {name = "Interact", additional_info = nil}
 MultiLanguageSpellData['en'][1266549] = {name = "Swarm", additional_info = nil}
 MultiLanguageSpellData['en'][1266553] = {name = "Swarm", additional_info = nil}
+MultiLanguageSpellData['en'][1266555] = {name = "[q2]Drake Kebab Platter", additional_info = "2 sec cast\nReagents:\nDragonpine Lumber (28), Salad on the Side (5), Braised Bruffalon Brisket (4), Perfect Preservatives (15), Draconium Ore (10)\n[q]Use your knowledge of food preparation to create a model plate suitable for filling your home, not your stomach.\nProfession Trainer:\nDragon Isles Cooking (80)\nCost:\n2\n\n3\n[q2]Drake Kebab Platter\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266560] = {name = "[q2]Hungry Human's Platter", additional_info = "2 sec cast\nReagents:\nShadowmoon Lumber (8), True Iron Ore (10), Blackrock Barbecue (5), Telmor-Aruuna Hard Cheese (5), Perfect Preservatives (5)\n[q]Use your knowledge of food preparation to create a model plate suitable for filling your home, not your stomach.\nVendor:\nArsenio Zerep\nZone:\nShadowmoon Valley\nCost:\n10\n\nVendor:\nKraank\nZone:\nFrostwall\nCost:\n10\n\n1\n[q2]Hungry Human's Platter\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266563] = {name = "[q2]Mushan Dumpling Stack", additional_info = "2 sec cast\nReagents:\nBamboo Lumber (18), Rice Flour , 100 Year Soy Sauce , Wildfowl Breast (10), Ginseng (10), Scallions (50), Perfect Preservatives (10)\n[q]Use your knowledge of food preparation to create a model plate suitable for filling your home, not your stomach.\nProfession:\nPandaria Cooking (60)\nTrainer:\nYan Ironpaw\nZone:\nValley of the Four Winds\nCost:\n4\n\n1\n[q2]Mushan Dumpling Stack\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266579] = {name = "Cloudborn Razorwing", additional_info = "1.5 sec cast\n[q]Summons and dismisses this mount.\n[q]\"A very rare Korthian creature, due to limited cloud cover.\"\nTrading Post"}
+MultiLanguageSpellData['en'][1266581] = {name = "Brazier of Elune", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266582] = {name = "Cartel Collector's Cage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266583] = {name = "Arathi Bartender's Shelves", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266585] = {name = "Replica Libram of the Dead", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266722] = {name = "Teleport", additional_info = nil}
+MultiLanguageSpellData['en'][1266725] = {name = "Add Kobold Trassure Pile to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266726] = {name = "Add Maldraxxian Runic Tablet to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266727] = {name = "Add Gob-chanical Trash Heap to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1266728] = {name = "Red Razorwind Paintbrush", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1266729] = {name = "Dry Razorwind Grass Patch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1266754] = {name = "Applause", additional_info = "Instant\n[q]A blessing of applause."}
+MultiLanguageSpellData['en'][1266755] = {name = "Congratulations", additional_info = "Instant\n[q]A blessing of congratulations."}
+MultiLanguageSpellData['en'][1266756] = {name = "Cheer", additional_info = "Instant\n[q]A blessing of cheer."}
+MultiLanguageSpellData['en'][1266758] = {name = "Dance", additional_info = "Instant\n[q]A blessing of dance."}
+MultiLanguageSpellData['en'][1266759] = {name = "Roars", additional_info = "Instant\n[q]A blessing of vigor."}
+MultiLanguageSpellData['en'][1266760] = {name = "Song", additional_info = "Instant\n[q]A blessing of song."}
+MultiLanguageSpellData['en'][1266761] = {name = "Melancholy", additional_info = "Instant\n[q]A blessing of strings."}
+MultiLanguageSpellData['en'][1266775] = {name = "Spiritually Exhausted", additional_info = "Instant\n[q]Recently contributed to the Great Song."}
+MultiLanguageSpellData['en'][1266882] = {name = "Add Uncrowned Market Stall to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1267024] = {name = "Bite", additional_info = "100 yd range\nInstant\n[q]Bite forcefully, dealing 85 damage to all creatures near Razorgrin's jaws."}
+MultiLanguageSpellData['en'][1267035] = {name = "Monitor", additional_info = nil}
+MultiLanguageSpellData['en'][1267075] = {name = "Play RTC: Magni Protects Dagran", additional_info = nil}
+MultiLanguageSpellData['en'][1267094] = {name = "Shine Torch", additional_info = "Instant"}
+MultiLanguageSpellData['en'][1267095] = {name = "Shine Torch", additional_info = nil}
+MultiLanguageSpellData['en'][1267108] = {name = "Brown Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nInscription (1)"}
+MultiLanguageSpellData['en'][1267134] = {name = "Unlocking", additional_info = nil}
+MultiLanguageSpellData['en'][1267636] = {name = "Add Draenei Crystal Chandelier to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1268662] = {name = "Black Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nInscription (1)"}
+MultiLanguageSpellData['en'][1268667] = {name = "Holding", additional_info = "100 yd range\nInstant\n[q]Carefully holding a precious object."}
+MultiLanguageSpellData['en'][1268711] = {name = "Insidious Gloom", additional_info = "10 yd range\n{2 sec cast} {3 sec cooldown}\n[q]Inflicts 5 Shadow damage to an enemy.\n Inflicts 1 Shadow damage to an enemy every 3 sec for 30 sec."}
+MultiLanguageSpellData['en'][1268749] = {name = "Unsafe", additional_info = "Instant\n[q]You are feeling unsafe. Get to solid ground."}
+MultiLanguageSpellData['en'][1268770] = {name = "White Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nInscription (1)"}
+MultiLanguageSpellData['en'][1268825] = {name = "Eredar Customization", additional_info = "[q]Allows you to choose the Man'ari Eredar customization for Draenei."}
+MultiLanguageSpellData['en'][1268829] = {name = "Allied Races", additional_info = "[q]Unlock new Allied Races to create."}
+MultiLanguageSpellData['en'][1268906] = {name = "{DNT} Play Movie", additional_info = nil}
+MultiLanguageSpellData['en'][1268984] = {name = "Blue Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nInscription (1)"}
+MultiLanguageSpellData['en'][1268985] = {name = "Green Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nInscription (1)"}
+MultiLanguageSpellData['en'][1268989] = {name = "Yellow Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nInscription (1)"}
+MultiLanguageSpellData['en'][1268993] = {name = "Orange Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nInscription (1)"}
+MultiLanguageSpellData['en'][1268998] = {name = "Red Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nInscription (1)"}
+MultiLanguageSpellData['en'][1268999] = {name = "Teal Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nInscription (1)"}
+MultiLanguageSpellData['en'][1269008] = {name = "Add Simple Haranir Table to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269043] = {name = "Add Replica Forge of the Roaring Mountain to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269057] = {name = "Purple Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nInscription (1)"}
+MultiLanguageSpellData['en'][1269117] = {name = "Collect RoomName Room", additional_info = "2 sec cast\n[q]Add this room to your House Chest."}
+MultiLanguageSpellData['en'][1269124] = {name = "Collect HouseTheme Wall Style", additional_info = "2 sec cast\n[q]Add this wall style to your House Chest."}
+MultiLanguageSpellData['en'][1269149] = {name = "Collect RoomComponentTexture Wall Material", additional_info = "2 sec cast\n[q]Add this wall material to your House Chest."}
+MultiLanguageSpellData['en'][1269200] = {name = "Add Kyrian Floating Lamp to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269226] = {name = "Blue Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nAlchemy (1)"}
+MultiLanguageSpellData['en'][1269227] = {name = "White Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nAlchemy (1)"}
+MultiLanguageSpellData['en'][1269228] = {name = "Black Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nAlchemy (1)"}
+MultiLanguageSpellData['en'][1269229] = {name = "Red Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nAlchemy (1)"}
+MultiLanguageSpellData['en'][1269230] = {name = "Green Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nAlchemy (1)"}
+MultiLanguageSpellData['en'][1269231] = {name = "Purple Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nAlchemy (1)"}
+MultiLanguageSpellData['en'][1269232] = {name = "Teal Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nAlchemy (1)"}
+MultiLanguageSpellData['en'][1269233] = {name = "Orange Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nAlchemy (1)"}
+MultiLanguageSpellData['en'][1269234] = {name = "Yellow Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nAlchemy (1)"}
+MultiLanguageSpellData['en'][1269235] = {name = "Brown Dye Pigment", additional_info = "1 sec cast\n[q]Crush herbs to create pigments for making dye. This will destroy the herbs in the process.\nProfession:\nAlchemy (1)"}
+MultiLanguageSpellData['en'][1269237] = {name = "Collect ExteriorComponent", additional_info = "2 sec cast\n[q]Add this housing fixture to your House Chest."}
+MultiLanguageSpellData['en'][1269298] = {name = "Summon Fel Guard Hound", additional_info = "1.5 sec cast\n[q]Summons a Fel Guard Hound to follow you around."}
+MultiLanguageSpellData['en'][1269376] = {name = "Melt", additional_info = "Instant\n[q]Jump off the rolling snowball."}
+MultiLanguageSpellData['en'][1269419] = {name = "Add Small Telogrus Lamp to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269420] = {name = "Add Restful Bronze Bench to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269495] = {name = "[q2]Thunder Bluff Totem", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nIronwood Lumber (30), Essence of Earth (8), Fiery Ink (6)\n[q]Create a Thunder Bluff Totem, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Inscription (240)\nCost:\n60\n\n1\n[q2]Thunder Bluff Totem\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269496] = {name = "[q2]Draenei Crystal Chandelier", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nOlemba Lumber (15), Hardened Adamantite Bar (4), Earthstorm Diamond (2)\n[q]Create a Draenei Crystal Chandelier, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Jewelcrafting (60)\nCost:\n3\n\n5\n[q2]Draenei Crystal Chandelier\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269499] = {name = "[q2]Snowfall Tribe Scare-Totem", additional_info = "2 sec cast\nReagents:\nColdwind Lumber (12), Heavy Borean Leather (8), Eternal Shadow (6), Arctic Fur (2)\n[q]Create a Snowfall Tribe Scare-Totem, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Leatherworking (60)\nCost:\n3\n\n3\n[q2]Snowfall Tribe Scare-Totem\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269500] = {name = "[q2]Orcish Fence", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nShadowmoon Lumber (15), True Iron Ore (15), Sorcerous Earth (8), Sumptuous Fur (10)\n[q]Create an Orcish Fence, which can be placed in your house or sold on the Auction House.\nVendor:\nJoao Calhandro\nZone:\nStormshield\nCost:\n1\n\nVendor:\nMaru'sa\nZone:\nWarspear\nCost:\n1\n\n3\n[q2]Orcish Fence\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269501] = {name = "[q2]Orcish Fencepost", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nShadowmoon Lumber (10), True Iron Ore (10), Sorcerous Earth (4)\n[q]Create an Orcish Fencepost, which can be placed in your house or sold on the Auction House.\nVendor:\nJoao Calhandro\nZone:\nStormshield\nCost:\n1\n\nVendor:\nMaru'sa\nZone:\nWarspear\nCost:\n1\n\n1\n[q2]Orcish Fencepost\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269502] = {name = "[q2]Kyrian Floating Lamp", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nArden Lumber (18), Solenium Ore (6), Essence of Valor (4), Soul Dust (4)\n[q]Create a Kyrian Floating Lamp, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Jewelcrafting (80)\nTrainer:\nAppraiser Au'vesk\nZone:\nOribos\nCost:\n2\n\n3\n[q2]Kyrian Floating Lamp\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269504] = {name = "[q2]Maldraxxian Runic Tablet", additional_info = "2 sec cast\nTools: Jeweler's Tools\nReagents:\nArden Lumber (30), Laestrite Ore (25), Essence of Servitude (8), Eternal Crystal (2)\n[q]Create a Maldraxxian Runic Tablet, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Jewelcrafting (80)\nTrainer:\nAppraiser Au'vesk\nZone:\nOribos\nCost:\n2\n\n5\n[q2]Maldraxxian Runic Tablet\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269506] = {name = "[q2]Gilnean Green Potion", additional_info = "2 sec cast\nReagents:\nAshwood Lumber (10), Volatile Life (5), Whiptail (5), Azshara's Veil (3), Crystal Vial\n[q]Create a Gilnean Green Potion, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Alchemy (60)\nCost:\n5\n\n1\n[q2]Gilnean Green Potion\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269534] = {name = "[q2]Gilnean Map", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nAshwood Lumber (8), Blackfallow Ink (8), Obsidium Bar (3), Light Parchment\n[q]Create a Gilnean Map, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Inscription (60)\nCost:\n5\n\n1\n[q2]Gilnean Map\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269540] = {name = "[q2]Gilnean Postbox", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nAshwood Lumber (35), Elementium Bar (12), Blackfallow Ink (10), Obsidium Skeleton Key\n[q]Create a Gilnean Postbox, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Inscription (60)\nCost:\n5\n\n1\n[q2]Gilnean Postbox\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269550] = {name = "[q2]Scaled Twilight Mosaic", additional_info = "2 sec cast\nReagents:\nAshwood Lumber (40), Blackened Dragonscale (20), Obsidium Bar (15), Heavy Savage Leather (10), Inferno Ruby\n[q]Create a Scaled Twilight Mosaic, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Leatherworking (60)\nCost:\n5\n\n1\n[q2]Scaled Twilight Mosaic\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269583] = {name = "Holiday Hat", additional_info = "Instant\n[q]Dress fashionably for the holidays!"}
+MultiLanguageSpellData['en'][1269684] = {name = "Brumewood Hollow Grassy Patch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1269685] = {name = "Brumewood Hollow Grassy Spread", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1269686] = {name = "Founder's Point Grassy Patch", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1269687] = {name = "Founder's Point Grassy Spread", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1269689] = {name = "Sturdy Wine Press", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
+MultiLanguageSpellData['en'][1269690] = {name = "Add Brawler's Barricade to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1269691] = {name = "Add Darkmaster's Mystical Brazier to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1270193] = {name = "Kaldorei Protector's Adornment", additional_info = "Instant\n[q]Unlock the appearances of the Kaldorei Protector's Adornment upon completion of the Heritage storyline."}
+MultiLanguageSpellData['en'][1270196] = {name = "Collect Medium Square Room", additional_info = "2 sec cast\n[q]Add this room to your House Chest."}
+MultiLanguageSpellData['en'][1270198] = {name = "Collect Large Octagon Room", additional_info = "2 sec cast\n[q]Add this room to your House Chest."}
+MultiLanguageSpellData['en'][1270246] = {name = "Frangible Field", additional_info = nil}
+MultiLanguageSpellData['en'][1270287] = {name = "Ensemble: Heritage of the Draenei", additional_info = "Instant\n[q]Unlock the appearances of the Heritage of the Draenei upon completion of the Heritage storyline."}
+MultiLanguageSpellData['en'][1270310] = {name = "Heritage of the Wandering Isle", additional_info = "Instant\n[q]Unlock the appearances of the Heritage of the Wandering Isle upon completion of the Heritage storyline."}
+MultiLanguageSpellData['en'][1270311] = {name = "Return from Home", additional_info = "10 sec cast\n[q]Return to where you were before visiting home."}
+MultiLanguageSpellData['en'][1270347] = {name = "Dark Ranger Customization", additional_info = "[q]Allows you to choose the Dark Ranger eye and skin customization for Blood Elves."}
+MultiLanguageSpellData['en'][1270348] = {name = "Forsaken Champion's Attire", additional_info = "Instant\n[q]Unlock the appearances of the Forsaken Champion's Attire upon completion of the Heritage storyline."}
+MultiLanguageSpellData['en'][1270355] = {name = "Heritage of the Darkspear", additional_info = "Instant\n[q]Unlock the appearances of the Heritage of the Darkspear upon completion of the Heritage storyline."}
 MultiLanguageSpellData['en'][1270406] = {name = "Teleport", additional_info = nil}
-MultiLanguageSpellData['en'][1270583] = {name = "Naaru's Enfold", additional_info = "10 sec cast\n[q]Returns you to Hearthstone Location. Speak to an Innkeeper in a different place to change your home location."}
+MultiLanguageSpellData['en'][1270409] = {name = "Felshard Meteor", additional_info = "100 yd range\nInstant\n[q]Inflicts Fire damage to enemies."}
+MultiLanguageSpellData['en'][1270411] = {name = "Felflame Shield", additional_info = "Instant\n[q]A shield of fel fire surrounds the caster, inflicting Fire damage to nearby enemies."}
+MultiLanguageSpellData['en'][1270412] = {name = "Felflame Shield", additional_info = "Instant\n[q]A shield of fel fire surrounds the caster, inflicting Fire damage to nearby enemies."}
+MultiLanguageSpellData['en'][1270459] = {name = "[q2]Darkmaster's Mystical Brazier", additional_info = "2 sec cast\nTools: Runed Enchanting Rod\nReagents:\nIronwood Lumber (30), Essence of Undeath (16), Large Brilliant Shard (12), Greater Eternal Essence (8), Dark Rune (8)\n[q]Create a Darkmaster's Mystical Brazier, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nClassic Enchanting (240)\nCost:\n60\n\n3\n[q2]Darkmaster's Mystical Brazier\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1270583] = {name = "Naaru's Enfold", additional_info = "{10 sec cast} {30 min cooldown}\n1 Charge\n[q]Returns you to Hearthstone Location. Speak to an Innkeeper in a different place to change your home location."}
 MultiLanguageSpellData['en'][1270641] = {name = "Shattered Souls", additional_info = nil}
 MultiLanguageSpellData['en'][1270658] = {name = "Feed Oculeth", additional_info = nil}
+MultiLanguageSpellData['en'][1270683] = {name = "Add Razorwind Roofer's Shingle to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1270684] = {name = "Add Razorwind Roofer's Shingle Pile to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1270685] = {name = "Add Tiny Clump of Hay to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1270686] = {name = "Add Razorwind Construction Crane to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1270764] = {name = "Stunning Howl", additional_info = "3 sec cast\n[q]Stuns all enemies within 5 yards, rendering them unable to move or attack for 2 sec."}
+MultiLanguageSpellData['en'][1270765] = {name = "Rushing Charge", additional_info = "3 sec cast\n[q]Charges into an enemy, dealing physical damage."}
+MultiLanguageSpellData['en'][1270769] = {name = "Whirlwind", additional_info = "45 yd range\n{2 sec cast} {2 sec cooldown}\n[q]Attacks nearby enemies in a whirlwind of steel that lasts 6 sec. and inflicts normal damage."}
+MultiLanguageSpellData['en'][1270770] = {name = "Kick to the Face", additional_info = "10 yd range\n{2 sec cast} {2 sec cooldown}\n[q]Kicks the target in the face, inflicting 10 Physical damage and knocking them back."}
+MultiLanguageSpellData['en'][1270771] = {name = "Munch", additional_info = "10 yd range\n{2 sec cast} {12 sec cooldown}\n[q]Tear a piece of flesh from an enemy dealing 18 Physical damage and healing for 200% of the damage inflicted."}
+MultiLanguageSpellData['en'][1270808] = {name = "Second Wind", additional_info = "Instant\n[q]Reach within for untapped reserves and instantly regenerates a charge for your skyriding abilities.\n\nUnlocked at level 20."}
+MultiLanguageSpellData['en'][1270836] = {name = "[q2]Well-Lit Incontinental Couch", additional_info = "2 sec cast\nReagents:\nDornic Fir Lumber (38), Mosswool Thread (10), Stormcharged Leather (4), Carapace-Backed Hide (6), Handful of Bismuth Bolts (9)\n[q]Create a Well-Lit Incontinental Couch, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nKhaz Algar Leatherworking (80)\nCost:\n200\n\n3\n[q2]Well-Lit Incontinental Couch\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1270839] = {name = "Collect Daylight Circle Room", additional_info = "2 sec cast\n[q]Add this room to your House Chest."}
+MultiLanguageSpellData['en'][1271214] = {name = "Add Cenarion Round Rug to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1271224] = {name = "Homestone Doormat", additional_info = "[q0]Decor\n0.5 sec cast\n[q]This Decor will be added immediately on purchase to your House Chest."}
 MultiLanguageSpellData['en'][1271318] = {name = "Gift of Eternus: Protector", additional_info = "Instant\n[q]Eternus grants tanks 10% increased healing received from other players."}
 MultiLanguageSpellData['en'][1271324] = {name = "Gift of Eternus: Slayer", additional_info = "Unlimited range\nInstant\n[q]Eternus grants damage dealers 10% increased damage done, 100% increased health, and 33% decreased damage taken."}
 MultiLanguageSpellData['en'][1271325] = {name = "Gift of Eternus: Savior", additional_info = "Instant\n[q]Eternus grants healers 10% increased damage done, 10% increased healing and asborbs, 100% increased health, and 33% decreased damage taken."}
 MultiLanguageSpellData['en'][1271328] = {name = "Infinite Potential", additional_info = nil}
+MultiLanguageSpellData['en'][1271364] = {name = "Opening", additional_info = nil}
+MultiLanguageSpellData['en'][1271410] = {name = "Visit House", additional_info = "10 sec cast\n[q]Visit a house."}
+MultiLanguageSpellData['en'][1271411] = {name = "Visit House", additional_info = "10 sec cast\n[q]Visit a house."}
+MultiLanguageSpellData['en'][1271486] = {name = "Add Dreadscar Battle Planning Map to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1271557] = {name = "Quest Push", additional_info = nil}
+MultiLanguageSpellData['en'][1271597] = {name = "Quest Push", additional_info = nil}
+MultiLanguageSpellData['en'][1271640] = {name = "Visit House", additional_info = "10 sec cast\n[q]Visit a house."}
+MultiLanguageSpellData['en'][1271708] = {name = "Quest Push", additional_info = nil}
+MultiLanguageSpellData['en'][1271782] = {name = "Add Kun-Lai Lacquered Rickshaw to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1271810] = {name = "Add Golden Pandaren Privacy Screen to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1271820] = {name = "Exit Catch Up", additional_info = "Instant\n[q]End the Lorewalking Campaign and return to your capital city."}
+MultiLanguageSpellData['en'][1272036] = {name = "Ethereal Plumbing", additional_info = "Instant\n[q]You will be able to purchase ethereal pipe decor for your house."}
+MultiLanguageSpellData['en'][1272037] = {name = "Ethereal Technology", additional_info = "Instant\n[q]You will be able to purchase ethereal tech decor for your house."}
+MultiLanguageSpellData['en'][1272244] = {name = "Stun", additional_info = "100 yd range\nInstant\n[q]Stuns the target for 3 sec."}
+MultiLanguageSpellData['en'][1272245] = {name = "Legion's Wrath", additional_info = "100 yd range\nInstant\n[q]Conjures bolts of fel energy for 6 sec that inflict 40 Chaos damage to enemies in the area."}
+MultiLanguageSpellData['en'][1272246] = {name = "Beacon of Chaos", additional_info = nil}
+MultiLanguageSpellData['en'][1272247] = {name = "Beacon of Chaos", additional_info = nil}
+MultiLanguageSpellData['en'][1272248] = {name = "Beacon of Chaos", additional_info = "{Channeled (5 sec cast)} {40 sec cooldown}\n[q]Summons allies from across the timelines of the Twisting Nether."}
+MultiLanguageSpellData['en'][1272252] = {name = "Beacon of Chaos", additional_info = nil}
+MultiLanguageSpellData['en'][1272253] = {name = "Beacon of Chaos", additional_info = nil}
+MultiLanguageSpellData['en'][1272254] = {name = "Beacon of Chaos", additional_info = nil}
+MultiLanguageSpellData['en'][1272257] = {name = "Beacon of Chaos", additional_info = nil}
+MultiLanguageSpellData['en'][1272258] = {name = "Fel Corruption", additional_info = "100 yd range\nInstant\n[q]Demonic energy covers the ground, inflicting Shadow damage every second."}
+MultiLanguageSpellData['en'][1272357] = {name = "Collect Large Square Room", additional_info = "2 sec cast\n[q]Add this room to your House Chest."}
+MultiLanguageSpellData['en'][1272373] = {name = "Add Dalaran Sewer Gate to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272374] = {name = "Add Rolled Scarab Rug to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272375] = {name = "Add Aspirant's Ringed Banner to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272377] = {name = "Add Valdrakken Wall Shelf to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272412] = {name = "Ensemble: Heritage of the Wandering Isle", additional_info = "Instant\n[q]Collect the appearances of the Pandaren heritage armor. This includes the Tushui, Huojin, and Wandering Isle sets. These appearances can only be used by Pandaren characters."}
+MultiLanguageSpellData['en'][1272499] = {name = "Add Glazed Sin'dorei Vial to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272500] = {name = "Add Shadow Council Torch to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272501] = {name = "Add Resizable All-Purpose Gear to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272502] = {name = "Add Home Defense Gadget to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272504] = {name = "Add Stranglekelp Sack to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272505] = {name = "Add Dalaran Sun Sconce to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272506] = {name = "Add Joybuzz's Joyful Wall of Trains to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272507] = {name = "Add Gilnean Spare Saddle to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272509] = {name = "Add Heart of the Forest Banner to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272572] = {name = "[q2]Valdrakken Wall Shelf", additional_info = "2 sec cast\nTools: Virtuoso Inking Set\nReagents:\nDragonpine Lumber (18), Fractured Glass (2), Khaz'gorite Ore (2), Runed Writhebark (2)\n[q]Create a Valdrakken Wall Shelf, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nDragon Isles Inscription (80)\nCost:\n5\n\n5\n[q2]Valdrakken Wall Shelf\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272575] = {name = "[q2]Heart of the Forest Banner", additional_info = "2 sec cast\nReagents:\nArden Lumber (45), Enchanted Lightless Silk (20), Penumbra Thread (10), Twilight Bark (2), Essence of Rebirth (6)\n[q]Create a Heart of the Forest Banner, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Tailoring (80)\nTrainer:\nStitcher Au'phes\nZone:\nOribos\nCost:\n6\n\n5\n[q2]Heart of the Forest Banner\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272578] = {name = "[q2]Aspirant's Ringed Banner", additional_info = "2 sec cast\nReagents:\nArden Lumber (16), Laestrite Ore (12), Shrouded Cloth (25), Penumbra Thread (5), Essence of Valor\n[q]Create an Aspirant's Ringed Banner, which can be placed in your house or sold on the Auction House.\nProfession:\nShadowlands Tailoring (80)\nTrainer:\nStitcher Au'phes\nZone:\nOribos\nCost:\n6\n\n5\n[q2]Aspirant's Ringed Banner\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272580] = {name = "[q2]Gilnean Spare Saddle", additional_info = "2 sec cast\nReagents:\nAshwood Lumber (12), Pristine Hide (4), Obsidium Bar (4), Eternium Thread (8)\n[q]Create a Gilnean Spare Saddle, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Leatherworking (60)\nCost:\n5\n\n1\n[q2]Gilnean Spare Saddle\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272588] = {name = "[q2]Rolled Scarab Rug", additional_info = "2 sec cast\nReagents:\nAshwood Lumber (14), Heavy Savage Leather (10), Eternium Thread (8), Volatile Earth (4)\n[q]Create a Rolled Scarab Rug, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nCataclysm Leatherworking (60)\nCost:\n5\n\n3\n[q2]Rolled Scarab Rug\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272614] = {name = "[q2]Dalaran Sun Sconce", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nColdwind Lumber (8), Titansteel Bar (4), Eternal Fire (3)\n[q]Create a Dalaran Sun Sconce, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Blacksmithing (60)\nCost:\n3\n\n1\n[q2]Dalaran Sun Sconce\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272662] = {name = "[q2]Dalaran Sewer Gate", additional_info = "2 sec cast\nTools: Blacksmith Hammer\nReagents:\nColdwind Lumber (30), Titansteel Bar (6), Runed Orb (4), Eternal Water (2)\n[q]Create a Dalaran Sewer Gate, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Blacksmithing (60)\nCost:\n3\n\n5\n[q2]Dalaran Sewer Gate\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272676] = {name = "[q2]Joybuzz's Joyful Wall of Trains", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nColdwind Lumber (46), Titanium Bar (20), Froststeel Tube (8), Overcharged Capacitor (4), Handful of Cobalt Bolts (2)\n[q]Create Joybuzz's Joyful Wall of Trains, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Engineering (60)\nCost:\n3\n\n5\n[q2]Joybuzz's Joyful Wall of Trains\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272688] = {name = "[q2]Home Defense Gadget", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nColdwind Lumber (28), Goblin-Machined Piston (2), Handful of Cobalt Bolts (12), Overcharged Capacitor (4)\n[q]Create a Home Defense Gadget, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Engineering (60)\nCost:\n3\n\n1\n[q2]Home Defense Gadget\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272707] = {name = "[q2]Resizable All-Purpose Gear", additional_info = "2 sec cast\nTools: Arclight Spanner , Gyromatic Micro-Adjustor\nReagents:\nColdwind Lumber (20), Titanium Bar (20), Handful of Cobalt Bolts (2)\n[q]Create a Resizable All-Purpose Gear, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nNorthrend Engineering (60)\nCost:\n3\n\n3\n[q2]Resizable All-Purpose Gear\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272712] = {name = "[q2]Glazed Sin'dorei Vial", additional_info = "2 sec cast\nReagents:\nOlemba Lumber (6), Mad Alchemist's Potion (5), Khorium Bar (4), Crystal Vial\n[q]Create a Glazed Sin'dorei Vial, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Alchemy (60)\nCost:\n1\n\n1\n[q2]Glazed Sin'dorei Vial\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272715] = {name = "[q2]Stranglekelp Sack", additional_info = "2 sec cast\nReagents:\nOlemba Lumber (8), Stranglekelp (10), Bolt of Netherweave (4)\n[q]Create a Stranglekelp Sack, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Alchemy (60)\nCost:\n1\n\n1\n[q2]Stranglekelp Sack\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272721] = {name = "Teach Taxi Nodes - Founders Point - (POC)", additional_info = nil}
+MultiLanguageSpellData['en'][1272723] = {name = "[q2]Shadow Council Torch", additional_info = "2 sec cast\nReagents:\nOlemba Lumber (16), Flask of Blinding Light (4), Hardened Adamantite Bar (3), Primal Fire (4)\n[q]Create a Shadow Council Torch, which can be placed in your house or sold on the Auction House.\nProfession Trainer:\nOutland Alchemy (60)\nCost:\n1\n\n3\n[q2]Shadow Council Torch\nHousing Decor\nBinds when used\n[q2]Use: Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272724] = {name = "Teach Taxi Nodes - Razorwind Shores - (POC)", additional_info = nil}
+MultiLanguageSpellData['en'][1272728] = {name = "Teach Taxi Nodes - Both Neighborhoods - (POC)", additional_info = nil}
+MultiLanguageSpellData['en'][1272741] = {name = "Housing Fixup Aura", additional_info = nil}
+MultiLanguageSpellData['en'][1272806] = {name = "Add Arakkoan Alchemist's Bottle to storage", additional_info = "[q0]Decor\n0.5 sec cast\n[q]Add this Decor to your House Chest."}
+MultiLanguageSpellData['en'][1272943] = {name = "Teach Taxi Nodes - Founders Point - (POC)", additional_info = nil}
+MultiLanguageSpellData['en'][1272944] = {name = "Teach Taxi Nodes - Founders Point - (POC)", additional_info = nil}
+MultiLanguageSpellData['en'][1272991] = {name = "Shoot Bow", additional_info = "30 yd range\n2 sec cast\n[q]Shoots at an enemy, inflicting Physical damage."}
+MultiLanguageSpellData['en'][1273003] = {name = "Collect Evening Circle Room", additional_info = "2 sec cast\n[q]Add this room to your House Chest."}
+MultiLanguageSpellData['en'][1273004] = {name = "Ritual of Doom", additional_info = "Instant\n[q]Perform a deadly ritual to summon a random demon. Requires at least 3 participants."}
+MultiLanguageSpellData['en'][1273297] = {name = "Digging", additional_info = nil}
+MultiLanguageSpellData['en'][1275636] = {name = "Teleport", additional_info = "Instant\n[q]This will teleport you back to your capital city. You will be able to resume this Lorewalking Campaign again at any time, unless you start a different one.\n\n Do you wish to proceed?"}
+MultiLanguageSpellData['en'][1276735] = {name = "Collect Evening Circle Room", additional_info = "2 sec cast\n[q]Add this room to your House Chest."}
+MultiLanguageSpellData['en'][1277200] = {name = "Pinewood Dye", additional_info = "1.25 sec cast\nReagents:\nYellow Dye Pigment"}
+MultiLanguageSpellData['en'][1277201] = {name = "Holy Oak Tan Dye", additional_info = "1.25 sec cast\nReagents:\nYellow Dye Pigment"}
+MultiLanguageSpellData['en'][1277204] = {name = "Highland Birch Dye", additional_info = "1.25 sec cast\nReagents:\nWhite Dye Pigment"}
+MultiLanguageSpellData['en'][1277205] = {name = "Basic Birch Dye", additional_info = "1.25 sec cast\nReagents:\nWhite Dye Pigment"}
+MultiLanguageSpellData['en'][1277206] = {name = "Mahogany Dye", additional_info = "1.25 sec cast\nReagents:\nRed Dye Pigment"}
+MultiLanguageSpellData['en'][1277207] = {name = "Warm Teak Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1277208] = {name = "Pale Umber Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1277209] = {name = "Mesquite Brown Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1277210] = {name = "Heartwood Dye", additional_info = "1.25 sec cast\nReagents:\nBrown Dye Pigment"}
+MultiLanguageSpellData['en'][1277215] = {name = "Darkwood Dye", additional_info = "1.25 sec cast\nReagents:\nBlack Dye Pigment"}
+MultiLanguageSpellData['en'][1277282] = {name = "Unstable Mechagon Re-Localizatron", additional_info = "2 sec cast\n[q]Re-localize yourself to the legendary island of Mechagon."}
+MultiLanguageSpellData['en'][1277436] = {name = "Worldsoul Satchel", additional_info = "Instant\n[q]Receive a Worldsoul Satchel that contains several pieces of equipment."}
+MultiLanguageSpellData['en'][1277452] = {name = "Eating Soup", additional_info = "100 yd range\nInstant\n[q]The customer starts eating their noodle soup."}
+MultiLanguageSpellData['en'][1277827] = {name = "Travel to Halls of Valor", additional_info = nil}
+MultiLanguageSpellData['en'][1278892] = {name = "Feral Spirit", additional_info = "30 yd range\n{0.5 sec cast} {1 sec cooldown}\n[q]Summons two Spirit Wolves under the command of the Shaman, lasting until canceled."}

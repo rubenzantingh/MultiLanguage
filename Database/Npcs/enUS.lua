@@ -12048,4 +12048,5 @@ addonTable.npcData['en'] = {
 [245633] = {name = "Void Zone", subname = nil},
 [245634] = {name = "Breath Stalker", subname = nil},
 [245635] = {name = "The Will of the Ashbringer", subname = nil},
+[246569] = {name = "(DNT) Invisible Stalker", subname = nil},
 }

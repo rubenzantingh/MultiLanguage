@@ -2,7 +2,7 @@
 ## Title: MultiLanguage
 ## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh
-## Version: 1.6.4
+## Version: 1.6.5
 ## SavedVariables: MultiLanguageOptions
 ## OptionalDeps: LibStub, LibUIDropDownMenu
 

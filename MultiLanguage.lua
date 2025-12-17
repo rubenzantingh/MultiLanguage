@@ -594,8 +594,8 @@ local function GetSpellIDFromTooltip(tooltip)
         if owner then
             local ownerName = owner:GetName()
 
-            if ownerName then
-                return nul
+            if not ownerName then
+                return nil
             end
 
             if string.match(ownerName, "^ActionButton%d+$") or

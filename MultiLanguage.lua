@@ -1,4 +1,5 @@
 local lastQuestFrameEvent = nil
+local macroSpellID = nil
 local translationFrame = CreateFrame("Frame")
 local activeItemSpellOrUnitLines = {}
 local activeItemSpellOrUnitId = nil
@@ -495,6 +496,32 @@ local function OnTooltipSetData(self)
     local npcTranslationsEnabled = MultiLanguageOptions["NPC_TRANSLATIONS"]
     local questTranslationsEnabled = MultiLanguageOptions["QUEST_TRANSLATIONS"]
 
+    if TooltipDataProcessor and TooltipDataProcessor.AddTooltipPostCall then
+        TooltipDataProcessor.AddTooltipPostCall(TooltipDataProcessor.AllTypes, function(tooltip, data)
+            macroSpellID = nil
+
+            if tooltip ~= GameTooltip then return end
+            if not data or not data.type then return end
+
+            local spellTranslationsEnabled = MultiLanguageOptions["SPELL_TRANSLATIONS"]
+            if not spellTranslationsEnabled then return end
+
+            if data.type == Enum.TooltipDataType.Spell then
+                macroSpellID = data.id
+            elseif data.type == Enum.TooltipDataType.Macro then
+                if tooltip.GetPrimaryTooltipData then
+                    local primaryData = tooltip:GetPrimaryTooltipData()
+
+                    if primaryData and primaryData.lines then
+                        if primaryData.lines[1] then
+                            macroSpellID = primaryData.lines[1].tooltipID
+                        end
+                    end
+                end
+            end
+        end)
+    end
+
     if itemLink and itemTranslationsEnabled then
         local itemID = GetItemIDFromLink(itemLink)
 
@@ -509,8 +536,14 @@ local function OnTooltipSetData(self)
         else
             TranslationTooltipFrame:Hide()
         end
-    elseif spellID and spellTranslationsEnabled then
-        local spell = GetDataByID(MultiLanguageSpellData, spellID)
+    elseif (spellID and spellTranslationsEnabled) or (macroSpellID and spellTranslationsEnabled) then
+        local spell = nil
+
+        if spellID then
+            spell = GetDataByID(MultiLanguageSpellData, spellID)
+        elseif macroSpellID then
+            spell = GetDataByID(MultiLanguageSpellData, macroSpellID)
+        end
 
         if spell then
             UpdateTranslationTooltipFrame(spell.name, spell.additional_info, spellID, "spell")

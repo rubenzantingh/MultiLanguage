@@ -17,6 +17,32 @@ local textColorCodes = {
     ["[q8]"] = "|cFF00CCFF"
 }
 
+if TooltipDataProcessor and TooltipDataProcessor.AddTooltipPostCall then
+    TooltipDataProcessor.AddTooltipPostCall(TooltipDataProcessor.AllTypes, function(tooltip, data)
+        macroSpellID = nil
+
+        if tooltip ~= GameTooltip then return end
+        if not data or not data.type then return end
+
+        local spellTranslationsEnabled = MultiLanguageOptions["SPELL_TRANSLATIONS"]
+        if not spellTranslationsEnabled then return end
+
+        if data.type == Enum.TooltipDataType.Spell then
+            macroSpellID = data.id
+        elseif data.type == Enum.TooltipDataType.Macro then
+            if tooltip.GetPrimaryTooltipData then
+                local primaryData = tooltip:GetPrimaryTooltipData()
+
+                if primaryData and primaryData.lines then
+                    if primaryData.lines[1] then
+                        macroSpellID = primaryData.lines[1].tooltipID
+                    end
+                end
+            end
+        end
+    end)
+end
+
 -- Helper functions
 local function elementWillBeAboveTop(element, parent)
     local elementHeight = element:GetHeight()
@@ -495,32 +521,6 @@ local function OnTooltipSetData(self)
     local spellTranslationsEnabled = MultiLanguageOptions["SPELL_TRANSLATIONS"]
     local npcTranslationsEnabled = MultiLanguageOptions["NPC_TRANSLATIONS"]
     local questTranslationsEnabled = MultiLanguageOptions["QUEST_TRANSLATIONS"]
-
-    if TooltipDataProcessor and TooltipDataProcessor.AddTooltipPostCall then
-        TooltipDataProcessor.AddTooltipPostCall(TooltipDataProcessor.AllTypes, function(tooltip, data)
-            macroSpellID = nil
-
-            if tooltip ~= GameTooltip then return end
-            if not data or not data.type then return end
-
-            local spellTranslationsEnabled = MultiLanguageOptions["SPELL_TRANSLATIONS"]
-            if not spellTranslationsEnabled then return end
-
-            if data.type == Enum.TooltipDataType.Spell then
-                macroSpellID = data.id
-            elseif data.type == Enum.TooltipDataType.Macro then
-                if tooltip.GetPrimaryTooltipData then
-                    local primaryData = tooltip:GetPrimaryTooltipData()
-
-                    if primaryData and primaryData.lines then
-                        if primaryData.lines[1] then
-                            macroSpellID = primaryData.lines[1].tooltipID
-                        end
-                    end
-                end
-            end
-        end)
-    end
 
     if itemLink and itemTranslationsEnabled then
         local itemID = GetItemIDFromLink(itemLink)

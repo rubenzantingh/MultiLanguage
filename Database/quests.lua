@@ -1,2 +1,1 @@
-local addonName, addonTable = ...
-addonTable.questData = {}
+MultiLanguageQuestData = {}

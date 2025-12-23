@@ -2168,7 +2168,7 @@ MultiLanguageNpcData['en'][178066] = {name = "General Draven", subname = nil}
 MultiLanguageNpcData['en'][178067] = {name = "Sinfall Tutor", subname = nil}
 MultiLanguageNpcData['en'][178068] = {name = "Sinfall Bomber", subname = nil}
 MultiLanguageNpcData['en'][178069] = {name = "Ve'nari", subname = "Purveyor of Cyphers"}
-MultiLanguageNpcData['en'][178070] = {name = "Infernus The Infinite", subname = nil}
+MultiLanguageNpcData['en'][178070] = {name = "Infernus the Infinite", subname = nil}
 MultiLanguageNpcData['en'][178071] = {name = "Maw Assassin", subname = nil}
 MultiLanguageNpcData['en'][178072] = {name = "Anduin Wrynn", subname = nil}
 MultiLanguageNpcData['en'][178073] = {name = "Concerned Attendant", subname = nil}
@@ -21866,7 +21866,7 @@ MultiLanguageNpcData['en'][201393] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['en'][201394] = {name = "Kill Credit: Bird Scare 3", subname = nil}
 MultiLanguageNpcData['en'][201397] = {name = "Scalecommander Emberthal", subname = nil}
 MultiLanguageNpcData['en'][201398] = {name = "Kurazidaia", subname = "Healing Wings Envoy"}
-MultiLanguageNpcData['en'][201401] = {name = "Hadexian", subname = "Obsidian Envoy"}
+MultiLanguageNpcData['en'][201401] = {name = "Scalecommander Emberthal", subname = "The Ebon Scales"}
 MultiLanguageNpcData['en'][201403] = {name = "Scalesworn Guardian", subname = nil}
 MultiLanguageNpcData['en'][201404] = {name = "Bronze Citizen", subname = nil}
 MultiLanguageNpcData['en'][201405] = {name = "Ruby Citizen", subname = nil}
@@ -41895,7 +41895,7 @@ MultiLanguageNpcData['en'][227797] = {name = "Raen Dawncavalyr", subname = "Head
 MultiLanguageNpcData['en'][227798] = {name = "Darkfuse Dockworker", subname = nil}
 MultiLanguageNpcData['en'][227799] = {name = "Isle Gull", subname = nil}
 MultiLanguageNpcData['en'][227800] = {name = "Regald Hornfyre", subname = "Lamplighter"}
-MultiLanguageNpcData['en'][227801] = {name = "Jeff the Flightmaster", subname = nil}
+MultiLanguageNpcData['en'][227801] = {name = "Thrauna", subname = "Flightmaster"}
 MultiLanguageNpcData['en'][227802] = {name = "Worm Slain", subname = nil}
 MultiLanguageNpcData['en'][227803] = {name = "Adalar", subname = nil}
 MultiLanguageNpcData['en'][227804] = {name = "Expedition Stalwart", subname = nil}

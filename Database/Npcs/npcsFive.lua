@@ -3071,7 +3071,7 @@ MultiLanguageNpcData['en'][238888] = {name = "Arathi Knight", subname = nil}
 MultiLanguageNpcData['en'][238895] = {name = "Sox Overspill", subname = "Crab Alchemist"}
 MultiLanguageNpcData['en'][238900] = {name = "Lost Legion Demonfly", subname = nil}
 MultiLanguageNpcData['en'][238902] = {name = "Sky Hunter Perennius", subname = nil}
-MultiLanguageNpcData['en'][238913] = {name = "Captain Garrick", subname = nil}
+MultiLanguageNpcData['en'][238913] = {name = "Kalecgos", subname = nil}
 MultiLanguageNpcData['en'][238914] = {name = "Sahns", subname = "Rosebud's Security"}
 MultiLanguageNpcData['en'][238915] = {name = "Dhunes", subname = "Rosebud's Security"}
 MultiLanguageNpcData['en'][238919] = {name = "Warrant: Purple Peat", subname = nil}

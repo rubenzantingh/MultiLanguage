@@ -43320,7 +43320,7 @@ MultiLanguageNpcData['en'][114950] = {name = "Effects Bunny", subname = nil}
 MultiLanguageNpcData['en'][114951] = {name = "Hudson", subname = "Ogrewatch"}
 MultiLanguageNpcData['en'][114952] = {name = "Blinker", subname = "Ogrewatch"}
 MultiLanguageNpcData['en'][114953] = {name = "Speaker", subname = nil}
-MultiLanguageNpcData['en'][114955] = {name = "Dupree", subname = "Ogrewatch"}
+MultiLanguageNpcData['en'][114955] = {name = "Dole Dastardly", subname = "Ogrewatch"}
 MultiLanguageNpcData['en'][114956] = {name = "Victoire", subname = "Duskwatch Deserter"}
 MultiLanguageNpcData['en'][114957] = {name = "Vagnhild", subname = "Soulthief"}
 MultiLanguageNpcData['en'][114958] = {name = "Duskwatch Subjugator", subname = nil}

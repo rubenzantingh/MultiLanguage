@@ -5903,3 +5903,8 @@ MultiLanguageNpcData['en'][257620] = {name = "Blazing Infernal", subname = nil}
 MultiLanguageNpcData['en'][258638] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['en'][259644] = {name = "Erus", subname = "Scrap Master"}
 MultiLanguageNpcData['en'][259645] = {name = "Erus", subname = "Scrap Master"}
+MultiLanguageNpcData['en'][259989] = {name = "Area Trigger Bunny", subname = nil}
+MultiLanguageNpcData['en'][259991] = {name = "Area Trigger Bunny", subname = nil}
+MultiLanguageNpcData['en'][259993] = {name = "Area Trigger Bunny", subname = nil}
+MultiLanguageNpcData['en'][259998] = {name = "Area Trigger Bunny", subname = nil}
+MultiLanguageNpcData['en'][259999] = {name = "Area Trigger Bunny", subname = nil}

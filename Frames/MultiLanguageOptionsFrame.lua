@@ -144,7 +144,8 @@ local function getDefaultOptions(optionsTranslations)
             {value = 'de', text = optionsTranslations["languages"]["de"]},
             {value = 'pt', text = optionsTranslations["languages"]["pt"]},
             {value = 'ko', text = optionsTranslations["languages"]["ko"]},
-            {value = 'cn', text = optionsTranslations["languages"]["cn"]}
+            {value = 'cn', text = optionsTranslations["languages"]["cn"]},
+            {value = 'tw', text = optionsTranslations["languages"]["tw"]}
         },
         SELECTED_INTERACTION = 'hover',
         AVAILABLE_INTERACTIONS = {

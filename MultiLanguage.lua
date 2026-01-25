@@ -5,6 +5,91 @@ local activeItemSpellOrUnitLines = {}
 local activeItemSpellOrUnitId = nil
 local hotkeyButtonPressed = false
 local questFrameBeingHovered = false
+local translationTooltipFrameWidth = 200
+local translationTooltipFrameHeight = 50
+
+local lastTooltipSourceFrame = nil
+local lastTooltipSourceType = nil
+
+hooksecurefunc(GameTooltip, "SetBagItem", function(self, bag, slot)
+    if ContainerFrameUtil_GetItemButtonAndContainer then
+        local containerFrame = ContainerFrameUtil_GetItemButtonAndContainer(bag, slot)
+        if containerFrame then
+            lastTooltipSourceFrame = containerFrame
+            lastTooltipSourceType = "bag"
+            return
+        end
+    end
+
+    for i = 1, NUM_CONTAINER_FRAMES or 13 do
+        local frameName = "ContainerFrame" .. i
+        local frame = _G[frameName]
+        if frame and frame:IsShown() and frame:GetID() == bag then
+            local buttonName = frameName .. "Item" .. slot
+            local button = _G[buttonName]
+            if button then
+                lastTooltipSourceFrame = button
+                lastTooltipSourceType = "bag"
+                return
+            end
+        end
+    end
+end)
+
+local inventorySlotFrames = {
+    [1] = "CharacterHeadSlot",
+    [2] = "CharacterNeckSlot",
+    [3] = "CharacterShoulderSlot",
+    [4] = "CharacterShirtSlot",
+    [5] = "CharacterChestSlot",
+    [6] = "CharacterWaistSlot",
+    [7] = "CharacterLegsSlot",
+    [8] = "CharacterFeetSlot",
+    [9] = "CharacterWristSlot",
+    [10] = "CharacterHandsSlot",
+    [11] = "CharacterFinger0Slot",
+    [12] = "CharacterFinger1Slot",
+    [13] = "CharacterTrinket0Slot",
+    [14] = "CharacterTrinket1Slot",
+    [15] = "CharacterBackSlot",
+    [16] = "CharacterMainHandSlot",
+    [17] = "CharacterSecondaryHandSlot",
+}
+
+hooksecurefunc(GameTooltip, "SetInventoryItem", function(self, unit, slot)
+    if unit == "player" and inventorySlotFrames[slot] then
+        local button = _G[inventorySlotFrames[slot]]
+        if button then
+            lastTooltipSourceFrame = button
+            lastTooltipSourceType = "inventory"
+        end
+    end
+end)
+
+hooksecurefunc(GameTooltip, "SetAction", function(self, actionSlot)
+    local actionType = GetActionInfo(actionSlot)
+    if actionType == "item" then
+        local owner = self:GetOwner()
+        if owner then
+            lastTooltipSourceFrame = owner
+            lastTooltipSourceType = "actionitem"
+        end
+    end
+end)
+
+GameTooltip:HookScript("OnHide", function()
+    lastTooltipSourceFrame = nil
+    lastTooltipSourceType = nil
+end)
+
+local function SafeSetFrameSize(frame, width, height)
+    if width then
+        pcall(function() frame:SetWidth(width) end)
+    end
+    if height then
+        pcall(function() frame:SetHeight(height) end)
+    end
+end
 local textColorCodes = {
     ["[q]"] = "|cFFFFD100",
     ["[q0]"] = "|cFF9D9D9D",
@@ -43,10 +128,14 @@ if TooltipDataProcessor and TooltipDataProcessor.AddTooltipPostCall then
     end)
 end
 
--- Helper functions
 local function elementWillBeAboveTop(element, parent)
     local elementHeight = element:GetHeight()
     local elementTop = parent:GetTop()
+
+    if not canaccessvalue(elementHeight) or not canaccessvalue(elementTop) then
+        return false
+    end
+
     local screenHeight = GetScreenHeight()
     local topPosition = elementTop + elementHeight + 5
 
@@ -273,37 +362,154 @@ local function ShowOnlyTitleTranslation(type)
     return MultiLanguageOptions[type:upper() .. "_TRANSLATIONS_ONLY_DISPLAY_NAME"]
 end
 
+local cachedTooltipLeft = nil
+local cachedTooltipTop = nil
+local cachedTooltipBottom = nil
+local cachedTooltipRight = nil
+
+GameTooltip:HookScript("OnUpdate", function(self)
+    local left = self:GetLeft()
+    local top = self:GetTop()
+    local bottom = self:GetBottom()
+    local right = self:GetRight()
+
+    if canaccessvalue(left) and canaccessvalue(top) and canaccessvalue(bottom) and canaccessvalue(right) then
+        cachedTooltipLeft = left
+        cachedTooltipTop = top
+        cachedTooltipBottom = bottom
+        cachedTooltipRight = right
+    end
+end)
+
+GameTooltip:HookScript("OnHide", function()
+    cachedTooltipLeft = nil
+    cachedTooltipTop = nil
+    cachedTooltipBottom = nil
+    cachedTooltipRight = nil
+end)
+
+local function GetFramePosition(frame)
+    if not frame then return nil, nil, nil end
+
+    local left = frame:GetLeft()
+    local top = frame:GetTop()
+    local bottom = frame:GetBottom()
+
+    if canaccessvalue(left) and canaccessvalue(top) and canaccessvalue(bottom) then
+        return left, top, bottom
+    end
+    return nil, nil, nil
+end
+
 local function SetTranslationFrameHeightAndPosition(height, gameToolTipHeight)
-    TranslationTooltipFrame:SetHeight(height)
-    TranslationTooltipFrame:SetPoint("TOPLEFT", 0, elementWillBeAboveTop(TranslationTooltipFrame, GameTooltip) and -gameToolTipHeight - 5 or TranslationTooltipFrame:GetHeight() + 5)
+    translationTooltipFrameHeight = height
+    SafeSetFrameSize(TranslationTooltipFrame, nil, height)
+    TranslationTooltipFrame:ClearAllPoints()
+
+    local left, top, bottom
+
+    if lastTooltipSourceType == "inventory" and lastTooltipSourceFrame then
+        local srcLeft, srcTop, srcBottom = GetFramePosition(lastTooltipSourceFrame)
+        if srcLeft then
+            local srcWidth = lastTooltipSourceFrame:GetWidth()
+            if not canaccessvalue(srcWidth) then
+                srcWidth = 40
+            end
+            TranslationTooltipFrame:SetPoint("TOPLEFT", UIParent, "BOTTOMLEFT", srcLeft + srcWidth, srcTop)
+            return
+        end
+    elseif lastTooltipSourceType == "bag" and lastTooltipSourceFrame then
+        local srcLeft, srcTop, srcBottom = GetFramePosition(lastTooltipSourceFrame)
+        if srcLeft then
+            TranslationTooltipFrame:SetPoint("TOPRIGHT", UIParent, "BOTTOMLEFT", srcLeft, srcTop)
+            return
+        end
+    elseif lastTooltipSourceType == "actionitem" then
+        local screenWidth = GetScreenWidth()
+        TranslationTooltipFrame:SetPoint("BOTTOMRIGHT", UIParent, "BOTTOMLEFT", screenWidth - 10, gameToolTipHeight + height + 15)
+        return
+    end
+
+    left, top, bottom = GetFramePosition(GameTooltip)
+
+    if not left and cachedTooltipLeft and cachedTooltipTop and cachedTooltipBottom then
+        left = cachedTooltipLeft
+        top = cachedTooltipTop
+        bottom = cachedTooltipBottom
+    end
+
+    if not left then
+        local owner = GameTooltip:GetOwner()
+        if owner then
+            local ownerLeft, ownerTop, ownerBottom = GetFramePosition(owner)
+            if ownerLeft then
+                left = ownerLeft + (owner:GetWidth() or 0) + 5
+                top = ownerTop
+                bottom = ownerTop - gameToolTipHeight
+            end
+        end
+    end
+
+    if not left and lastTooltipSourceFrame then
+        local srcLeft, srcTop, srcBottom = GetFramePosition(lastTooltipSourceFrame)
+        if srcLeft then
+            local srcWidth = lastTooltipSourceFrame:GetWidth()
+            if not canaccessvalue(srcWidth) then
+                srcWidth = 40
+            end
+            left = srcLeft + srcWidth + 5
+            top = srcTop
+            bottom = srcTop - gameToolTipHeight
+        end
+    end
+
+    if not left then
+        local scale = UIParent:GetEffectiveScale()
+        local cursorX, cursorY = GetCursorPosition()
+        cursorX = cursorX / scale
+        cursorY = cursorY / scale
+
+        left = cursorX + 20
+        top = cursorY - 10
+        bottom = top - gameToolTipHeight
+    end
+
+    local screenHeight = GetScreenHeight()
+    local screenWidth = GetScreenWidth()
+
+    if left + translationTooltipFrameWidth > screenWidth then
+        left = screenWidth - translationTooltipFrameWidth - 5
+    end
+
+    if top + height + 5 > screenHeight then
+        TranslationTooltipFrame:SetPoint("TOPLEFT", UIParent, "BOTTOMLEFT", left, bottom - 5)
+    else
+        TranslationTooltipFrame:SetPoint("BOTTOMLEFT", UIParent, "BOTTOMLEFT", left, top + 5)
+    end
 end
 
 local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
     local gameToolTipWidth = GameTooltip:GetWidth()
     local gameToolTipHeight = GameTooltip:GetHeight()
+    local tooltipValuesAccessible = canaccessvalue(gameToolTipWidth) and canaccessvalue(gameToolTipHeight)
 
-    TranslationTooltipFrame:SetWidth(gameToolTipWidth)
+    if not tooltipValuesAccessible then
+        gameToolTipWidth = 300
+        gameToolTipHeight = 100
+    end
 
-    TranslationTooltipFrameHeader:SetWidth(TranslationTooltipFrame:GetWidth() - 17.5)
+    translationTooltipFrameWidth = gameToolTipWidth
+    SafeSetFrameSize(TranslationTooltipFrame, translationTooltipFrameWidth, nil)
+
+    TranslationTooltipFrameHeader:SetWidth(translationTooltipFrameWidth - 17.5)
     TranslationTooltipFrameHeader:Show()
     TranslationTooltipFrameHeader:SetPoint("TOPLEFT", 10, -10)
 
+    local r, g, b = GameTooltipTextLeft1:GetTextColor()
+
     if type == "npc" then
-        local r, g, b = GameTooltipTextLeft1:GetTextColor()
         TranslationTooltipFrameHeader:SetText(itemHeader)
         TranslationTooltipFrameHeader:SetTextColor(r,g,b)
-
-        local npcTitleTranslationWidth = TranslationTooltipFrameHeader:GetStringWidth()
-        local gameTooltipWidth = GameTooltip:GetWidth()
-
-        if npcTitleTranslationWidth + 20 > gameTooltipWidth then
-            TranslationTooltipFrame:SetWidth(npcTitleTranslationWidth + 20)
-            TranslationTooltipFrameHeader:SetWidth(TranslationTooltipFrame:GetWidth())
-
-            if TranslationTooltipFrameHeader:IsVisible() then
-                GameTooltip:SetWidth(TranslationTooltipFrame:GetWidth())
-            end
-        end
     else
         TranslationTooltipFrameHeader:SetText(SetColorForLine(itemHeader))
     end
@@ -319,7 +525,8 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
     end
 
     local existingLines = #activeItemSpellOrUnitLines
-    local totalFrameHeight = TranslationTooltipFrameHeader:GetHeight()
+    local headerHeight = TranslationTooltipFrameHeader:GetHeight()
+    local totalFrameHeight = canaccessvalue(headerHeight) and headerHeight or 14
     local newLines = 0
     local frameAdditionalHeight = 0
 
@@ -375,7 +582,7 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
                         -2.5 - frameAdditionalHeight
                     )
                     lineFontString:SetText(SetColorForLine(firstWord, spellColorLinePassed))
-                    lineFontString:SetWidth(TranslationTooltipFrame:GetWidth() / 2 - 10)
+                    lineFontString:SetWidth(translationTooltipFrameWidth / 2 - 10)
                     lineFontString:SetJustifyH("LEFT")
                     lineFontString:Show()
 
@@ -383,16 +590,18 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
                         "TOPLEFT",
                         parent,
                         "BOTTOMLEFT",
-                        TranslationTooltipFrame:GetWidth() / 2 - 7.5,
+                        translationTooltipFrameWidth / 2 - 7.5,
                         -2.5 - frameAdditionalHeight
                     )
                     secondFontString:SetText(SetColorForLine(secondWord, spellColorLinePassed))
-                    secondFontString:SetWidth(TranslationTooltipFrame:GetWidth() / 2 - 10)
+                    secondFontString:SetWidth(translationTooltipFrameWidth / 2 - 10)
                     secondFontString:SetJustifyH("RIGHT")
                     secondFontString:Show()
 
                     local heightOne = lineFontString:GetHeight()
                     local heightTwo = secondFontString:GetHeight()
+                    heightOne = canaccessvalue(heightOne) and heightOne or 12
+                    heightTwo = canaccessvalue(heightTwo) and heightTwo or 12
 
                     lineFontStringHeight = math.max(heightOne, heightTwo)
                     newLines = newLines + 2
@@ -405,12 +614,13 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
                 else
                     lineFontString:SetPoint("TOPLEFT", parent, "BOTTOMLEFT", 0, -2.5 - frameAdditionalHeight)
                     lineFontString:SetText(SetColorForLine(line, spellColorLinePassed))
-                    lineFontString:SetWidth(TranslationTooltipFrame:GetWidth() - 17.5)
+                    lineFontString:SetWidth(translationTooltipFrameWidth - 17.5)
                     lineFontString:SetNonSpaceWrap(true)
                     lineFontString:SetJustifyH("LEFT")
                     lineFontString:Show()
 
-                    lineFontStringHeight = lineFontString:GetHeight()
+                    local lfHeight = lineFontString:GetHeight()
+                    lineFontStringHeight = canaccessvalue(lfHeight) and lfHeight or 12
                     frameAdditionalHeight = 0
                     newLines = newLines + 1
                 end
@@ -444,9 +654,8 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
             return
         end
 
-        local frameWidth = TranslationTooltipFrame:GetWidth()
-        local singleWidth = frameWidth - 17.5
-        local doubleWidth = (frameWidth / 2) - 10
+        local singleWidth = translationTooltipFrameWidth - 17.5
+        local doubleWidth = (translationTooltipFrameWidth / 2) - 10
 
         for line in itemText:gmatch("[^\r\n]+") do
             if newLines >= existingLines then break end
@@ -464,6 +673,8 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
 
                 local heightOne = lineFontString:GetHeight()
                 local heightTwo = secondFontString:GetHeight()
+                heightOne = canaccessvalue(heightOne) and heightOne or 12
+                heightTwo = canaccessvalue(heightTwo) and heightTwo or 12
 
                 lineFontString:SetWidth(doubleWidth)
                 secondFontString:SetWidth(doubleWidth)
@@ -472,7 +683,8 @@ local function UpdateTranslationTooltipFrame(itemHeader, itemText, id, type)
                 lineFontStringHeight = math.max(heightOne, heightTwo)
             else
                 lineFontString:SetWidth(singleWidth)
-                lineFontStringHeight = lineFontString:GetHeight()
+                local lfh = lineFontString:GetHeight()
+                lineFontStringHeight = canaccessvalue(lfh) and lfh or 12
             end
 
             totalFrameHeight = totalFrameHeight + lineFontStringHeight + 2.5
@@ -516,6 +728,14 @@ local function OnTooltipSetData(self)
 
     local questID = owner.questID
     local unitGUID = UnitGUID("mouseover")
+
+    if issecretvalue(UnitGUID("mouseover")) then
+        unitGUID = nil
+    end
+
+    if questID then
+        return
+    end
 
     local itemTranslationsEnabled = MultiLanguageOptions["ITEM_TRANSLATIONS"]
     local spellTranslationsEnabled = MultiLanguageOptions["SPELL_TRANSLATIONS"]

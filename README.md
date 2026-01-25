@@ -3,6 +3,9 @@
 ## Description
 This addon aims to offer players the possibility to play the game in their preferred language while also having access to the texts in another language. It can offer players who don't have a certain language as their primary language some help communicating with other players while discussing items, quests, or NPCs. On the other hand, it might also be used to passively learn a new language when playing.
 
+### Midnight changes
+Due to breaking changes in the way data is accessible for addon developers the addon might function differently on retail from the way it did before. As an example, in instances the GameTooltip NPC information is no longer available for hostile NPCs, essentially removing the ability to show their translations.
+
 ## Download
 The [Curseforge Client](https://curseforge.overwolf.com/) can be used to find and download this addon once it has been listed. It can also be found on its [Curseforge page](https://www.curseforge.com/wow/addons/multilanguage).
 

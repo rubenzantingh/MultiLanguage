@@ -480,8 +480,6 @@ local function SetHotkeyButtonPressed(self, key, eventType)
 end
 
 local function OnTooltipSetData(self)
-    self:Show()
-
     local _, itemLink = self:GetItem()
     local _, spellID = self:GetSpell()
     local unitGUID = UnitGUID("mouseover")

@@ -1,5 +1,8 @@
 # MultiLanguage
 
+> [!IMPORTANT]
+> The data source (wowhead.com) is actively preventing scraping of the website. This means the addon can no longer receive database updates for the time being. Efforts will be made to keep the addon up to date with the latest UI changes. If an alternative data source can be found the database updates will resume.
+
 ## Description
 This addon aims to offer players the possibility to play the game in their preferred language while also having access to the texts in another language. It can offer players who don't have a certain language as their primary language some help communicating with other players while discussing items, quests, or NPCs. On the other hand, it might also be used to passively learn a new language when playing.
 

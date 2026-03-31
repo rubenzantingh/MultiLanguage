@@ -143,7 +143,8 @@ local function getDefaultOptions(optionsTranslations)
         SELECTED_INTERACTION = 'hover',
         AVAILABLE_INTERACTIONS = {
            {value = 'hover', text = optionsTranslations["interactionModes"]["hover"]},
-           {value = 'hover-hotkey', optionsTranslations["interactionModes"]["hoverHotkey"]}
+           {value = 'hover-hotkey', optionsTranslations["interactionModes"]["hoverHotkey"]},
+           {value = 'always', text = optionsTranslations["interactionModes"]["always"]}
         },
         SELECTED_HOTKEY = nil
    }

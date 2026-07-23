@@ -1,8 +1,8 @@
-## Interface: 120005
+## Interface: 120007
 ## Title: MultiLanguage
 ## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh
-## Version: 1.2.9
+## Version: 1.2.10
 ## SavedVariables: MultiLanguageOptions
 
 Database/Quests/quests.lua

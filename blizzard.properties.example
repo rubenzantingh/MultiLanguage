@@ -1,0 +1,14 @@
+# Credentials for Blizzard's Game Data API, used by Tools/blizzard_import.py.
+#
+# Create a client at https://develop.battle.net/access/clients -- it is free,
+# takes about a minute, and needs only a Battle.net account. Any redirect URL
+# will do; this script never uses one.
+#
+# Copy this file to blizzard.properties and fill in your own values. That file
+# is in .gitignore: keep the secret out of the repository.
+
+client_id=your_client_id_here
+client_secret=your_client_secret_here
+
+# eu or us. Both serve the same static data; pick whichever answers faster.
+region=eu

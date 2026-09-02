@@ -1,2 +1,5 @@
 .idea/
 .DS_Store
+# Credentials for Tools/blizzard_import.py. Never commit the real one.
+blizzard.properties
+__pycache__/

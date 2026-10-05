@@ -1,3 +1,4 @@
+local addonName, addonTable = ...
 local lastQuestFrameEvent = nil
 local macroSpellID = nil
 local translationFrame = CreateFrame("Frame")
@@ -169,21 +170,21 @@ local function GetItemIDFromLink(itemLink)
     return tonumber(itemID)
 end
 
-local function GetDataByID(dataVariable, dataId)
-    if not dataVariable then
-        return
+local function GetDataByID(dataType, dataId)
+    if not addonTable[dataType] then
+        return nil
     end
 
     languageCode = MultiLanguageOptions["SELECTED_LANGUAGE"]
 
-    if not dataVariable[languageCode] then
-        return
+    if not addonTable[dataType][languageCode] then
+        return nil
     end
 
     local convertedId = tonumber(dataId)
 
-    if dataVariable[languageCode][convertedId] then
-        return dataVariable[languageCode][convertedId]
+    if addonTable[dataType][languageCode][convertedId] then
+        return addonTable[dataType][languageCode][convertedId]
     end
 
     return nil
@@ -241,7 +242,7 @@ local function UpdateQuestTranslationFrame()
             return
         end
 
-        questData = GetDataByID(MultiLanguageQuestData, questID)
+        questData = GetDataByID("questData", questID)
 
         if not questData then
             QuestTranslationFrame:Hide()
@@ -275,7 +276,7 @@ local function UpdateQuestTranslationFrame()
             return
         end
 
-        questData = GetDataByID(MultiLanguageQuestData, questID)
+        questData = GetDataByID("questData", questID)
 
         if not questData then
             QuestTranslationFrame:Hide()
@@ -749,7 +750,7 @@ local function OnTooltipSetData(self)
             return
         end
 
-        local item = GetDataByID(MultiLanguageItemData, itemID)
+        local item = GetDataByID("itemData", itemID)
 
         if item then
             UpdateTranslationTooltipFrame(item.name, item.additional_info, itemID, "item")
@@ -760,9 +761,9 @@ local function OnTooltipSetData(self)
         local spell = nil
 
         if spellID then
-            spell = GetDataByID(MultiLanguageSpellData, spellID)
+            spell = GetDataByID("spellData", spellID)
         elseif macroSpellID then
-            spell = GetDataByID(MultiLanguageSpellData, macroSpellID)
+            spell = GetDataByID("spellData", macroSpellID)
         end
 
         if spell then
@@ -778,7 +779,7 @@ local function OnTooltipSetData(self)
                 return
             end
 
-            local npc = GetDataByID(MultiLanguageNpcData, npcID)
+            local npc = GetDataByID("npcData", npcID)
 
             if npc then
                 UpdateTranslationTooltipFrame(npc.name, npc.subname, npcID, "npc")
@@ -789,7 +790,7 @@ local function OnTooltipSetData(self)
             TranslationTooltipFrame:Hide()
         end
     elseif  questID and questTranslationsEnabled and QuestMapDetailsScrollFrame:IsMouseOver() then
-        local quest = GetDataByID(MultiLanguageQuestData, questID)
+        local quest = GetDataByID("questData", questID)
 
         if quest then
             UpdateTranslationTooltipFrame(quest.title, quest.objective, questID, "quest")

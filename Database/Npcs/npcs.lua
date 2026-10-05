@@ -1,2 +1,0 @@
-MultiLanguageNpcData = {}
-MultiLanguageNpcData['en'] = {}

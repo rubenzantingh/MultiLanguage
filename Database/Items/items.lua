@@ -1,2 +1,0 @@
-MultiLanguageItemData = {}
-MultiLanguageItemData['en'] = {}

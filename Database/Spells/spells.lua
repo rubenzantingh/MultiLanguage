@@ -1,2 +1,0 @@
-MultiLanguageSpellData = {}
-MultiLanguageSpellData['en'] = {}

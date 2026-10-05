@@ -1,8 +1,8 @@
-## Interface: 120100
+## Interface: 16001
 ## Title: MultiLanguage
 ## Notes: Tooltip displaying data in another language
 ## Author: Ruben Zantingh
-## Version: 1.2.12
+## Version: 0.0.1
 ## SavedVariables: MultiLanguageOptions
 
 Database/items.lua

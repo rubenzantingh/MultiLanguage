@@ -233,8 +233,9 @@ local function SetQuestDetails(headerText, objectiveText, descriptionHeader, des
     )
 end
 
-local function UpdateQuestTranslationFrame()
-    if QuestMapDetailsScrollFrame:IsShown() and QuestMapDetailsScrollFrame:IsMouseOver() then
+function UpdateQuestTranslationFrame()
+    local isAlways = MultiLanguageOptions and MultiLanguageOptions.SELECTED_INTERACTION == "always"
+    if QuestMapDetailsScrollFrame:IsShown() and (isAlways or QuestMapDetailsScrollFrame:IsMouseOver()) then
         local questID = C_QuestLog.GetSelectedQuest()
 
         if not questID then
@@ -268,7 +269,7 @@ local function UpdateQuestTranslationFrame()
         )
     end
 
-    if QuestFrame:IsShown() and QuestFrame:IsMouseOver() then
+    if QuestFrame:IsShown() and (isAlways or QuestFrame:IsMouseOver()) then
         local questID = GetQuestID()
 
         if not questID then
@@ -345,7 +346,9 @@ local function SetQuestHoverScripts(frame, children)
     end)
 
     frame:SetScript("OnLeave", function()
-        QuestTranslationFrame:Hide()
+        if not (MultiLanguageOptions and MultiLanguageOptions.SELECTED_INTERACTION == "always") then
+            QuestTranslationFrame:Hide()
+        end
         questFrameBeingHovered = false
     end)
 
@@ -823,3 +826,29 @@ translationFrame:SetPropagateKeyboardInput(true)
 SetQuestHoverScripts(QuestFrameDetailPanel, true)
 SetQuestHoverScripts(QuestMapDetailsScrollFrame, false)
 SetQuestHoverScripts(QuestFrame, false)
+
+-- "Always show" interaction mode: auto-update quest translations
+local alwaysModeFrame = CreateFrame("Frame")
+alwaysModeFrame:RegisterEvent("QUEST_LOG_UPDATE")
+alwaysModeFrame:SetScript("OnEvent", function()
+    if MultiLanguageOptions and MultiLanguageOptions.SELECTED_INTERACTION == "always"
+       and MultiLanguageOptions.QUEST_TRANSLATIONS
+       and QuestMapDetailsScrollFrame and QuestMapDetailsScrollFrame:IsShown() then
+        UpdateQuestTranslationFrame()
+    end
+end)
+
+QuestMapDetailsScrollFrame:HookScript("OnShow", function()
+    if MultiLanguageOptions and MultiLanguageOptions.SELECTED_INTERACTION == "always"
+       and MultiLanguageOptions.QUEST_TRANSLATIONS then
+        C_Timer.After(0.1, function()
+            UpdateQuestTranslationFrame()
+        end)
+    end
+end)
+
+QuestMapDetailsScrollFrame:HookScript("OnHide", function()
+    if MultiLanguageOptions and MultiLanguageOptions.SELECTED_INTERACTION == "always" then
+        QuestTranslationFrame:Hide()
+    end
+end)

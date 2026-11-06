@@ -36,7 +36,8 @@ local function addonLoaded(self, event, addonLoadedName)
                 },
                 interactionModes = {
                     hover = "Hover",
-                    ["hover-hotkey"] = "Hover + hotkey"
+                    ["hover-hotkey"] = "Hover + hotkey",
+                    always = "Always show"
                 }
             }
         }
@@ -73,7 +74,8 @@ local function addonLoaded(self, event, addonLoadedName)
                 },
                 interactionModes = {
                     hover = "Pasar el cursor",
-                    ["hover-hotkey"] = "Pasar el cursor + tecla de acceso rápido"
+                    ["hover-hotkey"] = "Pasar el cursor + tecla de acceso rápido",
+                    always = "Mostrar siempre"
                 }
             }
         }
@@ -109,7 +111,8 @@ local function addonLoaded(self, event, addonLoadedName)
                 },
                 interactionModes = {
                     hover = "Hover",
-                    ["hover-hotkey"] = "Hover + Hotkey"
+                    ["hover-hotkey"] = "Hover + Hotkey",
+                    always = "Immer anzeigen"
                 }
             }
         }
@@ -145,7 +148,8 @@ local function addonLoaded(self, event, addonLoadedName)
                 },
                 interactionModes = {
                     hover = "Survol",
-                    ["hover-hotkey"] = "Survol + raccourci clavier"
+                    ["hover-hotkey"] = "Survol + raccourci clavier",
+                    always = "Toujours afficher"
                 }
             }
         }
@@ -181,7 +185,8 @@ local function addonLoaded(self, event, addonLoadedName)
                 },
                 interactionModes = {
                     hover = "Passar o mouse",
-                    ["hover-hotkey"] = "Passar o mouse + atalho"
+                    ["hover-hotkey"] = "Passar o mouse + atalho",
+                    always = "Mostrar sempre"
                 }
             }
         }
@@ -217,7 +222,8 @@ local function addonLoaded(self, event, addonLoadedName)
                 },
                 interactionModes = {
                     hover = "Наведение",
-                    ["hover-hotkey"] = "Наведение + горячая клавиша"
+                    ["hover-hotkey"] = "Наведение + горячая клавиша",
+                    always = "Всегда показывать"
                 }
             }
         }
@@ -253,7 +259,8 @@ local function addonLoaded(self, event, addonLoadedName)
                 },
                 interactionModes = {
                     hover = "悬停",
-                    ["hover-hotkey"] = "悬停 + 快捷键"
+                    ["hover-hotkey"] = "悬停 + 快捷键",
+                    always = "始终显示"
                 }
             }
         }
@@ -289,7 +296,8 @@ local function addonLoaded(self, event, addonLoadedName)
                 },
                 interactionModes = {
                     hover = "마우스 오버",
-                    ["hover-hotkey"] = "마우스 오버 + 단축키"
+                    ["hover-hotkey"] = "마우스 오버 + 단축키",
+                    always = "항상 표시"
                 }
             }
         }
@@ -325,7 +333,8 @@ local function addonLoaded(self, event, addonLoadedName)
                 },
                 interactionModes = {
                     hover = "Sostener",
-                    ["hover-hotkey"] = "Sostener + tecla de acceso rápido"
+                    ["hover-hotkey"] = "Sostener + tecla de acceso rápido",
+                    always = "Mostrar siempre"
                 }
             }
         }
@@ -361,7 +370,8 @@ local function addonLoaded(self, event, addonLoadedName)
                 },
                 interactionModes = {
                     hover = "懸停",
-                    ["hover-hotkey"] = "懸停 + 快捷鍵"
+                    ["hover-hotkey"] = "懸停 + 快捷鍵",
+                    always = "始終顯示"
                 }
             }
         }

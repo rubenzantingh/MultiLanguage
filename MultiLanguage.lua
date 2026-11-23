@@ -169,6 +169,49 @@ local function GetItemIDFromLink(itemLink)
     return tonumber(itemID)
 end
 
+local resolvedRecords = setmetatable({}, { __mode = "k" })
+
+local function UnescapeText(text)
+    if not string.find(text, "&", 1, true) then
+        return text
+    end
+
+    text = string.gsub(text, "&lt;", "<")
+    text = string.gsub(text, "&gt;", ">")
+    text = string.gsub(text, "&amp;", "&")
+    return text
+end
+
+local function ResolvePlayerGender(text)
+    if not string.find(text, "<", 1, true) or not string.find(text, "/", 1, true) then
+        return text
+    end
+
+    -- UnitSex: 2 male, 3 female. Quest tags are <male/female>.
+    local female = UnitSex("player") == 3
+    return string.gsub(text, "<([^<>]-)/([^<>]-)>", function(male, femaleForm)
+        if female then
+            return femaleForm
+        end
+        return male
+    end)
+end
+
+function MultiLanguage_UnescapeRecord(record)
+    if type(record) ~= "table" or resolvedRecords[record] then
+        return record
+    end
+
+    for key, value in pairs(record) do
+        if type(value) == "string" then
+            record[key] = ResolvePlayerGender(UnescapeText(value))
+        end
+    end
+
+    resolvedRecords[record] = true
+    return record
+end
+
 local function GetDataByID(dataVariable, dataId)
     if not dataVariable then
         return
@@ -183,7 +226,7 @@ local function GetDataByID(dataVariable, dataId)
     local convertedId = tonumber(dataId)
 
     if dataVariable[languageCode][convertedId] then
-        return dataVariable[languageCode][convertedId]
+        return MultiLanguage_UnescapeRecord(dataVariable[languageCode][convertedId])
     end
 
     return nil
